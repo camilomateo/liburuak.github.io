@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Samuel Bjørk</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_161_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Samuel Bjørk" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authors_161_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Samuel Bjørk" />
+  <entry>
+    <title>El lobo</title>
+    <id>calibre:book:234</id>
+    <updated>2023-01-31T08:30:34Z</updated>
+    <link href="../../Samuel%20Bjork/El%20lobo%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Samuel%20Bjork/El%20lobo%20%28234%29/El%20lobo%20-%20Samuel%20Bjork.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <author>
+      <name>Samuel Bjørk</name>
+      <uri>../authors_0/authors_161_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="inspectores Krüger y Munch" />
+    <summary>inspectores Krüger y Munch: El esperado regreso del autor del best seller internacional Viajo sola con una impactante precuela  protagonizada por los inspectores Krüger y Munch. Un granjero descubre los cuerpos de dos niños de once años en un campo  ...</summary>
+    <link href="../book_0/book_234.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

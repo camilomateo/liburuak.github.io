@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jo Nesbø</title>
+  <id>Calibre2opds:authors:266</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jo Nesbø" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Todos los libros de Jo Nesbø</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 7 libros</content>
+    <link href="../authors_0/authors_266_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Harry Hole</title>
+    <id>Calibre2opds:authors:266series:126</id>
+    <content type="text">3 libros</content>
+    <link href="../authors_0/authors_266_series_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Harry Potter</title>
+    <id>Calibre2opds:authors:266series:127</id>
+    <content type="text">Cucarachas</content>
+    <link href="../authors_0/authors_266_series_127_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Sicarios de Oslo</title>
+    <id>Calibre2opds:authors:266series:210</id>
+    <content type="text">Sol de sangre</content>
+    <link href="../authors_0/authors_266_series_210_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Headhunters</title>
+    <id>calibre:book:372</id>
+    <updated>2023-03-03T08:31:26Z</updated>
+    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <author>
+      <name>Jo Nesbø</name>
+      <uri>../authors_0/authors_266_Page_1.xml</uri>
+    </author>
+    <published>2023-02-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Debolsillo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una vertiginosa novela independiente de Jo Nesbø, con todo el ritmo y la capacidad para sorprender de su serie Harry Hole.Roger Brown parece tenerlo todo. Gracias a su ambición y a su carisma ha conseguido ser líder como cazatalentos para empresas, c...</summary>
+    <link href="../book_0/book_372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El heredero</title>
+    <id>calibre:book:1731</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <author>
+      <name>Jo Nesbø</name>
+      <uri>../authors_0/authors_266_Page_1.xml</uri>
+    </author>
+    <published>2018-10-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una violenta historia de venganza ambientada en ambientes carcelarios y los bajos fondos de Oslo.Jo Nesbø aparca su aclamada serie «Harry Hole» para ofrecernos su mejor novela independiente hasta la fecha.Media vida en la cárcelLa carrera delictiva d...</summary>
+    <link href="../book_1/book_1731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

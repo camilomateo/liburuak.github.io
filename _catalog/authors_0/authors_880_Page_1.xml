@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Olivas</title>
+  <id>Calibre2opds:authors:880</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_880_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Olivas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>El susurro del ángel</title>
+    <id>calibre:book:1213</id>
+    <updated>2024-02-20T01:04:10Z</updated>
+    <link href="../../David%20Olivas/El%20susurro%20del%20angel%20%281213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Olivas/El%20susurro%20del%20angel%20%281213%29/El%20susurro%20del%20angel%20-%20David%20Olivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <author>
+      <name>David Olivas</name>
+      <uri>../authors_0/authors_880_Page_1.xml</uri>
+    </author>
+    <published>2022-04-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>A veces, iluminando la verdad se puede recuperar la fe en el amor. Y como la luz de un faro, el amor siempre gana a la oscuridad. Después de sorprender por su sensibilidad y empatía en El vuelo de la mariposa, David Olivas vuelve a emocionar con su n...</summary>
+    <link href="../book_1/book_1213.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

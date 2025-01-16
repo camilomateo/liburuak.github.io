@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Chema de Aquino</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_677_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Chema de Aquino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="./authors_677_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Chema de Aquino" />
+  <entry>
+    <title>El Mapa</title>
+    <id>calibre:book:902</id>
+    <updated>2023-06-26T05:25:16Z</updated>
+    <link href="../../Chema%20de%20Aquino/El%20Mapa%20%28902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chema%20de%20Aquino/El%20Mapa%20%28902%29/El%20Mapa%20-%20Chema%20de%20Aquino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="539 KB" />
+    <author>
+      <name>Chema de Aquino</name>
+      <uri>../authors_0/authors_677_Page_1.xml</uri>
+    </author>
+    <published>2023-06-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Costa" />
+    <summary>Costa [3]: Roma, 1998. El detective Costa necesita una noche tranquila, pero sus aspiraciones se truncan cuando un desconocido le obliga a aceptar un encargo especial: desenterrar un cuerpo del cementerio... de alguien que aún no ha muerto.Roma, 1988...</summary>
+    <link href="../book_0/book_902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los Secretos de Castillo</title>
+    <id>calibre:book:1681</id>
+    <updated>2024-07-22T06:30:41Z</updated>
+    <link href="../../Chema%20de%20Aquino/Los%20Secretos%20de%20Castillo%20%281681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chema%20de%20Aquino/Los%20Secretos%20de%20Castillo%20%281681%29/Los%20Secretos%20de%20Castillo%20-%20Chema%20de%20Aquino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="242 KB" />
+    <author>
+      <name>Chema de Aquino</name>
+      <uri>../authors_0/authors_677_Page_1.xml</uri>
+    </author>
+    <published>2024-07-02T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>"En 1990, en un edificio abandonado en mitad del campo, encontré a un anciano encadenado a una cama. Lo habían mantenido medio muerto durante veinticinco años, alimentándolo con la cantidad justa de agua y pan para no dejarlo morir del todo.Ahora que...</summary>
+    <link href="../book_1/book_1681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

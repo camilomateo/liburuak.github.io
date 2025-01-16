@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jorge Dotto</title>
+  <id>Calibre2opds:authors:1272</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1272_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jorge Dotto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>El ADN del placer</title>
+    <id>calibre:book:1772</id>
+    <updated>2024-08-26T10:56:11Z</updated>
+    <link href="../../Jorge%20Dotto/El%20ADN%20del%20placer%20%281772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Dotto/El%20ADN%20del%20placer%20%281772%29/El%20ADN%20del%20placer%20-%20Jorge%20Dotto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="860 KB" />
+    <author>
+      <name>Jorge Dotto</name>
+      <uri>../authors_1/authors_1272_Page_1.xml</uri>
+    </author>
+    <published>2020-06-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta - Argentina</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En este nuevo libro, Jorge Dotto, médico patólogo y genetista, autor también de Genética. Cómo puede cambiar nuestras vidas, nos explica de modo ameno y entretenido, de qué manera los genes participan en nuestras situaciones de placer, al tiempo que ...</summary>
+    <link href="../book_1/book_1772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de María Oruña</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_12_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de María Oruña" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="./authors_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="María Oruña" />
+  <entry>
+    <title>El bosque de los cuatro vientos</title>
+    <id>calibre:book:92</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/El%20bosque%20de%20los%20cuatro%20vientos%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2020-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>A comienzos del siglo XIX, el doctor Vallejo viaja de Valladolid a Galicia junto con su hija Marina para servir como médico en un poderoso monasterio de Ourense. Allí descubrirán unas costumbres muy particulares y vivirán la caída de la Iglesia. Mari...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Donde fuimos invencibles</title>
+    <id>calibre:book:777</id>
+    <updated>2023-05-25T01:32:58Z</updated>
+    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/Donde%20fuimos%20invencibles%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2018-04-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los libros de puerto escondido" />
+    <summary>Los libros de puerto escondido [1]: El verano está terminando y la teniente Valentina Redondo está contando los días para empezar sus vacaciones. Pero algo insólito sucede en el centro mismo del pueblo costero de Suances: el jardinero del antiguo Pal...</summary>
+    <link href="../book_0/book_777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un lugar a donde ir</title>
+    <id>calibre:book:598</id>
+    <updated>2023-05-02T01:40:22Z</updated>
+    <link href="../../Maria%20Oruna/Un%20lugar%20a%20donde%20ir%20%28598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/Un%20lugar%20a%20donde%20ir%20%28598%29/Un%20lugar%20a%20donde%20ir%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="656 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2017-01-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA SEGUNDA NOVELA DE LA SERIE «Los libros del Puerto Escondido» Más de 400.000 lectores Después del éxito de Puerto escondido, vuelve una de las voces del noir más reveladoras de los últimos tiempos. Una intriga donde se mezcla la investigación crim...</summary>
+    <link href="../book_0/book_598.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Puerto escondido</title>
+    <id>calibre:book:14</id>
+    <updated>2023-01-17T10:10:00Z</updated>
+    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/Puerto%20escondido%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2015-07-20T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los libros de puerto escondido" />
+    <summary>Los libros de puerto escondido [1]: Oliver, un joven londinense con una peculiar situación familiar y una triste pérdida, hereda una casona colonial, Villa Marina, a pie de playa en el pueblecito costero de Suances, en Cantabria. En las obras de remo...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

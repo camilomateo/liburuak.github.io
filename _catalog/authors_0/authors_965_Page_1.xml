@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Toni Sala</title>
+  <id>Calibre2opds:authors:965</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_965_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Toni Sala" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Persecución</title>
+    <id>calibre:book:1324</id>
+    <updated>2024-03-21T01:00:29Z</updated>
+    <link href="../../Toni%20Sala/Persecucion%20%281324%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toni%20Sala/Persecucion%20%281324%29/Persecucion%20-%20Toni%20Sala.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Toni Sala</name>
+      <uri>../authors_0/authors_965_Page_1.xml</uri>
+    </author>
+    <published>2023-01-12T10:07:53Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Trotalibros Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Albert Jordi y Èlia llevan un año saliendo cuando de repente, una noche, él le confiesa que estuvo en la cárcel por haber matado a su mujer con un cuchillo. Èlia lo echa de casa de inmediato, pero las preguntas y las dudas no tardan en atormentarla: ...</summary>
+    <link href="../book_1/book_1324.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

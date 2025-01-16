@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lerryns Hernández</title>
+  <id>Calibre2opds:authors:983</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_983_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lerryns Hernández" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>El canto de las cigarras</title>
+    <id>calibre:book:1343</id>
+    <updated>2024-03-21T01:00:33Z</updated>
+    <link href="../../Lerryns%20Hernandez/El%20canto%20de%20las%20cigarras%20%281343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lerryns%20Hernandez/El%20canto%20de%20las%20cigarras%20%281343%29/El%20canto%20de%20las%20cigarras%20-%20Lerryns%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="191 KB" />
+    <author>
+      <name>Lerryns Hernández</name>
+      <uri>../authors_0/authors_983_Page_1.xml</uri>
+    </author>
+    <published>2024-03-07T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Alfonso resiste. Es lo que ha hecho toda su vida. A duras penas soporta la ciudad en la que vive con sus servicios públicos colapsados desde hace décadas por obra y gracia de un estado delincuente al cual odia tan solo un poquito más que a la gente. ...</summary>
+    <link href="../book_1/book_1343.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

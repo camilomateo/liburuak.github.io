@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gabriel García Márquez</title>
+  <id>Calibre2opds:authors:643</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_643_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gabriel García Márquez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>En agosto nos vemos</title>
+    <id>calibre:book:2681</id>
+    <updated>2024-10-22T08:11:22Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/En%20agosto%20nos%20vemos%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../authors_0/authors_643_Page_1.xml</uri>
+    </author>
+    <published>2024-03-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Cada mes de agosto Ana Magdalena Bach toma el transbordador hasta la isla donde está enterrada su madre para visitar la tumba en la que yace. Esas visitas acaban suponiendo una irresistible invitación a convertirse en una persona distinta durante una...</summary>
+    <link href="../book_2/book_2681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vivir para contarla</title>
+    <id>calibre:book:858</id>
+    <updated>2023-06-12T02:04:18Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/Vivir%20para%20contarla%20%28858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/Vivir%20para%20contarla%20%28858%29/Vivir%20para%20contarla%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../authors_0/authors_643_Page_1.xml</uri>
+    </author>
+    <published>2002-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literatura Random House</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Vivir para contarla es la novela de una vida y, a lo largo de sus páginas el lector de García Márquez descubrirá ecos de personajes e historias que han poblado sus inolvidables novelas como Cien años de soledad o El amor en los tiempos del cólera. Ad...</summary>
+    <link href="../book_0/book_858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

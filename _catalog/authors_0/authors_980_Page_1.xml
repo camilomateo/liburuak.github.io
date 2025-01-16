@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vicente Vallés</title>
+  <id>Calibre2opds:authors:980</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_980_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Vicente Vallés" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>El rastro de los rusos muertos</title>
+    <id>calibre:book:1339</id>
+    <updated>2024-03-21T01:00:32Z</updated>
+    <link href="../../Vicente%20Valles/El%20rastro%20de%20los%20rusos%20muertos%20%281339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vicente%20Valles/El%20rastro%20de%20los%20rusos%20muertos%20%281339%29/El%20rastro%20de%20los%20rusos%20muertos%20-%20Vicente%20Valles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="364 KB" />
+    <author>
+      <name>Vicente Vallés</name>
+      <uri>../authors_0/authors_980_Page_1.xml</uri>
+    </author>
+    <published>2019-01-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias sociales" />
+    <category term="Lang:es" />
+    <summary>A través de una intrigante cadena de asesinatos y muertes inexplicadas de espías y diplomáticos rusos por todo el mundo, Vicente Vallés nos sumerge en un relato tan trepidante como real. ¿Intenta Rusia desestabilizar y provocar situaciones de crisis ...</summary>
+    <link href="../book_1/book_1339.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

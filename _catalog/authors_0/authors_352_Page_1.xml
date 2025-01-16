@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fred Uhlman</title>
+  <id>Calibre2opds:authors:352</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_352_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fred Uhlman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <entry>
+    <title>Reencuentro y Un alma valerosa</title>
+    <id>calibre:book:469</id>
+    <updated>2023-03-24T09:44:14Z</updated>
+    <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/Reencuentro%20y%20Un%20alma%20valerosa%20-%20Fred%20Uhlman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+    <author>
+      <name>Fred Uhlman</name>
+      <uri>../authors_0/authors_352_Page_1.xml</uri>
+    </author>
+    <published>2016-11-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Reencuentro, un clásico contemporáneo de Tusquets Editores que pronto se convirtió en best-seller, narra la intensa amistad, en la Alemania de 1932, que surge entre dos jóvenes de dieciséis años –Hans Schwarz, nacido en una familia judía, y Konradin ...</summary>
+    <link href="../book_0/book_469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

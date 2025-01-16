@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Brené Brown</title>
+  <id>Calibre2opds:authors:1343</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1343_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Brené Brown" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Los dones de la imperfección</title>
+    <id>calibre:book:1887</id>
+    <updated>2024-09-03T09:33:51Z</updated>
+    <link href="../../Brene%20Brown/Los%20dones%20de%20la%20imperfeccion%20%281887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brene%20Brown/Los%20dones%20de%20la%20imperfeccion%20%281887%29/Los%20dones%20de%20la%20imperfeccion%20-%20Brene%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="661 KB" />
+    <author>
+      <name>Brené Brown</name>
+      <uri>../authors_1/authors_1343_Page_1.xml</uri>
+    </author>
+    <published>2014-10-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial USA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¡No te pierdas el especial de Netflix de una hora, Brené Brown: The Call to Courage!   Cuando nuestras vergüenzas y temores mienten, a menudo los escuchamos de todos modos. Frustran nuestra gratitud, aceptación y compasión, nuestra bondad. Ellos insi...</summary>
+    <link href="../book_1/book_1887.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

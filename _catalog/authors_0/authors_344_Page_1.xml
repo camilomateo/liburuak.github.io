@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Doireann Ní Ghríofa</title>
+  <id>Calibre2opds:authors:344</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_344_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Doireann Ní Ghríofa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Un fantasma en la garganta</title>
+    <id>calibre:book:459</id>
+    <updated>2023-03-23T10:15:38Z</updated>
+    <link href="../../Doireann%20Ni%20Ghriofa/Un%20fantasma%20en%20la%20garganta%20%28459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Doireann%20Ni%20Ghriofa/Un%20fantasma%20en%20la%20garganta%20%28459%29/Un%20fantasma%20en%20la%20garganta%20-%20Doireann%20Ni%20Ghriofa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>Doireann Ní Ghríofa</name>
+      <uri>../authors_0/authors_344_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

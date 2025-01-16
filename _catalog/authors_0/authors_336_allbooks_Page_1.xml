@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Sarah Pearse</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_336_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Sarah Pearse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_336_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sarah Pearse" />
+  <entry>
+    <title>El sanatorio</title>
+    <id>calibre:book:1297</id>
+    <updated>2024-03-15T09:02:28Z</updated>
+    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/El%20sanatorio%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="676 KB" />
+    <author>
+      <name>Sarah Pearse</name>
+      <uri>../authors_0/authors_336_Page_1.xml</uri>
+    </author>
+    <published>2021-04-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>No querrás marcharte… hasta que ya no puedas hacerlo. La policía Elin Warner recibe una invitación de su hermano, Isaac, con el que hace años que no habla, para asistir a la celebración de su compromiso en un hotel aislado en los Alpes suizos. En med...</summary>
+    <link href="../book_1/book_1297.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El retiro</title>
+    <id>calibre:book:451</id>
+    <updated>2023-03-23T11:00:42Z</updated>
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <author>
+      <name>Sarah Pearse</name>
+      <uri>../authors_0/authors_336_Page_1.xml</uri>
+    </author>
+    <published>2023-03-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Elin Warner" />
+    <summary>Elin Warner [2]: Vienen a disfrutar de unas vacaciones, pero alguien busca venganza…En la isla inglesa de Reaper's Rock se acaba de abrir un retiro de bienestar que promete descanso y relax a todos sus huéspedes, pero se rumorea que la isla está mald...</summary>
+    <link href="../book_0/book_451.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

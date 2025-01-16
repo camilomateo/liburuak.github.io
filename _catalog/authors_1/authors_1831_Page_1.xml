@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Armin Öhri</title>
+  <id>Calibre2opds:authors:1831</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1831_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Armin Öhri" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>La dama en la sombra</title>
+    <id>calibre:book:2800</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Armin%20Ohri/La%20dama%20en%20la%20sombra%20%282800%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Armin%20Ohri/La%20dama%20en%20la%20sombra%20%282800%29/La%20dama%20en%20la%20sombra%20-%20Armin%20Ohri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <author>
+      <name>Armin Öhri</name>
+      <uri>../authors_1/authors_1831_Page_1.xml</uri>
+    </author>
+    <published>2024-11-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>En plena guerra austro-prusiana, el detective aficionado Julius Bentheim y su joven amigo Albrecht Krosick intentan sobrevivir en el campo de batalla hasta que son reclutados por el comisario Gideon Horlitz. Unas valiosas joyas pertenecientes al Impe...</summary>
+    <link href="../book_2/book_2800.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

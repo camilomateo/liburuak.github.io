@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Silvia Moreno-Garcia</title>
+  <id>Calibre2opds:authors:242</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_242_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Silvia Moreno-Garcia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Ciertas cosas oscuras</title>
+    <id>calibre:book:346</id>
+    <updated>2023-02-21T01:25:02Z</updated>
+    <link href="../../Silvia%20Moreno-Garcia/Ciertas%20cosas%20oscuras%20%28346%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Silvia%20Moreno-Garcia/Ciertas%20cosas%20oscuras%20%28346%29/Ciertas%20cosas%20oscuras%20-%20Silvia%20Moreno-Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <author>
+      <name>Silvia Moreno-Garcia</name>
+      <uri>../authors_0/authors_242_Page_1.xml</uri>
+    </author>
+    <published>2022-11-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <summary>Bienvenidos a Ciudad de México, un oasis en un mar de vampiros. Domingo, un solitario recolector de basura que vive en la calle, trata de sobrevivir en una ciudad indiferente y amenazadora cuando una hastiada vampiresa a la fuga aparece en su vida. A...</summary>
+    <link href="../book_0/book_346.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Crímenes de Madrid</title>
+  <id>Calibre2opds:authors:31series:9</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_31_series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Crímenes de Madrid" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="./authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mario Escobar" />
+  <entry>
+    <title>3 - El intermediario</title>
+    <id>calibre:book:342</id>
+    <updated>2023-02-21T01:22:06Z</updated>
+    <link href="../../Mario%20Escobar/El%20intermediario%20%28342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20intermediario%20%28342%29/El%20intermediario%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2022-10-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid" />
+    <summary>Crímenes de Madrid [3]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
+    <link href="../book_0/book_342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - El ángel de la muerte</title>
+    <id>calibre:book:39</id>
+    <updated>2023-01-17T10:23:16Z</updated>
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/El%20angel%20de%20la%20muerte%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2022-12-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid" />
+    <summary>Crímenes de Madrid [4]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Jaque al Rey</title>
+    <id>calibre:book:742</id>
+    <updated>2023-05-22T04:39:26Z</updated>
+    <link href="../../Mario%20Escobar/Jaque%20al%20Rey%20%28742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Jaque%20al%20Rey%20%28742%29/Jaque%20al%20Rey%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="767 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2023-02-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid" />
+    <summary>Crímenes de Madrid [5]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
+    <link href="../book_0/book_742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

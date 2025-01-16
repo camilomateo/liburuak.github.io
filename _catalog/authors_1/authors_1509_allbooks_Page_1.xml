@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Pedro Antonio de Alarcón</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1509_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Pedro Antonio de Alarcón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="./authors_1509_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pedro Antonio de Alarcón" />
+  <entry>
+    <title>El Capitán Veneno</title>
+    <id>calibre:book:2129</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Capitan%20Veneno%20%282129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Capitan%20Veneno%20%282129%29/El%20Capitan%20Veneno%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="497 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El clavo</title>
+    <id>calibre:book:2131</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/El%20clavo%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Niño de la Bola</title>
+    <id>calibre:book:2127</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/El%20Nino%20de%20la%20Bola%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sombrero de tres picos</title>
+    <id>calibre:book:2197</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20sombrero%20de%20tres%20picos%20%282197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20sombrero%20de%20tres%20picos%20%282197%29/El%20sombrero%20de%20tres%20picos%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="150 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [7]:</summary>
+    <link href="../book_2/book_2197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Viajes por España</title>
+    <id>calibre:book:2125</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/Viajes%20por%20Espana%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spain" />
+    <category term="--" />
+    <category term="Description" />
+    <category term="and" />
+    <category term="travel" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="customs" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

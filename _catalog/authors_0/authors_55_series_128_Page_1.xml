@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Todo arde</title>
+  <id>Calibre2opds:authors:55series:128</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_55_series_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Todo arde" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan Gómez-Jurado" />
+  <entry>
+    <title>2 - Todo vuelve</title>
+    <id>calibre:book:1047</id>
+    <updated>2023-11-01T07:30:37Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/Todo%20vuelve%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Todo arde" />
+    <summary>Todo arde [2]: Un plan imposible.
+Todo lo que Aura Reyes necesita es continuar con vida diez minutos más.
+No es tarea fácil.
+Las otras son cuatro, son más fuertes y ella -una figura acorralada en el patio de la cárcel- nunca ha sabido defenderse dema...</summary>
+    <link href="../book_1/book_1047.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Todo muere</title>
+    <id>calibre:book:2703</id>
+    <updated>2024-11-07T00:45:05Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2024-11-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Todo arde" />
+    <summary>Todo arde [3]: LA ESPERA HA TERMINADOSe cierra el círculo del Universo Reina Roja.«Ni en un millón de años podrías imaginarte un desenlace como este».ZendaVuelve el autor más leído en lengua española.EL MAYOR UNIVERSO DE THRILLER JAMÁS ESCRITONota de...</summary>
+    <link href="../book_2/book_2703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

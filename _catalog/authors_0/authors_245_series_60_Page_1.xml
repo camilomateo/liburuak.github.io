@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Muerte en Santa Rita</title>
+  <id>Calibre2opds:authors:245series:60</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_245_series_60_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Muerte en Santa Rita" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authors_245_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Elia Barceló" />
+  <entry>
+    <title>2 - Amores que matan</title>
+    <id>calibre:book:491</id>
+    <updated>2023-04-01T02:01:56Z</updated>
+    <link href="../../Elia%20Barcelo/Amores%20que%20matan%20%28491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elia%20Barcelo/Amores%20que%20matan%20%28491%29/Amores%20que%20matan%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <author>
+      <name>Elia Barceló</name>
+      <uri>../authors_0/authors_245_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Muerte en Santa Rita" />
+    <summary>Muerte en Santa Rita [2]: HAY UN LUGAR DONDE DUERMEN ANTIGUOS SECRETOS OLVIDADOS: SECRETOS DE AMOR Y MUERTE, DE SANGRE Y HUESOS. BIENVENIDOS A SANTA RITA. Los habitantes de Santa Rita, con sus problemas e historias, y dos cadáveres – uno, un bebé cuy...</summary>
+    <link href="../book_0/book_491.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - La soga de cristal</title>
+    <id>calibre:book:1438</id>
+    <updated>2024-04-20T05:13:31Z</updated>
+    <link href="../../Elia%20Barcelo/La%20soga%20de%20cristal%20%281438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elia%20Barcelo/La%20soga%20de%20cristal%20%281438%29/La%20soga%20de%20cristal%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="581 KB" />
+    <author>
+      <name>Elia Barceló</name>
+      <uri>../authors_0/authors_245_Page_1.xml</uri>
+    </author>
+    <published>2024-04-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <category term="Muerte en Santa Rita" />
+    <summary>Muerte en Santa Rita [3]: Elia Barceló regresa con la esperada tercera entrega de la serie de Santa Rita, un noir mediterráneo lleno de luz. Bienvenidos a Santa Rita. Feliz día de Difuntos. Una pesadilla. Una tumba. Una desaparición. Secretos olvidad...</summary>
+    <link href="../book_1/book_1438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

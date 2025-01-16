@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nazareth Castellanos</title>
+  <id>Calibre2opds:authors:850</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_850_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nazareth Castellanos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Neurociencia del cuerpo</title>
+    <id>calibre:book:1166</id>
+    <updated>2024-01-25T08:39:52Z</updated>
+    <link href="../../Nazareth%20Castellanos/Neurociencia%20del%20cuerpo%20%281166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nazareth%20Castellanos/Neurociencia%20del%20cuerpo%20%281166%29/Neurociencia%20del%20cuerpo%20-%20Nazareth%20Castellanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <author>
+      <name>Nazareth Castellanos</name>
+      <uri>../authors_0/authors_850_Page_1.xml</uri>
+    </author>
+    <published>2022-09-25T08:23:05Z</published>
+    <dcterms:publisher>Editorial Kairós, S.A.</dcterms:publisher>
+    <summary>La neurociencia vive hoy inmersa en una revolución con fuertes implicaciones clínicas, sociales y personales. El redescubrimiento de la influencia de los órganos del cuerpo sobre el cerebro nos traslada a una visión integral de la percepción. En este...</summary>
+    <link href="../book_1/book_1166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

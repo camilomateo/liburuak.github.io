@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ilaria Tuti</title>
+  <id>Calibre2opds:authors:759</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_759_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ilaria Tuti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Flores sobre el infierno</title>
+    <id>calibre:book:1146</id>
+    <updated>2024-01-16T06:00:20Z</updated>
+    <link href="../../Ilaria%20Tuti/Flores%20sobre%20el%20infierno%20%281146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ilaria%20Tuti/Flores%20sobre%20el%20infierno%20%281146%29/Flores%20sobre%20el%20infierno%20-%20Ilaria%20Tuti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <author>
+      <name>Ilaria Tuti</name>
+      <uri>../authors_0/authors_759_Page_1.xml</uri>
+    </author>
+    <published>2019-01-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras Dicker, D'Andrea y Lemaitre, Alfaguara Negra presenta el debut del año: Flores sobre el infierno de Ilaria Tuti, el thriller tiene nombre de mujer.El primer cadáver es el de un hombre desnudo, con la cara desfigurada y los ojos arrancados. Algo...</summary>
+    <link href="../book_1/book_1146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hija de las cenizas</title>
+    <id>calibre:book:1029</id>
+    <updated>2023-10-20T10:25:39Z</updated>
+    <link href="../../Ilaria%20Tuti/Hija%20de%20las%20cenizas%20%281029%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ilaria%20Tuti/Hija%20de%20las%20cenizas%20%281029%29/Hija%20de%20las%20cenizas%20-%20Ilaria%20Tuti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <author>
+      <name>Ilaria Tuti</name>
+      <uri>../authors_0/authors_759_Page_1.xml</uri>
+    </author>
+    <published>2023-09-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un asesino en serie, detenido por la comisaria Battaglia hace veintisiete años, consigue escapar del módulo de alta seguridad de la cárcel en la que está preso. Sin embargo, tras diez días de fuga, él mismo se vuelve a entregar a la policía porque te...</summary>
+    <link href="../book_1/book_1029.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

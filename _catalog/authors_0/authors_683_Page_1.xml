@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sandrone Dazieri</title>
+  <id>Calibre2opds:authors:683</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_683_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sandrone Dazieri" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Todos los libros de Sandrone Dazieri</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_683_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Colomba y Dante</title>
+    <id>Calibre2opds:authors:683series:141</id>
+    <content type="text">No está solo, El Ángel</content>
+    <link href="../authors_0/authors_683_series_141_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>No huyas</title>
+    <id>calibre:book:910</id>
+    <updated>2023-06-26T05:25:30Z</updated>
+    <link href="../../Sandrone%20Dazieri/No%20huyas%20%28910%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandrone%20Dazieri/No%20huyas%20%28910%29/No%20huyas%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="700 KB" />
+    <author>
+      <name>Sandrone Dazieri</name>
+      <uri>../authors_0/authors_683_Page_1.xml</uri>
+    </author>
+    <published>2023-05-16T06:00:00Z</published>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <summary>«Dazieri sigue los pasos de Larsson y de Stephen King».Kirkus «Un thriller que juega conla debilidad de las fronteras morales [...], quinientas páginas vertiginosas».Corrieredella SeraAl regresar del instituto, Amala Cavalcante percibe que un hombre...</summary>
+    <link href="../book_0/book_910.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

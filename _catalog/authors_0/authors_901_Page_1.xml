@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Guadalupe Nettel</title>
+  <id>Calibre2opds:authors:901</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_901_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Guadalupe Nettel" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>La hija única</title>
+    <id>calibre:book:1238</id>
+    <updated>2024-02-23T08:42:58Z</updated>
+    <link href="../../Guadalupe%20Nettel/La%20hija%20unica%20%281238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Guadalupe%20Nettel/La%20hija%20unica%20%281238%29/La%20hija%20unica%20-%20Guadalupe%20Nettel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <author>
+      <name>Guadalupe Nettel</name>
+      <uri>../authors_0/authors_901_Page_1.xml</uri>
+    </author>
+    <published>2020-09-15T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tres mujeres enfrentadas a la maternidad. Tres maneras de afrontarla. Una intensa y deslumbrante novela sobre la familia en el mundo actual.Poco después de cumplir los ocho meses de embarazo, a Alina le anuncian que su hija no podrá sobrevivir al nac...</summary>
+    <link href="../book_1/book_1238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

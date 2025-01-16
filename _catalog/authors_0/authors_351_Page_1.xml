@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Quentin Tarantino</title>
+  <id>Calibre2opds:authors:351</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_351_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Quentin Tarantino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Meditaciones de cine</title>
+    <id>calibre:book:468</id>
+    <updated>2023-03-24T09:44:14Z</updated>
+    <link href="../../Quentin%20Tarantino/Meditaciones%20de%20cine%20%28468%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Quentin%20Tarantino/Meditaciones%20de%20cine%20%28468%29/Meditaciones%20de%20cine%20-%20Quentin%20Tarantino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Quentin Tarantino</name>
+      <uri>../authors_0/authors_351_Page_1.xml</uri>
+    </author>
+    <published>2023-03-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Llega el esperado y ansiado primer libro de no ficción de Quentin Tarantino.Su libro más personal: un viaje íntimo por sus películas favoritas, relatado con una voz inconfundible.Probablemente, Quentin Tarantino sea uno de los mayores cineastas de la...</summary>
+    <link href="../book_0/book_468.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

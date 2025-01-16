@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Jesús Pérez Navarro</title>
+  <id>Calibre2opds:authors:846</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_846_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Jesús Pérez Navarro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El sufrimiento de las cigarras</title>
+    <id>calibre:book:1160</id>
+    <updated>2024-01-25T08:39:51Z</updated>
+    <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/El%20sufrimiento%20de%20las%20cigarras%20-%20Maria%20Jesus%20Perez%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+    <author>
+      <name>María Jesús Pérez Navarro</name>
+      <uri>../authors_0/authors_846_Page_1.xml</uri>
+    </author>
+    <published>2019-09-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CALIGRAMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Novela galardonada con el segundo premio en el I Certamen de Novela Casino de Monóvar.Misterio, amor y sufrimiento en una novela ambientada en La Manga y Cartagena.1999. Macarena Montiel desaparece de forma repe...</summary>
+    <link href="../book_1/book_1160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

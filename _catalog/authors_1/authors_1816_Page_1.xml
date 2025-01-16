@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luis Maura</title>
+  <id>Calibre2opds:authors:1816</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1816_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Luis Maura" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Payaso</title>
+    <id>calibre:book:2778</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Luis%20Maura/Payaso%20%282778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Maura/Payaso%20%282778%29/Payaso%20-%20Luis%20Maura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="287 KB" />
+    <author>
+      <name>Luis Maura</name>
+      <uri>../authors_1/authors_1816_Page_1.xml</uri>
+    </author>
+    <published>2024-11-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Dos Bigotes</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Miki es un actor disfrazado de payaso que huye de la policía en un centro comercial. Acumula castings fallidos y fracasos amorosos, mientras malvive en una diminuta buhardilla. Lo que nadie sabe es que Miki esconde en su nevera un terrible secreto qu...</summary>
+    <link href="../book_2/book_2778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

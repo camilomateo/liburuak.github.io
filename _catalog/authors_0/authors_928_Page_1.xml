@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Chris Carter</title>
+  <id>Calibre2opds:authors:928</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_928_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Chris Carter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>La galería de los muertos</title>
+    <id>calibre:book:1269</id>
+    <updated>2024-03-07T06:24:53Z</updated>
+    <link href="../../Chris%20Carter/La%20galeria%20de%20los%20muertos%20%281269%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chris%20Carter/La%20galeria%20de%20los%20muertos%20%281269%29/La%20galeria%20de%20los%20muertos%20-%20Chris%20Carter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="504 KB" />
+    <author>
+      <name>Chris Carter</name>
+      <uri>../authors_0/authors_928_Page_1.xml</uri>
+    </author>
+    <published>2024-03-06T11:41:08Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Treinta y un años en el cuerpo, y en todos estos años he visto mucha más locura de la cuota que me corresponde, pero si antes de morir se me permitiera elegir tan solo una cosa que pudiera borrar de mi mente… sin duda, elegiría borrar lo que he vist...</summary>
+    <link href="../book_1/book_1269.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Pérez Heredia</title>
+  <id>Calibre2opds:authors:753</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_753_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Pérez Heredia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Pirineo Noir</title>
+    <id>calibre:book:1021</id>
+    <updated>2023-09-14T09:44:34Z</updated>
+    <link href="../../Maria%20Perez%20Heredia/Pirineo%20Noir%20%281021%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Perez%20Heredia/Pirineo%20Noir%20%281021%29/Pirineo%20Noir%20-%20Maria%20Perez%20Heredia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="564 KB" />
+    <author>
+      <name>María Pérez Heredia</name>
+      <uri>../authors_0/authors_753_Page_1.xml</uri>
+    </author>
+    <published>2023-08-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller literario ambientado en el Pirineo aragonés, en la estela de Gillian Flynn, Joyce Carol Oates y Virginia Feito, por «una de las promesas de la literatura española» (Vice). «Una voz nueva, turbadora y profundamente original en el panorama ...</summary>
+    <link href="../book_1/book_1021.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

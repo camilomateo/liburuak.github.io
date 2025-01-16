@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por C</title>
+  <id>Calibre2opds:allbooks:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
+  <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 13)" />
+  <entry>
+    <title>Crisanta</title>
+    <id>calibre:book:520</id>
+    <updated>2023-04-05T00:40:04Z</updated>
+    <link href="../../Juan%20Ramon%20Biedma/Crisanta%20%28520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Ramon%20Biedma/Crisanta%20%28520%29/Crisanta%20-%20Juan%20Ramon%20Biedma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <author>
+      <name>Juan Ramón Biedma</name>
+      <uri>../authors_0/authors_385_Page_1.xml</uri>
+    </author>
+    <published>2023-01-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Sevilla, octubre de 1936. Crisanta recibe un encargo peligroso. Ha desaparecido, en medio de los pillajes, un tríptico del siglo XVI de Jan Van Eyck. Si lo localiza y lo entrega, la ayudarán a salir del país. Sabe que no hay sitio para ella en la Esp...</summary>
+    <link href="../book_0/book_520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crisis (de ansiedad)</title>
+    <id>calibre:book:1200</id>
+    <updated>2024-02-05T06:03:56Z</updated>
+    <link href="../../Juanjo%20Saez/Crisis%20%28de%20ansiedad%29%20%281200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juanjo%20Saez/Crisis%20%28de%20ansiedad%29%20%281200%29/Crisis%20%28de%20ansiedad%29%20-%20Juanjo%20Saez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="37 MB" />
+    <author>
+      <name>Juanjo Sáez</name>
+      <uri>../authors_0/authors_870_Page_1.xml</uri>
+    </author>
+    <published>2013-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Con Crisis (de ansiedad) vuelve el Juanjo Sáez más trasgresor y políticamente incorrecto. Derecho a la vivienda (de cartón), obreros «reformados» porque finalmente se han arrodillado, finales de túneles iluminados tenuemente por el brillo de los ojos...</summary>
+    <link href="../book_1/book_1200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crito</title>
+    <id>calibre:book:2538</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Plato/Crito%20%282538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Plato/Crito%20%282538%29/Crito%20-%20Plato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="106 KB" />
+    <author>
+      <name>Plato</name>
+      <uri>../authors_1/authors_1678_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Philosophy" />
+    <category term="Ancient" />
+    <category term="Justice" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Dialogues" />
+    <category term="Greek" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crímenes duplicados</title>
+    <id>calibre:book:1168</id>
+    <updated>2024-01-25T08:39:52Z</updated>
+    <link href="../../Michael%20Hjorth/Crimenes%20duplicados%20%281168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Hjorth/Crimenes%20duplicados%20%281168%29/Crimenes%20duplicados%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="752 KB" />
+    <author>
+      <name>Michael Hjorth</name>
+      <uri>../authors_0/authors_852_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Hans Rosenfeldt</name>
+      <uri>../authors_0/authors_848_Page_1.xml</uri>
+    </author>
+    <published>2016-09-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Bergman" />
+    <summary>Bergman [2]: Mientras una ola de calor azota Estocolmo, una serie de mujeres son halladas brutalmente asesinadas, y la brigada de investigación criminal se encuentra en un callejón sin salida. Los cuerpos llevan la firma de Edward Hinde, un asesino e...</summary>
+    <link href="../book_1/book_1168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crímenes que no olvidaré</title>
+    <id>calibre:book:1122</id>
+    <updated>2024-01-08T09:16:15Z</updated>
+    <link href="../../Alicia%20Gimenez%20Bartlett/Crimenes%20que%20no%20olvidare%20%281122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Gimenez%20Bartlett/Crimenes%20que%20no%20olvidare%20%281122%29/Crimenes%20que%20no%20olvidare%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="460 KB" />
+    <author>
+      <name>Alicia Giménez Bartlett</name>
+      <uri>../authors_0/authors_824_Page_1.xml</uri>
+    </author>
+    <published>2015-01-21T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve Petra Delicado, más adictiva y resolutiva que nunca. Premio Pepe Carvalho 2015.A lo largo de nueve episodios, Petra Delicado protagoniza la investigación de otros tantos crímenes que rompen el habitual devenir de hitos anuales como la Navidad,...</summary>
+    <link href="../book_1/book_1122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica de la lumbre</title>
+    <id>calibre:book:2586</id>
+    <updated>2024-09-12T03:39:18Z</updated>
+    <link href="../../Geney%20Beltran/Cronica%20de%20la%20lumbre%20%282586%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Geney%20Beltran/Cronica%20de%20la%20lumbre%20%282586%29/Cronica%20de%20la%20lumbre%20-%20Geney%20Beltran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="627 KB" />
+    <author>
+      <name>Geney Beltrán</name>
+      <uri>../authors_1/authors_1702_Page_1.xml</uri>
+    </author>
+    <published>2024-08-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«¿Quién vive la otra mitad de nuestra vida?» Narsia, profesora de teatro de 58 años, acude con su exmarido al llamado de su hijo menor. Es febrero del año 2000. El joven les confiesa a sus padres que una semana atrás asesinó a su novia. No los ha cit...</summary>
+    <link href="../book_2/book_2586.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica del Perú</title>
+    <id>calibre:book:2008</id>
+    <updated>2024-09-06T01:57:44Z</updated>
+    <link href="../../Pedro%20Cieza%20de%20Leon/Cronica%20del%20Peru%20%282008%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Cieza%20de%20Leon/Cronica%20del%20Peru%20%282008%29/Cronica%20del%20Peru%20-%20Pedro%20Cieza%20de%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="678 KB" />
+    <author>
+      <name>Pedro Cieza de León</name>
+      <uri>../authors_1/authors_1439_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2008.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica sentimental de la transición</title>
+    <id>calibre:book:1371</id>
+    <updated>2024-04-03T00:30:02Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Cronica%20sentimental%20de%20la%20transicio%20%281371%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Cronica%20sentimental%20de%20la%20transicio%20%281371%29/Cronica%20sentimental%20de%20la%20trans%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>2023-06-20T08:50:46Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:language>ca</dcterms:language>
+    <dcterms:publisher>Folch &amp; Folch</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Lang:en" />
+    <category term="Lang:ca" />
+    <summary>Crónica sentimental de la transición consistió, en su origen, en una serie de entregas publicadas semanalmente para el suplemento dominical de El País entre el 6 de enero y el 4 de agosto de 1985, año de la publicación de su primera edición.El propós...</summary>
+    <link href="../book_1/book_1371.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónicas de Marianela</title>
+    <id>calibre:book:2117</id>
+    <updated>2024-09-06T02:21:18Z</updated>
+    <link href="../../Angelica%20Palma/Cronicas%20de%20Marianela%20%282117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angelica%20Palma/Cronicas%20de%20Marianela%20%282117%29/Cronicas%20de%20Marianela%20-%20Angelica%20Palma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="194 KB" />
+    <author>
+      <name>Angélica Palma</name>
+      <uri>../authors_1/authors_1504_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónicas del gato viajero</title>
+    <id>calibre:book:1220</id>
+    <updated>2024-02-20T04:09:06Z</updated>
+    <link href="../../Hiro%20Arikawa/Cronicas%20del%20gato%20viajero%20%281220%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hiro%20Arikawa/Cronicas%20del%20gato%20viajero%20%281220%29/Cronicas%20del%20gato%20viajero%20-%20Hiro%20Arikawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="364 KB" />
+    <author>
+      <name>Hiro Arikawa</name>
+      <uri>../authors_0/authors_886_Page_1.xml</uri>
+    </author>
+    <published>2024-01-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Lumen recupera este conmovedor clásico de la literatura de gatos que conquistó a más de medio millón de lectores, se publicó en 33 países y se llevó al cine.Nana no es un gato cualquiera. Tiene el pelaje blanco, una cola de color negro con un gancho ...</summary>
+    <link href="../book_1/book_1220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuadros de costumbres</title>
+    <id>calibre:book:2010</id>
+    <updated>2024-09-06T01:57:45Z</updated>
+    <link href="../../Guillermo%20Prieto/Cuadros%20de%20costumbres%20%282010%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Guillermo%20Prieto/Cuadros%20de%20costumbres%20%282010%29/Cuadros%20de%20costumbres%20-%20Guillermo%20Prieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="167 KB" />
+    <author>
+      <name>Guillermo Prieto</name>
+      <uri>../authors_1/authors_1441_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [83]:</summary>
+    <link href="../book_2/book_2010.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando Ellie se fue</title>
+    <id>calibre:book:639</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Lisa%20Jewell/Cuando%20Ellie%20se%20fue%20%28639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lisa%20Jewell/Cuando%20Ellie%20se%20fue%20%28639%29/Cuando%20Ellie%20se%20fue%20-%20Lisa%20Jewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="571 KB" />
+    <author>
+      <name>Lisa Jewell</name>
+      <uri>../authors_0/authors_329_Page_1.xml</uri>
+    </author>
+    <published>2022-06-30T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Altamente adictiva, Lisa Jewell ya ha conquistado a 5 millones de lectores. «Absorbente.» Sunday Mirror «Magistral.» The New York Times Una chica desaparecida, un secreto enterrado. Ellie Mack tiene quince años, y es la hija perfecta, la preferida de...</summary>
+    <link href="../book_0/book_639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando amar demasiado es depender</title>
+    <id>calibre:book:1239</id>
+    <updated>2024-02-23T09:41:57Z</updated>
+    <link href="../../Silvia%20Congost/Cuando%20amar%20demasiado%20es%20depender%20%281239%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Silvia%20Congost/Cuando%20amar%20demasiado%20es%20depender%20%281239%29/Cuando%20amar%20demasiado%20es%20depend%20-%20Silvia%20Congost.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <author>
+      <name>Silvia Congost</name>
+      <uri>../authors_0/authors_902_Page_1.xml</uri>
+    </author>
+    <published>2015-02-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Estás atrapado en una relación de pareja en la que no eres feliz? ¿Crees que has perdido el control de tu vida y que estás condicionado por tu pareja? ¿Sientes que te has perdido a ti mismo o que ni tan solo recuerdas cómo eras antes de conocerle? ...</summary>
+    <link href="../book_1/book_1239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando el corazón llora</title>
+    <id>calibre:book:1390</id>
+    <updated>2024-04-03T00:56:45Z</updated>
+    <link href="../../Tamara%20Gorro/Cuando%20el%20corazon%20llora%20%281390%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tamara%20Gorro/Cuando%20el%20corazon%20llora%20%281390%29/Cuando%20el%20corazon%20llora%20-%20Tamara%20Gorro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="314 KB" />
+    <author>
+      <name>Tamara Gorro</name>
+      <uri>../authors_1/authors_1023_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hacer las paces con el pasado para mejorar tu presente y disfrutar del futuro: Hacer las paces con el pasado para mejorar tu presente y disfrutar del futuroHay momentos en la vida en que sientes una tristeza y un vacío inexplicables. Pasas de la risa...</summary>
+    <link href="../book_1/book_1390.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando el odio nos domine</title>
+    <id>calibre:book:2764</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/Cuando%20el%20odio%20nos%20domine%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="312 KB" />
+    <author>
+      <name>Marcos Nieto Pallarés</name>
+      <uri>../authors_0/authors_359_Page_1.xml</uri>
+    </author>
+    <published>2024-12-19T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>MADRID, 2023. El cuerpo desnudo de una mujer aparece rodeado de velas, con su alianza y una orquídea encima del pecho. La inspectora Nausica Yuste, agente de la Unidad Central de Delincuencia Especializada y Violenta, se persona en el lugar de los he...</summary>
+    <link href="../book_2/book_2764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando fuimos inmortales</title>
+    <id>calibre:book:1335</id>
+    <updated>2024-03-21T01:00:31Z</updated>
+    <link href="../../Gabriela%20Llanos/Cuando%20fuimos%20inmortales%20%281335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriela%20Llanos/Cuando%20fuimos%20inmortales%20%281335%29/Cuando%20fuimos%20inmortales%20-%20Gabriela%20Llanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
+    <author>
+      <name>Gabriela Llanos</name>
+      <uri>../authors_0/authors_976_Page_1.xml</uri>
+    </author>
+    <published>2022-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>2023</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La investigación de una hija por conocer la verdad sobre su padre. Un viaje trepidante a la música de finales del siglo XX. Una conmovedora novela repleta de intriga y nostalgia. ¿Qué secretos esconde la misteriosa desaparición de una leyenda del roc...</summary>
+    <link href="../book_1/book_1335.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando la persona tóxica eres tú</title>
+    <id>calibre:book:2725</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/Cuando%20la%20persona%20toxica%20eres%20t%20-%20Juan%20Carlos%20Carrasco%20%28%40seraltam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juan Carlos Carrasco (@seraltamentesensible)</name>
+      <uri>../authors_1/authors_1782_Page_1.xml</uri>
+    </author>
+    <published>2024-07-24T03:16:39Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El método que te ayudará a sustituir los pensamientos negativos y automáticos por una mirada optimista y reflexiva hacia tu propio ser. ¿Te imaginas tener al lado a alguien que te menospreciara cada día, que señalara cada uno de tus defectos, que te ...</summary>
+    <link href="../book_2/book_2725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando la tormenta pase</title>
+    <id>calibre:book:1648</id>
+    <updated>2024-06-22T02:07:13Z</updated>
+    <link href="../../Manel%20Loureiro/Cuando%20la%20tormenta%20pase%20%281648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manel%20Loureiro/Cuando%20la%20tormenta%20pase%20%281648%29/Cuando%20la%20tormenta%20pase%20-%20Manel%20Loureiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1020 KB" />
+    <author>
+      <name>Manel Loureiro</name>
+      <uri>../authors_0/authors_731_Page_1.xml</uri>
+    </author>
+    <published>2024-06-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una remota isla. Una ofrenda sangrienta. Una tempestad que parece el preludio de una gran tragedia. Manel Loureiro da un giro definitivo al thriller con una novela impactante que no te puedes perder. Atrapado en Ons, una pequeña isla de la costa atlá...</summary>
+    <link href="../book_1/book_1648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando llega la luz</title>
+    <id>calibre:book:1670</id>
+    <updated>2024-07-17T11:51:54Z</updated>
+    <link href="../../Clara%20Sanchez/Cuando%20llega%20la%20luz%20%281670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clara%20Sanchez/Cuando%20llega%20la%20luz%20%281670%29/Cuando%20llega%20la%20luz%20-%20Clara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="411 KB" />
+    <author>
+      <name>Clara Sánchez</name>
+      <uri>../authors_1/authors_1199_Page_1.xml</uri>
+    </author>
+    <published>2016-08-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La esperadísima continuación de Lo que esconde tu nombre. Más de 1.000.000 de lectores.¿Puedes proteger a quien más quieres? No se puede huir ni olvidar. El pasado siempre te encuentra.En el último año y medio la vida de Sandra ha dado todo un vuelco...</summary>
+    <link href="../book_1/book_1670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando los tontos mandan</title>
+    <id>calibre:book:894</id>
+    <updated>2023-06-23T01:09:50Z</updated>
+    <link href="../../Javier%20Marias/Cuando%20los%20tontos%20mandan%20%28894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Marias/Cuando%20los%20tontos%20mandan%20%28894%29/Cuando%20los%20tontos%20mandan%20-%20Javier%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <author>
+      <name>Javier Marías</name>
+      <uri>../authors_0/authors_384_Page_1.xml</uri>
+    </author>
+    <published>2018-02-15T10:05:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Este volumen reúne los noventa y cinco artículos publicados por Javier Marías en el suplemento dominical El País Semanal entre el 8 de febrero de 2015 y el 29 de enero de 2017.Noventa y cinco piezas que ofrecen una instantánea de la realidad, del gra...</summary>
+    <link href="../book_0/book_894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando nadie nos ve</title>
+    <id>calibre:book:1549</id>
+    <updated>2024-06-02T10:59:44Z</updated>
+    <link href="../../Sergio%20Sarria/Cuando%20nadie%20nos%20ve%20%281549%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sergio%20Sarria/Cuando%20nadie%20nos%20ve%20%281549%29/Cuando%20nadie%20nos%20ve%20-%20Sergio%20Sarria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Sergio Sarria</name>
+      <uri>../authors_1/authors_1130_Page_1.xml</uri>
+    </author>
+    <published>2019-04-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Comienza la Semana Santa en Morón de la Frontera (Sevilla). Lucía Gutiérrez, sargento de la Guardia Civil, tiene una reunión de emergencia con la alcaldesa del pueblo, debido a varios incidentes que relacionan a jóvenes costaleros con el consumo de d...</summary>
+    <link href="../book_1/book_1549.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando nadie te ve</title>
+    <id>calibre:book:959</id>
+    <updated>2023-08-01T05:26:14Z</updated>
+    <link href="../../Jose%20Ignacio%20Valenzuela/Cuando%20nadie%20te%20ve%20%28959%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ignacio%20Valenzuela/Cuando%20nadie%20te%20ve%20%28959%29/Cuando%20nadie%20te%20ve%20-%20Jose%20Ignacio%20Valenzuela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+    <author>
+      <name>José Ignacio Valenzuela</name>
+      <uri>../authors_0/authors_713_Page_1.xml</uri>
+    </author>
+    <published>2023-07-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Un thriller que devorarás de principio a fin». Juan Gómez-Jurado Por el creador de ¿Quien mató a Sara?, uno de los mayores éxitos de la historia de Netflix en español. «Los que habitan en Pinomar aseguran que la vida transcurre plácida. Que los prob...</summary>
+    <link href="../book_0/book_959.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando sale la reclusa</title>
+    <id>calibre:book:1414</id>
+    <updated>2024-04-08T05:29:29Z</updated>
+    <link href="../../Fred%20Vargas/Cuando%20sale%20la%20reclusa%20%281414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fred%20Vargas/Cuando%20sale%20la%20reclusa%20%281414%29/Cuando%20sale%20la%20reclusa%20-%20Fred%20Vargas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="619 KB" />
+    <author>
+      <name>Fred Vargas</name>
+      <uri>../authors_0/authors_782_Page_1.xml</uri>
+    </author>
+    <published>2018-02-13T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Jean-Baptiste Adamsberg" />
+    <summary>Comisario Jean-Baptiste Adamsberg [12]: La obra más ambiciosa y lograda de la reina de la novela negra europea.«Cuando sale la reclusa, su novela decimocuarta y la novena protagonizada por el intuitivo comisario Jean-Baptiste Adamsberg, colma las exp...</summary>
+    <link href="../book_1/book_1414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando salí de Cuba</title>
+    <id>calibre:book:938</id>
+    <updated>2023-07-04T02:12:40Z</updated>
+    <link href="../../Chanel%20Cleeton/Cuando%20sali%20de%20Cuba%20%28938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chanel%20Cleeton/Cuando%20sali%20de%20Cuba%20%28938%29/Cuando%20sali%20de%20Cuba%20-%20Chanel%20Cleeton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Chanel Cleeton</name>
+      <uri>../authors_0/authors_705_Page_1.xml</uri>
+    </author>
+    <published>2023-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando salí de Cuba: Una mujer entre el amor, la nostalgia por su país y el deseo de venganzaPalm Beach, 1960. Beatriz Pérez, una chica rebelde e independiente, vive en Estados Unidos desde que tuvo que exiliarse de Cuba junto a su familia. Sin embar...</summary>
+    <link href="../book_0/book_938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando te falte el aire</title>
+    <id>calibre:book:563</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Úrsula Campos</name>
+      <uri>../authors_0/authors_417_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Larrea &amp; Lysander" />
+    <summary>Larrea &amp; Lysander [1]: Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología....</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+</feed>

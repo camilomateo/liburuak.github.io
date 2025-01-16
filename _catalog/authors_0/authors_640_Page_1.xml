@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Brian Johnson</title>
+  <id>Calibre2opds:authors:640</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_640_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Brian Johnson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <entry>
+    <title>Las vidas de Brian</title>
+    <id>calibre:book:852</id>
+    <updated>2023-06-12T02:02:10Z</updated>
+    <link href="../../Brian%20Johnson/Las%20vidas%20de%20Brian%20%28852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brian%20Johnson/Las%20vidas%20de%20Brian%20%28852%29/Las%20vidas%20de%20Brian%20-%20Brian%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Brian Johnson</name>
+      <uri>../authors_0/authors_640_Page_1.xml</uri>
+    </author>
+    <published>2023-02-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las memorias del cantante de AC/DC, que, tras un periplo vital alucinante y accidentado, sustituyó al trágicamente desaparecido Bon Scott al frente de uno de los grupos clave del rock duro para firmar Back in Black: un hito del rock y el segundo disc...</summary>
+    <link href="../book_0/book_852.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

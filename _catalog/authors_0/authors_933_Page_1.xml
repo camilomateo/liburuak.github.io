@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Esteban González Pons</title>
+  <id>Calibre2opds:authors:933</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_933_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Esteban González Pons" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>El escaño de Satanás</title>
+    <id>calibre:book:1282</id>
+    <updated>2024-03-10T09:24:50Z</updated>
+    <link href="../../Esteban%20Gonzalez%20Pons/El%20escano%20de%20Satanas%20%281282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Esteban%20Gonzalez%20Pons/El%20escano%20de%20Satanas%20%281282%29/El%20escano%20de%20Satanas%20-%20Esteban%20Gonzalez%20Pons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="845 KB" />
+    <author>
+      <name>Esteban González Pons</name>
+      <uri>../authors_0/authors_933_Page_1.xml</uri>
+    </author>
+    <published>2022-11-16T06:23:07Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En un presente parejo al nuestro, se descubre una cripta bajo el sótano del Congreso de los Diputados y en su interior la tumba de una dama sin rostro, sin nombre, sin cruz. Tras varios años de crisis sanitaria y política, los diputados no sospechan ...</summary>
+    <link href="../book_1/book_1282.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

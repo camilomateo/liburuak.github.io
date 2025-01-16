@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bethan Roberts</title>
+  <id>Calibre2opds:authors:328</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_328_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Bethan Roberts" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Mi policía</title>
+    <id>calibre:book:440</id>
+    <updated>2023-03-20T05:50:08Z</updated>
+    <link href="../../Bethan%20Roberts/Mi%20policia%20%28440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Bethan%20Roberts/Mi%20policia%20%28440%29/Mi%20policia%20-%20Bethan%20Roberts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="852 KB" />
+    <author>
+      <name>Bethan Roberts</name>
+      <uri>../authors_0/authors_328_Page_1.xml</uri>
+    </author>
+    <published>2022-02-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Brighton, 1950. Desde la primera vez que lo vio, Marion ha estado enamorada de Tom, el hermano de su mejor amiga. Él le enseñará a nadar, por las mañanas en la playa, y Marion, completamente embelesada, se convencerá de que el amor que ella siente es...</summary>
+    <link href="../book_0/book_440.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

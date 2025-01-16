@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Blas Ruiz Grau</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_334_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Blas Ruiz Grau" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_334_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Blas Ruiz Grau" />
+  <entry>
+    <title>No morirás</title>
+    <id>calibre:book:1798</id>
+    <updated>2024-08-26T10:56:17Z</updated>
+    <link href="../../Blas%20Ruiz%20Grau/No%20moriras%20%281798%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blas%20Ruiz%20Grau/No%20moriras%20%281798%29/No%20moriras%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="788 KB" />
+    <author>
+      <name>Blas Ruiz Grau</name>
+      <uri>../authors_0/authors_334_Page_1.xml</uri>
+    </author>
+    <published>2020-12-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Nicolás Valdés" />
+    <summary>Nicolás Valdés [1]:  Tras No mentirás y No robarás, llega el cierre de la trilogía más diabólicamente adictiva.   «Un joven escritor ha conseguido ver su nombre junto a grandes de la profesión como Dan Brown, Ken Follett o Marcos Chicot.» El Mundo   ...</summary>
+    <link href="../book_1/book_1798.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El quebrantahuesos</title>
+    <id>calibre:book:449</id>
+    <updated>2023-03-23T11:00:40Z</updated>
+    <link href="../../Blas%20Ruiz%20Grau/El%20quebrantahuesos%20%28449%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blas%20Ruiz%20Grau/El%20quebrantahuesos%20%28449%29/El%20quebrantahuesos%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <author>
+      <name>Blas Ruiz Grau</name>
+      <uri>../authors_0/authors_334_Page_1.xml</uri>
+    </author>
+    <published>2023-03-16T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Nicolás Valdés" />
+    <summary>Nicolás Valdés [4]:  ¿Cuáles son los orígenes de las leyendas más terroríficas? ¿Cómo nacen nuestros mayores miedos? Y, sobre todo, ¿qué pasaría si se hicieran realidad?Hace años que Nicolás Valdés se alejó de su pueblo natal en la sierra madrileña d...</summary>
+    <link href="../book_0/book_449.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

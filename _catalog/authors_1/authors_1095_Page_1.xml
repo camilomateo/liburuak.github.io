@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Arnaldur Indridason</title>
+  <id>Calibre2opds:authors:1095</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1095_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Arnaldur Indridason" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>Betty</title>
+    <id>calibre:book:1497</id>
+    <updated>2024-05-10T08:43:26Z</updated>
+    <link href="../../Arnaldur%20Indridason/Betty%20%281497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arnaldur%20Indridason/Betty%20%281497%29/Betty%20-%20Arnaldur%20Indridason.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="217 KB" />
+    <author>
+      <name>Arnaldur Indridason</name>
+      <uri>../authors_1/authors_1095_Page_1.xml</uri>
+    </author>
+    <published>2017-06-02T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>SI CREES QUE BETTÝ NO TE PUEDE ENGAÑAR, YA HAS CAÍDO EN SU TRAMPABettý es de esas mujeres con un magnetismo hipnótico, acostumbradas a utilizar su atractivo para conseguir todo lo que se proponen. Mientras se te acerca con una son...</summary>
+    <link href="../book_1/book_1497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

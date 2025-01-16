@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stanislaw Lem</title>
+  <id>Calibre2opds:authors:797</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_797_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Stanislaw Lem" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>El profesor A. Donda</title>
+    <id>calibre:book:1094</id>
+    <updated>2023-12-12T08:34:16Z</updated>
+    <link href="../../Stanislaw%20Lem/El%20profesor%20A.%20Donda%20%281094%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stanislaw%20Lem/El%20profesor%20A.%20Donda%20%281094%29/El%20profesor%20A.%20Donda%20-%20Stanislaw%20Lem.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="638 KB" />
+    <author>
+      <name>Stanislaw Lem</name>
+      <uri>../authors_0/authors_797_Page_1.xml</uri>
+    </author>
+    <published>2021-10-05T06:34:20Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¡El holocausto informativo ha caído sobre el planeta! Ijon Tichy se
+acurruca delante de una cueva de la que le ha expulsado un gorila,
+mientras graba sus memorias en tablillas de arcilla, como hacían los
+babilonios. Su colega, el profesor Affidavit D...</summary>
+    <link href="../book_1/book_1094.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

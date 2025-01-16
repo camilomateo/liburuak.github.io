@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Colomba y Dante</title>
+  <id>Calibre2opds:authors:683series:141</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_683_series_141_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Colomba y Dante" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="./authors_683_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sandrone Dazieri" />
+  <entry>
+    <title>1 - No está solo</title>
+    <id>calibre:book:1139</id>
+    <updated>2024-01-08T09:16:19Z</updated>
+    <link href="../../Sandrone%20Dazieri/No%20esta%20solo%20%281139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandrone%20Dazieri/No%20esta%20solo%20%281139%29/No%20esta%20solo%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="576 KB" />
+    <author>
+      <name>Sandrone Dazieri</name>
+      <uri>../authors_0/authors_683_Page_1.xml</uri>
+    </author>
+    <published>2015-06-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Colomba y Dante" />
+    <summary>Colomba y Dante [1]: Tras Dicker y Lemaitre, llega el nuevo gran thriller europeo, bienvenidos al mundo DazieriUn niño desaparece a las afueras de Roma. La madre es encontrada muerta y los investigadores creen responsable al marido de la mujer. Sin e...</summary>
+    <link href="../book_1/book_1139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El Ángel</title>
+    <id>calibre:book:1140</id>
+    <updated>2024-01-08T09:16:20Z</updated>
+    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/El%20Angel%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <author>
+      <name>Sandrone Dazieri</name>
+      <uri>../authors_0/authors_683_Page_1.xml</uri>
+    </author>
+    <published>2017-02-27T00:22:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Colomba y Dante" />
+    <summary>Colomba y Dante [2]: NEGRÍSIMA Tras el éxito internacional de No está solo, vuelve la  inolvidable pareja de investigadores formada por Colomba Caselli y Dante Torre en un electrizante thriller de aterradora actualidad. La muerte llega a Roma a las d...</summary>
+    <link href="../book_1/book_1140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

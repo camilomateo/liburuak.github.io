@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Phil Knight</title>
+  <id>Calibre2opds:authors:810</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_810_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Phil Knight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <entry>
+    <title>Nunca te pares</title>
+    <id>calibre:book:1106</id>
+    <updated>2024-01-08T09:16:12Z</updated>
+    <link href="../../Phil%20Knight/Nunca%20te%20pares%20%281106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Phil%20Knight/Nunca%20te%20pares%20%281106%29/Nunca%20te%20pares%20-%20Phil%20Knight.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <author>
+      <name>Phil Knight</name>
+      <uri>../authors_0/authors_810_Page_1.xml</uri>
+    </author>
+    <published>2016-10-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CONECTA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La historia jamás contada detrás de Nike, la marca deportiva más icónica del mundo, narrada por su creador.Uno de los libros favoritos de Bill Gates de 2016.Phil Knight, director general de Nike, nos cuenta por primera vez la auténtica historia detrá...</summary>
+    <link href="../book_1/book_1106.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

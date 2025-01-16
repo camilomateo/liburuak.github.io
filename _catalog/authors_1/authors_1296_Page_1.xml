@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kat Rosenfield</title>
+  <id>Calibre2opds:authors:1296</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1296_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kat Rosenfield" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Nadie se acordará de ella</title>
+    <id>calibre:book:1807</id>
+    <updated>2024-08-27T09:07:35Z</updated>
+    <link href="../../Kat%20Rosenfield/Nadie%20se%20acordara%20de%20ella%20%281807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kat%20Rosenfield/Nadie%20se%20acordara%20de%20ella%20%281807%29/Nadie%20se%20acordara%20de%20ella%20-%20Kat%20Rosenfield.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="345 KB" />
+    <author>
+      <name>Kat Rosenfield</name>
+      <uri>../authors_1/authors_1296_Page_1.xml</uri>
+    </author>
+    <published>2021-11-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Una novela inteligente e ingeniosa de suspense psicológico en la que una chica humilde de un pequeño pueblo conoce a una bella influencer de Instagram de la gran ciudad, con un giro mortal que sorprenderá incluso al lector más inteligente. En una her...</summary>
+    <link href="../book_1/book_1807.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

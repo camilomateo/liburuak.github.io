@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Programming Languages Academy</title>
+  <id>Calibre2opds:authors:754</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_754_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Programming Languages Academy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Python para Principiantes: 2 Libros en 1: Programación de Python para principiantes + Libro de trabajo de Python (Spanish Edition)</title>
+    <id>calibre:book:1022</id>
+    <updated>2023-09-12T07:25:26Z</updated>
+    <link href="../../Programming%20Languages%20Academy/Python%20para%20Principiantes_%202%20Libros%20%281022%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Programming%20Languages%20Academy/Python%20para%20Principiantes_%202%20Libros%20%281022%29/Python%20para%20Principiantes_%202%20Li%20-%20Programming%20Languages%20Academy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="315 KB" />
+    <author>
+      <name>Programming Languages Academy</name>
+      <uri>../authors_0/authors_754_Page_1.xml</uri>
+    </author>
+    <published>2020-04-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_1/book_1022.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

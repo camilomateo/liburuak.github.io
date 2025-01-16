@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspectora Carmen Puerto</title>
+  <id>Calibre2opds:authors:812series:137</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_812_series_137_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspectora Carmen Puerto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="./authors_812_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Salvador Gutiérrez Solís" />
+  <entry>
+    <title>1 - Los amantes anónimos</title>
+    <id>calibre:book:1108</id>
+    <updated>2024-01-08T09:16:13Z</updated>
+    <link href="../../Salvador%20Gutierrez%20Solis/Los%20amantes%20anonimos%20%281108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Salvador%20Gutierrez%20Solis/Los%20amantes%20anonimos%20%281108%29/Los%20amantes%20anonimos%20-%20Salvador%20Gutierrez%20Solis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Salvador Gutiérrez Solís</name>
+      <uri>../authors_0/authors_812_Page_1.xml</uri>
+    </author>
+    <published>2021-05-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspectora Carmen Puerto" />
+    <summary>Inspectora Carmen Puerto [1]: El mismo día en el que Juan Carlos I anuncia su abdicación aparecen en tres ciudades de España —Sevilla, Madrid y Barcelona—, en papeleras de lugares muy conocidos y frecuentados, restos humanos semicongelados: un pie, u...</summary>
+    <link href="../book_1/book_1108.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

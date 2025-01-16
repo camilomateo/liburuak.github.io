@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Rainbow Rowell</title>
+  <id>Calibre2opds:authors:1239</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1239_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rainbow Rowell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Slowdance. Bailar lento</title>
+    <id>calibre:book:1730</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Rainbow%20Rowell/Slowdance.%20Bailar%20lento%20%281730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rainbow%20Rowell/Slowdance.%20Bailar%20lento%20%281730%29/Slowdance.%20Bailar%20lento%20-%20Rainbow%20Rowell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Rainbow Rowell</name>
+      <uri>../authors_1/authors_1239_Page_1.xml</uri>
+    </author>
+    <published>2024-07-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una historia de amor divertida y conmovedora sobre segundas oportunidades, reencuentros y desencuentros...y sobre enmendar los errores del pasado Cuando crecía en el lado equivocado de Omaha, Shiloh sólo pensaba en escapar, en dejar todo atrás e inic...</summary>
+    <link href="../book_1/book_1730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

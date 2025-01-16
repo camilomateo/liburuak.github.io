@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Laia Vilaseca</title>
+  <id>Calibre2opds:authors:882</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_882_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Laia Vilaseca" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>La chica del vestido azul</title>
+    <id>calibre:book:1748</id>
+    <updated>2024-08-26T10:56:07Z</updated>
+    <link href="../../Laia%20Vilaseca/La%20chica%20del%20vestido%20azul%20%281748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laia%20Vilaseca/La%20chica%20del%20vestido%20azul%20%281748%29/La%20chica%20del%20vestido%20azul%20-%20Laia%20Vilaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="660 KB" />
+    <author>
+      <name>Laia Vilaseca</name>
+      <uri>../authors_0/authors_882_Page_1.xml</uri>
+    </author>
+    <published>2021-02-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El thriller rural que ha cautivado a miles de lectores.¿Qué le sucedió a la chica del vestido azul?Martina acaba de llegar a Treviu, un pequeño pueblo de montaña donde ha veraneado toda la vida. Necesita huir de Barcelona y allí, rodeada de recuerdos...</summary>
+    <link href="../book_1/book_1748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La isla del silencio</title>
+    <id>calibre:book:1216</id>
+    <updated>2024-02-20T01:04:11Z</updated>
+    <link href="../../Laia%20Vilaseca/La%20isla%20del%20silencio%20%281216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laia%20Vilaseca/La%20isla%20del%20silencio%20%281216%29/La%20isla%20del%20silencio%20-%20Laia%20Vilaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="581 KB" />
+    <author>
+      <name>Laia Vilaseca</name>
+      <uri>../authors_0/authors_882_Page_1.xml</uri>
+    </author>
+    <published>2024-02-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La desaparición de un joven adolescente trastorna la vida en un pequeño pueblo del Pirineo. En 1982 un triple asesinato macabro en Sant Jordà, un pequeño pueblo del Pirineo catalán, marcará para siempre la vida de sus habitantes. La policía encuentra...</summary>
+    <link href="../book_1/book_1216.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

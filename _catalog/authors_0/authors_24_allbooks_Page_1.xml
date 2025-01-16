@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Xabier Gutiérrez</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_24_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Xabier Gutiérrez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Xabier Gutiérrez" />
+  <entry>
+    <title>El bouquet del miedo</title>
+    <id>calibre:book:28</id>
+    <updated>2023-01-17T10:17:28Z</updated>
+    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/El%20bouquet%20del%20miedo%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="584 KB" />
+    <author>
+      <name>Xabier Gutiérrez</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Los aromas del crimen" />
+    <summary>Los aromas del crimen [2]: En pleno mes de septiembre, tiempo de vendimia, y a pocos días para que empiece la recolección de la uva, al subcomisario de la Ertzaintza Vicente Parra le asignan la investigación del asesinato de la enóloga Esperanza More...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Recetas sencillas para novatos y cocinillas</title>
+    <id>calibre:book:1057</id>
+    <updated>2023-11-01T07:27:34Z</updated>
+    <link href="../../Xabier%20Gutierrez/Recetas%20sencillas%20para%20novatos%20y%20co%20%281057%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xabier%20Gutierrez/Recetas%20sencillas%20para%20novatos%20y%20co%20%281057%29/Recetas%20sencillas%20para%20novatos%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Xabier Gutiérrez</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2017-02-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta Gastro</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un libro con más de 1.000 recetas para todos los que quieran animarse a cocinar, desde los que empiezan de cero hasta los que hacen ya sus pinitos; para los que no han frito nunca un huevo y para los que quieran preparar una mayonesa perfecta; para l...</summary>
+    <link href="../book_1/book_1057.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El refugio de las mariposas</title>
+    <id>calibre:book:155</id>
+    <updated>2023-01-21T04:10:34Z</updated>
+    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/El%20refugio%20de%20las%20mariposas%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Xabier Gutiérrez</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2022-10-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el hotel Baños de Panticosa, en el valle de Tena aragonés, Valeria, una cantante ruandesa, se arroja al vacío desde su habitación. Era una clienta habitual, una mujer con una historia escondida cuyos motivos para suicidarse nadie podría sospechar....</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

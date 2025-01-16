@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Mercedes Rosende</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_696_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Mercedes Rosende" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="./authors_696_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mercedes Rosende" />
+  <entry>
+    <title>Lágrimas de cocodrilo</title>
+    <id>calibre:book:1205</id>
+    <updated>2024-02-06T06:13:12Z</updated>
+    <link href="../../Mercedes%20Rosende/Lagrimas%20de%20cocodrilo%20%281205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mercedes%20Rosende/Lagrimas%20de%20cocodrilo%20%281205%29/Lagrimas%20de%20cocodrilo%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="415 KB" />
+    <author>
+      <name>Mercedes Rosende</name>
+      <uri>../authors_0/authors_696_Page_1.xml</uri>
+    </author>
+    <published>2024-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Úrsula" />
+    <summary>Úrsula [2]: Germán, un eterno perejil, sale de la cárcel con un encargo: el asalto a un camión blindado. Una sucesión de casualidades le depara la ayuda de Úrsula López, mujer con la que estuvo involucrado en el secuestro que lo llevó a prisión. Pero...</summary>
+    <link href="../book_1/book_1205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujer equivocada</title>
+    <id>calibre:book:928</id>
+    <updated>2023-07-04T02:12:24Z</updated>
+    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/Mujer%20equivocada%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mercedes Rosende</name>
+      <uri>../authors_0/authors_696_Page_1.xml</uri>
+    </author>
+    <published>2023-04-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Úrsula" />
+    <summary>Úrsula [1]: Mercedes Rosende nos sumerge en el particular universo de Úrsula, que con traducciones al italiano, inglés, alemán y francés triunfa en toda Europa. Úrsula está insatisfecha. Demasiado fea, demasiado hambrienta, demasiado sola..., su vida...</summary>
+    <link href="../book_0/book_928.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

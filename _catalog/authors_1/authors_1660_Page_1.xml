@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L. M. Montgomery</title>
+  <id>Calibre2opds:authors:1660</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1660_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="L. M. Montgomery" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Rainbow Valley</title>
+    <id>calibre:book:2504</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../L.%20M.%20Montgomery/Rainbow%20Valley%20%282504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20M.%20Montgomery/Rainbow%20Valley%20%282504%29/Rainbow%20Valley%20-%20L.%20M.%20Montgomery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="259 KB" />
+    <author>
+      <name>L. M. Montgomery</name>
+      <uri>../authors_1/authors_1660_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Orphans" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Prince" />
+    <category term="Edward" />
+    <category term="Island" />
+    <category term="friendship" />
+    <category term="Siblings" />
+    <category term="Family" />
+    <category term="Life" />
+    <category term="Foster" />
+    <category term="home" />
+    <category term="care" />
+    <category term="Canada" />
+    <category term="History" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Golden Road</title>
+    <id>calibre:book:2503</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/The%20Golden%20Road%20-%20L.%20M.%20Montgomery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="257 KB" />
+    <author>
+      <name>L. M. Montgomery</name>
+      <uri>../authors_1/authors_1660_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Prince" />
+    <category term="Edward" />
+    <category term="Island" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Fiction" />
+    <category term="friendship" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Canadian" />
+    <category term="Authorship" />
+    <category term="Publishers" />
+    <category term="and" />
+    <category term="publishing" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

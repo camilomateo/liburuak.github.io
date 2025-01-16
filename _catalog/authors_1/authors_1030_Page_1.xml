@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carlos Taibo</title>
+  <id>Calibre2opds:authors:1030</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1030_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carlos Taibo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>La desintegración de Yugoslavia</title>
+    <id>calibre:book:1408</id>
+    <updated>2024-04-08T04:39:28Z</updated>
+    <link href="../../Carlos%20Taibo/La%20desintegracion%20de%20Yugoslavia%20%281408%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Taibo/La%20desintegracion%20de%20Yugoslavia%20%281408%29/La%20desintegracion%20de%20Yugoslavia%20-%20Carlos%20Taibo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="839 KB" />
+    <author>
+      <name>Carlos Taibo</name>
+      <uri>../authors_1/authors_1030_Page_1.xml</uri>
+    </author>
+    <published>2018-01-30T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Los Libros de La Catarata</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Los conflictos yugoslavos, y sobre todo la guerra de Kosovo, conmovieron y movilizaron a la sociedad española. Quienes se vieron aturdidos por el alud de titulares, acontecimientos, lugares, nombres... encontrarán en este ensayo las principales carac...</summary>
+    <link href="../book_1/book_1408.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rusia frente a Ucrania</title>
+    <id>calibre:book:1481</id>
+    <updated>2024-04-30T05:13:18Z</updated>
+    <link href="../../Carlos%20Taibo/Rusia%20frente%20a%20Ucrania%20%281481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Taibo/Rusia%20frente%20a%20Ucrania%20%281481%29/Rusia%20frente%20a%20Ucrania%20-%20Carlos%20Taibo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <author>
+      <name>Carlos Taibo</name>
+      <uri>../authors_1/authors_1030_Page_1.xml</uri>
+    </author>
+    <published>2022-03-09T00:07:38Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Los Libros de La Catarata</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Edición actualizada en marzo de 2022 tras la invasión de Rusia a Ucrania.Las tensiones entre Ucrania y Rusia, con las potencias occidentales en la trastienda, han reaparecido en 2022. Con vocación pedagógica, pero también con la de contestar buena pa...</summary>
+    <link href="../book_1/book_1481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

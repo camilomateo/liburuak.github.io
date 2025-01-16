@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Enrique Navarro</title>
+  <id>Calibre2opds:authors:743</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_743_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Enrique Navarro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Guerra de Dioses</title>
+    <id>calibre:book:1003</id>
+    <updated>2023-08-27T03:13:00Z</updated>
+    <link href="../../Enrique%20Navarro/Guerra%20de%20Dioses%20%281003%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Enrique%20Navarro/Guerra%20de%20Dioses%20%281003%29/Guerra%20de%20Dioses%20-%20Enrique%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <author>
+      <name>Enrique Navarro</name>
+      <uri>../authors_0/authors_743_Page_1.xml</uri>
+    </author>
+    <published>2023-01-12T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Universo de Letras</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Salvador Ginés, exoficial de la Legión, se verá envuelto en unaconspiración global que pretende detener el progresismo con un golpe definitivo a las ideologías y regímenes políticos que han abandonado los principios religiosos y morales tradicionales...</summary>
+    <link href="../book_1/book_1003.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

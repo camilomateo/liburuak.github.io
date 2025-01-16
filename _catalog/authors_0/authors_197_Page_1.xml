@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Álvaro Pombo</title>
+  <id>Calibre2opds:authors:197</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_197_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Álvaro Pombo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>La fortuna de Matilda Turpin</title>
+    <id>calibre:book:1571</id>
+    <updated>2024-06-02T10:59:49Z</updated>
+    <link href="../../Alvaro%20Pombo/La%20fortuna%20de%20Matilda%20Turpin%20%281571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Pombo/La%20fortuna%20de%20Matilda%20Turpin%20%281571%29/La%20fortuna%20de%20Matilda%20Turpin%20-%20Alvaro%20Pombo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="400 KB" />
+    <author>
+      <name>Álvaro Pombo</name>
+      <uri>../authors_0/authors_197_Page_1.xml</uri>
+    </author>
+    <published>2011-04-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una elegante casa en un acantilado del norte de España, en un lugar figurado, Lobreña, es el paisaje inicial y final de este relato. Ésta es la historia de Matilda Turpin: una mujer acomodada que, después de trece años de matrimonio feliz con un cate...</summary>
+    <link href="../book_1/book_1571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Santander, 1936</title>
+    <id>calibre:book:290</id>
+    <updated>2023-02-09T11:32:40Z</updated>
+    <link href="../../Alvaro%20Pombo/Santander%2C%201936%20%28290%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Pombo/Santander%2C%201936%20%28290%29/Santander%2C%201936%20-%20Alvaro%20Pombo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="536 KB" />
+    <author>
+      <name>Álvaro Pombo</name>
+      <uri>../authors_0/authors_197_Page_1.xml</uri>
+    </author>
+    <published>2023-01-30T10:09:42Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El protagonista de esta novela se llama Álvaro Pombo Caller, y amigos y familiares lo llaman –aunque a él no le haga gracia– Alvarito, o Alvarín.  El Álvaro Pombo Caller de la novela, tío carnal de nuestro Álvaro Pombo autor, tiene diecinueve años e...</summary>
+    <link href="../book_0/book_290.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

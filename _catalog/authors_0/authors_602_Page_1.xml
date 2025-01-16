@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Haze</title>
+  <id>Calibre2opds:authors:602</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_602_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Haze" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>El niño que salió del barrio</title>
+    <id>calibre:book:807</id>
+    <updated>2023-05-31T01:30:28Z</updated>
+    <link href="../../Haze/El%20nino%20que%20salio%20del%20barrio%20%28807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Haze/El%20nino%20que%20salio%20del%20barrio%20%28807%29/El%20nino%20que%20salio%20del%20barrio%20-%20Haze.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Haze</name>
+      <uri>../authors_0/authors_602_Page_1.xml</uri>
+    </author>
+    <published>2021-02-15T07:38:43Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Se trata de una autobiografía ficcionalizada que, a partir de poemas y canciones, narra los acontecimientos clave de su vida. Una de las frases más destacadas de su obra musical ha sido «El niño con suerte puede salir del barrio, pero el barrio perma...</summary>
+    <link href="../book_0/book_807.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

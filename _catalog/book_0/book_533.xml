@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Entre los muertos</title>
+  <id>urn:book:4976a235-7b86-4313-8539-c525a842d023</id>
+  <updated>2023-04-05T00:40:14Z</updated>
+  <link href="./book_533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Entre los muertos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mikel Santiago" />
+  <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/Entre%20los%20muertos%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+  <author>
+    <name>Mikel Santiago</name>
+    <uri>../authors_0/authors_17_Page_1.xml</uri>
+  </author>
+  <published>2022-06-08T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Ediciones B</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Trilogía de Illumbe" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Trilogía de Illumbe serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px">
+        <span style="color: #0f1111">Hay muertos que nunca
+        descansan, y tal vez no deban hacerlo hasta que se les haga
+        justicia. Nadie lo sabe mejor que Nerea Arruti, agente de
+        la Ertzaintza en Illumbe, una mujer solitaria que arrastra
+        también sus propios cadáveres y fantasmas del
+        pasado.</span>
+      </p>
+      <p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px">
+        <span style="color: #0f1111">Una historia de amor
+        prohibida, una muerte supuestamente accidental, una
+        mansión con vistas al Cantábrico donde todos
+        tienen algo que ocultar y un personaje misterioso conocido
+        como el Cuervo cuyo nombre aparece como una sombra a lo
+        largo de la novela. Estos son los ingredientes de una
+        investigación que se irá complicando página
+        tras página y en la que Arruti, tal como
+        descubrirán pronto los lectores, será mucho
+        más que la agente encargada del caso.</span>
+      </p>
+    </div>
+  </content>
+  <link href="../series_0/series_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Trilogía de Illumbe serie" />
+  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mikel Santiago" />
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vanesa Martín</title>
+  <id>Calibre2opds:authors:699</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_699_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Vanesa Martín" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Mujer océano</title>
+    <id>calibre:book:931</id>
+    <updated>2023-07-04T02:12:28Z</updated>
+    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/Mujer%20oceano%20-%20Vanesa%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="885 KB" />
+    <author>
+      <name>Vanesa Martín</name>
+      <uri>../authors_0/authors_699_Page_1.xml</uri>
+    </author>
+    <published>2016-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«A un palmo de ti es fácil morderte. Guarda la lengua, que voy directa,no sea que, al sentirla húmeda, la invite donde guardo ciertos ecos y duermen huracanes, allí donde más de uno murió a oscuras, perdiéndose en el intento de encontrar fuego,que cu...</summary>
+    <link href="../book_0/book_931.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

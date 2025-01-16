@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mónica Rouanet</title>
+  <id>Calibre2opds:authors:1154</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1154_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mónica Rouanet" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Despiértame cuando acabe septiembre</title>
+    <id>calibre:book:1585</id>
+    <updated>2024-06-02T10:59:54Z</updated>
+    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/Despiertame%20cuando%20acabe%20septie%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
+    <author>
+      <name>Mónica Rouanet</name>
+      <uri>../authors_1/authors_1154_Page_1.xml</uri>
+    </author>
+    <published>2019-04-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>El rastro de un joven español se esfuma por el sur de Inglaterra tras dejar un mensaje de socorro en el teléfono móvil de su madre. Ella, que apenas ha abandonado su pequeño pueblo en contadas ocasiones, decide ir en su busca. Hace un año, su marido ...</summary>
+    <link href="../book_1/book_1585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No oigo a los niños jugar</title>
+    <id>calibre:book:1617</id>
+    <updated>2024-06-02T11:00:03Z</updated>
+    <link href="../../Monica%20Rouanet/No%20oigo%20a%20los%20ninos%20jugar%20%281617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Rouanet/No%20oigo%20a%20los%20ninos%20jugar%20%281617%29/No%20oigo%20a%20los%20ninos%20jugar%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <author>
+      <name>Mónica Rouanet</name>
+      <uri>../authors_1/authors_1154_Page_1.xml</uri>
+    </author>
+    <published>2021-05-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial de Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve Mónica Rouanet, la autora del best seller del confinamiento con Despiértame cuando acabe septiembre.Tras un grave accidente de coche, Alma, una joven de 17 años, sufre un shock postraumático y es ingresada en una clínica psiquiátrica ubicada e...</summary>
+    <link href="../book_1/book_1617.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

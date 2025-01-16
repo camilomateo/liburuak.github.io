@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Los hijos del desastre</title>
+  <id>Calibre2opds:authors:5series:95</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_5_series_95_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Los hijos del desastre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="./authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pierre Lemaitre" />
+  <entry>
+    <title>1 - Nos vemos allá arriba</title>
+    <id>calibre:book:775</id>
+    <updated>2023-05-25T01:32:56Z</updated>
+    <link href="../../Pierre%20Lemaitre/Nos%20vemos%20alla%20arriba%20%28775%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Nos%20vemos%20alla%20arriba%20%28775%29/Nos%20vemos%20alla%20arriba%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Sátira" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Los hijos del desastre" />
+    <summary>Los hijos del desastre [1]: En noviembre de 1918, tan solo unos días antes del armisticio, el teniente d'Aulnay-Pradelle ordena una absurda ofensiva que culminará con los soldados Albert Maillard y Édouard Péricourt gravemente heridos, en un confuso ...</summary>
+    <link href="../book_0/book_775.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

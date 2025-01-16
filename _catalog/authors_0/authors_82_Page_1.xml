@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Miguel Cervantes</title>
+  <id>Calibre2opds:authors:82</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_82_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Miguel Cervantes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+    <id>calibre:book:133</id>
+    <updated>2023-01-18T05:51:46Z</updated>
+    <link href="../../Miguel%20Cervantes/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20%28133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Cervantes/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20%28133%29/El%20ingenioso%20hidalgo%20Don%20Quijot%20-%20Miguel%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Miguel Cervantes</name>
+      <uri>../authors_0/authors_82_Page_1.xml</uri>
+    </author>
+    <published>1605-10-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.elejandria.com</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Clásicos" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

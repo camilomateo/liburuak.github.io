@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juana Cortés Amunarriz</title>
+  <id>Calibre2opds:authors:687</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_687_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juana Cortés Amunarriz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Los ausentes</title>
+    <id>calibre:book:917</id>
+    <updated>2023-07-04T02:12:04Z</updated>
+    <link href="../../Juana%20Cortes%20Amunarriz/Los%20ausentes%20%28917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juana%20Cortes%20Amunarriz/Los%20ausentes%20%28917%29/Los%20ausentes%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <author>
+      <name>Juana Cortés Amunarriz</name>
+      <uri>../authors_0/authors_687_Page_1.xml</uri>
+    </author>
+    <published>2021-01-13T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Temerás a quien ya no tiene nada que perder Un thriller psicológico en el que la víctima no se rinde País Vasco, 2007. Tras el fracaso de la última tregua, ETA prepara un nuevo golpe para demostrar su cuestionada fortaleza. Dos encapuchados secuestra...</summary>
+    <link href="../book_0/book_917.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las vivas</title>
+    <id>calibre:book:1406</id>
+    <updated>2024-04-08T04:38:20Z</updated>
+    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/Las%20vivas%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juana Cortés Amunarriz</name>
+      <uri>../authors_0/authors_687_Page_1.xml</uri>
+    </author>
+    <published>2024-04-07T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fuenterrabía, 1943. Ante la inesperada visita de Franco siete mujeres tienen siete días para poner a salvo a un piloto inglés.«Es así como nos quieren. Anuladas. Con miedo y vencidas. Muertas… Pero, por suerte, todavía estamos vivas».Fuenterrabía, 2...</summary>
+    <link href="../book_1/book_1406.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

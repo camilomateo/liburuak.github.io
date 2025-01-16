@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michael Ramirez Vargas</title>
+  <id>Calibre2opds:authors:720</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_720_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michael Ramirez Vargas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Ni fu ni fuck</title>
+    <id>calibre:book:965</id>
+    <updated>2023-08-16T05:28:58Z</updated>
+    <link href="../../Carlos%20Heredia%20Ruiz/Ni%20fu%20ni%20fuck%20%28965%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Heredia%20Ruiz/Ni%20fu%20ni%20fuck%20%28965%29/Ni%20fu%20ni%20fuck%20-%20Carlos%20Heredia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="816 KB" />
+    <author>
+      <name>Carlos Heredia Ruiz</name>
+      <uri>../authors_0/authors_719_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Michael Ramirez Vargas</name>
+      <uri>../authors_0/authors_720_Page_1.xml</uri>
+    </author>
+    <published>2022-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Martínez Roca</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Todo lo que los books de inglés no se han atrevido a enseñarte.Aunque no hay nada como expresarse en nuestra lengua materna, en este libro encontrarás más de 300 expresiones muy nuestras trasladadas al inglés que te ayudarán a expresar lo mismo (o ca...</summary>
+    <link href="../book_0/book_965.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

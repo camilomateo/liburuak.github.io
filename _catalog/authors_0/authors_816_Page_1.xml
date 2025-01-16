@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Douglas E. Noll</title>
+  <id>Calibre2opds:authors:816</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_816_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Douglas E. Noll" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Desescalar: Cómo calmar a una persona furiosa en menos de 90 segundos</title>
+    <id>calibre:book:1112</id>
+    <updated>2024-01-08T09:16:14Z</updated>
+    <link href="../../Douglas%20E.%20Noll/Desescalar_%20Como%20calmar%20a%20una%20perso%20%281112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20E.%20Noll/Desescalar_%20Como%20calmar%20a%20una%20perso%20%281112%29/Desescalar_%20Como%20calmar%20a%20una%20p%20-%20Douglas%20E.%20Noll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="758 KB" />
+    <author>
+      <name>Douglas E. Noll</name>
+      <uri>../authors_0/authors_816_Page_1.xml</uri>
+    </author>
+    <published>2023-06-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Arpa Práctica</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vivimos en un mundo cada vez más dividido y no es extraordinario encontrarse con personas agresivas y confrontaciones difíciles. Afortunadamente, existen herramientas para convertirnos en pacificadores y transformar situaciones conflictivas en diálog...</summary>
+    <link href="../book_1/book_1112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

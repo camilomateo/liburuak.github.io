@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marta Orriols</title>
+  <id>Calibre2opds:authors:936</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_936_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marta Orriols" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Ese lugar al que llamamos casa</title>
+    <id>calibre:book:1288</id>
+    <updated>2024-03-15T08:54:02Z</updated>
+    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/Ese%20lugar%20al%20que%20llamamos%20casa%20-%20Marta%20Orriols.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <author>
+      <name>Marta Orriols</name>
+      <uri>../authors_0/authors_936_Page_1.xml</uri>
+    </author>
+    <published>2022-12-19T10:25:35Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una periodista que cubre la zona de Oriente Medio regresa a Barcelona después de mucho tiempo. Quiere reanudar el contacto con la familia, pero lo que de verdad necesita es tomar distancia de las guerras, de un tipo de periodismo que no la convence y...</summary>
+    <link href="../book_1/book_1288.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspectora Hulda</title>
+  <id>Calibre2opds:authors:14series:44</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_14_series_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspectora Hulda" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="./authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ragnar Jónasson" />
+  <entry>
+    <title>1 - La dama</title>
+    <id>calibre:book:339</id>
+    <updated>2023-02-21T01:18:06Z</updated>
+    <link href="../../Ragnar%20Jonasson/La%20dama%20%28339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/La%20dama%20%28339%29/La%20dama%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2022-12-22T03:40:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Hulda" />
+    <summary>Inspectora Hulda [1]: Una investigadora al límite de la jubilación.Una arriesgada proposición.Y solo quince días para resolver el caso más difícil de toda su carrera.Hulda Hermannsdóttir ha sido una de las mejores investigadoras de la policía de Reik...</summary>
+    <link href="../book_0/book_339.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - La isla</title>
+    <id>calibre:book:1285</id>
+    <updated>2024-03-15T08:46:48Z</updated>
+    <link href="../../Ragnar%20Jonasson/La%20isla%20%281285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/La%20isla%20%281285%29/La%20isla%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2024-03-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Hulda" />
+    <summary>Inspectora Hulda [2]: La nueva serie policiaca de uno de los grandes autores bestseller de la novela negra. «Hulda es la mejor heroína de novela negra que hemos leído en mucho tiempo.» The Times La inspectora de policía islandesa Hulda Hermannsdóttir...</summary>
+    <link href="../book_1/book_1285.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

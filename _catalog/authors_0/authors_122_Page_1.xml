@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Silvia Garcia Ruiz</title>
+  <id>Calibre2opds:authors:122</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Silvia Garcia Ruiz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Rompamos las reglas</title>
+    <id>calibre:book:188</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/Rompamos%20las%20reglas%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <author>
+      <name>Silvia Garcia Ruiz</name>
+      <uri>../authors_0/authors_122_Page_1.xml</uri>
+    </author>
+    <published>2022-05-16T01:38:04Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Esencia</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <summary>Candy Templeton descubrió desde bien pequeña que la vida no es sencilla y que hay muchos momentos en los que la gente la hará llorar. Decidida a enfrentarse a todos sus problemas con una sonrisa, creará una serie de reglas que le permitan alcanzar la...</summary>
+    <link href="../book_0/book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

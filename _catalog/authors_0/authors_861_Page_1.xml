@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Eben Alexander</title>
+  <id>Calibre2opds:authors:861</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_861_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eben Alexander" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>La prueba del cielo</title>
+    <id>calibre:book:1182</id>
+    <updated>2024-02-01T09:56:45Z</updated>
+    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/La%20prueba%20del%20cielo%20-%20Eben%20Alexander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <author>
+      <name>Eben Alexander</name>
+      <uri>../authors_0/authors_861_Page_1.xml</uri>
+    </author>
+    <published>2013-05-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La prueba del cielo, escrito por el doctor Eben Alexander, es un libro de autoayuda que ha revolucionado el eterno conflicto entre ciencia y fe, el viaje de un neurocirujano a la vida después de la muerte, una historia real que nos ayudará a comprend...</summary>
+    <link href="../book_1/book_1182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

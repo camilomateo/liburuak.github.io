@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juan Tallón</title>
+  <id>Calibre2opds:authors:1684</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1684_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Tallón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>El mejor del mundo</title>
+    <id>calibre:book:2560</id>
+    <updated>2024-09-09T03:24:00Z</updated>
+    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+    <author>
+      <name>Juan Tallón</name>
+      <uri>../authors_1/authors_1684_Page_1.xml</uri>
+    </author>
+    <published>2024-08-02T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Nuestra vida está marcada por el apellido que llevamos? Una novela sobre realidades paralelas.Antonio es un empresario gallego con una ambición desmedida. Cuando por fin asume la dirección de la fábrica de ataúdes fundada por su padre, hasta entonce...</summary>
+    <link href="../book_2/book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

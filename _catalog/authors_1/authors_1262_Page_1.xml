@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jorge Argüello</title>
+  <id>Calibre2opds:authors:1262</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1262_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jorge Argüello" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Las dos almas de Estados Unidos</title>
+    <id>calibre:book:1762</id>
+    <updated>2024-08-26T10:56:09Z</updated>
+    <link href="../../Jorge%20Arguello/Las%20dos%20almas%20de%20Estados%20Unidos%20%281762%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Arguello/Las%20dos%20almas%20de%20Estados%20Unidos%20%281762%29/Las%20dos%20almas%20de%20Estados%20Unidos%20-%20Jorge%20Arguello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Jorge Argüello</name>
+      <uri>../authors_1/authors_1262_Page_1.xml</uri>
+    </author>
+    <published>2024-06-28T10:02:46Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>En este libro profundo y clarificador, Jorge Argüello explica como la potencia norteamericana se encuentra profundamente dividida, tironeada entre dos almas: media sociedad reclama una restauración nostálgica que recupere un pasado dorado, mientra...</summary>
+    <link href="../book_1/book_1762.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

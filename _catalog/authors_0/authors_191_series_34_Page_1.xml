@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Asesinato en Smögen</title>
+  <id>Calibre2opds:authors:191series:34</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_191_series_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Asesinato en Smögen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <link href="./authors_191_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anna Ihrén" />
+  <entry>
+    <title>3 - El barón del arenque</title>
+    <id>calibre:book:284</id>
+    <updated>2023-02-06T07:44:00Z</updated>
+    <link href="../../Anna%20Ihren/El%20baron%20del%20arenque%20%28284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anna%20Ihren/El%20baron%20del%20arenque%20%28284%29/El%20baron%20del%20arenque%20-%20Anna%20Ihren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <author>
+      <name>Anna Ihrén</name>
+      <uri>../authors_0/authors_191_Page_1.xml</uri>
+    </author>
+    <published>2022-09-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Word Audio Publishing</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Asesinato en Smögen" />
+    <summary>Asesinato en Smögen [3]: El nieto de James Blake sénior, el gran barón del arenque de Smögen, es hallado muerto en la recién renovada atalaya del práctico. Sandra Haraldsson, junto con Nathalie Colette, de la Unidad de Casos Sin Resolver de Gotemburg...</summary>
+    <link href="../book_0/book_284.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

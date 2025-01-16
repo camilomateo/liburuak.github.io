@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vaclav Smil</title>
+  <id>Calibre2opds:authors:142</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_142_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Vaclav Smil" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Los números no mienten</title>
+    <id>calibre:book:215</id>
+    <updated>2023-06-20T04:56:20Z</updated>
+    <link href="../../Vaclav%20Smil/Los%20numeros%20no%20mienten%20%28215%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vaclav%20Smil/Los%20numeros%20no%20mienten%20%28215%29/Los%20numeros%20no%20mienten%20-%20Vaclav%20Smil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Vaclav Smil</name>
+      <uri>../authors_0/authors_142_Page_1.xml</uri>
+    </author>
+    <published>2021-01-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un maestro de los datos y las estadísticas ofrece una visión del mundo tan sorprendente como iluminadora. ¿Es peligroso volar? ¿Qué es peor para el medioambiente, un coche o un  móvil? ¿Cuánto pesan todas las vacas del mundo juntos y por qué ese dato...</summary>
+    <link href="../book_0/book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tamaño de las cosas</title>
+    <id>calibre:book:1683</id>
+    <updated>2024-07-29T11:15:45Z</updated>
+    <link href="../../Vaclav%20Smil/El%20tamano%20de%20las%20cosas%20%281683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vaclav%20Smil/El%20tamano%20de%20las%20cosas%20%281683%29/El%20tamano%20de%20las%20cosas%20-%20Vaclav%20Smil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>Vaclav Smil</name>
+      <uri>../authors_0/authors_142_Page_1.xml</uri>
+    </author>
+    <published>2024-05-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Pueden las medidas explicar el mundo? Para responder a esa colosal pregunta ha dedicado Vaclav Smil las más de trescientas páginas de Eltamaño de lascosas. El científico canadiense despliega un ambicioso análisis del principio rector más fundamental...</summary>
+    <link href="../book_1/book_1683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

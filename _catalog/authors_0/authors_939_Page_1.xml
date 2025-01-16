@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fátima Frutos</title>
+  <id>Calibre2opds:authors:939</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_939_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fátima Frutos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>La selva bajo mi piel</title>
+    <id>calibre:book:1292</id>
+    <updated>2024-03-15T09:02:26Z</updated>
+    <link href="../../Fatima%20Frutos/La%20selva%20bajo%20mi%20piel%20%281292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fatima%20Frutos/La%20selva%20bajo%20mi%20piel%20%281292%29/La%20selva%20bajo%20mi%20piel%20-%20Fatima%20Frutos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="591 KB" />
+    <author>
+      <name>Fátima Frutos</name>
+      <uri>../authors_0/authors_939_Page_1.xml</uri>
+    </author>
+    <published>2022-02-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>VII PREMIO DE NOVELA ALBERT JOVELL Libertad Arregui es una joven reportera enviada a El Salvador a finales de los ochenta. A través de sus crónicas televisivas junto a su compañero el cámara Íñigo Santolaya, asistimos a los hechos más relevantes que ...</summary>
+    <link href="../book_1/book_1292.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

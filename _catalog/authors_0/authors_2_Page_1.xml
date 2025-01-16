@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lorenzo Silva</title>
+  <id>Calibre2opds:authors:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lorenzo Silva" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Todos los libros de Lorenzo Silva</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 7 libros</content>
+    <link href="../authors_0/authors_2_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Bevilacqua</title>
+    <id>Calibre2opds:authors:2series:7</id>
+    <content type="text">Donde los escorpiones</content>
+    <link href="../authors_0/authors_2_series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspectora Manuela Mauri</title>
+    <id>Calibre2opds:authors:2series:196</id>
+    <content type="text">La innombrable</content>
+    <link href="../authors_0/authors_2_series_196_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspectora Mauri</title>
+    <id>Calibre2opds:authors:2series:97</id>
+    <content type="text">Si esto es una mujer</content>
+    <link href="../authors_0/authors_2_series_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>La forja de una rebelde</title>
+    <id>calibre:book:780</id>
+    <updated>2023-05-25T01:33:00Z</updated>
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Noemí Trujillo</name>
+      <uri>../authors_0/authors_582_Page_1.xml</uri>
+    </author>
+    <published>2021-12-02T02:59:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El segundo caso de la inspectora Manuela Mauri  La nueva serie de éxito de la novela negra en españolDesde el inicio de la alerta sanitaria, Manuela Mauri no ha tenido un respiro y por primera vez en su vida se siente desbordada por los acontecimien...</summary>
+    <link href="../book_0/book_780.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llama de Focea</title>
+    <id>calibre:book:3</id>
+    <updated>2023-01-17T09:10:34Z</updated>
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2022-09-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Queralt Bonmatí, una joven barcelonesa de familia pudiente, aparece asesinada en un paraje idílico del Camino de Santiago. Había salido tres semanas antes de Roncesvalles, donde tuvo un incidente con un desconocido, pero esta es sólo una de las pista...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Púa</title>
+    <id>calibre:book:657</id>
+    <updated>2023-05-15T05:51:12Z</updated>
+    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/Pua%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2023-05-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Qué ocurre tras cruzar la línea roja? Un thriller épico y estremecedor sobre la guerra sucia y sus consecuencias«Púa, soy yo. Me queda poco. Te necesito.»Con este mensaje inesperado, el pasado vuelve para sacudir la vida de un antiguo agente secreto...</summary>
+    <link href="../book_0/book_657.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Recordarán tu nombre</title>
+    <id>calibre:book:1691</id>
+    <updated>2024-07-29T11:15:46Z</updated>
+    <link href="../../Lorenzo%20Silva/Recordaran%20tu%20nombre%20%281691%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Recordaran%20tu%20nombre%20%281691%29/Recordaran%20tu%20nombre%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="886 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2017-05-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NOVELA DE UN HÉROE OLVIDADO. La historia desconocida del hombre que desobedeció la orden de alzarse contra la República.En esta novela, Lorenzo Silva narra en primera persona cómo descubrió uno de los momentos más heroicos y trágicos de la histori...</summary>
+    <link href="../book_1/book_1691.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pilar Cernuda</title>
+  <id>Calibre2opds:authors:171</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_171_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pilar Cernuda" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El síndrome de La Moncloa</title>
+    <id>calibre:book:243</id>
+    <updated>2023-02-02T08:58:30Z</updated>
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/El%20sindrome%20de%20La%20Moncloa%20-%20Pilar%20Cernuda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Pilar Cernuda</name>
+      <uri>../authors_0/authors_171_Page_1.xml</uri>
+    </author>
+    <published>2011-01-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="memorias" />
+    <category term="Crónica" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <summary>En palabras de la propia autora, esta es una «crónica oscura» sobre los cinco presidentes de la democracia española, que analiza de manera específica las profundas alteraciones de carácter que nuestros gobernantes han experimentado una vez afianzados...</summary>
+    <link href="../book_0/book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ian Rankin</title>
+  <id>Calibre2opds:authors:200</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_200_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ian Rankin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Sólo la oscuridad</title>
+    <id>calibre:book:292</id>
+    <updated>2023-02-09T11:32:42Z</updated>
+    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/Solo%20la%20oscuridad%20-%20William%20Mcilvanney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+    <author>
+      <name>William Mcilvanney</name>
+      <uri>../authors_0/authors_199_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ian Rankin</name>
+      <uri>../authors_0/authors_200_Page_1.xml</uri>
+    </author>
+    <published>2023-01-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Al joven agente Jack Laidlaw no le gusta trabajar en equipo, pero tiene un sexto sentido para lo que ocurre en las calles. Su jefe atribuye la violencia a las rivalidades de siempre, pero ¿es así de sencillo? Cuando se inicia la guerra entre dos band...</summary>
+    <link href="../book_0/book_292.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

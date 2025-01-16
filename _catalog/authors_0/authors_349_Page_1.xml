@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mieko Kawakami</title>
+  <id>Calibre2opds:authors:349</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_349_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mieko Kawakami" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <entry>
+    <title>Heaven</title>
+    <id>calibre:book:466</id>
+    <updated>2023-03-24T09:44:12Z</updated>
+    <link href="../../Mieko%20Kawakami/Heaven%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mieko%20Kawakami/Heaven%20%28466%29/Heaven%20-%20Mieko%20Kawakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="534 KB" />
+    <author>
+      <name>Mieko Kawakami</name>
+      <uri>../authors_0/authors_349_Page_1.xml</uri>
+    </author>
+    <published>2023-02-17T00:04:08Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Mieko Kawakami es un genio.» Naoise Dolan«Una historia profundamente inquietante y magistralmente narrada sobre la violencia adolescente.» Vogue«Desgarradora.» TIME«Nunca podré olvidar la sensación de puro asombro que sentí cuando leí por primera ve...</summary>
+    <link href="../book_0/book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

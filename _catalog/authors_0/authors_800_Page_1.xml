@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jorge Dezcallar</title>
+  <id>Calibre2opds:authors:800</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_800_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jorge Dezcallar" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Espía accidental</title>
+    <id>calibre:book:1098</id>
+    <updated>2023-12-28T03:38:22Z</updated>
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/Espia%20accidental%20-%20Jorge%20Dezcallar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Jorge Dezcallar</name>
+      <uri>../authors_0/authors_800_Page_1.xml</uri>
+    </author>
+    <published>2021-09-15T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Asís está de vuelta en Damasco, la ciudad que le vio nacer, tras varios años pagando sus errores de juventud en la Legión Extranjera. Un agente del CNI le ha hecho una tentadora propuesta para trabajar con los servicios de inteligencia españoles, y e...</summary>
+    <link href="../book_1/book_1098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

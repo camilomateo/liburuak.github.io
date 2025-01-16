@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jean-Pierre Changeux</title>
+  <id>Calibre2opds:authors:279</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_279_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jean-Pierre Changeux" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Las neuronas encantadas: El cerebro y la música</title>
+    <id>calibre:book:387</id>
+    <updated>2023-03-04T02:11:48Z</updated>
+    <link href="../../Pierre%20Boulez/Las%20neuronas%20encantadas_%20El%20cerebro%20%28387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Boulez/Las%20neuronas%20encantadas_%20El%20cerebro%20%28387%29/Las%20neuronas%20encantadas_%20El%20cer%20-%20Pierre%20Boulez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="830 KB" />
+    <author>
+      <name>Pierre Boulez</name>
+      <uri>../authors_0/authors_278_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jean-Pierre Changeux</name>
+      <uri>../authors_0/authors_279_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Phillipe Manoury</name>
+      <uri>../authors_0/authors_280_Page_1.xml</uri>
+    </author>
+    <published>2016-02-26T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Gedisa Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Es posible detectar qué partes del cerebro se activan mientras un compositor o un músico acomoda notas y escribe escalas? ¿Cómo pueden ayudar las nuevas tecnologías y las investigaciones en el campo de las neurociencias a comprender el fenómeno de l...</summary>
+    <link href="../book_0/book_387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

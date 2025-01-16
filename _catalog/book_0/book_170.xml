@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Caperucita Roja</title>
+  <id>urn:book:3acf7e16-547f-4b17-b5e1-6f566d7ca8f6</id>
+  <updated>2023-01-23T07:50:16Z</updated>
+  <link href="./book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Caperucita Roja" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authors_0/authors_105_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Charles Perrault" />
+  <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/Caperucita%20Roja%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="278 KB" />
+  <author>
+    <name>Charles Perrault</name>
+    <uri>../authors_0/authors_105_Page_1.xml</uri>
+  </author>
+  <published>2022-05-17T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>www.elejandria.com</dcterms:publisher>
+  <category term="CUENTOS INFANTILES" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      CUENTOS INFANTILES, Lang:es
+    </p>
+  </content>
+  <link href="../authors_0/authors_105_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Charles Perrault" />
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gregorio Luri</title>
+  <id>Calibre2opds:authors:579</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_579_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gregorio Luri" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>En busca del tiempo en que vivimos</title>
+    <id>calibre:book:774</id>
+    <updated>2023-05-25T00:58:48Z</updated>
+    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/En%20busca%20del%20tiempo%20en%20que%20vivi%20-%20Gregorio%20Luri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <author>
+      <name>Gregorio Luri</name>
+      <uri>../authors_0/authors_579_Page_1.xml</uri>
+    </author>
+    <published>2022-11-29T02:52:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>En todo momento histórico hay una tensión entre lo viejo que no se resigna a desaparecer y lo nuevo que no se decide a triunfar. Todo presente histórico es un interregno propicio para fenómenos monstruosos que sólo los que vengan después sabrán si f...</summary>
+    <link href="../book_0/book_774.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

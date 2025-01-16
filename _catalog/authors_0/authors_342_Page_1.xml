@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sandra Garryson</title>
+  <id>Calibre2opds:authors:342</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_342_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sandra Garryson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>La Rosa Negra</title>
+    <id>calibre:book:457</id>
+    <updated>2023-03-23T11:00:44Z</updated>
+    <link href="../../Sandra%20Garryson/La%20Rosa%20Negra%20%28457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandra%20Garryson/La%20Rosa%20Negra%20%28457%29/La%20Rosa%20Negra%20-%20Sandra%20Garryson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="643 KB" />
+    <author>
+      <name>Sandra Garryson</name>
+      <uri>../authors_0/authors_342_Page_1.xml</uri>
+    </author>
+    <published>2022-03-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿DARÍAS TU VIDA A CAMBIO DE UN OSCURO Y HORRIBLE SECRETO? Escocia, tierra de mitos y leyendas... y un internado en la punta norte de la isla. Para Alicia, lo que pensaba que serían los meses más largos de su vida encerrada en el Saint Louis, enseguid...</summary>
+    <link href="../book_0/book_457.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Erik Axl Sund</title>
+  <id>Calibre2opds:authors:1826</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1826_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Erik Axl Sund" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>La chica cuervo. Los rostros de Victoria Bergman</title>
+    <id>calibre:book:2790</id>
+    <updated>2025-01-09T08:21:55Z</updated>
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/La%20chica%20cuervo.%20Los%20rostros%20de%20-%20Erik%20Axl%20Sund.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="727 KB" />
+    <author>
+      <name>Erik Axl Sund</name>
+      <uri>../authors_1/authors_1826_Page_1.xml</uri>
+    </author>
+    <published>2024-11-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La edición omnibus del best seller internacional más oscuro de los últimos años: el psychothriller que lo empezó todo. Ahora, también en serie de TV. «Oscura, poderosa, desasosegante, terrorífica». The Times «Novela negra sueca llevada a su máxima y ...</summary>
+    <link href="../book_2/book_2790.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

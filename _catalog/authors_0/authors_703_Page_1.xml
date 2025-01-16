@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Daniela Dröscher</title>
+  <id>Calibre2opds:authors:703</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_703_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Daniela Dröscher" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Mentiras sobre mi madre</title>
+    <id>calibre:book:936</id>
+    <updated>2023-07-04T02:12:36Z</updated>
+    <link href="../../Daniela%20Droscher/Mentiras%20sobre%20mi%20madre%20%28936%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniela%20Droscher/Mentiras%20sobre%20mi%20madre%20%28936%29/Mentiras%20sobre%20mi%20madre%20-%20Daniela%20Droscher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <author>
+      <name>Daniela Dröscher</name>
+      <uri>../authors_0/authors_703_Page_1.xml</uri>
+    </author>
+    <published>2023-05-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La lucha de una mujer en una familia en la que el amor se pesa en una básculaFinalista del Premio Alemán del Libro 2022Daniela Dröscher narra cómo es crecer en una familia en la que todo gira alrededor de un único tema: el peso de la madre. ¿Está gor...</summary>
+    <link href="../book_0/book_936.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

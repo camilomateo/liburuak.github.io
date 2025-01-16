@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andrea Wulf</title>
+  <id>Calibre2opds:authors:529</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_529_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andrea Wulf" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <link href="../authorlist/authorlist_W_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>Magníficos rebeldes</title>
+    <id>calibre:book:709</id>
+    <updated>2023-05-17T01:18:18Z</updated>
+    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/Magnificos%20rebeldes%20-%20Andrea%20Wulf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>Andrea Wulf</name>
+      <uri>../authors_0/authors_529_Page_1.xml</uri>
+    </author>
+    <published>2022-11-03T06:00:00Z</published>
+    <dcterms:publisher>Taurus</dcterms:publisher>
+    <category term="Filosofía" />
+    <summary>Laaventurafilosófica de ungrupo dejóvenesrebeldes,elCírculo de Jena, quediolugar alRomanticismo y anuestracomprensiónmoderna de lalibertad.EL REGRESO DEANDREA WULF TRAS LA INVENCIÓN DE LA NATURALEZA«Magníficosrebeldesvibra con lapasiónsalvaje y las i...</summary>
+    <link href="../book_0/book_709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

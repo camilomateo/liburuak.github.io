@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Charles Jenkins</title>
+  <id>Calibre2opds:authors:222series:37</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_222_series_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Charles Jenkins" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="./authors_222_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robert Dugoni" />
+  <entry>
+    <title>1 - La octava hermana</title>
+    <id>calibre:book:547</id>
+    <updated>2023-04-11T09:33:22Z</updated>
+    <link href="../../Robert%20Dugoni/La%20octava%20hermana%20%28547%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Dugoni/La%20octava%20hermana%20%28547%29/La%20octava%20hermana%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Robert Dugoni</name>
+      <uri>../authors_0/authors_222_Page_1.xml</uri>
+    </author>
+    <published>2021-02-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Charles Jenkins" />
+    <summary>Charles Jenkins [1]: En el juego de espías contra espías no hay ganadores.Charles Jenkins, antiguo agente de operaciones de la CIA, se encuentra en una encrucijada. A sus sesenta años recién cumplidos, tiene una familia a la que cuidar, un bebé en ca...</summary>
+    <link href="../book_0/book_547.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - El tercer hombre</title>
+    <id>calibre:book:316</id>
+    <updated>2023-02-16T08:39:02Z</updated>
+    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/El%20tercer%20hombre%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="628 KB" />
+    <author>
+      <name>Robert Dugoni</name>
+      <uri>../authors_0/authors_222_Page_1.xml</uri>
+    </author>
+    <published>2022-12-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Charles Jenkins" />
+    <summary>Charles Jenkins [3]: La misión es nueva y los enemigos también, pero el objetivo es el mismo de siempre: sobrevivir. Cuando el agente Charles Jenkins se decide por fin a dar carpetazo a los juegos de espías, dos infiltradas en la Administración rusa ...</summary>
+    <link href="../book_0/book_316.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

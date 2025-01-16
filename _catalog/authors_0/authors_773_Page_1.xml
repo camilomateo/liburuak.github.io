@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>José Ramón Ayllón</title>
+  <id>Calibre2opds:authors:773</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_773_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="José Ramón Ayllón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>En torno al hombre</title>
+    <id>calibre:book:1056</id>
+    <updated>2023-11-01T07:27:33Z</updated>
+    <link href="../../Jose%20Ramon%20Ayllon/En%20torno%20al%20hombre%20%281056%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ramon%20Ayllon/En%20torno%20al%20hombre%20%281056%29/En%20torno%20al%20hombre%20-%20Jose%20Ramon%20Ayllon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="513 KB" />
+    <author>
+      <name>José Ramón Ayllón</name>
+      <uri>../authors_0/authors_773_Page_1.xml</uri>
+    </author>
+    <published>2023-10-23T04:15:34Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ediciones Rialp, S.A.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Este libro ha hecho atractiva la Filosofía a numerosas promociones de Bachillerato. De ahí su constante reedición. Y es que ha nacido después de mil intentos de explicar con amenidad las preguntas esenciales.Se centra, sobre todo, en esas cualidades...</summary>
+    <link href="../book_1/book_1056.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

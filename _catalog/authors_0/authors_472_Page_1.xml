@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ana Andreu Baquero</title>
+  <id>Calibre2opds:authors:472</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_472_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ana Andreu Baquero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>La princesa de Buchenwald</title>
+    <id>calibre:book:634</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Ana%20Andreu%20Baquero/La%20princesa%20de%20Buchenwald%20%28634%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Andreu%20Baquero/La%20princesa%20de%20Buchenwald%20%28634%29/La%20princesa%20de%20Buchenwald%20-%20Ana%20Andreu%20Baquero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Ana Andreu Baquero</name>
+      <uri>../authors_0/authors_472_Page_1.xml</uri>
+    </author>
+    <published>2023-06-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros de Seda</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una princesa italiana que pasó de vivir en los más fastuosos palacios a acabar en un campo de concentración nazi a la que la historia casi borró de sus anales: Mafalda de Saboya.Weimar, 1945. Poco después de la liberación del campo de concentración d...</summary>
+    <link href="../book_0/book_634.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lucía Rivera</title>
+  <id>Calibre2opds:authors:547</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_547_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lucía Rivera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Nada es lo que parece</title>
+    <id>calibre:book:732</id>
+    <updated>2023-05-17T01:40:58Z</updated>
+    <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/Nada%20es%20lo%20que%20parece%20-%20Lucia%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+    <author>
+      <name>Lucía Rivera</name>
+      <uri>../authors_0/authors_547_Page_1.xml</uri>
+    </author>
+    <published>2023-02-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Lucía Rivera es una de nuestras modelos nacionales e internacionales más reconocidas. Desde pequeña ha sido testigo del interés mediático hacia su familia y ha estado rodeada por la fama. Sin embargo, no todo ha sido fácil en su vida. Y eso es lo que...</summary>
+    <link href="../book_0/book_732.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

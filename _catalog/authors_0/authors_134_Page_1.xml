@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alnoor Ebrahim</title>
+  <id>Calibre2opds:authors:134</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_134_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alnoor Ebrahim" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Midiendo el cambio social</title>
+    <id>calibre:book:207</id>
+    <updated>2023-01-26T07:25:44Z</updated>
+    <link href="../../Alnoor%20Ebrahim/Midiendo%20el%20cambio%20social%20%28207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alnoor%20Ebrahim/Midiendo%20el%20cambio%20social%20%28207%29/Midiendo%20el%20cambio%20social%20-%20Alnoor%20Ebrahim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Alnoor Ebrahim</name>
+      <uri>../authors_0/authors_134_Page_1.xml</uri>
+    </author>
+    <published>2020-10-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>A diferencia de lo que sucede en el sector privado con ánimo de lucro, no siempre es fácil medir cuál es el desempeño social de los proyectos llevados a cabo por organizaciones no gubernamentales, emprendedores sociales, organismos de asistencia soci...</summary>
+    <link href="../book_0/book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

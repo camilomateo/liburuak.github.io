@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Reyes Martínez</title>
+  <id>Calibre2opds:authors:679</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_679_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Reyes Martínez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>El ángel vacío</title>
+    <id>calibre:book:2627</id>
+    <updated>2024-10-16T09:57:39Z</updated>
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="469 KB" />
+    <author>
+      <name>Reyes Martínez</name>
+      <uri>../authors_0/authors_679_Page_1.xml</uri>
+    </author>
+    <published>2024-09-06T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller enigmático que nos acerca a los rincones más siniestros del alma humana. Una historia tan perversa como difícil de olvidar.
+No apartes la mirada.
+Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón está siendo tan t...</summary>
+    <link href="../book_2/book_2627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una pieza de más</title>
+    <id>calibre:book:906</id>
+    <updated>2023-06-26T05:25:22Z</updated>
+    <link href="../../Reyes%20Martinez/Una%20pieza%20de%20mas%20%28906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Martinez/Una%20pieza%20de%20mas%20%28906%29/Una%20pieza%20de%20mas%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <author>
+      <name>Reyes Martínez</name>
+      <uri>../authors_0/authors_679_Page_1.xml</uri>
+    </author>
+    <published>2023-05-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un asesino en serie. Una autopsia desconcertante. Y una pieza que no acaba de encajar. Un thriller inmersivo. Una trama adictiva. Un rompecabezas que te obsesionará. El cadáver de un joven aparece en una fábrica abandonada del centro de Madrid. La ví...</summary>
+    <link href="../book_0/book_906.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

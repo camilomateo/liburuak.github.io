@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>K. L. Walther</title>
+  <id>Calibre2opds:authors:583</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_583_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="K. L. Walther" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>El verano en el que rompimos las normas</title>
+    <id>calibre:book:781</id>
+    <updated>2023-05-25T01:33:02Z</updated>
+    <link href="../../K.%20L.%20Walther/El%20verano%20en%20el%20que%20rompimos%20las%20no%20%28781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../K.%20L.%20Walther/El%20verano%20en%20el%20que%20rompimos%20las%20no%20%28781%29/El%20verano%20en%20el%20que%20rompimos%20la%20-%20K.%20L.%20Walther.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <author>
+      <name>K. L. Walther</name>
+      <uri>../authors_0/authors_583_Page_1.xml</uri>
+    </author>
+    <published>2023-05-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ideal para los fans de Colleen Hoover, Alice Kellen y toda novela de romance contemporáneo,¡Una novela inspirada en las canciones de Taylor Swift!BEST SELLER DEL USA TODAY.UN ADORABLE ROMANCE DE VERANO.UNA SERIE DE HILARANTES ENGAÑOS FAMILIARES.UNA B...</summary>
+    <link href="../book_0/book_781.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

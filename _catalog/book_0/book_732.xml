@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nada es lo que parece</title>
+  <id>urn:book:23e66597-5ecc-4822-93b9-53887f54da68</id>
+  <updated>2023-05-17T01:40:58Z</updated>
+  <link href="./book_732.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nada es lo que parece" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/Nada%20es%20lo%20que%20parece%20-%20Lucia%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+  <author>
+    <name>Lucía Rivera</name>
+    <uri>../authors_0/authors_547_Page_1.xml</uri>
+  </author>
+  <published>2023-02-26T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Espasa</dcterms:publisher>
+  <category term="Autoayuda" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Autoayuda, Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <p align="justify">Lucía Rivera es una de nuestras
+      modelos nacionales e internacionales más reconocidas.
+      Desde pequeña ha sido testigo del interés
+      mediático hacia su familia y ha estado rodeada por la
+      fama. Sin embargo, no todo ha sido fácil en su vida. Y
+      eso es lo que cuenta en este libro: un nacimiento con
+      dificultades, una vida escolar complicada, su entrada en el
+      mundo de la moda —en el que nada es lo que
+      parece— y muchas cosas más. Un testimonio sincero
+      que servirá de inspiración a muchos jóvenes de
+      nuestros días.</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_547_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Lucía Rivera" />
+</entry>

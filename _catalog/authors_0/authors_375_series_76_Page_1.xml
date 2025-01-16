@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Trilogía de la Ciudad Blanca</title>
+  <id>Calibre2opds:authors:375series:76</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_375_series_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Trilogía de la Ciudad Blanca" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <link href="./authors_375_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eva García Saénz de Urturi" />
+  <entry>
+    <title>3 - Los señores del tiempo</title>
+    <id>calibre:book:604</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20senores%20del%20tiempo%20%28604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20senores%20del%20tiempo%20%28604%29/Los%20senores%20del%20tiempo%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="956 KB" />
+    <author>
+      <name>Eva García Saénz de Urturi</name>
+      <uri>../authors_0/authors_375_Page_1.xml</uri>
+    </author>
+    <published>2018-09-15T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía de la Ciudad Blanca" />
+    <summary>Trilogía de la Ciudad Blanca [3]: Vitoria, 2019. Los señores del tiempo, una épica novela histórica ambientada en el medievo, se publica con gran éxito bajo un misterioso pseudónimo: Diego Veilaz.Victoria, 1192. Diago Vela, el legendario conde don Ve...</summary>
+    <link href="../book_0/book_604.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

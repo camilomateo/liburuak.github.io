@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alan Parks</title>
+  <id>Calibre2opds:authors:450</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_450_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alan Parks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Muerte en abril</title>
+    <id>calibre:book:608</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../Alan%20Parks/Muerte%20en%20abril%20%28608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alan%20Parks/Muerte%20en%20abril%20%28608%29/Muerte%20en%20abril%20-%20Alan%20Parks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="911 KB" />
+    <author>
+      <name>Alan Parks</name>
+      <uri>../authors_0/authors_450_Page_1.xml</uri>
+    </author>
+    <published>2023-01-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una preciosa novela sobre secretos familiares, recetas escondidas, amores perdidos y las pasiones que heredamos de nuestros padres.¿Cuáles son los sabores que quedan grabados en nuestra memoria?Los recuerdos vuelven a Julien a fuego lento ahora que d...</summary>
+    <link href="../book_0/book_608.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

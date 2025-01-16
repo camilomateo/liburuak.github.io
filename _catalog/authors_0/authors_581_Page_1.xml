@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Karin Slaughter</title>
+  <id>Calibre2opds:authors:581</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_581_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Karin Slaughter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Después de esa noche</title>
+    <id>calibre:book:1505</id>
+    <updated>2024-05-10T08:43:28Z</updated>
+    <link href="../../Karin%20Slaughter/Despues%20de%20esa%20noche%20%281505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karin%20Slaughter/Despues%20de%20esa%20noche%20%281505%29/Despues%20de%20esa%20noche%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Karin Slaughter</name>
+      <uri>../authors_0/authors_581_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>El investigador del GBI Will Trent y la forense Sara Linton regresan en un thriller trepidante de la mano de Karin Slaughter, la autora superventas del New York Times.Hace quince años, la vida de Sara Linton dio un vuelco cuando, ...</summary>
+    <link href="../book_1/book_1505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Falso testigo</title>
+    <id>calibre:book:779</id>
+    <updated>2023-05-25T01:33:00Z</updated>
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/Falso%20testigo%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <author>
+      <name>Karin Slaughter</name>
+      <uri>../authors_0/authors_581_Page_1.xml</uri>
+    </author>
+    <published>2022-04-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Su pasado siempre la ha perseguido, ahora su pasado quiere darle caza. UNA VIDA ORDINARIA... Leigh Collier ha trabajado duro para construir una vida aparentemente normal. Es abogada defensora en un prestigioso bufete de abogados en Atlanta, haría cua...</summary>
+    <link href="../book_0/book_779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

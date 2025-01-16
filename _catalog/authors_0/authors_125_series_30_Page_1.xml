@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Los Reinos</title>
+  <id>Calibre2opds:authors:125series:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_125_series_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Los Reinos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="C.M. Carney" />
+  <entry>
+    <title>1 - El Rey del Túmulo</title>
+    <id>calibre:book:199</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/El%20Rey%20del%20Tumulo%20-%20C.M.%20Carney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <author>
+      <name>C.M. Carney</name>
+      <uri>../authors_0/authors_125_Page_1.xml</uri>
+    </author>
+    <published>2022-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Los Reinos" />
+    <summary>Los Reinos [1]: Traicionado por los más cercanos a él, Finn Caldwell pensó que había escapado de su vida de violencia y engaño. Pero cuando un mensaje frenético de su distante hermana lo lleva a Los Reinos, un extraño mundo de magia y maravilla simil...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

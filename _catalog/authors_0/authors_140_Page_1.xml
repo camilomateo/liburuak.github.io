@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lucy Adlington</title>
+  <id>Calibre2opds:authors:140</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_140_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lucy Adlington" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Las modistas de Auschwitz</title>
+    <id>calibre:book:213</id>
+    <updated>2023-01-27T10:32:30Z</updated>
+    <link href="../../Lucy%20Adlington/Las%20modistas%20de%20Auschwitz%20%28213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucy%20Adlington/Las%20modistas%20de%20Auschwitz%20%28213%29/Las%20modistas%20de%20Auschwitz%20-%20Lucy%20Adlington.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="21 MB" />
+    <author>
+      <name>Lucy Adlington</name>
+      <uri>../authors_0/authors_140_Page_1.xml</uri>
+    </author>
+    <published>2022-05-04T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las modistas de Auschwitz                                     cuenta la historia de las veinticinco mujeres y adolescentes, la mayoría judías, que en medio del horror absoluto del campo de exterminio de Auschwitz-Birkenau fueron seleccionadas par...</summary>
+    <link href="../book_0/book_213.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

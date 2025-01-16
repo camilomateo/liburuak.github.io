@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michael Robotham</title>
+  <id>Calibre2opds:authors:61</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_61_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michael Robotham" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Secretos ocultos</title>
+    <id>calibre:book:958</id>
+    <updated>2023-08-01T05:26:10Z</updated>
+    <link href="../../Michael%20Robotham/Secretos%20ocultos%20%28958%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Robotham/Secretos%20ocultos%20%28958%29/Secretos%20ocultos%20-%20Michael%20Robotham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="533 KB" />
+    <author>
+      <name>Michael Robotham</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2020-07-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Agatha está embarazada, trabaja a tiempo parcial como reponedora en una tienda de alimentación de los suburbios de Londres, contando los días para que su bebé nazca. Sus turnos de trabajo parecen interminables, lo que hace que cada día aumente más su...</summary>
+    <link href="../book_0/book_958.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vivo o muerto</title>
+    <id>calibre:book:88</id>
+    <updated>2023-01-18T00:09:26Z</updated>
+    <link href="../../Michael%20Robotham/Vivo%20o%20muerto%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Robotham/Vivo%20o%20muerto%20%2888%29/Vivo%20o%20muerto%20-%20Michael%20Robotham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="667 KB" />
+    <author>
+      <name>Michael Robotham</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2017-05-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial de Libros</dcterms:publisher>
+    <category term="Prisión" />
+    <category term="policía" />
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <summary>Audie Palmer ha pasado los últimos diez años de su vida en prisión por un delito de robo armado, en el que, cuatro personas resultaron muertas, incluyendo a dos miembros de la banda de asaltantes. Siete millones de dólares desaparecieron en dicho rob...</summary>
+    <link href="../book_0/book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

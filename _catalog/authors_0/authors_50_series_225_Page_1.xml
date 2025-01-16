@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Biblioteca PruébaT</title>
+  <id>Calibre2opds:authors:50series:225</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_50_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Biblioteca PruébaT" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="./authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="James Joyce" />
+  <entry>
+    <title>218 - Ulises</title>
+    <id>calibre:book:2397</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../James%20Joyce/Ulises%20%282397%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Joyce/Ulises%20%282397%29/Ulises%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="932 KB" />
+    <author>
+      <name>James Joyce</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [218]:</summary>
+    <link href="../book_2/book_2397.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>223 - Retrato del artista adolescente</title>
+    <id>calibre:book:2398</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../James%20Joyce/Retrato%20del%20artista%20adolescente%20%282398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Joyce/Retrato%20del%20artista%20adolescente%20%282398%29/Retrato%20del%20artista%20adolescente%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="261 KB" />
+    <author>
+      <name>James Joyce</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [223]:</summary>
+    <link href="../book_2/book_2398.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>225 - Dublineses</title>
+    <id>calibre:book:2396</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../James%20Joyce/Dublineses%20%282396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Joyce/Dublineses%20%282396%29/Dublineses%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <author>
+      <name>James Joyce</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [225]:</summary>
+    <link href="../book_2/book_2396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

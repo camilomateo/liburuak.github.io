@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julia Franck</title>
+  <id>Calibre2opds:authors:566</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_566_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julia Franck" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>La extraña soy yo</title>
+    <id>calibre:book:757</id>
+    <updated>2023-05-22T05:06:58Z</updated>
+    <link href="../../Julia%20Franck/La%20extrana%20soy%20yo%20%28757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Franck/La%20extrana%20soy%20yo%20%28757%29/La%20extrana%20soy%20yo%20-%20Julia%20Franck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="554 KB" />
+    <author>
+      <name>Julia Franck</name>
+      <uri>../authors_0/authors_566_Page_1.xml</uri>
+    </author>
+    <published>2023-05-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El estremecedor relato autobiográfico de la gran autora alemana: una historia de supervivencia, de autoafirmación y de amor. Todo arranca de un recuerdo: una soleada mañana de mayo de 1992, en un pequeño apartamento de Berlín donde reinan los libros,...</summary>
+    <link href="../book_0/book_757.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

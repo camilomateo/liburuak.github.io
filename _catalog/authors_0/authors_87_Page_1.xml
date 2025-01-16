@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ramón Tamames</title>
+  <id>Calibre2opds:authors:87</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ramón Tamames" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>La mitad del mundo que fue de España</title>
+    <id>calibre:book:139</id>
+    <updated>2023-01-19T08:55:14Z</updated>
+    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/La%20mitad%20del%20mundo%20que%20fue%20de%20E%20-%20Ramon%20Tamames.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="28 MB" />
+    <author>
+      <name>Ramón Tamames</name>
+      <uri>../authors_0/authors_87_Page_1.xml</uri>
+    </author>
+    <published>2021-03-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En otro tiempo España estuvo al frente de las naciones, en cuanto a títulos de posesión y conquista, en lo que geográficamente fue medio mundo. Eso no sucedió por casualidad: al término de ocho siglos de reconquista en la Península, los españoles lle...</summary>
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

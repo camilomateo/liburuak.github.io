@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Allegra Marchetti</title>
+  <id>Calibre2opds:authors:763</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_763_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Allegra Marchetti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Mamá no Grites</title>
+    <id>calibre:book:1035</id>
+    <updated>2023-10-20T01:12:30Z</updated>
+    <link href="../../Allegra%20Marchetti/Mama%20no%20Grites%20%281035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Allegra%20Marchetti/Mama%20no%20Grites%20%281035%29/Mama%20no%20Grites%20-%20Allegra%20Marchetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="865 KB" />
+    <author>
+      <name>Allegra Marchetti</name>
+      <uri>../authors_0/authors_763_Page_1.xml</uri>
+    </author>
+    <published>2023-08-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Librolandia</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Sientes que la situación se te está escapando de las manos?Estás agotada de seguir gritando y perdiendo el control con tus hijos?Te enfrentas a rabietas, demandas constantes y momentos de total desconexión con tus hijos?Si has pronunciado estas frase...</summary>
+    <link href="../book_1/book_1035.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

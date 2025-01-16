@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por C</title>
+  <id>Calibre2opds:allbooks:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
+  <link href="../allbooks/allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 13)" />
+  <entry>
+    <title>Ciudad de los sueños</title>
+    <id>calibre:book:1155</id>
+    <updated>2024-01-25T08:39:50Z</updated>
+    <link href="../../Don%20Winslow/Ciudad%20de%20los%20suenos%20%281155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Ciudad%20de%20los%20suenos%20%281155%29/Ciudad%20de%20los%20suenos%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../authors_0/authors_842_Page_1.xml</uri>
+    </author>
+    <published>2023-03-15T10:37:01Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>"Elegido uno de los mejores libros de 2023 por Amazon,""Don Winslow primer ganador extranjero del premio José Luis Sampedro"Tras Ciudad en llamas, la ambiciosa epopeya que alcanzó instantáneamente la lista de los más vendidos del New York Times y qu...</summary>
+    <link href="../book_1/book_1155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ciudad en ruinas</title>
+    <id>calibre:book:1484</id>
+    <updated>2024-04-30T05:13:18Z</updated>
+    <link href="../../Don%20Winslow/Ciudad%20en%20ruinas%20%281484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Ciudad%20en%20ruinas%20%281484%29/Ciudad%20en%20ruinas%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../authors_0/authors_842_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Tras Ciudad en llamas y Ciudad de los sueños, llega Ciudad en ruinas, el explosivo y trepidante final de la épica trilogía policíaca de Don Winslow, autor superventas del New York Times, y el último libro de su extraordinaria carrera.A veces tienes q...</summary>
+    <link href="../book_1/book_1484.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ciudades de la Bética</title>
+    <id>calibre:book:414</id>
+    <updated>2023-03-14T04:30:30Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2021-09-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación José Manuel Lara</dcterms:publisher>
+    <category term="Ciudades andaluzas en la Historia" />
+    <category term="Lang:es" />
+    <summary>Dos amigos aficionados a la arqueología y a la vida, Bonoso y su huésped el escocés Angus, se proponen visitar las antiguas ciudades de la Bética, aquella próspera provincia cuyos límites casi coincidían con los de la Andalucía actual. En animada con...</summary>
+    <link href="../book_0/book_414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Clarity</title>
+    <id>calibre:book:579</id>
+    <updated>2023-04-28T01:16:50Z</updated>
+    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/Clarity%20-%20Daniel%20San%20Martin%20Sepulveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Daniel San Martín Sepúlveda</name>
+      <uri>../authors_0/authors_432_Page_1.xml</uri>
+    </author>
+    <published>2022-01-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta Chile</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vivimos tiempos complejos, en el sentido de la gran cantidad de información que se produce y que parece ser imposible de relacionar o digerir. A esta gran dificultad inicial se enfrenta Daniel San Martin en su libro Clarity, que, como su nombre sugie...</summary>
+    <link href="../book_0/book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Claudio Oronoz</title>
+    <id>calibre:book:2029</id>
+    <updated>2024-09-06T01:57:48Z</updated>
+    <link href="../../Ruben%20M.%20Campos/Claudio%20Oronoz%20%282029%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruben%20M.%20Campos/Claudio%20Oronoz%20%282029%29/Claudio%20Oronoz%20-%20Ruben%20M.%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="273 KB" />
+    <author>
+      <name>Rubén M. Campos</name>
+      <uri>../authors_1/authors_1459_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [80]:</summary>
+    <link href="../book_2/book_2029.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Clemencia</title>
+    <id>calibre:book:2019</id>
+    <updated>2024-09-06T01:57:46Z</updated>
+    <link href="../../Ignacio%20Manuel%20Altamirano/Clemencia%20%282019%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ignacio%20Manuel%20Altamirano/Clemencia%20%282019%29/Clemencia%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <author>
+      <name>Ignacio Manuel Altamirano</name>
+      <uri>../authors_1/authors_1429_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [14]:</summary>
+    <link href="../book_2/book_2019.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Club del Crimen de los Jueves</title>
+    <id>calibre:book:1190</id>
+    <updated>2024-02-01T10:12:45Z</updated>
+    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/El%20Club%20del%20Crimen%20de%20los%20Jueve%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <author>
+      <name>Richard Osman</name>
+      <uri>../authors_0/authors_777_Page_1.xml</uri>
+    </author>
+    <published>2020-07-16T03:20:29Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En un pacífico complejo privado para jubilados, cuatro improbables amigos se reúnen una vez a la semana para revisar antiguos casos de asesinatos locales que quedaron sin resolver. Ellos son Ron, un exactivista socialista lleno de tatuajes y revoluci...</summary>
+    <link href="../book_1/book_1190.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina con microondas</title>
+    <id>calibre:book:1049</id>
+    <updated>2023-11-01T07:27:31Z</updated>
+    <link href="../../Fundacion%20Alicia/Cocina%20con%20microondas%20%281049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fundacion%20Alicia/Cocina%20con%20microondas%20%281049%29/Cocina%20con%20microondas%20-%20Fundacion%20Alicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="39 MB" />
+    <author>
+      <name>Fundación Alícia</name>
+      <uri>../authors_0/authors_769_Page_1.xml</uri>
+    </author>
+    <published>2022-03-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Larousse</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una guía imprescindible para aprender a cocinar con microondas. El microondas sirve para cocinar y no solo para calentar o descongelar alimentos. Este libro muestra cómo sacarle el máximo partido. ¡Porque una alimentación sana, segura, sostenible, d...</summary>
+    <link href="../book_1/book_1049.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina día a día</title>
+    <id>calibre:book:55</id>
+    <updated>2023-01-17T10:56:06Z</updated>
+    <link href="../../Karlos%20Arguinano/Cocina%20dia%20a%20dia%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karlos%20Arguinano/Cocina%20dia%20a%20dia%20%2855%29/Cocina%20dia%20a%20dia%20-%20Karlos%20Arguinano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="54 MB" />
+    <author>
+      <name>Karlos Arguiñano</name>
+      <uri>../authors_0/authors_40_Page_1.xml</uri>
+    </author>
+    <published>2019-10-15T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="cocina" />
+    <category term="Lang:es" />
+    <summary>A falta de ideas, bueno es un recetario. Sabedor de que cada vez tenemos menos tiempo para pensar qué hacer para comer, Karlos Arguiñano nos propone 365 menús completos para que no repitamos plato ni un solo día del año.Raviolis de queso y zanahoria,...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina en casa con Martín Berasategui</title>
+    <id>calibre:book:1317</id>
+    <updated>2024-03-21T01:00:27Z</updated>
+    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/Cocina%20en%20casa%20con%20Martin%20Beras%20-%20Martin%20Berasategui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="714 KB" />
+    <author>
+      <name>Martín Berasategui</name>
+      <uri>../authors_0/authors_959_Page_1.xml</uri>
+    </author>
+    <published>2018-11-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>De la mano de Martín Berasategui, uno de nuestros grandes chefs  internacionales, 1.100 recetas imprescindibles para la cocina de cualquier casa. Tapas, bocadillos, ensaladas, sopas, verduras, huevos, arroces,  pescados, carnes, salsas, postres, pane...</summary>
+    <link href="../book_1/book_1317.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina familiar</title>
+    <id>calibre:book:1643</id>
+    <updated>2024-06-22T02:04:43Z</updated>
+    <link href="../../Javier%20Romero/Cocina%20familiar%20%281643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Romero/Cocina%20familiar%20%281643%29/Cocina%20familiar%20-%20Javier%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Javier Romero</name>
+      <uri>../authors_1/authors_1187_Page_1.xml</uri>
+    </author>
+    <published>2017-05-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>200 recetas de la mano del cocinero más popular en internet. Un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas. Son los platos de la abuela, los guisos, las verduras de la huerta, ...</summary>
+    <link href="../book_1/book_1643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina japonesa</title>
+    <id>calibre:book:57</id>
+    <updated>2023-08-30T08:44:20Z</updated>
+    <link href="../../Paul%20Stevan/Cocina%20japonesa%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20Stevan/Cocina%20japonesa%20%2857%29/Cocina%20japonesa%20-%20Paul%20Stevan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="161 MB" />
+    <author>
+      <name>Paul Stevan</name>
+      <uri>../authors_0/authors_42_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cocina en casa como lo hacen en Japón. El placer de un buen sushi, el calor reconfortante del ramen o el  intenso sabor del pollo al teriyaki... Somos muchos los que nos hemos dejado seducir por la tradición culinaria de Japón. Este elegante recetari...</summary>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocina o barbarie</title>
+    <id>calibre:book:677</id>
+    <updated>2023-05-15T05:51:32Z</updated>
+    <link href="../../Maria%20Nicolau/Cocina%20o%20barbarie%20%28677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Nicolau/Cocina%20o%20barbarie%20%28677%29/Cocina%20o%20barbarie%20-%20Maria%20Nicolau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="720 KB" />
+    <author>
+      <name>María Nicolau</name>
+      <uri>../authors_0/authors_503_Page_1.xml</uri>
+    </author>
+    <published>2022-09-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Península</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Nos da tanta pereza preparar la cena que con la cantidad suficiente de azúcar seríamos capaces de comernos cualquier mierda, pensar que está buena y defenderla a capa y espada. No seáis bárbaros, ¡cocinad!»Cocinar no es seguir unas instrucciones, ni...</summary>
+    <link href="../book_0/book_677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cocinar</title>
+    <id>calibre:book:1744</id>
+    <updated>2024-08-26T10:56:06Z</updated>
+    <link href="../../Michael%20Pollan/Cocinar%20%281744%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Pollan/Cocinar%20%281744%29/Cocinar%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Michael Pollan</name>
+      <uri>../authors_1/authors_1249_Page_1.xml</uri>
+    </author>
+    <published>2015-07-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Los cocineros trabajan con materia viva, no solo con teclados y con pantallas, sino con cosas fundamentales como plantas, animales y hongos. También trabajan con los elementos: el fuego, el agua, la tierra y el aire, y los utilizan -¡los dominan!- p...</summary>
+    <link href="../book_1/book_1744.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Colate por Nicolás</title>
+    <id>calibre:book:364</id>
+    <updated>2023-02-27T01:48:14Z</updated>
+    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/Colate%20por%20Nicolas%20-%20Nicolas%20Vallejo-Nagera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <author>
+      <name>Nicolás Vallejo-Nágera</name>
+      <uri>../authors_0/authors_259_Page_1.xml</uri>
+    </author>
+    <published>2022-05-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La historia que nunca creí que contaríaNicolás Vallejo-Nágera, miembro de una de las sagas familiares más respetadas y uno de los personajes más queridos del país, reflexiona en estas apasionantes páginas sobre los detalles más desconocidos de su vid...</summary>
+    <link href="../book_0/book_364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Colección Thriller Psicológico</title>
+    <id>calibre:book:1801</id>
+    <updated>2024-08-26T10:56:18Z</updated>
+    <link href="../../Jana%20Crespo/Coleccion%20Thriller%20Psicologico%20%281801%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jana%20Crespo/Coleccion%20Thriller%20Psicologico%20%281801%29/Coleccion%20Thriller%20Psicologico%20-%20Jana%20Crespo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="424 KB" />
+    <author>
+      <name>Jana Crespo</name>
+      <uri>../authors_1/authors_1293_Page_1.xml</uri>
+    </author>
+    <published>2024-08-13T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Lee GRATIS, con Kindle Unlimited, esta colección de tres novelas de thriller psicológico. ⭐⭐⭐⭐⭐” Atrapa de principio a fin”⭐⭐⭐⭐⭐” Un tono ágil que te engancha, tiene ritmo y unos personajes creíbles”⭐⭐⭐⭐⭐” La historia engancha hasta el final”⭐⭐⭐⭐⭐ "M...</summary>
+    <link href="../book_1/book_1801.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 1 de 3</title>
+    <id>calibre:book:2526</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/Comedias%2C%20tomo%201%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 2 de 3</title>
+    <id>calibre:book:2528</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/Comedias%2C%20tomo%202%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="213 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 3 de 3</title>
+    <id>calibre:book:2529</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/Comedias%2C%20tomo%203%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="199 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comentarios Reales de los Incas</title>
+    <id>calibre:book:2005</id>
+    <updated>2024-09-06T01:57:43Z</updated>
+    <link href="../../Inca%20Garcilaso/Comentarios%20Reales%20de%20los%20Incas%20%282005%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Inca%20Garcilaso/Comentarios%20Reales%20de%20los%20Incas%20%282005%29/Comentarios%20Reales%20de%20los%20Incas%20-%20Inca%20Garcilaso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="272 KB" />
+    <author>
+      <name>Inca Garcilaso</name>
+      <uri>../authors_1/authors_1437_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2005.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Como ganar amigos e influir sobre las personas</title>
+    <id>calibre:book:274</id>
+    <updated>2023-02-03T08:43:30Z</updated>
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <author>
+      <name>Dale Carnegie</name>
+      <uri>../authors_0/authors_186_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="religion_self" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Como hacer que te pasen cosas buenas</title>
+    <id>calibre:book:1345</id>
+    <updated>2024-03-21T01:00:33Z</updated>
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/Como%20hacer%20que%20te%20pasen%20cosas%20b%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <author>
+      <name>Marian Rojas Estapé</name>
+      <uri>../authors_0/authors_427_Page_1.xml</uri>
+    </author>
+    <published>2018-03-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Uniendo el punto de vista científico, psicológico y humano, la autora nos ofrece una reflexión profunda, salpicada de útiles consejos y con vocación eminentemente didáctica, acerca de la aplicación de nuestras propias capacidades al empeño de procura...</summary>
+    <link href="../book_1/book_1345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Con la luz encendida</title>
+    <id>calibre:book:2566</id>
+    <updated>2024-09-09T03:24:00Z</updated>
+    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/Con%20la%20luz%20encendida%20-%20Monica%20de%20Cristobal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="796 KB" />
+    <author>
+      <name>Mónica de Cristóbal</name>
+      <uri>../authors_1/authors_1690_Page_1.xml</uri>
+    </author>
+    <published>2024-09-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>NdeNovela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Quién decide qué está bien y qué está mal? Dos madres enfrentadas a sus miedos. Un acto de amor puro.Tras el fallecimiento de su marido, Celia Fuertes se enfrenta a la difícil tarea de criar sola a sus tres hijos mientras sigue adelante con su carre...</summary>
+    <link href="../book_2/book_2566.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Con mucha hambre y poco tiempo</title>
+    <id>calibre:book:1466</id>
+    <updated>2024-04-30T04:46:10Z</updated>
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/Con%20mucha%20hambre%20y%20poco%20tiempo%20-%20Ismael%20Salamanca%20%28%40ismaelcocini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="32 MB" />
+    <author>
+      <name>Ismael Salamanca (@ismaelcocinillas)</name>
+      <uri>../authors_1/authors_1072_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Eres de los que tienen siempre mucha hambre y poco tiempo? ¿Te apetece probar sabores nuevos como el katsu sando o el falso risotto? ¿Te pirra el queso y quieres cocinar combinaciones imposibles, como las palomitas de parmesano? ¿No te resistes a un...</summary>
+    <link href="../book_1/book_1466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conexiones perdidas</title>
+    <id>calibre:book:1258</id>
+    <updated>2024-03-01T02:15:57Z</updated>
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/Conexiones%20perdidas%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Johann Hari</name>
+      <uri>../authors_0/authors_860_Page_1.xml</uri>
+    </author>
+    <published>2020-03-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Capitán Swing</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hari sufrió de depresión desde niño y comenzó a tomar antidepresivos cuando era adolescente. Como a toda su generación, le dijeron que la causa de su problema era un desequilibrio químico en su cerebro. Pero años más tarde comenzó a investigar y apre...</summary>
+    <link href="../book_1/book_1258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+</feed>

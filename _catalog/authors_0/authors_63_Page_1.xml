@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yrsa Sigurdardóttir</title>
+  <id>Calibre2opds:authors:63</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_63_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yrsa Sigurdardóttir" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Los Indeseados</title>
+    <id>calibre:book:263</id>
+    <updated>2023-02-02T09:07:02Z</updated>
+    <link href="../../Yrsa%20Sigurdardottir/Los%20Indeseados%20%28263%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yrsa%20Sigurdardottir/Los%20Indeseados%20%28263%29/Los%20Indeseados%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <author>
+      <name>Yrsa Sigurdardóttir</name>
+      <uri>../authors_0/authors_63_Page_1.xml</uri>
+    </author>
+    <published>2015-11-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>### Descripción del producto**Un *thriller* nórdico contundente que reúne lo mejor del género: misterio y ambientación.****En la remota Islandia...**Aldis trabaja en un centro de menores en la Islandia rural de los años setenta. Una noche, Aldis es t...</summary>
+    <link href="../book_0/book_263.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mentiras</title>
+    <id>calibre:book:90</id>
+    <updated>2023-01-18T00:09:26Z</updated>
+    <link href="../../Yrsa%20Sigurdardottir/Mentiras%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yrsa%20Sigurdardottir/Mentiras%20%2890%29/Mentiras%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <author>
+      <name>Yrsa Sigurdardóttir</name>
+      <uri>../authors_0/authors_63_Page_1.xml</uri>
+    </author>
+    <published>2017-01-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mentiras, el nuevo thriller de Yrsa Sigurðardóttir lo  tiene todo para inquietarte: ambientado en una isla recóndita, escenarios espectaculares y una historia trepidante. Cuatro personas tienen que ir a un faro remoto, situado en un en un  islote del...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

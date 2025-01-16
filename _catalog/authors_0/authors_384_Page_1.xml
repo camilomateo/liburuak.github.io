@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Javier Marías</title>
+  <id>Calibre2opds:authors:384</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_384_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Javier Marías" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Todos los libros de Javier Marías</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_384_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Nevinson</title>
+    <id>Calibre2opds:authors:384series:66</id>
+    <content type="text">Berta Isla</content>
+    <link href="../authors_0/authors_384_series_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cuando los tontos mandan</title>
+    <id>calibre:book:894</id>
+    <updated>2023-06-23T01:09:50Z</updated>
+    <link href="../../Javier%20Marias/Cuando%20los%20tontos%20mandan%20%28894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Marias/Cuando%20los%20tontos%20mandan%20%28894%29/Cuando%20los%20tontos%20mandan%20-%20Javier%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <author>
+      <name>Javier Marías</name>
+      <uri>../authors_0/authors_384_Page_1.xml</uri>
+    </author>
+    <published>2018-02-15T10:05:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Este volumen reúne los noventa y cinco artículos publicados por Javier Marías en el suplemento dominical El País Semanal entre el 8 de febrero de 2015 y el 29 de enero de 2017.Noventa y cinco piezas que ofrecen una instantánea de la realidad, del gra...</summary>
+    <link href="../book_0/book_894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

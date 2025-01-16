@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Erle C. Ellis</title>
+  <id>Calibre2opds:authors:435</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_435_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Erle C. Ellis" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>El antropoceno. Una breve introducción</title>
+    <id>calibre:book:583</id>
+    <updated>2023-04-28T01:16:52Z</updated>
+    <link href="../../Erle%20C.%20Ellis/El%20antropoceno.%20Una%20breve%20introducc%20%28583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erle%20C.%20Ellis/El%20antropoceno.%20Una%20breve%20introducc%20%28583%29/El%20antropoceno.%20Una%20breve%20intro%20-%20Erle%20C.%20Ellis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Erle C. Ellis</name>
+      <uri>../authors_0/authors_435_Page_1.xml</uri>
+    </author>
+    <published>2022-04-18T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El presente volumen aborda de una forma global, documentada y actual el impacto que las actividades humanas -y muy especialmente a lo largo de los dos últimos siglos- vienen dejando en el planeta Tierra en su conjunto, un impacto cuya huella en su su...</summary>
+    <link href="../book_0/book_583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

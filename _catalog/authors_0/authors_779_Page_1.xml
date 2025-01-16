@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Walter Isaacson</title>
+  <id>Calibre2opds:authors:779</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_779_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Walter Isaacson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>Steve Jobs</title>
+    <id>calibre:book:1066</id>
+    <updated>2023-11-05T04:16:30Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La muerte de Steve Jobs conmocionó al mundo. Tras entrevistarlo en más de cuarenta ocasiones en sus últimos dos años de vida, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta l...</summary>
+    <link href="../book_1/book_1066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs: Lecciones de liderazgo</title>
+    <id>calibre:book:2645</id>
+    <updated>2024-10-26T00:32:32Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="252 KB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias sociales" />
+    <category term="Negocios" />
+    <category term="Lang:es" />
+    <summary>El nombre de Steve Jobs es sinónimo de innovación, liderazgo y éxito. Su personalidad arrolladora, su intuición para los negocios y su carisma hicieron de él un gurú de la tecnología, que logró convertir a su empresa, Apple, en la compañía de innovac...</summary>
+    <link href="../book_2/book_2645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

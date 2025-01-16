@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Leticia Bianca</title>
+  <id>Calibre2opds:authors:1728</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1728_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Leticia Bianca" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Cama adentro</title>
+    <id>calibre:book:2632</id>
+    <updated>2024-10-21T04:01:14Z</updated>
+    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <author>
+      <name>Leticia Bianca</name>
+      <uri>../authors_1/authors_1728_Page_1.xml</uri>
+    </author>
+    <published>2024-06-26T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AdN</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Argentina, 2002. Mario Montesino ha conseguido ascender de clase social gracias a un matrimonio muy beneficioso y ahora es gerente de la empresa de la poderosa familia de su mujer, Raquel. Pero todo tiene un precio, porque cuidar de una enferma como ...</summary>
+    <link href="../book_2/book_2632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>George Sand</title>
+  <id>Calibre2opds:authors:1382</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1382_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="George Sand" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Todos los libros de George Sand</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_1/authors_1382_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Biblioteca PruébaT</title>
+    <id>Calibre2opds:authors:1382series:225</id>
+    <content type="text">Cuentos de una abuela</content>
+    <link href="../authors_1/authors_1382_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los fuegos fatuos</title>
+    <id>calibre:book:2490</id>
+    <updated>2024-09-09T10:34:42Z</updated>
+    <link href="../../George%20Sand/Los%20fuegos%20fatuos%20%282490%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Sand/Los%20fuegos%20fatuos%20%282490%29/Los%20fuegos%20fatuos%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="63 KB" />
+    <author>
+      <name>George Sand</name>
+      <uri>../authors_1/authors_1382_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2490.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Devil's Pool</title>
+    <id>calibre:book:2542</id>
+    <updated>2024-09-09T10:34:53Z</updated>
+    <link href="../../George%20Sand/The%20Devil%27s%20Pool%20%282542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Sand/The%20Devil%27s%20Pool%20%282542%29/The%20Devil%27s%20Pool%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <author>
+      <name>George Sand</name>
+      <uri>../authors_1/authors_1382_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Pastoral" />
+    <category term="Fiction" />
+    <category term="French" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

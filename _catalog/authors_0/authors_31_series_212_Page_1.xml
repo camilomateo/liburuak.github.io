@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Crímenes de Madrid La Inspectora Gitana</title>
+  <id>Calibre2opds:authors:31series:212</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_31_series_212_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Crímenes de Madrid La Inspectora Gitana" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="./authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mario Escobar" />
+  <entry>
+    <title>8 - El presidente</title>
+    <id>calibre:book:1718</id>
+    <updated>2024-08-08T04:59:22Z</updated>
+    <link href="../../Mario%20Escobar/El%20presidente%20%281718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20presidente%20%281718%29/El%20presidente%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2024-08-06T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid La Inspectora Gitana" />
+    <summary>Crímenes de Madrid La Inspectora Gitana [8]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupci...</summary>
+    <link href="../book_1/book_1718.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pablo Illanes</title>
+  <id>Calibre2opds:authors:1783</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1783_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pablo Illanes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>Alevosía</title>
+    <id>calibre:book:2726</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="432 KB" />
+    <author>
+      <name>Pablo Illanes</name>
+      <uri>../authors_1/authors_1783_Page_1.xml</uri>
+    </author>
+    <published>2024-09-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Acción y aventura" />
+    <category term="Lang:es" />
+    <summary>La primera novela policial del creador de Perfil falso, la serie de habla no inglesa más vista de Netflix con más de 76 millones de visualizaciones
+
+La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá enfrentar a un psicópata...</summary>
+    <link href="../book_2/book_2726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carlos Hernandez Pezzi</title>
+  <id>Calibre2opds:authors:1124</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carlos Hernandez Pezzi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Turismo: ¿truco o trato?</title>
+    <id>calibre:book:1543</id>
+    <updated>2024-06-02T10:59:42Z</updated>
+    <link href="../../Carlos%20Hernandez%20Pezzi/Turismo_%20_truco%20o%20trato_%20%281543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Hernandez%20Pezzi/Turismo_%20_truco%20o%20trato_%20%281543%29/Turismo_%20_truco%20o%20trato_%20-%20Carlos%20Hernandez%20Pezzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Hernandez Pezzi</name>
+      <uri>../authors_1/authors_1124_Page_1.xml</uri>
+    </author>
+    <published>2024-05-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:language>ca</dcterms:language>
+    <dcterms:publisher>Los Libros de La Catarata</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Lang:es" />
+    <category term="Lang:en" />
+    <category term="Lang:ca" />
+    <summary>En 2018, España ya ocupa el segundo puesto del ranking mundial de países y esto tiene un impacto cada vez más visible en las economías urbanas y en las ciudades. Sus centros históricos y sus monumentos se han convertido en atractivos destinos, pero a...</summary>
+    <link href="../book_1/book_1543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

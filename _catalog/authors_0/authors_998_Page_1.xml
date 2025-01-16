@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andrés Felipe Solano Mendoza</title>
+  <id>Calibre2opds:authors:998</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_998_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andrés Felipe Solano Mendoza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Los días de la fiebre</title>
+    <id>calibre:book:1373</id>
+    <updated>2024-04-03T00:30:02Z</updated>
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20dias%20de%20la%20fiebre%20%281373%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20dias%20de%20la%20fiebre%20%281373%29/Los%20dias%20de%20la%20fiebre%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="258 KB" />
+    <author>
+      <name>Andrés Felipe Solano Mendoza</name>
+      <uri>../authors_0/authors_998_Page_1.xml</uri>
+    </author>
+    <published>2020-05-15T09:40:25Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Temas de Hoy</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«El Covid-19 recorre las calles de Seúl mientras un hombre cualquiera va y viene sin saber cuándo se cruza con él, cuándo lo roza, cuándo se aleja. Los días de la fiebre es un mapa inquietante de esos dos itinerarios dominados por el azar.»—Juan José...</summary>
+    <link href="../book_1/book_1373.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los hermanos Cuervo</title>
+    <id>calibre:book:1363</id>
+    <updated>2024-04-03T00:30:00Z</updated>
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20hermanos%20Cuervo%20%281363%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20hermanos%20Cuervo%20%281363%29/Los%20hermanos%20Cuervo%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="728 KB" />
+    <author>
+      <name>Andrés Felipe Solano Mendoza</name>
+      <uri>../authors_0/authors_998_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Despuntan los años noventa y en Bogotá truenan bombas. La gente vive de espaldas a la calle y pasa los días con los oídos pegados a la radio. En medio de la extrañeza general, dos hermanos adolescentes se inscriben por primera vez en un colegio. Sus ...</summary>
+    <link href="../book_1/book_1363.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

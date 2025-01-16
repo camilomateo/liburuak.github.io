@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sonia Encinas</title>
+  <id>Calibre2opds:authors:749</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_749_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sonia Encinas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Sexo afectivo</title>
+    <id>calibre:book:1014</id>
+    <updated>2023-08-30T08:59:14Z</updated>
+    <link href="../../Sonia%20Encinas/Sexo%20afectivo%20%281014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sonia%20Encinas/Sexo%20afectivo%20%281014%29/Sexo%20afectivo%20-%20Sonia%20Encinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="19 MB" />
+    <author>
+      <name>Sonia Encinas</name>
+      <uri>../authors_0/authors_749_Page_1.xml</uri>
+    </author>
+    <published>2023-04-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Amor propio, empoderamiento, relaciones sanas, consentimiento y, sobre todo..., ¡placer! «Muy bien, ya sabemos cómo poner un condón en un pene y cómo prevenir infecciones de transmisión genital. Pero ¿en serio no nos vais a contar nada más?». ¿Cómo p...</summary>
+    <link href="../book_1/book_1014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>H. P. Lovecraft</title>
+  <id>Calibre2opds:authors:1489</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1489_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="H. P. Lovecraft" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Todos los libros de H. P. Lovecraft</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 4 libros</content>
+    <link href="../authors_1/authors_1489_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Biblioteca PruébaT</title>
+    <id>Calibre2opds:authors:1489series:225</id>
+    <content type="text">El horror de Dunwich</content>
+    <link href="../authors_1/authors_1489_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Selección de cuentos</title>
+    <id>calibre:book:2544</id>
+    <updated>2024-09-09T10:35:05Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/Seleccion%20de%20cuentos%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="221 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2544.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The call of Cthulhu</title>
+    <id>calibre:book:2088</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Cthulhu" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2088.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dunwich Horror</title>
+    <id>calibre:book:2510</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luis David Pérez</title>
+  <id>Calibre2opds:authors:475</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_475_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Luis David Pérez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Todos los libros de Luis David Pérez</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_475_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspectora Escudero</title>
+    <id>Calibre2opds:authors:475series:83</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_0/authors_475_series_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El ladrón de cuerpos</title>
+    <id>calibre:book:2591</id>
+    <updated>2024-09-12T03:39:20Z</updated>
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Luis David Pérez</name>
+      <uri>../authors_0/authors_475_Page_1.xml</uri>
+    </author>
+    <published>2024-09-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="suspense" />
+    <category term="Lang:es" />
+    <summary>La inspectora de homicidios Marta Escudero afronta su caso más desgarrador hasta la fecha cuando una mujer aterrada irrumpe en su vida.Con la revelación de una red que secuestra personas para extraer órganos y abastecer a los ricos y poderosos, Marta...</summary>
+    <link href="../book_2/book_2591.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

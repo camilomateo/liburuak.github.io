@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Georgia Hunter</title>
+  <id>Calibre2opds:authors:1247</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1247_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Georgia Hunter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Fuimos los afortunados</title>
+    <id>calibre:book:1742</id>
+    <updated>2024-08-08T05:32:08Z</updated>
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/Fuimos%20los%20afortunados%20-%20Georgia%20Hunter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="770 KB" />
+    <author>
+      <name>Georgia Hunter</name>
+      <uri>../authors_1/authors_1247_Page_1.xml</uri>
+    </author>
+    <published>2024-04-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Lang:es" />
+    <summary>Inspirada en la increíble y verídica historia de una familia judía separada a comienzos de la Segunda Guerra Mundial, decidida a sobrevivir (y a reunirse de nuevo), esta obra es un tributo al triunfo de la esperanza y del amor contra todo pronóstico....</summary>
+    <link href="../book_1/book_1742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jonathan Freedland</title>
+  <id>Calibre2opds:authors:1314</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1314_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jonathan Freedland" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>El maestro de la fuga</title>
+    <id>calibre:book:1837</id>
+    <updated>2024-08-30T02:08:02Z</updated>
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/El%20maestro%20de%20la%20fuga%20-%20Jonathan%20Freedland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Jonathan Freedland</name>
+      <uri>../authors_1/authors_1314_Page_1.xml</uri>
+    </author>
+    <published>2023-01-26T10:29:56Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La verdadera historia de Rudi Vrba, el judío que escapó de Auschwitz para alertar al mundo de las atrocidades nazis.En abril de 1944, Rudolf Vrba se convirtió uno de los primeros judíos que escapó de Auschwitz. Contra todo pronóstico, tras esquivar p...</summary>
+    <link href="../book_1/book_1837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

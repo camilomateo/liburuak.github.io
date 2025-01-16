@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Patricia Gibney</title>
+  <id>Calibre2opds:authors:27</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Patricia Gibney" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Todos los libros de Patricia Gibney</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 9 libros</content>
+    <link href="../authors_0/authors_27_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Lottie Parker</title>
+    <id>Calibre2opds:authors:27series:19</id>
+    <content type="text">7 libros</content>
+    <link href="../authors_0/authors_27_series_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: No hay salida</title>
+    <id>Calibre2opds:authors:27series:8</id>
+    <content type="text">No Hay Salida</content>
+    <link href="../authors_0/authors_27_series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Las Almas Rotas</title>
+    <id>calibre:book:123</id>
+    <updated>2023-02-16T07:07:52Z</updated>
+    <link href="../../Patricia%20Gibney/Las%20Almas%20Rotas%20%28123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Gibney/Las%20Almas%20Rotas%20%28123%29/Las%20Almas%20Rotas%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="951 KB" />
+    <author>
+      <name>Patricia Gibney</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <published>2020-12-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Misterio" />
+    <category term="Policíaco" />
+    <category term="Ficción" />
+    <category term="Lang:es" />
+    <summary>Dos muertes, una desaparición y un secreto que pondrá a todos en peligro. Una mañana de diciembre, Cara Dunne aparece colgada en su cuarto de baño. Va vestida de novia y todo apunta a que se trata de un suicidio, pero esa misma tarde la policía encue...</summary>
+    <link href="../book_0/book_123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

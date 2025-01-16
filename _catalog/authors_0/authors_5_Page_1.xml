@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pierre Lemaitre</title>
+  <id>Calibre2opds:authors:5</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pierre Lemaitre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Todos los libros de Pierre Lemaitre</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 6 libros</content>
+    <link href="../authors_0/authors_5_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Camille Verhoeven</title>
+    <id>Calibre2opds:authors:5series:86</id>
+    <content type="text">Irène</content>
+    <link href="../authors_0/authors_5_series_86_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Los hijos del desastre</title>
+    <id>Calibre2opds:authors:5series:95</id>
+    <content type="text">Nos vemos allá arriba</content>
+    <link href="../authors_0/authors_5_series_95_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El ancho mundo</title>
+    <id>calibre:book:6</id>
+    <updated>2023-01-17T10:01:10Z</updated>
+    <link href="../../Pierre%20Lemaitre/El%20ancho%20mundo%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/El%20ancho%20mundo%20%286%29/El%20ancho%20mundo%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="683 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2022-11-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Beirut, París, Saigón, 1948. Una trepidante saga familiar llena de secretos, peripecias, aventuras amorosas, turbios negocios y crímenes.El ancho mundo narra las aventuras, desventuras, peripecias y secretos de los Pelletier, una familia propietaria ...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los colores del incendio</title>
+    <id>calibre:book:370</id>
+    <updated>2023-03-03T08:31:26Z</updated>
+    <link href="../../Pierre%20Lemaitre/Los%20colores%20del%20incendio%20%28370%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Los%20colores%20del%20incendio%20%28370%29/Los%20colores%20del%20incendio%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2019-03-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El impacto que produjo en Francia la publicación de Nos vemos allá arriba —Premio Goncourt 2013 y más de dos millones de ejemplares vendidos— superó con creces la enorme resonancia que suele acompañar a uno de los galardones más prestigiosos de la li...</summary>
+    <link href="../book_0/book_370.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La gran serpiente</title>
+    <id>calibre:book:786</id>
+    <updated>2023-05-25T01:33:08Z</updated>
+    <link href="../../Pierre%20Lemaitre/La%20gran%20serpiente%20%28786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/La%20gran%20serpiente%20%28786%29/La%20gran%20serpiente%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2021-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Divertida, inmoral, jugosa: así es la primera novela negra de Pierre Lemaitre. Siempre hay que desconfiar de las señoras de mediana edad bien vestidas, con aspecto de jubiladas y acompañadas de un dálmata espantadizo, como Mathilde Perrin, una viuda ...</summary>
+    <link href="../book_0/book_786.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vestido de novia</title>
+    <id>calibre:book:114</id>
+    <updated>2023-01-18T00:43:30Z</updated>
+    <link href="../../Pierre%20Lemaitre/Vestido%20de%20novia%20%28114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Vestido%20de%20novia%20%28114%29/Vestido%20de%20novia%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="det_crime" />
+    <category term="Lang:es" />
+    <summary>No dejes que nadie te desvele nada de esta historia
+«Un thriller diabólico, que se lee del tirón, con fascinación y miedo. Arte del grande.»
+Avantages
+Sophie Duguet no entiende qué le sucede: pierde objetos, olvida situaciones, es detenida en un supe...</summary>
+    <link href="../book_0/book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

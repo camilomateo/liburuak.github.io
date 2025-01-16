@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alberto Caliani</title>
+  <id>Calibre2opds:authors:202</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_202_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alberto Caliani" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Siempre vienen de noche</title>
+    <id>calibre:book:1645</id>
+    <updated>2024-06-22T02:04:43Z</updated>
+    <link href="../../Alberto%20Caliani/Siempre%20vienen%20de%20noche%20%281645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Caliani/Siempre%20vienen%20de%20noche%20%281645%29/Siempre%20vienen%20de%20noche%20-%20Alberto%20Caliani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Alberto Caliani</name>
+      <uri>../authors_0/authors_202_Page_1.xml</uri>
+    </author>
+    <published>2024-06-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Una historia electrizante llena de giros inesperados». MANEL LOUREIROVuelve Alberto Caliani, el autor revelación del thriller histórico, galardonado con dos premios Hislibris.CUANDO SE PONE EL SOL Y LAS CAMPANAS SUENAN LA MUERTE RONDA EL MONASTERIO ...</summary>
+    <link href="../book_1/book_1645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra del impostor</title>
+    <id>calibre:book:294</id>
+    <updated>2023-02-10T03:54:52Z</updated>
+    <link href="../../Alberto%20Caliani/La%20sombra%20del%20impostor%20%28294%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Caliani/La%20sombra%20del%20impostor%20%28294%29/La%20sombra%20del%20impostor%20-%20Alberto%20Caliani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="827 KB" />
+    <author>
+      <name>Alberto Caliani</name>
+      <uri>../authors_0/authors_202_Page_1.xml</uri>
+    </author>
+    <published>2023-02-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>BIENVENIDOS AL RENACIMIENTO. BIENVENIDOS AL CAOS. Alberto Caliani, el autor revelación de la novela histórica y galardonado con dos Premios Hislibris 2021, vuelve con una novela que hará temblar los cimientos del género. Turín, siglo XVI. Esta es un...</summary>
+    <link href="../book_0/book_294.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

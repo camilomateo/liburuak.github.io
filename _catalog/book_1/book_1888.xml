@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La zarina</title>
+  <id>urn:book:17a7fd8e-a79a-4091-b7e8-0007c4ef4735</id>
+  <updated>2024-09-03T09:33:52Z</updated>
+  <link href="./book_1888.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La zarina" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/La%20zarina%20-%20Ellen%20Alpsten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <author>
+    <name>Ellen Alpsten</name>
+    <uri>../authors_1/authors_1344_Page_1.xml</uri>
+  </author>
+  <published>2021-03-01T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Grijalbo</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../authors_1/authors_1344_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ellen Alpsten" />
+</entry>

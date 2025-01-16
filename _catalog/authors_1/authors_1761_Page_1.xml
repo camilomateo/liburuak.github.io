@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Brian Tracy</title>
+  <id>Calibre2opds:authors:1761</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1761_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Brian Tracy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Si lo crees, lo creas</title>
+    <id>calibre:book:2677</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/Si%20lo%20crees%2C%20lo%20creas%20-%20Brian%20Tracy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <author>
+      <name>Brian Tracy</name>
+      <uri>../authors_1/authors_1761_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Christina Stein</name>
+      <uri>../authors_1/authors_1762_Page_1.xml</uri>
+    </author>
+    <published>2018-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>Descubre los secretos para eliminar pensamientos y conductas negativas y desbloquear todo tu potencial para el éxito.    Si te sientes abrumado o incapaz de escapar de tus pensamientos negativos, este libro te pondrá en el camino correcto. Ya sea que...</summary>
+    <link href="../book_2/book_2677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

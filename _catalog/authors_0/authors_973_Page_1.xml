@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carlota Moon</title>
+  <id>Calibre2opds:authors:973</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_973_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carlota Moon" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Cómo un TCA te jode la vida</title>
+    <id>calibre:book:1332</id>
+    <updated>2024-03-21T01:00:31Z</updated>
+    <link href="../../Carlota%20Moon/Como%20un%20TCA%20te%20jode%20la%20vida%20%281332%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlota%20Moon/Como%20un%20TCA%20te%20jode%20la%20vida%20%281332%29/Como%20un%20TCA%20te%20jode%20la%20vida%20-%20Carlota%20Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="914 KB" />
+    <author>
+      <name>Carlota Moon</name>
+      <uri>../authors_0/authors_973_Page_1.xml</uri>
+    </author>
+    <published>2024-02-23T05:03:34Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Cómo un TCA te jode la vida te permitirá entender la realidad que existe detrás de los trastornos de la conducta alimentaria a través de una historia personal con la que probablemente te identificarás si estás pasando por algo similar. Descubre cómo ...</summary>
+    <link href="../book_1/book_1332.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

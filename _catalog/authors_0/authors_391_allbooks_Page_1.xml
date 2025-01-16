@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Petros Márkaris</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_391_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Petros Márkaris" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_391_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Petros Márkaris" />
+  <entry>
+    <title>La conjura de los suicidas</title>
+    <id>calibre:book:527</id>
+    <updated>2023-04-05T00:40:10Z</updated>
+    <link href="../../Petros%20Markaris/La%20conjura%20de%20los%20suicidas%20%28527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Petros%20Markaris/La%20conjura%20de%20los%20suicidas%20%28527%29/La%20conjura%20de%20los%20suicidas%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Petros Márkaris</name>
+      <uri>../authors_0/authors_391_Page_1.xml</uri>
+    </author>
+    <published>2023-03-03T08:37:50Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Kostas Jaritos" />
+    <summary>Kostas Jaritos [14]: El suicidio de un anciano durante la pandemia de covid revela a una sociedad que ha llegado al límite de sus fuerzas y de su paciencia. En Atenas, durante la pandemia de covid, la mayoría de las tiendas y de los bares permanecen ...</summary>
+    <link href="../book_0/book_527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Offshore</title>
+    <id>calibre:book:1500</id>
+    <updated>2024-05-10T08:43:26Z</updated>
+    <link href="../../Petros%20Markaris/Offshore%20%281500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Petros%20Markaris/Offshore%20%281500%29/Offshore%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="711 KB" />
+    <author>
+      <name>Petros Márkaris</name>
+      <uri>../authors_0/authors_391_Page_1.xml</uri>
+    </author>
+    <published>2017-02-03T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La corrupción y el blanqueo de capitales protagonizan el nuevo caso del comisario Kostas Jaritos.En una Grecia que, misteriosamente, empieza a experimentar una gran recuperación económica, un funcionario de la Secretaría de Estado...</summary>
+    <link href="../book_1/book_1500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La revuelta de las cariatides</title>
+    <id>calibre:book:1427</id>
+    <updated>2024-04-09T11:16:21Z</updated>
+    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/La%20revuelta%20de%20las%20cariatides%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <author>
+      <name>Petros Márkaris</name>
+      <uri>../authors_0/authors_391_Page_1.xml</uri>
+    </author>
+    <published>2024-04-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Jaritos" />
+    <summary>Jaritos [16]: La pandemia ha quedado atrás, y Kostas Jaritos ya es jefe de las Fuerzas de Seguridad del Ática, un logro que celebrará con su familia y sus amigos. Después de recibir las felicitaciones del ministro del Interior, regresa a Jefatura… es...</summary>
+    <link href="../book_1/book_1427.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

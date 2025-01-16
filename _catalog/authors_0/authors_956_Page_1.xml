@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Javier Bernal</title>
+  <id>Calibre2opds:authors:956</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_956_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Javier Bernal" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Por un puñado de letras</title>
+    <id>calibre:book:1314</id>
+    <updated>2024-03-21T00:44:05Z</updated>
+    <link href="../../Javier%20Bernal/Por%20un%20punado%20de%20letras%20%281314%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Bernal/Por%20un%20punado%20de%20letras%20%281314%29/Por%20un%20punado%20de%20letras%20-%20Javier%20Bernal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>Javier Bernal</name>
+      <uri>../authors_0/authors_956_Page_1.xml</uri>
+    </author>
+    <published>2019-11-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Dos amigos de la universidad, Pablo Azcárraga, corresponsal de guerra y Ryan Mullkin, analista político de The New York Times, ponen en marcha un innovador periódico digital en Nueva York. Su propósito: crear una plataforma de intercambio libre de in...</summary>
+    <link href="../book_1/book_1314.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

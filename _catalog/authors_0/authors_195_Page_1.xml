@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luis García-Rey</title>
+  <id>Calibre2opds:authors:195</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_195_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Luis García-Rey" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Axel</title>
+    <id>calibre:book:288</id>
+    <updated>2023-02-09T11:32:40Z</updated>
+    <link href="../../Luis%20Garcia-Rey/Axel%20%28288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Garcia-Rey/Axel%20%28288%29/Axel%20-%20Luis%20Garcia-Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Luis García-Rey</name>
+      <uri>../authors_0/authors_195_Page_1.xml</uri>
+    </author>
+    <published>2022-12-01T09:21:52Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Miércoles, 13 de marzo de 2019. El agente de la policía judicial Axel Nash no es capaz de tomarse la vida con calma y, si no hay casos que resolver, se aburre mortalmente. No en vano dejó su Vigo natal para buscar más acción en Madrid. Una mañana rec...</summary>
+    <link href="../book_0/book_288.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Loor</title>
+    <id>calibre:book:1357</id>
+    <updated>2024-03-27T01:25:09Z</updated>
+    <link href="../../Luis%20Garcia-Rey/Loor%20%281357%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Garcia-Rey/Loor%20%281357%29/Loor%20-%20Luis%20Garcia-Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="651 KB" />
+    <author>
+      <name>Luis García-Rey</name>
+      <uri>../authors_0/authors_195_Page_1.xml</uri>
+    </author>
+    <published>2024-02-26T02:15:22Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Premio Primavera de Novela 2024. Ácido. Moderno. Único. Larga vida al nuevo rey de la novela negra.Dos asesinatos, una investigación a ritmo frenéticoy un final que no olvidarás.«Axel, creo que he matado a alguien».Con este enigmático whatsapp de su...</summary>
+    <link href="../book_1/book_1357.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

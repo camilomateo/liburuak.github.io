@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carmen Posadas</title>
+  <id>Calibre2opds:authors:1029</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1029_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carmen Posadas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>La maestra de títeres</title>
+    <id>calibre:book:1404</id>
+    <updated>2024-04-08T04:38:20Z</updated>
+    <link href="../../Carmen%20Posadas/La%20maestra%20de%20titeres%20%281404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Posadas/La%20maestra%20de%20titeres%20%281404%29/La%20maestra%20de%20titeres%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Carmen Posadas</name>
+      <uri>../authors_1/authors_1029_Page_1.xml</uri>
+    </author>
+    <published>2018-10-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una mujer única: nadie como ella supo manejar la frivolidad y la manipulación para convertirlas en un arte.Si ha habido una mujer destinada a brillar, esa es Beatriz Calanda, la protagonista de la nueva novela de  Carmen Posadas. La autora hace un r...</summary>
+    <link href="../book_1/book_1404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El misterioso caso del impostor del Titanic</title>
+    <id>calibre:book:2724</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/El%20misterioso%20caso%20del%20impostor%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carmen Posadas</name>
+      <uri>../authors_1/authors_1029_Page_1.xml</uri>
+    </author>
+    <published>2024-10-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
+    <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

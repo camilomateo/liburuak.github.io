@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Viola Ardone</title>
+  <id>Calibre2opds:authors:296</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_296_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Viola Ardone" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>La decisión</title>
+    <id>calibre:book:405</id>
+    <updated>2023-03-13T09:24:34Z</updated>
+    <link href="../../Viola%20Ardone/La%20decision%20%28405%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Viola%20Ardone/La%20decision%20%28405%29/La%20decision%20-%20Viola%20Ardone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="711 KB" />
+    <author>
+      <name>Viola Ardone</name>
+      <uri>../authors_0/authors_296_Page_1.xml</uri>
+    </author>
+    <published>2023-03-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Un personaje femenino inolvidable, frágil y a la vez fuerte, capaz de liberarse de las cadenas del prejuicio y de ofrecer su propio dolor al servicio de otras mujeres.» La Lettura  «Un grito de libertad.» Marie Claire  «Una maravillosa novela con la...</summary>
+    <link href="../book_0/book_405.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

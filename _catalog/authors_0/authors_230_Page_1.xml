@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Susana Rodríguez Lezaun</title>
+  <id>Calibre2opds:authors:230</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_230_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Susana Rodríguez Lezaun" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Todos los libros de Susana Rodríguez Lezaun</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 5 libros</content>
+    <link href="../authors_0/authors_230_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspector David Vázquez</title>
+    <id>Calibre2opds:authors:230series:40</id>
+    <content type="text">3 libros</content>
+    <link href="../authors_0/authors_230_series_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Marcela Pieldelobo</title>
+    <id>Calibre2opds:authors:230series:159</id>
+    <content type="text">Mejor muerto</content>
+    <link href="../authors_0/authors_230_series_159_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>En la sangre</title>
+    <id>calibre:book:337</id>
+    <updated>2023-02-20T10:02:18Z</updated>
+    <link href="../../Susana%20Rodriguez%20Lezaun/En%20la%20sangre%20%28337%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Susana%20Rodriguez%20Lezaun/En%20la%20sangre%20%28337%29/En%20la%20sangre%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <author>
+      <name>Susana Rodríguez Lezaun</name>
+      <uri>../authors_0/authors_230_Page_1.xml</uri>
+    </author>
+    <published>2023-02-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Susana Rodríguez Lezaun regresa con su esperada nueva novela de la serie protagonizada por Marcela Pieldelobo. La inspectora Pieldelobo está todavía en el punto de mira de sus superiores de la comisaría de Pamplona después de las irregularidades come...</summary>
+    <link href="../book_0/book_337.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

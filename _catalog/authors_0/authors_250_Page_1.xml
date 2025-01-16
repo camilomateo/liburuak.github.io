@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Colin Dexter</title>
+  <id>Calibre2opds:authors:250</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_250_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Colin Dexter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Todos los libros de Colin Dexter</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 4 libros</content>
+    <link href="../authors_0/authors_250_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspector Morse</title>
+    <id>Calibre2opds:authors:250series:215</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_0/authors_250_series_215_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Último autobús a Woodstock</title>
+    <id>calibre:book:355</id>
+    <updated>2023-02-24T09:48:12Z</updated>
+    <link href="../../Colin%20Dexter/Ultimo%20autobus%20a%20Woodstock%20%28355%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/Ultimo%20autobus%20a%20Woodstock%20%28355%29/Ultimo%20autobus%20a%20Woodstock%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>2023-01-18T09:37:41Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Lo importante es contemplar a estos personajes de carne y hueso, creíbles, nunca pueriles ni demenciados, deambulando por las calles de Oxford, investigando, dialogando con estudiantes y dons y con otros, y asistir a sus comedidas penas. Jamás son h...</summary>
+    <link href="../book_0/book_355.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vista por última vez</title>
+    <id>calibre:book:760</id>
+    <updated>2023-05-22T05:07:02Z</updated>
+    <link href="../../Colin%20Dexter/Vista%20por%20ultima%20vez%20%28760%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/Vista%20por%20ultima%20vez%20%28760%29/Vista%20por%20ultima%20vez%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>2023-05-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un nuevo caso para Morse, el mítico inspector de la policía de Oxford.Valerie Taylor, una alumna adolescente de la Roger Bacon Com­prehensive School de Kidlington, al norte de Oxford, desaparece sin dejar rastro. Dos años más tarde, y poco después d...</summary>
+    <link href="../book_0/book_760.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

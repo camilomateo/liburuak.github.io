@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Roxanne Bouchard</title>
+  <id>Calibre2opds:authors:1177</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1177_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Roxanne Bouchard" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Éramos la sal del mar</title>
+    <id>calibre:book:1631</id>
+    <updated>2024-06-22T02:04:40Z</updated>
+    <link href="../../Roxanne%20Bouchard/Eramos%20la%20sal%20del%20mar%20%281631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roxanne%20Bouchard/Eramos%20la%20sal%20del%20mar%20%281631%29/Eramos%20la%20sal%20del%20mar%20-%20Roxanne%20Bouchard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="899 KB" />
+    <author>
+      <name>Roxanne Bouchard</name>
+      <uri>../authors_1/authors_1177_Page_1.xml</uri>
+    </author>
+    <published>2024-06-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Déjate atrapar en este misterio de la reina de la novela negra canadiense Cuando Catherine Day llega a un remoto pueblo pesquero de Canadá en busca de su madre biológica, la tranquilidad del lugar está a punto de romperse. En las redes de un pescador...</summary>
+    <link href="../book_1/book_1631.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

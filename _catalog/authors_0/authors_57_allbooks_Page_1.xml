@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Blake Pierce</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_57_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Blake Pierce" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Blake Pierce" />
+  <entry>
+    <title>La casa perfecta</title>
+    <id>calibre:book:130</id>
+    <updated>2023-01-18T00:43:40Z</updated>
+    <link href="../../Blake%20Pierce/la%20casa%20perfecta%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blake%20Pierce/la%20casa%20perfecta%20%28130%29/la%20casa%20perfecta%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="626 KB" />
+    <author>
+      <name>Blake Pierce</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
+    </author>
+    <published>2021-10-08T04:25:34Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>La criminóloga Jessie Hunt, de 29 años, recién salida de la Academia del FBI, regresa para verse acosada por su padre asesino, atrapada en un juego letal del gato y el ratón. Mientras tanto, debe apresurarse a detener a un asesino en un nuevo caso qu...</summary>
+    <link href="../book_0/book_130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una razón para aterrarse</title>
+    <id>calibre:book:81</id>
+    <updated>2023-01-18T00:02:46Z</updated>
+    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/Una%20razon%20para%20aterrarse%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <author>
+      <name>Blake Pierce</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Un Misterio de Avery Black" />
+    <summary>Un Misterio de Avery Black [6]: Una mujer aparece muerta en el clóset de su propio apartamento, su cuerpo cubierto de arañas venenosas, lo cual deja a la policía de Boston desconcertada. Dado que todas las pistas han llevado a callejones sin salidas,...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

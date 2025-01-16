@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>James Patterson</title>
+  <id>Calibre2opds:authors:167</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="James Patterson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Todos los libros de James Patterson</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_167_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: El club de las mujeres contra el crimen</title>
+    <id>Calibre2opds:authors:167series:168</id>
+    <content type="text">Segunda oportunidad</content>
+    <link href="../authors_0/authors_167_series_168_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los crímenes de la carretera</title>
+    <id>calibre:book:240</id>
+    <updated>2023-02-02T08:52:48Z</updated>
+    <link href="../../J.%20D.%20Barker/Los%20crimenes%20de%20la%20carretera%20%28240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20D.%20Barker/Los%20crimenes%20de%20la%20carretera%20%28240%29/Los%20crimenes%20de%20la%20carretera%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="876 KB" />
+    <author>
+      <name>J. D. Barker</name>
+      <uri>../authors_0/authors_166_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>James Patterson</name>
+      <uri>../authors_0/authors_167_Page_1.xml</uri>
+    </author>
+    <published>2021-03-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una noche, Michael Fitzgerald descubre a una joven muerta en su bañera al volver del supermercado. Al lado del cadáver hay una pluma de gorrión. Aterrorizado, llama a la policía, que le interroga sobre la víctima, Alyssa Tepper, a la que él asegura ...</summary>
+    <link href="../book_0/book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

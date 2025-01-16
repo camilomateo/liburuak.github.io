@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pablo Echenique</title>
+  <id>Calibre2opds:authors:321</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_321_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pablo Echenique" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Memorias de un piloto de combate</title>
+    <id>calibre:book:432</id>
+    <updated>2023-03-14T04:53:32Z</updated>
+    <link href="../../Pablo%20Echenique/Memorias%20de%20un%20piloto%20de%20combate%20%28432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Echenique/Memorias%20de%20un%20piloto%20de%20combate%20%28432%29/Memorias%20de%20un%20piloto%20de%20combat%20-%20Pablo%20Echenique.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Pablo Echenique</name>
+      <uri>../authors_0/authors_321_Page_1.xml</uri>
+    </author>
+    <published>2023-02-16T00:43:08Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Arpa Editores</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Pablo Echenique aborda con sorprendente transparencia la lucha fratricida de la izquierda en los últimos años, el fin del bipartidismo y la negociación del primer gobierno de coalición en España, el ejercicio del poder y la vida privada de un cientí...</summary>
+    <link href="../book_0/book_432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

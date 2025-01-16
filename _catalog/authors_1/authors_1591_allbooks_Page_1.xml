@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Henrik Ibsen</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1591_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Henrik Ibsen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <link href="./authors_1591_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Henrik Ibsen" />
+  <entry>
+    <title>Casa de muñecas</title>
+    <id>calibre:book:2269</id>
+    <updated>2024-09-09T10:33:56Z</updated>
+    <link href="../../Henrik%20Ibsen/Casa%20de%20munecas%20%282269%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/Casa%20de%20munecas%20%282269%29/Casa%20de%20munecas%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="134 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [2]:</summary>
+    <link href="../book_2/book_2269.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dama del mar</title>
+    <id>calibre:book:2421</id>
+    <updated>2024-09-09T10:34:27Z</updated>
+    <link href="../../Henrik%20Ibsen/La%20dama%20del%20mar%20%282421%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/La%20dama%20del%20mar%20%282421%29/La%20dama%20del%20mar%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="119 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [262]:</summary>
+    <link href="../book_2/book_2421.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Doll's House: a play</title>
+    <id>calibre:book:2458</id>
+    <updated>2024-09-09T10:34:35Z</updated>
+    <link href="../../Henrik%20Ibsen/A%20Doll%27s%20House_%20a%20play%20%282458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/A%20Doll%27s%20House_%20a%20play%20%282458%29/A%20Doll%27s%20House_%20a%20play%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [331]:</summary>
+    <link href="../book_2/book_2458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Lady from the Sea</title>
+    <id>calibre:book:2484</id>
+    <updated>2024-09-09T10:34:41Z</updated>
+    <link href="../../Henrik%20Ibsen/The%20Lady%20from%20the%20Sea%20%282484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/The%20Lady%20from%20the%20Sea%20%282484%29/The%20Lady%20from%20the%20Sea%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2484.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

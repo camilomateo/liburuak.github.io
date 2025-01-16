@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ángeles Gil</title>
+  <id>Calibre2opds:authors:712</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_712_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ángeles Gil" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Las sombras de la ciudad. Barcelona, 1938</title>
+    <id>calibre:book:950</id>
+    <updated>2023-07-14T09:48:44Z</updated>
+    <link href="../../Angeles%20Gil/Las%20sombras%20de%20la%20ciudad.%20Barcelona%20%28950%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angeles%20Gil/Las%20sombras%20de%20la%20ciudad.%20Barcelona%20%28950%29/Las%20sombras%20de%20la%20ciudad.%20Barce%20-%20Angeles%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="667 KB" />
+    <author>
+      <name>Ángeles Gil</name>
+      <uri>../authors_0/authors_712_Page_1.xml</uri>
+    </author>
+    <published>2023-07-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después del éxito de La casa del azúcar, Ángeles Gil regresa con una novela ambientada en una Barcelona negra y desconocida. Barcelona, 1938. Mientras las bombas fascistas caen sobre la Ciudad Condal, dos mujeres tratan de desentrañar la misteriosa d...</summary>
+    <link href="../book_0/book_950.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

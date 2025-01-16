@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hugo Boris</title>
+  <id>Calibre2opds:authors:744</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_744_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hugo Boris" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Policía</title>
+    <id>calibre:book:1004</id>
+    <updated>2023-08-27T03:13:02Z</updated>
+    <link href="../../Hugo%20Boris/Policia%20%281004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugo%20Boris/Policia%20%281004%29/Policia%20-%20Hugo%20Boris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="829 KB" />
+    <author>
+      <name>Hugo Boris</name>
+      <uri>../authors_0/authors_744_Page_1.xml</uri>
+    </author>
+    <published>2020-01-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Son agentes de policía. Polis de uniforme, los mismos que nos cruzamos a diario y de los que nunca se habla, hombres y mujeres invisibles.
+Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión poco habitual para ellos: escolt...</summary>
+    <link href="../book_1/book_1004.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

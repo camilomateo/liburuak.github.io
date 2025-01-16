@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dan Brown</title>
+  <id>Calibre2opds:authors:809</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_809_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dan Brown" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Todos los libros de Dan Brown</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_809_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Robert Langdon</title>
+    <id>Calibre2opds:authors:809series:136</id>
+    <content type="text">Ángeles y demonios</content>
+    <link href="../authors_0/authors_809_series_136_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El código Da Vinci</title>
+    <id>calibre:book:1137</id>
+    <updated>2024-01-08T09:16:18Z</updated>
+    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/El%20codigo%20Da%20Vinci%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Dan Brown</name>
+      <uri>../authors_0/authors_809_Page_1.xml</uri>
+    </author>
+    <published>2012-11-06T08:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El profesor de simbología religiosa de la Universidad de Harvard Robert Langdon se encuentra en París dando una conferencia. En la recepción que tiene lugar a continuación tiene una cita con el prestigioso comisario del museo del Louvre, pero éste n...</summary>
+    <link href="../book_1/book_1137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El símbolo perdido</title>
+    <id>calibre:book:1128</id>
+    <updated>2024-01-08T09:16:16Z</updated>
+    <link href="../../Dan%20Brown/El%20simbolo%20perdido%20%281128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Brown/El%20simbolo%20perdido%20%281128%29/El%20simbolo%20perdido%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Dan Brown</name>
+      <uri>../authors_0/authors_809_Page_1.xml</uri>
+    </author>
+    <published>2010-08-30T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Washington. El experto en simbología Robert Langdon es convocado inesperadamente por Peter Solomon, masón, filántropo y su antiguo mentor, para dar una conferencia en el Capitolio. Pero el secuestro de Peter y el hallazgo de una mano tatuada con cinc...</summary>
+    <link href="../book_1/book_1128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

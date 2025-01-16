@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Francisco José Jurado</title>
+  <id>Calibre2opds:authors:1819</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1819_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Francisco José Jurado" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <entry>
+    <title>Plomo en las alas</title>
+    <id>calibre:book:2781</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <author>
+      <name>Francisco José Jurado</name>
+      <uri>../authors_1/authors_1819_Page_1.xml</uri>
+    </author>
+    <published>2024-11-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Unos restos humanos aparecen semienterrados en un polígono industrial de Córdoba. Una chica, de eso no cabe duda, porque lo que encuentran es el bajo abdomen, la zona púbica y los muslos. Mujer, caucásica, probablemente menor de edad, dictamina el an...</summary>
+    <link href="../book_2/book_2781.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

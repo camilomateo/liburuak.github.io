@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harlan Coben</title>
+  <id>Calibre2opds:authors:725</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_725_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Harlan Coben" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Por siempre jamás</title>
+    <id>calibre:book:977</id>
+    <updated>2023-08-23T00:29:00Z</updated>
+    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/Por%20siempre%20jamas%20-%20Harlan%20Coben.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <author>
+      <name>Harlan Coben</name>
+      <uri>../authors_0/authors_725_Page_1.xml</uri>
+    </author>
+    <published>2013-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿SE PUEDE TENER CONFIANZA CIEGA EN ALGUIEN?Will Klein adora a su hermano mayor, Ken, y cree que nunca le decepcionará. Pero una noche, en el sótano de la casa familiar, aparece el cadáver de una chica asesinada. Era una antigua novia de Will. Ante l...</summary>
+    <link href="../book_0/book_977.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

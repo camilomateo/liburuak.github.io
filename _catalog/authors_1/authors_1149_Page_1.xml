@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Natalia de Santiago</title>
+  <id>Calibre2opds:authors:1149</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1149_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Natalia de Santiago" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Invierte con poco</title>
+    <id>calibre:book:1574</id>
+    <updated>2024-06-02T10:59:51Z</updated>
+    <link href="../../Natalia%20de%20Santiago/Invierte%20con%20poco%20%281574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natalia%20de%20Santiago/Invierte%20con%20poco%20%281574%29/Invierte%20con%20poco%20-%20Natalia%20de%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="922 KB" />
+    <author>
+      <name>Natalia de Santiago</name>
+      <uri>../authors_1/authors_1149_Page_1.xml</uri>
+    </author>
+    <published>2022-05-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Economía" />
+    <category term="Lang:es" />
+    <summary>Todos podemos mejorar nuestra situación financiera. El problema es que, cuando se trata de invertir, la mayoría no sabemos ni por dónde empezar. ¿Puedo invertir con poco dinero? ¿Hay que encomendarlo todo al ladrillo? ¿Es mejor un fondo de inversi...</summary>
+    <link href="../book_1/book_1574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

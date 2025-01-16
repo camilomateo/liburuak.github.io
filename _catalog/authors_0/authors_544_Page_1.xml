@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>José Ramón Ayllón Vega</title>
+  <id>Calibre2opds:authors:544</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_544_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="José Ramón Ayllón Vega" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>555 joyas de la sabiduría: La felicidad según los clásicos</title>
+    <id>calibre:book:729</id>
+    <updated>2023-05-17T01:23:24Z</updated>
+    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/555%20joyas%20de%20la%20sabiduria_%20La%20f%20-%20Jose%20Ramon%20Ayllon%20Vega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="779 KB" />
+    <author>
+      <name>José Ramón Ayllón Vega</name>
+      <uri>../authors_0/authors_544_Page_1.xml</uri>
+    </author>
+    <published>2011-07-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Martínez Roca</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Este bello libro aborda de manera sencilla y práctica las grandes cuestiones que han movido a la humanidad desde siempre: la felicidad, el amor, la libertad, la justicia..., y lo hace desde la reflexión, la belleza y las sabias palabras de cuatro de ...</summary>
+    <link href="../book_0/book_729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

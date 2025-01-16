@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>ANA MASAGO</title>
+  <id>Calibre2opds:authors:1316</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1316_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="ANA MASAGO" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>En la calle 24</title>
+    <id>calibre:book:1839</id>
+    <updated>2024-08-30T02:13:10Z</updated>
+    <link href="../../ANA%20MASAGO/En%20la%20calle%2024%20%281839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../ANA%20MASAGO/En%20la%20calle%2024%20%281839%29/En%20la%20calle%2024%20-%20ANA%20MASAGO.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="413 KB" />
+    <author>
+      <name>ANA MASAGO</name>
+      <uri>../authors_1/authors_1316_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>En una bochornosa mañana de agosto, en una comunidad de vecinos de la Calle 24,aparece el cadáver de Ignacio Quintana, un respetable anciano de 87 años.No es una muerte casual: el cuerpo, tendido sobre un charco de sangre, es descubierto porEsperanza...</summary>
+    <link href="../book_1/book_1839.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

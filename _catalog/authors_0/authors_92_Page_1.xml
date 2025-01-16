@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sarah Lark</title>
+  <id>Calibre2opds:authors:92</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sarah Lark" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Todos los libros de Sarah Lark</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_92_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Trilogia Kauri</title>
+    <id>Calibre2opds:authors:92series:53</id>
+    <content type="text">A la sombra del árbol kauri</content>
+    <link href="../authors_0/authors_92_series_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Allí donde nace el día</title>
+    <id>calibre:book:1902</id>
+    <updated>2024-09-03T09:33:59Z</updated>
+    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/Alli%20donde%20nace%20el%20dia%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="790 KB" />
+    <author>
+      <name>Sarah Lark</name>
+      <uri>../authors_0/authors_92_Page_1.xml</uri>
+    </author>
+    <published>2021-04-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Solo contaban con ellas mismas para elegir su destino.Sarah Lark regresa al escenario del best seller En el país de la nube blanca.Islas Chatham, 1835. La joven moriori Kimi ha sido testigo directo de la invasión maorí de sus tierras. Dolorosamente, ...</summary>
+    <link href="../book_1/book_1902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La estrella de la Isla Norte</title>
+    <id>calibre:book:145</id>
+    <updated>2023-01-19T08:55:20Z</updated>
+    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/La%20estrella%20de%20la%20Isla%20Norte%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="644 KB" />
+    <author>
+      <name>Sarah Lark</name>
+      <uri>../authors_0/authors_92_Page_1.xml</uri>
+    </author>
+    <published>2022-11-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve la Sarah Lark más auténtica con una fascinante historia de amor y traición, desesperación y coraje ambientada en Nueva Zelanda en la Primera Guerra Mundial. Hannover, 1910. Lo que surge entre la hija del banquero judío Mia y el joven oficial J...</summary>
+    <link href="../book_0/book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

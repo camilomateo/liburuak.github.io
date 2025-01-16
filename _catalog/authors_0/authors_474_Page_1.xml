@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Roland Portiche</title>
+  <id>Calibre2opds:authors:474</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_474_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Roland Portiche" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Proyecto Ernetti</title>
+    <id>calibre:book:638</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Roland%20Portiche/Proyecto%20Ernetti%20%28638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roland%20Portiche/Proyecto%20Ernetti%20%28638%29/Proyecto%20Ernetti%20-%20Roland%20Portiche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>Roland Portiche</name>
+      <uri>../authors_0/authors_474_Page_1.xml</uri>
+    </author>
+    <published>2023-02-11T09:14:23Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela sobre el enigma del cronovisor, el secreto mejor guardado del Vaticano.En plena Guerra Fría una carrera contrarreloj entre el Vaticano, la CIA, el KGB y el Mossad podría cambiar el orden mundial.Ciudad del Vaticano, 1956. El papa Pio XII e...</summary>
+    <link href="../book_0/book_638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

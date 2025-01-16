@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Biblioteca PruébaT</title>
+  <id>Calibre2opds:authors:1527series:225</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1527_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Biblioteca PruébaT" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_1527_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Benito Pérez Galdós" />
+  <entry>
+    <title>87 - Doña Perfecta</title>
+    <id>calibre:book:2185</id>
+    <updated>2024-09-06T02:21:30Z</updated>
+    <link href="../../Benito%20Perez%20Galdos/Dona%20Perfecta%20%282185%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benito%20Perez%20Galdos/Dona%20Perfecta%20%282185%29/Dona%20Perfecta%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="251 KB" />
+    <author>
+      <name>Benito Pérez Galdós</name>
+      <uri>../authors_1/authors_1527_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [87]:</summary>
+    <link href="../book_2/book_2185.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>188 - El caballero encantado</title>
+    <id>calibre:book:2155</id>
+    <updated>2024-09-06T02:21:25Z</updated>
+    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/El%20caballero%20encantado%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="297 KB" />
+    <author>
+      <name>Benito Pérez Galdós</name>
+      <uri>../authors_1/authors_1527_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [188]:</summary>
+    <link href="../book_2/book_2155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>203 - El abuelo</title>
+    <id>calibre:book:2154</id>
+    <updated>2024-09-06T02:21:25Z</updated>
+    <link href="../../Benito%20Perez%20Galdos/El%20abuelo%20%282154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benito%20Perez%20Galdos/El%20abuelo%20%282154%29/El%20abuelo%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <author>
+      <name>Benito Pérez Galdós</name>
+      <uri>../authors_1/authors_1527_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [203]:</summary>
+    <link href="../book_2/book_2154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

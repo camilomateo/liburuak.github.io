@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Javier Santiso</title>
+  <id>Calibre2opds:authors:1717</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1717_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Javier Santiso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Mortalmente vivo</title>
+    <id>calibre:book:2615</id>
+    <updated>2024-09-17T00:24:17Z</updated>
+    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/Mortalmente%20vivo%20-%20Javier%20Santiso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <author>
+      <name>Javier Santiso</name>
+      <uri>../authors_1/authors_1717_Page_1.xml</uri>
+    </author>
+    <published>2024-09-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Huerta Grande</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Bacon tenía a España en la sangre. Un español, Velázquez, fue su gran maestro. De su Retrato de Inocencio X diría Bacon, rotundo, «siempre he creído que este era uno de los mejores cuadros del mundo. He intentado, sin ningún éxito, hacer ciertas repr...</summary>
+    <link href="../book_2/book_2615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

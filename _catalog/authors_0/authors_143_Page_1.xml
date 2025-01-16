@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gianni Vattimo</title>
+  <id>Calibre2opds:authors:143</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_143_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gianni Vattimo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Alrededores del ser</title>
+    <id>calibre:book:216</id>
+    <updated>2023-01-27T11:54:38Z</updated>
+    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/Alrededores%20del%20ser%20-%20Gianni%20Vattimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="727 KB" />
+    <author>
+      <name>Gianni Vattimo</name>
+      <uri>../authors_0/authors_143_Page_1.xml</uri>
+    </author>
+    <published>2020-03-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Los textos que componen este volumen son variaciones sobre un único tema, el tema de una filosofía que se ejerce sobre todo mediante la puesta a prueba de aquellas perspectivas que siguen las pautas de las ocasiones. El tipo de filosofía que yo culti...</summary>
+    <link href="../book_0/book_216.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

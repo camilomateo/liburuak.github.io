@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gregg Dunnett</title>
+  <id>Calibre2opds:authors:704</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_704_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gregg Dunnett" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>El secreto de las olas</title>
+    <id>calibre:book:937</id>
+    <updated>2023-07-04T02:12:38Z</updated>
+    <link href="../../Gregg%20Dunnett/El%20secreto%20de%20las%20olas%20%28937%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gregg%20Dunnett/El%20secreto%20de%20las%20olas%20%28937%29/El%20secreto%20de%20las%20olas%20-%20Gregg%20Dunnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <author>
+      <name>Gregg Dunnett</name>
+      <uri>../authors_0/authors_704_Page_1.xml</uri>
+    </author>
+    <published>2020-05-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Old Map Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Descubre el secreto que ha sorprendido a más de 250.000 lectores por todo el mundo. La vida de Natalie, una joven psicóloga, se desmorona cuando su marido Jim desaparece haciendo surf. Todo parece indicar que no ha sido más que un trágico accidente h...</summary>
+    <link href="../book_0/book_937.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

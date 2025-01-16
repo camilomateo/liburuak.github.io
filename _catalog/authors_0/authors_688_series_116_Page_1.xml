@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspectora Valdeón</title>
+  <id>Calibre2opds:authors:688series:116</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_688_series_116_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspectora Valdeón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_688_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Armando Cuevas Calderón" />
+  <entry>
+    <title>2 - No matarás</title>
+    <id>calibre:book:918</id>
+    <updated>2023-07-04T02:12:04Z</updated>
+    <link href="../../Armando%20Cuevas%20Calderon/No%20mataras%20%28918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Armando%20Cuevas%20Calderon/No%20mataras%20%28918%29/No%20mataras%20-%20Armando%20Cuevas%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <author>
+      <name>Armando Cuevas Calderón</name>
+      <uri>../authors_0/authors_688_Page_1.xml</uri>
+    </author>
+    <published>2023-06-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspectora Valdeón" />
+    <summary>Inspectora Valdeón [2]: De madrugada, en un vertedero situado en el extrarradio sur de Madrid, es hallado el cuerpo sin vida y horriblemente mutilado de una adolescente.A pesar de que al principio se barajan diversas hipótesis, la similitud con el mo...</summary>
+    <link href="../book_0/book_918.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

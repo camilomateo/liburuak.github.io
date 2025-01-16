@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carme Chaparro</title>
+  <id>Calibre2opds:authors:418</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_418_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carme Chaparro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Todos los libros de Carme Chaparro</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_418_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Inspectora Ana Arén</title>
+    <id>Calibre2opds:authors:418series:75</id>
+    <content type="text">La química del odio</content>
+    <link href="../authors_0/authors_418_series_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Castigo</title>
+    <id>calibre:book:1460</id>
+    <updated>2024-04-30T04:46:09Z</updated>
+    <link href="../../Carme%20Chaparro/Castigo%20%281460%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Chaparro/Castigo%20%281460%29/Castigo%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carme Chaparro</name>
+      <uri>../authors_0/authors_418_Page_1.xml</uri>
+    </author>
+    <published>2024-04-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Imagina lo peor que le puede pasar a un ser humano. Este thriller te llevará aún más allá. Y te traerá de vuelta, pero ya no serás la misma persona.Trepidante y adictivo, Castigo es la consagración de la reina del thriller en español.Nines despierta ...</summary>
+    <link href="../book_1/book_1460.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Delito</title>
+    <id>calibre:book:564</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Carme%20Chaparro/Delito%20%28564%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Chaparro/Delito%20%28564%29/Delito%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="680 KB" />
+    <author>
+      <name>Carme Chaparro</name>
+      <uri>../authors_0/authors_418_Page_1.xml</uri>
+    </author>
+    <published>2023-03-16T01:05:24Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>CREÍAS QUE YA NO SE PODÍA IR MÁS LEJOS EN EL THRILLER. TE EQUIVOCABAS. CARME CHAPARRO HA VUELTO A ROMPER LOS LÍMITES.El primer ser humano revienta contra el asfalto a las diez y cuarenta y dos minutos de la noche del domingo dos de junio. Un hombre q...</summary>
+    <link href="../book_0/book_564.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Juan José Millás</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_461_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Juan José Millás" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_461_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan José Millás" />
+  <entry>
+    <title>La muerte contada por un sapiens a un neandertal</title>
+    <id>calibre:book:2602</id>
+    <updated>2024-09-16T10:50:28Z</updated>
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>Juan José Millás</name>
+      <uri>../authors_0/authors_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Juan Luis Arsuaga</name>
+      <uri>../authors_1/authors_1708_Page_1.xml</uri>
+    </author>
+    <published>2022-02-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelven el sapiens y el neandertal, vuelve «la fiesta de la inteligencia» (David Broncano) «En la naturaleza no hay vejez, no hay decrepitud. Solo hay plenitud o muerte». «Nos encantaría descubrir que cada especie tiene un reloj biológico en sus célu...</summary>
+    <link href="../book_2/book_2602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Solo humo</title>
+    <id>calibre:book:620</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/Solo%20humo%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <author>
+      <name>Juan José Millás</name>
+      <uri>../authors_0/authors_461_Page_1.xml</uri>
+    </author>
+    <published>2023-02-14T00:42:52Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NUEVA NOVELA DE JUAN JOSÉ MILLÁSUna historia sobre la imaginación y el poder transformador de la literatura«Para no hacerlosentir incómodo, finjamos que Millás no es uno de nuestros mejores escritores».Sergi Pàmies, La Vanguardia«Juan José Milláse...</summary>
+    <link href="../book_0/book_620.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vida contada por un sapiens a un neandertal</title>
+    <id>calibre:book:2603</id>
+    <updated>2024-09-16T10:50:28Z</updated>
+    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/La%20vida%20contada%20por%20un%20sapiens%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Juan José Millás</name>
+      <uri>../authors_0/authors_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Juan Luis Arsuaga</name>
+      <uri>../authors_1/authors_1708_Page_1.xml</uri>
+    </author>
+    <published>2020-09-25T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La vida contada por un sapiens a un neandertal" />
+    <summary>La vida contada por un sapiens a un neandertal [1]: p class=descriptionEl ingenio de Millás y la sabiduría de Arsuaga unidos para contar la vida como la mejor de las historias. «-Tú y yo podríamos asociarnos para hablar de la vida; levantaríamos un g...</summary>
+    <link href="../book_2/book_2603.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

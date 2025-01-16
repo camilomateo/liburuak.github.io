@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Emilio Lledó</title>
+  <id>Calibre2opds:authors:531</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_531_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Emilio Lledó" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Sobre la educación</title>
+    <id>calibre:book:712</id>
+    <updated>2023-05-17T01:10:38Z</updated>
+    <link href="../../Emilio%20Lledo/Sobre%20la%20educacion%20%28712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilio%20Lledo/Sobre%20la%20educacion%20%28712%29/Sobre%20la%20educacion%20-%20Emilio%20Lledo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="508 KB" />
+    <author>
+      <name>Emilio Lledó</name>
+      <uri>../authors_0/authors_531_Page_1.xml</uri>
+    </author>
+    <published>2018-04-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Taurus</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La defensa a ultranza de una educación moderna y emancipadora, de enfoque humanista y con un papel clave reservado a la Filosofía.Emilio Lledó, uno de los más relevantes pensadores españoles de nuestro tiempo, ha situado la educación en el centro de ...</summary>
+    <link href="../book_0/book_712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

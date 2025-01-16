@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>C. J. Tudor</title>
+  <id>Calibre2opds:authors:176</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_176_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="C. J. Tudor" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Las chicas de Chapel Croft</title>
+    <id>calibre:book:249</id>
+    <updated>2023-02-02T09:04:58Z</updated>
+    <link href="../../C.%20J.%20Tudor/Las%20chicas%20de%20Chapel%20Croft%20%28249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../C.%20J.%20Tudor/Las%20chicas%20de%20Chapel%20Croft%20%28249%29/Las%20chicas%20de%20Chapel%20Croft%20-%20C.%20J.%20Tudor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+    <author>
+      <name>C. J. Tudor</name>
+      <uri>../authors_0/authors_176_Page_1.xml</uri>
+    </author>
+    <published>2022-04-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El nuevo y electrizante thriller de la autora de El Hombre de Tiza. Hace quinientos años, ocho mártires fueron quemados en la hoguera.Hace treinta años, dos adolescentes desaparecieron sin dejar rastro.Hace dos meses, el vicario se suicidó.Bienvenido...</summary>
+    <link href="../book_0/book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

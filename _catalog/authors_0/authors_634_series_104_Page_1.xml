@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Susan Ryeland</title>
+  <id>Calibre2opds:authors:634series:104</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_634_series_104_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Susan Ryeland" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="./authors_634_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anthony Horowitz" />
+  <entry>
+    <title>2 - El crimen de la habitación 12</title>
+    <id>calibre:book:844</id>
+    <updated>2023-06-12T01:23:24Z</updated>
+    <link href="../../Anthony%20Horowitz/El%20crimen%20de%20la%20habitacion%2012%20%28844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anthony%20Horowitz/El%20crimen%20de%20la%20habitacion%2012%20%28844%29/El%20crimen%20de%20la%20habitacion%2012%20-%20Anthony%20Horowitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="836 KB" />
+    <author>
+      <name>Anthony Horowitz</name>
+      <uri>../authors_0/authors_634_Page_1.xml</uri>
+    </author>
+    <published>2023-04-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Susan Ryeland" />
+    <summary>Susan Ryeland [2]: ras el éxito de la serie «Magpie Murders», la adaptación audiovisual de Un asesinato brillante, llega El crimen de la habitación 12, un desafío para aficionados a investigaciones detectivescas que demuestra nuevamente la maestría d...</summary>
+    <link href="../book_0/book_844.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Istha Natimo</title>
+  <id>Calibre2opds:authors:937</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_937_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Istha Natimo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Tras las caras del poliedro</title>
+    <id>calibre:book:1290</id>
+    <updated>2024-03-15T08:56:25Z</updated>
+    <link href="../../Istha%20Natimo/Tras%20las%20caras%20del%20poliedro%20%281290%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Istha%20Natimo/Tras%20las%20caras%20del%20poliedro%20%281290%29/Tras%20las%20caras%20del%20poliedro%20-%20Istha%20Natimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <author>
+      <name>Istha Natimo</name>
+      <uri>../authors_0/authors_937_Page_1.xml</uri>
+    </author>
+    <published>2024-03-07T04:00:07Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Letrame Editorial</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>¿Recuerdas el sabor de los dulces de tu infancia? ¿Te acuerdas del aroma del perfume de tu abuela? ¿O la melodía de la primera canción que grabaste de la radio? Tras el repentino fallecimiento de su abuela, la joven Mallén recibe como herencia las ll...</summary>
+    <link href="../book_1/book_1290.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

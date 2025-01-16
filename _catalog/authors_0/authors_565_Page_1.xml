@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juan Arnau</title>
+  <id>Calibre2opds:authors:565</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_565_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Arnau" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Bailar en el desierto</title>
+    <id>calibre:book:756</id>
+    <updated>2023-05-22T05:06:58Z</updated>
+    <link href="../../Juan%20Arnau/Bailar%20en%20el%20desierto%20%28756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Arnau/Bailar%20en%20el%20desierto%20%28756%29/Bailar%20en%20el%20desierto%20-%20Juan%20Arnau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+    <author>
+      <name>Juan Arnau</name>
+      <uri>../authors_0/authors_565_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>HAS BAILADO CON ELLOS DURANTE DÉCADAS, AHORA CONOCERÁS SU HISTORIA.Una apasionante novela sobre la gran saga familiar que fundó el Festival de Monegros, la discoteca Florida y las fiestas Elrow.UN SUEÑO.Fraga, siglo XIX. El joven Josep Satorres decid...</summary>
+    <link href="../book_0/book_756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

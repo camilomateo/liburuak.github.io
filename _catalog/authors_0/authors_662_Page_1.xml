@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harper Lee</title>
+  <id>Calibre2opds:authors:662</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_662_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Harper Lee" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Ve y pon un centinela</title>
+    <id>calibre:book:883</id>
+    <updated>2023-06-22T03:04:28Z</updated>
+    <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/Ve%20y%20pon%20un%20centinela%20-%20Harper%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <author>
+      <name>Harper Lee</name>
+      <uri>../authors_0/authors_662_Page_1.xml</uri>
+    </author>
+    <published>2015-07-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Harper Lee trae una nueva novela emblemática ambientada dos décadas después de la historia de la obra maestra ganadora del Pulitzer, Matar a un ruiseñor Maycomb, Alabama. A sus veintiséis años, Jean Louise Finch —«Scout»— vuelve a casa desde la ciuda...</summary>
+    <link href="../book_0/book_883.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

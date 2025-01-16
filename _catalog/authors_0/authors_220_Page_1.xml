@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Anna Stuart</title>
+  <id>Calibre2opds:authors:220</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_220_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Anna Stuart" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>La enfermera de Auschwithz</title>
+    <id>calibre:book:314</id>
+    <updated>2023-02-16T08:33:16Z</updated>
+    <link href="../../Anna%20Stuart/La%20enfermera%20de%20Auschwithz%20%28314%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anna%20Stuart/La%20enfermera%20de%20Auschwithz%20%28314%29/La%20enfermera%20de%20Auschwithz%20-%20Anna%20Stuart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>Anna Stuart</name>
+      <uri>../authors_0/authors_220_Page_1.xml</uri>
+    </author>
+    <published>2023-02-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un tatuaje en la piel puede condenarte o salvarte la vidaInspirado en una conmovedora historia realEs 1943 y Ana Kaminski cruza las puertas de hierro de Auschwitz junto a su amiga Ester Pasternak. Cuando llegan ante el oficial, Ana dice que es comadr...</summary>
+    <link href="../book_0/book_314.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mujer con el tatuaje</title>
+    <id>calibre:book:1647</id>
+    <updated>2024-06-22T02:04:44Z</updated>
+    <link href="../../Anna%20Stuart/La%20mujer%20con%20el%20tatuaje%20%281647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anna%20Stuart/La%20mujer%20con%20el%20tatuaje%20%281647%29/La%20mujer%20con%20el%20tatuaje%20-%20Anna%20Stuart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <author>
+      <name>Anna Stuart</name>
+      <uri>../authors_0/authors_220_Page_1.xml</uri>
+    </author>
+    <published>2024-02-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Contra todo pronóstico, Ester Pasternak ha sobrevivido al horror de Auschwitz. Pero, pese a haber salido con vida, su desolador viaje solo acaba de empezar. En el campo dio a luz a Pippa, una pequeña criatura de pelo rubio que los nazis le arrancaron...</summary>
+    <link href="../book_1/book_1647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

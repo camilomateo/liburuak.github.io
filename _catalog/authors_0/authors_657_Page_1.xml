@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Esclapez</title>
+  <id>Calibre2opds:authors:657</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_657_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Esclapez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Me quiero, te quiero</title>
+    <id>calibre:book:877</id>
+    <updated>2023-06-20T04:46:26Z</updated>
+    <link href="../../Maria%20Esclapez/Me%20quiero%2C%20te%20quiero%20%28877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Esclapez/Me%20quiero%2C%20te%20quiero%20%28877%29/Me%20quiero%2C%20te%20quiero%20-%20Maria%20Esclapez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>María Esclapez</name>
+      <uri>../authors_0/authors_657_Page_1.xml</uri>
+    </author>
+    <published>2022-01-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bruguera</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Una guía para mejorar tus relaciones, de la mano de María Esclapez, la psicóloga y divulgadora que arrasa en redes.Un vínculo tóxico es aquel que genera malestar. Algo tóxico, como indica su nombre, es algo malo o dañino para nosotros. Con este libr...</summary>
+    <link href="../book_0/book_877.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tú eres tu lugar seguro</title>
+    <id>calibre:book:875</id>
+    <updated>2023-06-20T04:46:24Z</updated>
+    <link href="../../Maria%20Esclapez/Tu%20eres%20tu%20lugar%20seguro%20%28875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Esclapez/Tu%20eres%20tu%20lugar%20seguro%20%28875%29/Tu%20eres%20tu%20lugar%20seguro%20-%20Maria%20Esclapez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>María Esclapez</name>
+      <uri>../authors_0/authors_657_Page_1.xml</uri>
+    </author>
+    <published>2022-01-03T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bruguera</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Tras el éxito de Me quiero, te quiero, llega el nuevo libro de María Esclapez.Un nuevo libro para comprender tu historia, hacer las paces con el pasado, reconectar contigo y los que te rodean y hacer de ti tu lugar seguro.Con Me quiero, te quiero, M...</summary>
+    <link href="../book_0/book_875.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

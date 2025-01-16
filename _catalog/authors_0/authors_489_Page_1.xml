@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Manuel Fernández Ordóñez</title>
+  <id>Calibre2opds:authors:489</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_489_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Manuel Fernández Ordóñez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Nucleares: sí, por favor</title>
+    <id>calibre:book:662</id>
+    <updated>2023-05-15T05:51:18Z</updated>
+    <link href="../../Manuel%20Fernandez%20Ordonez/Nucleares_%20si%2C%20por%20favor%20%28662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Fernandez%20Ordonez/Nucleares_%20si%2C%20por%20favor%20%28662%29/Nucleares_%20si%2C%20por%20favor%20-%20Manuel%20Fernandez%20Ordonez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Manuel Fernández Ordóñez</name>
+      <uri>../authors_0/authors_489_Page_1.xml</uri>
+    </author>
+    <published>2023-01-17T02:01:09Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una refutación de los mitos sobre la energía nuclear, fuente inagotable de bienestar y progresoLa crisis energética desatada por la guerra de Ucrania ha servido para que salieran a relucir los defectos estructurales del sistema energético europeo. L...</summary>
+    <link href="../book_0/book_662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

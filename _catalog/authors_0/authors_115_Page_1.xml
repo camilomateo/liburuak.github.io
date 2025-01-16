@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Noe Casado</title>
+  <id>Calibre2opds:authors:115</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_115_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noe Casado" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Todos los libros de Noe Casado</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 4 libros</content>
+    <link href="../authors_0/authors_115_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Ice Star</title>
+    <id>Calibre2opds:authors:115series:27</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_0/authors_115_series_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Entre líneas</title>
+    <id>calibre:book:189</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/Entre%20lineas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="906 KB" />
+    <author>
+      <name>Noe Casado</name>
+      <uri>../authors_0/authors_115_Page_1.xml</uri>
+    </author>
+    <published>2022-12-14T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <summary>Hace ya tiempo que dejé atrás mi apodo de marquesita (cosas de instituto pijo) para centrarme en mi carrera profesional como periodista, cosa que a mi familia no le hizo mucha gracia pero que, al final, aceptó. He trabajado duro para que mis apellido...</summary>
+    <link href="../book_0/book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ya no creo en tus promesas</title>
+    <id>calibre:book:438</id>
+    <updated>2023-03-20T05:50:08Z</updated>
+    <link href="../../Noe%20Casado/Ya%20no%20creo%20en%20tus%20promesas%20%28438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noe%20Casado/Ya%20no%20creo%20en%20tus%20promesas%20%28438%29/Ya%20no%20creo%20en%20tus%20promesas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <author>
+      <name>Noe Casado</name>
+      <uri>../authors_0/authors_115_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Esencia</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una trepidante novela romántica en la que un supuesto feliz matrimonio acabará desencadenando una trama repleta de acción, engaños e intriga. Desde que conocí a Finley mi vida ha sido un cuento de hadas: un matrimonio de película, lujo por doquier y ...</summary>
+    <link href="../book_0/book_438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

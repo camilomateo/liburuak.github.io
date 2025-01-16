@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Oliver Pötzsch</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_79_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Oliver Pötzsch" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_79_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Oliver Pötzsch" />
+  <entry>
+    <title>El libro del sepulturero</title>
+    <id>calibre:book:129</id>
+    <updated>2023-01-18T00:43:40Z</updated>
+    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/El%20libro%20del%20sepulturero%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <author>
+      <name>Oliver Pötzsch</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2022-08-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Mystery &amp; Detective" />
+    <category term="Lang:es" />
+    <summary>Trepidante y extremo. El thriller histórico que triunfa en toda Europa. 3.500.000 de lectores. En el Prater, el parque más importante de la ciudad, aparece el cuerpo de una criada asesinada de forma brutal. Leopold von Herzfeldt, un joven inspector d...</summary>
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sepulturero y el crimen de la cripta</title>
+    <id>calibre:book:2614</id>
+    <updated>2024-09-17T00:24:17Z</updated>
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/El%20sepulturero%20y%20el%20crimen%20de%20l%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1002 KB" />
+    <author>
+      <name>Oliver Pötzsch</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2024-09-10T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <category term="Inspector Leopold von Herzfeldt" />
+    <summary>Inspector Leopold von Herzfeldt [3]: El thriller histórico que triunfa en Europa. 3.500.000 de lectores. Viena, 1895. Durante una visita turística clandestina a la Cripta de San Esteban aparece el cuerpo de un hombre con el rostro deformado por el ho...</summary>
+    <link href="../book_2/book_2614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sepulturero y la Tierra Negra</title>
+    <id>calibre:book:681</id>
+    <updated>2023-05-15T05:51:36Z</updated>
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/El%20sepulturero%20y%20la%20Tierra%20Negr%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="708 KB" />
+    <author>
+      <name>Oliver Pötzsch</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2023-05-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El libro del sepulturero" />
+    <summary>El libro del sepulturero [2]: El thriller histórico que triunfa en toda Europa.3.500.000 de lectores. Viena, 1894. En un sarcófago del Museo de Historia de la ciudad aparece, momificado, el cuerpo del profesor Alfons Strössner, uno de los mayores egi...</summary>
+    <link href="../book_0/book_681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

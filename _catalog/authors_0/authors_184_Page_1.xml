@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pierre Dukan</title>
+  <id>Calibre2opds:authors:184</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_184_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pierre Dukan" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>El método Dukan ilustrado</title>
+    <id>calibre:book:283</id>
+    <updated>2023-02-03T08:39:22Z</updated>
+    <link href="../../Pierre%20Dukan/El%20metodo%20Dukan%20ilustrado%20%28283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Dukan/El%20metodo%20Dukan%20ilustrado%20%28283%29/El%20metodo%20Dukan%20ilustrado%20-%20Pierre%20Dukan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="434 KB" />
+    <author>
+      <name>Pierre Dukan</name>
+      <uri>../authors_0/authors_184_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="prose_contemporary" />
+    <category term="Lang:es" />
+    <summary>Eficacia sorprendente. Resultados inmediatos y duraderos
+Desde 2001 más de dos millones de lectores en todo el mundo han optado por el método de adelgazamiento del Dr. Pierre Dukan. Hombres y mujeres que han perdido los kilos que les sobraban y, más ...</summary>
+    <link href="../book_0/book_283.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No Consigo Adelgazar</title>
+    <id>calibre:book:272</id>
+    <updated>2023-02-03T08:39:16Z</updated>
+    <link href="../../Pierre%20Dukan/No%20Consigo%20Adelgazar%20%28272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Dukan/No%20Consigo%20Adelgazar%20%28272%29/No%20Consigo%20Adelgazar%20-%20Pierre%20Dukan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <author>
+      <name>Pierre Dukan</name>
+      <uri>../authors_0/authors_184_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_0/book_272.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las Recetas Dukan</title>
+    <id>calibre:book:282</id>
+    <updated>2023-02-03T08:39:20Z</updated>
+    <link href="../../Pierre%20Dukan/Las%20Recetas%20Dukan%20%28282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Dukan/Las%20Recetas%20Dukan%20%28282%29/Las%20Recetas%20Dukan%20-%20Pierre%20Dukan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="629 KB" />
+    <author>
+      <name>Pierre Dukan</name>
+      <uri>../authors_0/authors_184_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="home_health" />
+    <category term="Lang:es" />
+    <summary>eguir el método Dukan es fácil y, sobre todo, efectivo. Toda España está perdiendo kilos a gran velocidad y se nota alegría en el ambiente. Sin embargo, no todos los adeptos saben combinar los 100 alimentos Dukan autorizados de manera apetitosa y var...</summary>
+    <link href="../book_0/book_282.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

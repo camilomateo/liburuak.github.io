@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Crave</title>
+  <id>Calibre2opds:authors:341series:57</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_341_series_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Crave" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <link href="../authorlist/authorlist_W_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <link href="./authors_341_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tracy Wolff" />
+  <entry>
+    <title>2 - Furia</title>
+    <id>calibre:book:602</id>
+    <updated>2023-05-02T01:40:24Z</updated>
+    <link href="../../Tracy%20Wolff/Furia%20%28602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tracy%20Wolff/Furia%20%28602%29/Furia%20-%20Tracy%20Wolff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="752 KB" />
+    <author>
+      <name>Tracy Wolff</name>
+      <uri>../authors_0/authors_341_Page_1.xml</uri>
+    </author>
+    <published>2021-03-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Crave" />
+    <summary>Crave [2]: «He vuelto al Instituto Katmere, pero me siento extraña, me atormentan cosas que no recuerdo haber vivido, y sigo luchando por comprender quién o qué soy realmente. Cuando empiezo a sentirme segura de nuevo, Hudson reaparece con sus ideas ...</summary>
+    <link href="../book_0/book_602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Hechizo</title>
+    <id>calibre:book:456</id>
+    <updated>2023-03-23T11:00:44Z</updated>
+    <link href="../../Tracy%20Wolff/Hechizo%20%28456%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tracy%20Wolff/Hechizo%20%28456%29/Hechizo%20-%20Tracy%20Wolff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="798 KB" />
+    <author>
+      <name>Tracy Wolff</name>
+      <uri>../authors_0/authors_341_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Crave" />
+    <summary>Crave [5]: Nueva entrega de la Serie Crave, la saga juvenil del momento. Ya forma parte de ti. Lo siento bajo la piel... Después de Katmere, no debería sorprenderme nada. Aquí estoy, atrapada con el peor de los seres sobrenaturales, aquel al que teme...</summary>
+    <link href="../book_0/book_456.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Charles Duhigg</title>
+  <id>Calibre2opds:authors:815</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_815_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charles Duhigg" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>El poder de los hábitos</title>
+    <id>calibre:book:1111</id>
+    <updated>2024-01-08T09:16:13Z</updated>
+    <link href="../../Charles%20Duhigg/El%20poder%20de%20los%20habitos%20%281111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Duhigg/El%20poder%20de%20los%20habitos%20%281111%29/El%20poder%20de%20los%20habitos%20-%20Charles%20Duhigg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Charles Duhigg</name>
+      <uri>../authors_0/authors_815_Page_1.xml</uri>
+    </author>
+    <published>2019-02-26T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El superventas que permaneció tres años seguidos en la lista de más vendidos de The New York Times. En El poder de los hábitos, el premiado periodista Charles  Duhigg nos lleva al límite de los descubrimientos científicos que  explican por qué existe...</summary>
+    <link href="../book_1/book_1111.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

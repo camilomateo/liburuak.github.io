@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Agustin Laje</title>
+  <id>Calibre2opds:authors:313</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_313_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Agustin Laje" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>La batalla cultural</title>
+    <id>calibre:book:425</id>
+    <updated>2023-03-14T04:53:28Z</updated>
+    <link href="../../Agustin%20Laje/La%20batalla%20cultural%20%28425%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agustin%20Laje/La%20batalla%20cultural%20%28425%29/La%20batalla%20cultural%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <author>
+      <name>Agustin Laje</name>
+      <uri>../authors_0/authors_313_Page_1.xml</uri>
+    </author>
+    <published>2022-09-08T01:16:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>La cultura ha dejado de ocupar el lugar secundario que antaño se le adjudicaba. Reflejo, epifenómeno, superestructura o mero condimento determinado por otras esferas sociales: la cultura estuvo condenada durante mucho tiempo a la marginalidad respect...</summary>
+    <link href="../book_0/book_425.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Generación idiota</title>
+    <id>calibre:book:423</id>
+    <updated>2023-03-14T04:53:28Z</updated>
+    <link href="../../Agustin%20Laje/Generacion%20idiota%20%28423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agustin%20Laje/Generacion%20idiota%20%28423%29/Generacion%20idiota%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <author>
+      <name>Agustin Laje</name>
+      <uri>../authors_0/authors_313_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Generación idiota nos ofrece una inmersión profunda en la desaparición de la sociedad intergeneracional y el auge de la mentalidad adolescente, que ha causado un gran daño a la política y a la sociedad.En la continuación de su best seller internacion...</summary>
+    <link href="../book_0/book_423.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

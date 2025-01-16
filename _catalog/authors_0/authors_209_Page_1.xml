@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Raül Balam Ruscalleda</title>
+  <id>Calibre2opds:authors:209</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_209_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Raül Balam Ruscalleda" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Enganchado</title>
+    <id>calibre:book:301</id>
+    <updated>2023-02-13T08:25:36Z</updated>
+    <link href="../../Raul%20Balam%20Ruscalleda/Enganchado%20%28301%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Balam%20Ruscalleda/Enganchado%20%28301%29/Enganchado%20-%20Raul%20Balam%20Ruscalleda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Raül Balam Ruscalleda</name>
+      <uri>../authors_0/authors_209_Page_1.xml</uri>
+    </author>
+    <published>2022-12-02T00:18:07Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros Cúpula</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>«¿Has buscado alguna vez una fotografía que te transporte a lo más miserable de tu existencia? Para ilustrar este libro he revisado centenares y del cien por cien de las imágenes, un 85 por ciento es alcohol... Mi vida era tomar, tomar y tomar. No ha...</summary>
+    <link href="../book_0/book_301.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

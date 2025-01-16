@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kate Quinn</title>
+  <id>Calibre2opds:authors:631</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_631_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kate Quinn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Q" />
+  <entry>
+    <title>La Cazadora</title>
+    <id>calibre:book:840</id>
+    <updated>2023-06-09T01:56:12Z</updated>
+    <link href="../../Kate%20Quinn/La%20Cazadora%20%28840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20Quinn/La%20Cazadora%20%28840%29/La%20Cazadora%20-%20Kate%20Quinn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="918 KB" />
+    <author>
+      <name>Kate Quinn</name>
+      <uri>../authors_0/authors_631_Page_1.xml</uri>
+    </author>
+    <published>2023-06-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>De la autora superventas de La red de Alice y El código Rosa. La Cazadora es una novela épica y arrolladora acerca de la Segunda Guerra Mundial que arroja luz sobre un oscuro rincón de la historia, de la mano de la autora de los best Sellers de The N...</summary>
+    <link href="../book_0/book_840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ojo de diamante</title>
+    <id>calibre:book:1616</id>
+    <updated>2024-06-02T11:00:02Z</updated>
+    <link href="../../Kate%20Quinn/Ojo%20de%20diamante%20%281616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20Quinn/Ojo%20de%20diamante%20%281616%29/Ojo%20de%20diamante%20-%20Kate%20Quinn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Kate Quinn</name>
+      <uri>../authors_0/authors_631_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La autora superventas de La red de Aliceregresa con un inolvidable relato de la Segunda Guerra Mundial, basado en hechos reales, en torno a una pacífica bibliotecaria que se convirtió en la francotiradora más letal de la historia. En 1937, en la nev...</summary>
+    <link href="../book_1/book_1616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

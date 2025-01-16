@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marc Vidal</title>
+  <id>Calibre2opds:authors:532</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_532_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marc Vidal" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Una hormiga en París</title>
+    <id>calibre:book:714</id>
+    <updated>2023-05-17T01:10:44Z</updated>
+    <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/Una%20hormiga%20en%20Paris%20-%20Marc%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <author>
+      <name>Marc Vidal</name>
+      <uri>../authors_0/authors_532_Page_1.xml</uri>
+    </author>
+    <published>2013-10-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alienta Editorial</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Autoayuda" />
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Luchar por los sueños propios es la receta más importante que debe aplicar cualquier emprendedor a la hora de montar un negocio por su cuenta. Ésta es la premisa que ha regido la vida de Marc Vidal desde sus comienzos como empresario con tan solo die...</summary>
+    <link href="../book_0/book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

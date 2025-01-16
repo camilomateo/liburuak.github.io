@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Melero, Javier</title>
+  <id>Calibre2opds:authors:796</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_796_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Melero, Javier" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Fragil virtud</title>
+    <id>calibre:book:1093</id>
+    <updated>2023-12-12T08:34:16Z</updated>
+    <link href="../../Melero%2C%20Javier/Fragil%20virtud%20%281093%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Melero%2C%20Javier/Fragil%20virtud%20%281093%29/Fragil%20virtud%20-%20Melero%2C%20Javier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Melero, Javier</name>
+      <uri>../authors_0/authors_796_Page_1.xml</uri>
+    </author>
+    <published>2023-09-08T06:05:34Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Ariel</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un empresario del cinturón industrial de Barcelona acude a un elitista bufete de abogados de la ciudad con un espeluznante caso de asesinato y extorsión. El letrado, tan eficiente como desencantado, nos sumergirá en la entrañas policiales y judiciale...</summary>
+    <link href="../book_1/book_1093.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

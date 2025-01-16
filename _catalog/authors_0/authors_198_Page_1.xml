@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Donato Carrisi</title>
+  <id>Calibre2opds:authors:198</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_198_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Donato Carrisi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>La casa de las voces</title>
+    <id>calibre:book:1614</id>
+    <updated>2024-06-02T11:00:01Z</updated>
+    <link href="../../Donato%20Carrisi/La%20casa%20de%20las%20voces%20%281614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Donato%20Carrisi/La%20casa%20de%20las%20voces%20%281614%29/La%20casa%20de%20las%20voces%20-%20Donato%20Carrisi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="319 KB" />
+    <author>
+      <name>Donato Carrisi</name>
+      <uri>../authors_0/authors_198_Page_1.xml</uri>
+    </author>
+    <published>2021-07-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NUEVA Y MAGISTRAL NOVELA DE CARRISI, MÁS NEGRA QUE NUNCA«Leer a Carrisi es como estar en el paraíso.» Ken FolletLAS VOCES DE LA NOCHE ESTÁN AQUÍ. NO TE FÍES DE NADIEPietro Gerber es un psicólogo diferente a los demás: su especialidad es la hipnosi...</summary>
+    <link href="../book_1/book_1614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre del laberinto</title>
+    <id>calibre:book:291</id>
+    <updated>2023-02-09T11:32:40Z</updated>
+    <link href="../../Donato%20Carrisi/El%20hombre%20del%20laberinto%20%28291%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Donato%20Carrisi/El%20hombre%20del%20laberinto%20%28291%29/El%20hombre%20del%20laberinto%20-%20Donato%20Carrisi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>Donato Carrisi</name>
+      <uri>../authors_0/authors_198_Page_1.xml</uri>
+    </author>
+    <published>2022-12-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La caza del monstruo empieza dentro de tu mente.«Un thriller turbio, oscuro y lleno de enigmas con el que Donato Carrisi se acerca a la perfección.» Javier CastilloEn medio de una ola de calor que altera el ritmo de la vida, Samantha, desaparecida cu...</summary>
+    <link href="../book_0/book_291.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

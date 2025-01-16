@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La ladrona de libros</title>
+  <id>urn:book:7d723c95-13ac-4de9-b79a-b3b7c46299cf</id>
+  <updated>2023-04-05T00:40:18Z</updated>
+  <link href="./book_536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La ladrona de libros" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/La%20ladrona%20de%20libros%20-%20Markus%20Zusak.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <author>
+    <name>Markus Zusak</name>
+    <uri>../authors_0/authors_396_Page_1.xml</uri>
+  </author>
+  <published>2005-09-01T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Drama" />
+  <category term="Infantil" />
+  <category term="Juvenil" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Drama, Infantil, Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Érase una vez un pueblo donde las noches eran largas y
+    la muerte contaba su propia historia. En el pueblo vivía
+    una niña que quería leer, un hombre que tocaba el
+    acordeón y un joven judío que escribía cuentos
+    hermosos para escapar del horror de la guerra. Al cabo de un
+    tiempo, la niña se convirtió en una ladrona que
+    robaba libros y regalaba palabras. Con estas palabras se
+    escribió una historia hermosa y cruel que ahora ya es una
+    novela inolvidable.</p>
+  </content>
+  <link href="../authors_0/authors_396_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Markus Zusak" />
+</entry>

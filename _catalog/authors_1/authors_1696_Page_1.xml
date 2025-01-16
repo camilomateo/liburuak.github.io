@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Paola Calasanz</title>
+  <id>Calibre2opds:authors:1696</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1696_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Paola Calasanz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El día que sientas el latir de las estrellas</title>
+    <id>calibre:book:2578</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="376 KB" />
+    <author>
+      <name>Paola Calasanz</name>
+      <uri>../authors_1/authors_1696_Page_1.xml</uri>
+    </author>
+    <published>2018-04-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela llena de amor, emoción y belleza, sobre el poder del pasado y la importancia de vivir la vida siempre como una aventura.Isla es neurótica, controladora y arrastra algún que otro trauma de la infancia. Vive con sus tíos en Australia y nunca...</summary>
+    <link href="../book_2/book_2578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

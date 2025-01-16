@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yves de Villegas</title>
+  <id>Calibre2opds:authors:1040</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1040_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yves de Villegas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>La salamandra desnuda</title>
+    <id>calibre:book:1421</id>
+    <updated>2024-04-09T11:16:19Z</updated>
+    <link href="../../Yves%20de%20Villegas/La%20salamandra%20desnuda%20%281421%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yves%20de%20Villegas/La%20salamandra%20desnuda%20%281421%29/La%20salamandra%20desnuda%20-%20Yves%20de%20Villegas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Yves de Villegas</name>
+      <uri>../authors_1/authors_1040_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>NdeNovela</dcterms:publisher>
+    <summary>¿Qué tipo de oscuros misterios se esconden en el Japón más prohibido? Una aventura peligrosa llena de sensualidad y muerte. Un thriller turbulento que eriza la piel.Alice solo recuerda que ha sido drogada. En la penumbra, intenta moverse y descubre ...</summary>
+    <link href="../book_1/book_1421.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

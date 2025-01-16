@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ana Lena Rivera</title>
+  <id>Calibre2opds:authors:354</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_354_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ana Lena Rivera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Todos los libros de Ana Lena Rivera</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 4 libros</content>
+    <link href="../authors_0/authors_354_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Gracia San Sebastián</title>
+    <id>Calibre2opds:authors:354series:102</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_0/authors_354_series_102_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Las herederas de la Singer</title>
+    <id>calibre:book:695</id>
+    <updated>2023-05-17T01:10:02Z</updated>
+    <link href="../../Ana%20Lena%20Rivera/Las%20herederas%20de%20la%20Singer%20%28695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Lena%20Rivera/Las%20herederas%20de%20la%20Singer%20%28695%29/Las%20herederas%20de%20la%20Singer%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="635 KB" />
+    <author>
+      <name>Ana Lena Rivera</name>
+      <uri>../authors_0/authors_354_Page_1.xml</uri>
+    </author>
+    <published>2022-02-03T11:37:06Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las herederas de la Singer cuenta la conmovedora historia de las mujeres de una familia ligadas a una máquina de coser que custodió un secreto durante cuatro generaciones.El día que la joven Aurora se vio obligada a trabajar en la mina tras el accide...</summary>
+    <link href="../book_0/book_695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lo que callan los muertos</title>
+    <id>calibre:book:471</id>
+    <updated>2023-03-24T09:44:14Z</updated>
+    <link href="../../Ana%20Lena%20Rivera/Lo%20que%20callan%20los%20muertos%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Lena%20Rivera/Lo%20que%20callan%20los%20muertos%20%28471%29/Lo%20que%20callan%20los%20muertos%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <author>
+      <name>Ana Lena Rivera</name>
+      <uri>../authors_0/authors_354_Page_1.xml</uri>
+    </author>
+    <published>2019-02-19T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones, S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Gracia San Sebastián investiga el caso de Don Marcelo Pravia, un anciano de ciento doce años de edad, ex militar franquista, que cobra una sustanciosa pensión de jubilación. Don Marcelo no ha sido atendido por ningún médico en las últimas tres década...</summary>
+    <link href="../book_0/book_471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Almudena Navarro</title>
+  <id>Calibre2opds:authors:248</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_248_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Almudena Navarro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>La alcoba escondida</title>
+    <id>calibre:book:353</id>
+    <updated>2023-02-23T01:18:58Z</updated>
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/La%20alcoba%20escondida%20-%20Almudena%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <author>
+      <name>Almudena Navarro</name>
+      <uri>../authors_0/authors_248_Page_1.xml</uri>
+    </author>
+    <published>2013-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Una apasionante novela ambientada en un pequeño pueblo manchego en los tiempos convulsos de la Segunda República que conjuga amor, política y ambición. Doña Enriqueta, la pistolera, es una mujer fuerte que controla férreamente la vida en la comarca e...</summary>
+    <link href="../book_0/book_353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

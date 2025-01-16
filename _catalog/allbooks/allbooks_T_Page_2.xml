@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por T</title>
+  <id>Calibre2opds:allbooks:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
+  <link href="../allbooks/allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 7)" />
+  <entry>
+    <title>The Aeneid</title>
+    <id>calibre:book:2532</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/The%20Aeneid%20-%20Virgil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="332 KB" />
+    <author>
+      <name>Virgil</name>
+      <uri>../authors_1/authors_1673_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aeneas" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Poetry" />
+    <category term="Legends" />
+    <category term="Rome" />
+    <category term="Epic" />
+    <category term="Latin" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Alchemist</title>
+    <id>calibre:book:2531</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/The%20Alchemist%20-%20Ben%20Jonson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <author>
+      <name>Ben Jonson</name>
+      <uri>../authors_1/authors_1672_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="English" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="17th" />
+    <category term="century" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="City" />
+    <category term="and" />
+    <category term="town" />
+    <category term="Life" />
+    <category term="Alchemists" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2531.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Brothers Karamazov</title>
+    <id>calibre:book:2476</id>
+    <updated>2024-09-09T10:34:38Z</updated>
+    <link href="../../Fyodor%20Dostoyevsky/The%20Brothers%20Karamazov%20%282476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fyodor%20Dostoyevsky/The%20Brothers%20Karamazov%20%282476%29/The%20Brothers%20Karamazov%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="907 KB" />
+    <author>
+      <name>Fyodor Dostoyevsky</name>
+      <uri>../authors_1/authors_1651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Devil's Pool</title>
+    <id>calibre:book:2542</id>
+    <updated>2024-09-09T10:34:53Z</updated>
+    <link href="../../George%20Sand/The%20Devil%27s%20Pool%20%282542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Sand/The%20Devil%27s%20Pool%20%282542%29/The%20Devil%27s%20Pool%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <author>
+      <name>George Sand</name>
+      <uri>../authors_1/authors_1382_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Pastoral" />
+    <category term="Fiction" />
+    <category term="French" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dunwich Horror</title>
+    <id>calibre:book:2510</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Frogs</title>
+    <id>calibre:book:2539</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/The%20Frogs%20-%20Aristophanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Aristophanes</name>
+      <uri>../authors_1/authors_1679_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Greek" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Voyages" />
+    <category term="to" />
+    <category term="the" />
+    <category term="otherworld" />
+    <category term="Dionysus" />
+    <category term="(Greek" />
+    <category term="deity)" />
+    <category term="Playwriting" />
+    <category term="Dramatists" />
+    <category term="Aristophanes" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Gambler</title>
+    <id>calibre:book:2477</id>
+    <updated>2024-09-09T10:34:38Z</updated>
+    <link href="../../Fyodor%20Dostoyevsky/The%20Gambler%20%282477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fyodor%20Dostoyevsky/The%20Gambler%20%282477%29/The%20Gambler%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="195 KB" />
+    <author>
+      <name>Fyodor Dostoyevsky</name>
+      <uri>../authors_1/authors_1651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Golden Dog</title>
+    <id>calibre:book:2508</id>
+    <updated>2024-09-09T10:34:45Z</updated>
+    <link href="../../William%20Kirby/The%20Golden%20Dog%20%282508%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Kirby/The%20Golden%20Dog%20%282508%29/The%20Golden%20Dog%20-%20William%20Kirby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="611 KB" />
+    <author>
+      <name>William Kirby</name>
+      <uri>../authors_1/authors_1663_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Canada" />
+    <category term="--" />
+    <category term="History" />
+    <category term="to" />
+    <category term="1763" />
+    <category term="(New" />
+    <category term="France)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2508.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Golden Road</title>
+    <id>calibre:book:2503</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/The%20Golden%20Road%20-%20L.%20M.%20Montgomery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="257 KB" />
+    <author>
+      <name>L. M. Montgomery</name>
+      <uri>../authors_1/authors_1660_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Prince" />
+    <category term="Edward" />
+    <category term="Island" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Fiction" />
+    <category term="friendship" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Canadian" />
+    <category term="Authorship" />
+    <category term="Publishers" />
+    <category term="and" />
+    <category term="publishing" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Iliad</title>
+    <id>calibre:book:2521</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../Homer/The%20Iliad%20%282521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Iliad%20%282521%29/The%20Iliad%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Achilles" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Trojan" />
+    <category term="War" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Imperialist</title>
+    <id>calibre:book:2507</id>
+    <updated>2024-09-09T10:34:45Z</updated>
+    <link href="../../Sara%20Jeannette%20Duncan/The%20Imperialist%20%282507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Jeannette%20Duncan/The%20Imperialist%20%282507%29/The%20Imperialist%20-%20Sara%20Jeannette%20Duncan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="325 KB" />
+    <author>
+      <name>Sara Jeannette Duncan</name>
+      <uri>../authors_1/authors_1662_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Autobiographical" />
+    <category term="Fiction" />
+    <category term="Imperialism" />
+    <category term="--" />
+    <category term="Domestic" />
+    <category term="Political" />
+    <category term="Ontario" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Lady from the Sea</title>
+    <id>calibre:book:2484</id>
+    <updated>2024-09-09T10:34:41Z</updated>
+    <link href="../../Henrik%20Ibsen/The%20Lady%20from%20the%20Sea%20%282484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/The%20Lady%20from%20the%20Sea%20%282484%29/The%20Lady%20from%20the%20Sea%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2484.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Lady of the Lake</title>
+    <id>calibre:book:2252</id>
+    <updated>2024-09-09T10:33:53Z</updated>
+    <link href="../../Walter%20Scott/The%20Lady%20of%20the%20Lake%20%282252%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Scott/The%20Lady%20of%20the%20Lake%20%282252%29/The%20Lady%20of%20the%20Lake%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="271 KB" />
+    <author>
+      <name>Walter Scott</name>
+      <uri>../authors_1/authors_1580_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Arthurian" />
+    <category term="romances" />
+    <category term="Lady" />
+    <category term="of" />
+    <category term="the" />
+    <category term="Lake" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Life and Adventures of Robinson Crusoe</title>
+    <id>calibre:book:2443</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/The%20Life%20and%20Adventures%20of%20Robi%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="316 KB" />
+    <author>
+      <name>Daniel Defoe</name>
+      <uri>../authors_1/authors_1581_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Shipwreck" />
+    <category term="survival" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Islands" />
+    <category term="Crusoe" />
+    <category term="Robinson" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Atlantic" />
+    <category term="Ocean" />
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Castaways" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Man Without a Country</title>
+    <id>calibre:book:2541</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Edward%20Everett%20Hale/The%20Man%20Without%20a%20Country%20%282541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edward%20Everett%20Hale/The%20Man%20Without%20a%20Country%20%282541%29/The%20Man%20Without%20a%20Country%20-%20Edward%20Everett%20Hale.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="275 KB" />
+    <author>
+      <name>Edward Everett Hale</name>
+      <uri>../authors_1/authors_1680_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Sea" />
+    <category term="Stories" />
+    <category term="Short" />
+    <category term="American" />
+    <category term="Soldiers" />
+    <category term="--" />
+    <category term="Stateless" />
+    <category term="persons" />
+    <category term="Exiles" />
+    <category term="Burr" />
+    <category term="Conspiracy" />
+    <category term="1805-1807" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Merchant of Venice</title>
+    <id>calibre:book:2519</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/The%20Merchant%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Jews" />
+    <category term="--" />
+    <category term="Italy" />
+    <category term="Drama" />
+    <category term="Moneylenders" />
+    <category term="Venice" />
+    <category term="(Italy)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2519.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mill on the Floss</title>
+    <id>calibre:book:2536</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/The%20Mill%20on%20the%20Floss%20-%20George%20Eliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>George Eliot</name>
+      <uri>../authors_1/authors_1677_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Psychological" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Domestic" />
+    <category term="Siblings" />
+    <category term="Conflict" />
+    <category term="of" />
+    <category term="generations" />
+    <category term="Vendetta" />
+    <category term="Loss" />
+    <category term="(Psychology)" />
+    <category term="Water" />
+    <category term="mills" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mysterious Island</title>
+    <id>calibre:book:2086</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Jules%20Verne/The%20Mysterious%20Island%20%282086%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/The%20Mysterious%20Island%20%282086%29/The%20Mysterious%20Island%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Castaways" />
+    <category term="--" />
+    <category term="Islands" />
+    <category term="of" />
+    <category term="the" />
+    <category term="Pacific" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2086.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Odyssey</title>
+    <id>calibre:book:2518</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../Homer/The%20Odyssey%20%282518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Odyssey%20%282518%29/The%20Odyssey%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="319 KB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Homer" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="Odysseus" />
+    <category term="King" />
+    <category term="of" />
+    <category term="Ithaca" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Phantom of the Opera</title>
+    <id>calibre:book:2509</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/The%20Phantom%20of%20the%20Opera%20-%20Gaston%20Leroux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <author>
+      <name>Gaston Leroux</name>
+      <uri>../authors_1/authors_1664_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Musical" />
+    <category term="Fiction" />
+    <category term="Opera" />
+    <category term="--" />
+    <category term="Paris" />
+    <category term="(France)" />
+    <category term="Composers" />
+    <category term="Phantom" />
+    <category term="of" />
+    <category term="the" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Prince and the Pauper</title>
+    <id>calibre:book:2481</id>
+    <updated>2024-09-09T10:34:40Z</updated>
+    <link href="../../Mark%20Twain/The%20Prince%20and%20the%20Pauper%20%282481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Twain/The%20Prince%20and%20the%20Pauper%20%282481%29/The%20Prince%20and%20the%20Pauper%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="11 MB" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../authors_1/authors_1488_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The River's End</title>
+    <id>calibre:book:2505</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../James%20Oliver%20Curwood/The%20River%27s%20End%20%282505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Oliver%20Curwood/The%20River%27s%20End%20%282505%29/The%20River%27s%20End%20-%20James%20Oliver%20Curwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="162 KB" />
+    <author>
+      <name>James Oliver Curwood</name>
+      <uri>../authors_1/authors_1661_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Royal" />
+    <category term="Canadian" />
+    <category term="Mounted" />
+    <category term="Police" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Sorrows of Young Werther</title>
+    <id>calibre:book:2511</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../Johann%20Wolfgang%20von%20Goethe/The%20Sorrows%20of%20Young%20Werther%20%282511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johann%20Wolfgang%20von%20Goethe/The%20Sorrows%20of%20Young%20Werther%20%282511%29/The%20Sorrows%20of%20Young%20Werther%20-%20Johann%20Wolfgang%20von%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <author>
+      <name>Johann Wolfgang von Goethe</name>
+      <uri>../authors_1/authors_1665_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Germany" />
+    <category term="--" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="and" />
+    <category term="customs" />
+    <category term="Fiction" />
+    <category term="Unrequited" />
+    <category term="Love" />
+    <category term="Young" />
+    <category term="men" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Stolen White Elephant</title>
+    <id>calibre:book:2480</id>
+    <updated>2024-09-09T10:34:39Z</updated>
+    <link href="../../Mark%20Twain/The%20Stolen%20White%20Elephant%20%282480%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Twain/The%20Stolen%20White%20Elephant%20%282480%29/The%20Stolen%20White%20Elephant%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../authors_1/authors_1488_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2480.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Teaching of History</title>
+    <id>calibre:book:1988</id>
+    <updated>2024-09-05T06:10:31Z</updated>
+    <link href="../../E.%20C.%20Hartwell/The%20Teaching%20of%20History%20%281988%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../E.%20C.%20Hartwell/The%20Teaching%20of%20History%20%281988%29/The%20Teaching%20of%20History%20-%20E.%20C.%20Hartwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="89 KB" />
+    <author>
+      <name>E. C. Hartwell</name>
+      <uri>../authors_1/authors_1423_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="History" />
+    <category term="--" />
+    <category term="Study" />
+    <category term="and" />
+    <category term="teaching" />
+    <category term="Lang:en" />
+    <link href="../book_1/book_1988.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+</feed>

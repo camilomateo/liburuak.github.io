@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jean-Christophe Grangé</title>
+  <id>Calibre2opds:authors:400</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_400_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jean-Christophe Grangé" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Muerte en el Tercer Reich</title>
+    <id>calibre:book:543</id>
+    <updated>2023-04-06T09:50:06Z</updated>
+    <link href="../../Jean-Christophe%20Grange/Muerte%20en%20el%20Tercer%20Reich%20%28543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Christophe%20Grange/Muerte%20en%20el%20Tercer%20Reich%20%28543%29/Muerte%20en%20el%20Tercer%20Reich%20-%20Jean-Christophe%20Grange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>Jean-Christophe Grangé</name>
+      <uri>../authors_0/authors_400_Page_1.xml</uri>
+    </author>
+    <published>2023-04-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Berlín, 1930. Un asesino en serie acecha a las élites nazis. Un detective de la Gestapo, un psicólogo y una psiquiatra criminal serán los encargados de deternerlo. Un thriller histórico escrito por el autor de Los ríos de color púrpura. Berlín, vísp...</summary>
+    <link href="../book_0/book_543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Javier Pedreira "Wicho"</title>
+  <id>Calibre2opds:authors:553</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_553_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Javier Pedreira &quot;Wicho&quot;" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por &quot;" />
+  <entry>
+    <title>Los nativos digitales no existen</title>
+    <id>calibre:book:739</id>
+    <updated>2023-05-17T02:00:08Z</updated>
+    <link href="../../Susana%20Lluna/Los%20nativos%20digitales%20no%20existen%20%28739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Susana%20Lluna/Los%20nativos%20digitales%20no%20existen%20%28739%29/Los%20nativos%20digitales%20no%20existe%20-%20Susana%20Lluna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="824 KB" />
+    <author>
+      <name>Susana Lluna</name>
+      <uri>../authors_0/authors_552_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Javier Pedreira "Wicho"</name>
+      <uri>../authors_0/authors_553_Page_1.xml</uri>
+    </author>
+    <published>2017-01-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Hoy en día estamos acostumbrados a oír la expresión «nativo digital» para referirse a los nacidos a partir de mediados de los noventa, quienes, supuestamente acostumbrados a la presencia de ordenadores y otros dispositivos digitales en sus vidas, no ...</summary>
+    <link href="../book_0/book_739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

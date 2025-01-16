@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Margarita Leoz</title>
+  <id>Calibre2opds:authors:974</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_974_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Margarita Leoz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Punta Albatros</title>
+    <id>calibre:book:1333</id>
+    <updated>2024-03-21T01:00:31Z</updated>
+    <link href="../../Margarita%20Leoz/Punta%20Albatros%20%281333%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Margarita%20Leoz/Punta%20Albatros%20%281333%29/Punta%20Albatros%20-%20Margarita%20Leoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Margarita Leoz</name>
+      <uri>../authors_0/authors_974_Page_1.xml</uri>
+    </author>
+    <published>2022-04-20T02:12:55Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El médico protagonista de esta novela abandona la ciudad para trasladarse a Punta Albatros, una región costera aislada y agreste, azotada por los vientos y las mareas. Allí entrará en contacto con los seres que la habitan: el dueño del hostal, los an...</summary>
+    <link href="../book_1/book_1333.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

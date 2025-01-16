@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kieran Setiya</title>
+  <id>Calibre2opds:authors:748</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_748_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kieran Setiya" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>En la mitad de la vida</title>
+    <id>calibre:book:1134</id>
+    <updated>2024-01-08T09:16:17Z</updated>
+    <link href="../../Kieran%20Setiya/En%20la%20mitad%20de%20la%20vida%20%281134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kieran%20Setiya/En%20la%20mitad%20de%20la%20vida%20%281134%29/En%20la%20mitad%20de%20la%20vida%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="225 KB" />
+    <author>
+      <name>Kieran Setiya</name>
+      <uri>../authors_0/authors_748_Page_1.xml</uri>
+    </author>
+    <published>2019-01-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Más tarde o más temprano surgen en nuestra vida una serie de interrogantes a los que no es fácil dar respuesta. ¿Cómo reconciliarnos con las vidas que no hemos podido vivir, con los caminos que no tomamos, con la nostalgia del pasado? ¿Cómo aceptar n...</summary>
+    <link href="../book_1/book_1134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vida es dura</title>
+    <id>calibre:book:1010</id>
+    <updated>2023-08-27T03:30:34Z</updated>
+    <link href="../../Kieran%20Setiya/La%20vida%20es%20dura%20%281010%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kieran%20Setiya/La%20vida%20es%20dura%20%281010%29/La%20vida%20es%20dura%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <author>
+      <name>Kieran Setiya</name>
+      <uri>../authors_0/authors_748_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Paidós</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>A lo largo de la historia de la filosofía, la tendencia ha sido creer que la vida es y debe ser buena, que se debe evitar el sufrimiento, que este es una señal de que la vida salió mal. Desde Aristóteles hasta las nuevas lecturas del estoicismo, los ...</summary>
+    <link href="../book_1/book_1010.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Aro Sáinz de la Maza</title>
+  <id>Calibre2opds:authors:372</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_372_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Aro Sáinz de la Maza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Malart</title>
+    <id>calibre:book:504</id>
+    <updated>2023-04-01T02:02:02Z</updated>
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/Malart%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/Malart%20%28504%29/Malart%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <author>
+      <name>Aro Sáinz de la Maza</name>
+      <uri>../authors_0/authors_372_Page_1.xml</uri>
+    </author>
+    <published>2023-03-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NO ESPERES MÁS DE LO MISMO EL AUTOR DE NOVELA NEGRA QUE ROMPE MOLDES CON CADA NUEVO LIBRODe madrugada, en alta mar a bordo de un yate en la costa barcelonesa, se ha cometido un doble crimen atroz. El inspector Milo Malart conocía bien a las víctimas,...</summary>
+    <link href="../book_0/book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

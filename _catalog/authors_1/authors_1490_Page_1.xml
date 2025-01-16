@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alexandre Dumas</title>
+  <id>Calibre2opds:authors:1490</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alexandre Dumas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Todos los libros de Alexandre Dumas</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 5 libros</content>
+    <link href="../authors_1/authors_1490_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Biblioteca PruébaT</title>
+    <id>Calibre2opds:authors:1490series:225</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_1/authors_1490_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El hombre de la máscara de hierro</title>
+    <id>calibre:book:2261</id>
+    <updated>2024-09-09T10:33:55Z</updated>
+    <link href="../../Alexandre%20Dumas/El%20hombre%20de%20la%20mascara%20de%20hierro%20%282261%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexandre%20Dumas/El%20hombre%20de%20la%20mascara%20de%20hierro%20%282261%29/El%20hombre%20de%20la%20mascara%20de%20hier%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="415 KB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../authors_1/authors_1490_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Three Musketeers</title>
+    <id>calibre:book:2089</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/The%20Three%20Musketeers%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../authors_1/authors_1490_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="France" />
+    <category term="--" />
+    <category term="History" />
+    <category term="Louis" />
+    <category term="XIII" />
+    <category term="1610-1643" />
+    <category term="Adventure" />
+    <category term="and" />
+    <category term="adventurers" />
+    <category term="Swordsmen" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2089.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los tres mosqueteros</title>
+    <id>calibre:book:2251</id>
+    <updated>2024-09-09T10:33:53Z</updated>
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../authors_1/authors_1490_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

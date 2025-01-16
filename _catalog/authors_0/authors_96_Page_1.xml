@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sonia Laredo</title>
+  <id>Calibre2opds:authors:96</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sonia Laredo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Y entonces sucedió algo maravilloso</title>
+    <id>calibre:book:149</id>
+    <updated>2023-01-19T08:55:26Z</updated>
+    <link href="../../Sonia%20Laredo/Y%20entonces%20sucedio%20algo%20maravilloso%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sonia%20Laredo/Y%20entonces%20sucedio%20algo%20maravilloso%20%28149%29/Y%20entonces%20sucedio%20algo%20maravil%20-%20Sonia%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>Sonia Laredo</name>
+      <uri>../authors_0/authors_96_Page_1.xml</uri>
+    </author>
+    <published>2013-02-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Y entonces, mientras estaba en mi casa y me sentía sola, fracasada y desesperada, me dispuse a jugar a mi juego privado de los libros, buscando consuelo. Me preparé para seguir el camino que los libros me indicaran sin saber que me llevarían a encon...</summary>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

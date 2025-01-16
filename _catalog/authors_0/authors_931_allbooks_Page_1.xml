@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Noemí Casquet</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_931_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Noemí Casquet" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_931_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Noemí Casquet" />
+  <entry>
+    <title>Mala mujer</title>
+    <id>calibre:book:1295</id>
+    <updated>2024-03-15T09:02:27Z</updated>
+    <link href="../../Noemi%20Casquet/Mala%20mujer%20%281295%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noemi%20Casquet/Mala%20mujer%20%281295%29/Mala%20mujer%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Noemí Casquet</name>
+      <uri>../authors_0/authors_931_Page_1.xml</uri>
+    </author>
+    <published>2019-04-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Relato" />
+    <category term="Erótico" />
+    <category term="Lang:es" />
+    <summary>Tras ver su cuenta censurada por Instagram y su voz acallada en múltiples ocasiones, Noemí Casquet lanza su poderoso mensaje a través de este libro: El libro que hará que las mujeres vuelvan a ser dueñas de su sexualidad. «Sigue la vida establecida»....</summary>
+    <link href="../book_1/book_1295.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Malas</title>
+    <id>calibre:book:1394</id>
+    <updated>2024-04-03T00:56:46Z</updated>
+    <link href="../../Noemi%20Casquet/Malas%20%281394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noemi%20Casquet/Malas%20%281394%29/Malas%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <author>
+      <name>Noemí Casquet</name>
+      <uri>../authors_0/authors_931_Page_1.xml</uri>
+    </author>
+    <published>2020-09-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Zorras" />
+    <summary>Zorras [2]:  Segunda entrega de la trilogía que ha reinventado la novela erótica.Alicia, Diana y Emily van tachando las líneas de su lista de fantasías sexuales, pero aún tienen mucho por cumplir y descubrir. La siguiente etapa de su viaje sensorial ...</summary>
+    <link href="../book_1/book_1394.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zorras</title>
+    <id>calibre:book:1280</id>
+    <updated>2024-03-10T09:24:50Z</updated>
+    <link href="../../Noemi%20Casquet/Zorras%20%281280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noemi%20Casquet/Zorras%20%281280%29/Zorras%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="745 KB" />
+    <author>
+      <name>Noemí Casquet</name>
+      <uri>../authors_0/authors_931_Page_1.xml</uri>
+    </author>
+    <published>2020-07-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La trilogía erótica de las mujeres libres (primera parte)  ¿Estás preparada para unirte al Club de las Zorras?  #OrgasmoLiterarioGarantizado Nunca has leído una novela erótica como esta. Una novela en la que tres mujeres -Alicia, Diana y Emily: quéda...</summary>
+    <link href="../book_1/book_1280.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Henrik Fexeus</title>
+  <id>Calibre2opds:authors:397</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_397_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Henrik Fexeus" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Todos los libros de Henrik Fexeus</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_397_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Mina Dabiri y Vincent Walder</title>
+    <id>Calibre2opds:authors:397series:62</id>
+    <content type="text">El espejismo</content>
+    <link href="../authors_0/authors_397_series_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El mentalista</title>
+    <id>calibre:book:538</id>
+    <updated>2023-04-05T00:40:20Z</updated>
+    <link href="../../Camilla%20Lackberg/El%20mentalista%20%28538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/El%20mentalista%20%28538%29/El%20mentalista%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="988 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Henrik Fexeus</name>
+      <uri>../authors_0/authors_397_Page_1.xml</uri>
+    </author>
+    <published>2022-03-16T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En un parque de atracciones a las afueras de Estocolmo aparece el cuerpo de una joven asesinada de forma macabra: atravesada por múltiples espadas dentro de una caja.La agente de policía Mina Dabiri, reservada y metódica, forma parte del equipo espec...</summary>
+    <link href="../book_0/book_538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

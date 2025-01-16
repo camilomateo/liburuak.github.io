@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gemma Herrero Virto</title>
+  <id>Calibre2opds:authors:233</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_233_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gemma Herrero Virto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Todos los libros de Gemma Herrero Virto</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_233_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Caronte</title>
+    <id>Calibre2opds:authors:233series:43</id>
+    <content type="text">Reflejo mortal</content>
+    <link href="../authors_0/authors_233_series_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los crímenes del lago</title>
+    <id>calibre:book:957</id>
+    <updated>2023-08-01T05:26:08Z</updated>
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/Los%20crimenes%20del%20lago%20-%20Gemma%20Herrero%20Virto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gemma Herrero Virto</name>
+      <uri>../authors_0/authors_233_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Intriga" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Durante el verano del año 2001 tres niños aparecen muertos en las aguas del lago Champlain, en Vermont. Eric, un niño de doce años, pierde a Anne Austen, la chica de la que está enamorado. Además, durante las noches, sus sueños se ven interrumpidos p...</summary>
+    <link href="../book_0/book_957.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

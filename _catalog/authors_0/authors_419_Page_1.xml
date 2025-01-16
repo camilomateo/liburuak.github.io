@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Soto</title>
+  <id>Calibre2opds:authors:419</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_419_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Soto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Confianza cien, expectativa cero</title>
+    <id>calibre:book:1037</id>
+    <updated>2023-10-20T01:12:31Z</updated>
+    <link href="../../Maria%20Soto/Confianza%20cien%2C%20expectativa%20cero%20%281037%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Soto/Confianza%20cien%2C%20expectativa%20cero%20%281037%29/Confianza%20cien%2C%20expectativa%20cer%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>María Soto</name>
+      <uri>../authors_0/authors_419_Page_1.xml</uri>
+    </author>
+    <published>2022-03-20T02:20:22Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cómo despertar para el crecimiento mutuo, desde la infancia hasta la adolescencia. Tras la publicación de Educa bonito, María Soto nos brinda un libro, hilado desde su experiencia personal y profesional, con los valores necesarios para conseguir desp...</summary>
+    <link href="../book_1/book_1037.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ladrón de veranos</title>
+    <id>calibre:book:565</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Maria%20Soto/El%20ladron%20de%20veranos%20%28565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Soto/El%20ladron%20de%20veranos%20%28565%29/El%20ladron%20de%20veranos%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>María Soto</name>
+      <uri>../authors_0/authors_419_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NUEVA MAESTRA DE LA NOVELA DE MISTERIO El hallazgo de un valiosísimo lienzo de Velázquez y un hombre enigmático con mucho que esconder.Verano de 1935. Clara tiene once años y ha conocido al hombre más fascinante del mundo: Roberto Montenegro, pint...</summary>
+    <link href="../book_0/book_565.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

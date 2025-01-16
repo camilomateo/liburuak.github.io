@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joel Dicker</title>
+  <id>Calibre2opds:authors:74</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joel Dicker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>La Verdad Sobre El Caso Harry Quebert(c.1)</title>
+    <id>calibre:book:113</id>
+    <updated>2023-01-18T00:43:30Z</updated>
+    <link href="../../Joel%20Dicker/La%20Verdad%20Sobre%20El%20Caso%20Harry%20Quebe%20%28113%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joel%20Dicker/La%20Verdad%20Sobre%20El%20Caso%20Harry%20Quebe%20%28113%29/La%20Verdad%20Sobre%20El%20Caso%20Harry%20Q%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <author>
+      <name>Joel Dicker</name>
+      <uri>../authors_0/authors_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <summary>Quién mató a Nola Kellergan es la gran incógnita a desvelar en esta incomparable historia policiaca cuya experiencia de lectura escapa a cualquier intento de descripción. Intentémoslo:
+Una novela de suspense a tres tiempos —1975, 1998 y 2008— acerca ...</summary>
+    <link href="../book_0/book_113.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

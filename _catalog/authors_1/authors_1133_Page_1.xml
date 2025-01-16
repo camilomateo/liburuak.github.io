@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Oscar Beltrán de Otálora</title>
+  <id>Calibre2opds:authors:1133</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Oscar Beltrán de Otálora" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Tierra de furtivos</title>
+    <id>calibre:book:1555</id>
+    <updated>2024-06-02T10:59:46Z</updated>
+    <link href="../../Oscar%20Beltran%20de%20Otalora/Tierra%20de%20furtivos%20%281555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Beltran%20de%20Otalora/Tierra%20de%20furtivos%20%281555%29/Tierra%20de%20furtivos%20-%20Oscar%20Beltran%20de%20Otalora.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="490 KB" />
+    <author>
+      <name>Oscar Beltrán de Otálora</name>
+      <uri>../authors_1/authors_1133_Page_1.xml</uri>
+    </author>
+    <published>2021-11-24T11:29:46Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando la joven Tatiana se entera de que una amiga suya ha muerto calcinada empieza a investigar por su cuenta el caso, que lleva el oficial de la Ertzaintza Josu Aguirre. Este, inmerso en las disputas internas del cuerpo heredadas de los años de la ...</summary>
+    <link href="../book_1/book_1555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

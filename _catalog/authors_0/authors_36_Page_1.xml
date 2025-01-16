@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Anne Zouroudi</title>
+  <id>Calibre2opds:authors:36</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Anne Zouroudi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <entry>
+    <title>El médico de Tesalia</title>
+    <id>calibre:book:45</id>
+    <updated>2023-01-17T10:26:06Z</updated>
+    <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/El%20medico%20de%20Tesalia%20-%20Anne%20Zouroudi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <author>
+      <name>Anne Zouroudi</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2011-05-23T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Chrissa Kaliga lanza con furia su ramo de guirnaldas contra las olas que rompen bajo sus pies. En casa, sus sobrinas y sus tías hablan en voz baja mientras observan con suspicacia a Nula, su hermana mayor. En el pueblo todos esperan la llegada del mi...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Noelia Lorenzo Pino</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_77_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Noelia Lorenzo Pino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Noelia Lorenzo Pino" />
+  <entry>
+    <title>Blanco inmaculado</title>
+    <id>calibre:book:127</id>
+    <updated>2023-01-18T00:43:38Z</updated>
+    <link href="../../Noelia%20Lorenzo%20Pino/Blanco%20inmaculado%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelia%20Lorenzo%20Pino/Blanco%20inmaculado%20%28127%29/Blanco%20inmaculado%20-%20Noelia%20Lorenzo%20Pino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="661 KB" />
+    <author>
+      <name>Noelia Lorenzo Pino</name>
+      <uri>../authors_0/authors_77_Page_1.xml</uri>
+    </author>
+    <published>2022-09-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una trama absorbente, un escenario único, una pareja protagonista carismática y un final inesperado: Blanco inmaculado lo tiene todo para los amantes del thriller y la novela negra. «Adictiva, escalofriante, magistral. Noelia Lorenzo Pino se confirma...</summary>
+    <link href="../book_0/book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Purasangre</title>
+    <id>calibre:book:1279</id>
+    <updated>2024-03-10T09:24:50Z</updated>
+    <link href="../../Noelia%20Lorenzo%20Pino/Purasangre%20%281279%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelia%20Lorenzo%20Pino/Purasangre%20%281279%29/Purasangre%20-%20Noelia%20Lorenzo%20Pino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="529 KB" />
+    <author>
+      <name>Noelia Lorenzo Pino</name>
+      <uri>../authors_0/authors_77_Page_1.xml</uri>
+    </author>
+    <published>2024-03-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Lur y Maddi" />
+    <summary>Lur y Maddi [2]: Escribo desde Irún.Anoche vi a la chica del abrigo rojo.Encontradla, por favor.Corre peligro.Un mensaje misterioso enviado a la Ertzaintza y una desaparición repentina en la ciudad fronteriza de Irún reúnen a la oficial Lur de las He...</summary>
+    <link href="../book_1/book_1279.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>César Pérez Gellida</title>
+  <id>Calibre2opds:authors:76</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="César Pérez Gellida" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Astillas en la piel</title>
+    <id>calibre:book:605</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../Cesar%20Perez%20Gellida/Astillas%20en%20la%20piel%20%28605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cesar%20Perez%20Gellida/Astillas%20en%20la%20piel%20%28605%29/Astillas%20en%20la%20piel%20-%20Cesar%20Perez%20Gellida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <author>
+      <name>César Pérez Gellida</name>
+      <uri>../authors_0/authors_76_Page_1.xml</uri>
+    </author>
+    <published>2021-09-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Astillas en la piel es un absorbentethrillerpsicológico  en el que se confirma que César Pérez Gellida es el auténtico mago del engaño de nuestras letras.Dos amigos de la niñez con una deuda pendiente.Un forzado reencuentro en la amurallada localidad...</summary>
+    <link href="../book_0/book_605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nos crecen los enanos</title>
+    <id>calibre:book:126</id>
+    <updated>2023-01-18T00:43:38Z</updated>
+    <link href="../../Cesar%20Perez%20Gellida/Nos%20crecen%20los%20enanos%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cesar%20Perez%20Gellida/Nos%20crecen%20los%20enanos%20%28126%29/Nos%20crecen%20los%20enanos%20-%20Cesar%20Perez%20Gellida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="679 KB" />
+    <author>
+      <name>César Pérez Gellida</name>
+      <uri>../authors_0/authors_76_Page_1.xml</uri>
+    </author>
+    <published>2022-09-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>César Pérez Gellida regresa con una nueva novela afilada y brutal.«César Pérez Gellida es, sin ninguna duda, el mejor autor de novela negra de España».Juan Gómez-JuradoUn asesino sádico e inteligente con un único objetivo: no ser atrapado jamás.Dos c...</summary>
+    <link href="../book_0/book_126.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

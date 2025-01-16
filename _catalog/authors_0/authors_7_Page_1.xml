@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Madison Davis</title>
+  <id>Calibre2opds:authors:7</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Madison Davis" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>La esposa reacia del duque marcado</title>
+    <id>calibre:book:9</id>
+    <updated>2023-01-17T10:04:06Z</updated>
+    <link href="../../Madison%20Davis/La%20esposa%20reacia%20del%20duque%20marcado%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Madison%20Davis/La%20esposa%20reacia%20del%20duque%20marcado%20%289%29/La%20esposa%20reacia%20del%20duque%20marc%20-%20Madison%20Davis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <author>
+      <name>Madison Davis</name>
+      <uri>../authors_0/authors_7_Page_1.xml</uri>
+    </author>
+    <published>2023-01-06T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Publicaciones Ricardo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Podrá lady Eleanor amar a su impuesto marido sin importarle sus cicatrices?Lady Eleanor Lead, hija del conde de Bellingham, ve como sus sueños de contraer matrimonio por amor terminan, cuando su padre le impone un matrimonio con el duque de Southav...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

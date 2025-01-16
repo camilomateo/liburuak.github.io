@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ernesto Ekaizer</title>
+  <id>Calibre2opds:authors:172</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_172_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ernesto Ekaizer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Cataluña año cero</title>
+    <id>calibre:book:244</id>
+    <updated>2023-02-02T08:58:30Z</updated>
+    <link href="../../Ernesto%20Ekaizer/Cataluna%20ano%20cero%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ernesto%20Ekaizer/Cataluna%20ano%20cero%20%28244%29/Cataluna%20ano%20cero%20-%20Ernesto%20Ekaizer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="18 MB" />
+    <author>
+      <name>Ernesto Ekaizer</name>
+      <uri>../authors_0/authors_172_Page_1.xml</uri>
+    </author>
+    <published>2019-11-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un relato vertiginoso y sorprendente contará punto por punto qué ocurrió los tres días previos a la fallida declaración unilateral de independencia del 27-O y lo que aconteció en las horas inmediatamente posteriores. Por medio de distintas fuentes de...</summary>
+    <link href="../book_0/book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Operación jaque mate</title>
+    <id>calibre:book:1894</id>
+    <updated>2024-09-03T09:33:55Z</updated>
+    <link href="../../Ernesto%20Ekaizer/Operacion%20jaque%20mate%20%281894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ernesto%20Ekaizer/Operacion%20jaque%20mate%20%281894%29/Operacion%20jaque%20mate%20-%20Ernesto%20Ekaizer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="737 KB" />
+    <author>
+      <name>Ernesto Ekaizer</name>
+      <uri>../authors_0/authors_172_Page_1.xml</uri>
+    </author>
+    <published>2023-04-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El nuevo libro del reconocido periodista ErnestoEkaizer se adentra en el polémico caso Villarejo y cómo el fiscalStampa fue apartado por razones políticas.¿Quién es de verdad el excomisario José Manuel Villarejo, el hombre de las mil identidades? ¿Ag...</summary>
+    <link href="../book_1/book_1894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

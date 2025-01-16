@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Anabel Hernández</title>
+  <id>Calibre2opds:authors:1020</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1020_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Anabel Hernández" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>La historia secreta. AMLO y el Cártel de Sinaloa</title>
+    <id>calibre:book:1793</id>
+    <updated>2024-08-26T10:56:16Z</updated>
+    <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/La%20historia%20secreta.%20AMLO%20y%20el%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Anabel Hernández</name>
+      <uri>../authors_1/authors_1020_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Narcos" />
+    <category term="Lang:es" />
+    <summary> Todo indica que en realidad AMLO no era el hombre que venía a romper el sistema criminal, sino que ha sido su Caballo de Troya, uno más de los instrumentos del Cártel de Sinaloa para culminar su plan de conquista de nuestra nación. Esta investigació...</summary>
+    <link href="../book_1/book_1793.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los señores del narco</title>
+    <id>calibre:book:1387</id>
+    <updated>2024-04-03T00:30:06Z</updated>
+    <link href="../../Anabel%20Hernandez/Los%20senores%20del%20narco%20%281387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anabel%20Hernandez/Los%20senores%20del%20narco%20%281387%29/Los%20senores%20del%20narco%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Anabel Hernández</name>
+      <uri>../authors_1/authors_1020_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Comunicación" />
+    <category term="Crónica" />
+    <category term="Lang:es" />
+    <summary>Los señores del narco es una descarnada crónica sobre las alarmantes complicidades de los altos círculos políticos, policíacos, militares y empresariales con el crimen organizado. Anabel Hernández tuvo acceso no sólo a una vasta documentación, inédit...</summary>
+    <link href="../book_1/book_1387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

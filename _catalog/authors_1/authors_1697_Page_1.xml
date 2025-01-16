@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>José Ovejero</title>
+  <id>Calibre2opds:authors:1697</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1697_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="José Ovejero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Añoranza del héroe</title>
+    <id>calibre:book:2579</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Jose%20Ovejero/Anoranza%20del%20heroe%20%282579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ovejero/Anoranza%20del%20heroe%20%282579%29/Anoranza%20del%20heroe%20-%20Jose%20Ovejero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="365 KB" />
+    <author>
+      <name>José Ovejero</name>
+      <uri>../authors_1/authors_1697_Page_1.xml</uri>
+    </author>
+    <published>2018-09-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Acaso Neftalí Larraga no fuera un hombre valiente. Que en algunos momentos de su vida se comportase de manera heroica, incluso podría atribuirse a una cierta debilidad de carácter… Así empieza esta novela centrada en un personaje soñador e idealista,...</summary>
+    <link href="../book_2/book_2579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

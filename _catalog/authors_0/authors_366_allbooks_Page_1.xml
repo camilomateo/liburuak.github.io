@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Jeffrey Archer</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_366_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Jeffrey Archer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="./authors_366_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeffrey Archer" />
+  <entry>
+    <title>Los pecados del padre</title>
+    <id>calibre:book:495</id>
+    <updated>2023-04-01T02:01:58Z</updated>
+    <link href="../../Jeffrey%20Archer/Los%20pecados%20del%20padre%20%28495%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jeffrey%20Archer/Los%20pecados%20del%20padre%20%28495%29/Los%20pecados%20del%20padre%20-%20Jeffrey%20Archer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Jeffrey Archer</name>
+      <uri>../authors_0/authors_366_Page_1.xml</uri>
+    </author>
+    <published>2021-02-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SAGA Egmont</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Las crónicas de Clifton" />
+    <summary>Las crónicas de Clifton [2]: "Los pecados del padre" es el segundo libro de las aclamadas Las crónicas de Clifton, la obra más ambiciosa de Jeffrey Archer tras una carrera de cuatro décadas como autor bestsellers internacionales. Tras la estela del l...</summary>
+    <link href="../book_0/book_495.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

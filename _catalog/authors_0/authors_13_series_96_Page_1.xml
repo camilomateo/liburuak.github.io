@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Los crímenes del faro</title>
+  <id>Calibre2opds:authors:13series:96</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_13_series_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Los crímenes del faro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ibon Martín" />
+  <entry>
+    <title>1 - El faro del silencio</title>
+    <id>calibre:book:776</id>
+    <updated>2023-05-25T01:32:56Z</updated>
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/El%20faro%20del%20silencio%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <author>
+      <name>Ibon Martín</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Travel Bug</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Los crímenes del faro" />
+    <summary>Los crímenes del faro [1]: Una tarde de otoño, la noche llama a las puertas de un remoto faro de la costa vasca, el cuerpo de una mujer aparece a los pies de la torre de luz. El asesino se ha llevado la grasa de su abdomen. Leire, la escritora bilbaí...</summary>
+    <link href="../book_0/book_776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

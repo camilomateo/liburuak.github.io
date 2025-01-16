@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vendela Vida</title>
+  <id>Calibre2opds:authors:1273</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1273_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Vendela Vida" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Las mareas nos pertenecen</title>
+    <id>calibre:book:1773</id>
+    <updated>2024-08-26T10:56:11Z</updated>
+    <link href="../../Vendela%20Vida/Las%20mareas%20nos%20pertenecen%20%281773%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vendela%20Vida/Las%20mareas%20nos%20pertenecen%20%281773%29/Las%20mareas%20nos%20pertenecen%20-%20Vendela%20Vida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="715 KB" />
+    <author>
+      <name>Vendela Vida</name>
+      <uri>../authors_1/authors_1273_Page_1.xml</uri>
+    </author>
+    <published>2024-06-19T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UNA CONMOVEDORA NOVELA SOBRE LA AMISTAD FEMENINA, LA TRAICIÓN Y UNA MISTERIOSA DESAPARICIÓN. Eulabee y su magnética mejor amiga, Maria Fabiola, viven junto al océano en un brumoso barrio de San Francisco. Lo saben todo acerca de sus calles, casas y p...</summary>
+    <link href="../book_1/book_1773.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Mari Jungstedt</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_80_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Mari Jungstedt" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="./authors_80_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mari Jungstedt" />
+  <entry>
+    <title>Antes de que lleguen las nubes</title>
+    <id>calibre:book:1229</id>
+    <updated>2024-02-22T06:03:56Z</updated>
+    <link href="../../Mari%20Jungstedt/Antes%20de%20que%20lleguen%20las%20nubes%20%281229%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/Antes%20de%20que%20lleguen%20las%20nubes%20%281229%29/Antes%20de%20que%20lleguen%20las%20nubes%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2022-06-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Málaga" />
+    <summary>Málaga [1]: En una tarde brumosa, cuatro turistas viajan a Ronda para admirar el Puente Nuevo, una construcción de casi cien metros de altura. Debido al mal tiempo, tres de ellos deciden regresar al hotel. El fiscal malagueño Florián Vega se queda so...</summary>
+    <link href="../book_1/book_1229.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Donde muere la luz</title>
+    <id>calibre:book:2698</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="463 KB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2024-09-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La desaparición de dos niños en la isla de Gotland se entrelaza con el misterioso pasado de la isla.Cuando faltan pocos días para Halloween, dos niños que disfrutan de sus vacaciones de otoño en Gotland desaparecen sin dejar rastro.Su pista se pierde...</summary>
+    <link href="../book_2/book_2698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En el lado oscuro de la luna</title>
+    <id>calibre:book:1215</id>
+    <updated>2024-02-20T01:04:11Z</updated>
+    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/En%20el%20lado%20oscuro%20de%20la%20luna%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2022-06-07T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Serie Málaga" />
+    <summary>Serie Málaga [2]: La esperada nueva novela de la Serie Málaga, de Mari Jungstedt. Tras el éxito de Antes de que lleguen las nubes, el inspector Héctor Correa y la profesora sueca Lisa Hagel regresan a la Costa del Sol. En un gélido día de Año Nuevo, ...</summary>
+    <link href="../book_1/book_1215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No estas sola</title>
+    <id>calibre:book:131</id>
+    <updated>2023-01-18T00:43:42Z</updated>
+    <link href="../../Mari%20Jungstedt/No%20estas%20sola%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/No%20estas%20sola%20%28131%29/No%20estas%20sola%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="738 KB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2018-11-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Knutas" />
+    <summary>Knutas [11]:  Nunca superamos del todo el miedo infantil a que nos dejen solos.Alguien traumatizado por su pasado no dudará en emplear cualquier medio para conseguir ser amado.El cálido sol de septiembre brilla sobre Visby y sus calles empedradas. Lo...</summary>
+    <link href="../book_0/book_131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las trampas del afecto</title>
+    <id>calibre:book:1305</id>
+    <updated>2024-03-21T00:44:03Z</updated>
+    <link href="../../Mari%20Jungstedt/Las%20trampas%20del%20afecto%20%281305%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/Las%20trampas%20del%20afecto%20%281305%29/Las%20trampas%20del%20afecto%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="497 KB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2019-11-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Anders Knutas" />
+    <summary>Anders Knutas [12]: Tras la muerte del señor Ramberg, sus hijos, Julia, Maria y Daniel heredan la propiedad de una granja construida en el siglo XVII que forma parte del patrimonio histórico de Gotland. Maria desea salir de un matrimonio infeliz con ...</summary>
+    <link href="../book_1/book_1305.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

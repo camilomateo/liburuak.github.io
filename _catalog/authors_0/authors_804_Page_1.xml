@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cass R. Sunstein</title>
+  <id>Calibre2opds:authors:804</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_804_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cass R. Sunstein" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Ruido</title>
+    <id>calibre:book:1102</id>
+    <updated>2024-01-08T09:16:11Z</updated>
+    <link href="../../Cass%20R.%20Sunstein/Ruido%20%281102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cass%20R.%20Sunstein/Ruido%20%281102%29/Ruido%20-%20Cass%20R.%20Sunstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Cass R. Sunstein</name>
+      <uri>../authors_0/authors_804_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Olivier Sibony</name>
+      <uri>../authors_0/authors_805_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Daniel Kahneman</name>
+      <uri>../authors_0/authors_806_Page_1.xml</uri>
+    </author>
+    <published>2021-09-16T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Premio Nobel de EconomíaDos médicos en la misma ciudad pueden dar diagnósticos diferentes a pacientes idénticos; dos jueces pueden dictar sentencias distintas ante delitos similares; nosotros mismos podemos decidir una cosa u otra según sea por la ma...</summary>
+    <link href="../book_1/book_1102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

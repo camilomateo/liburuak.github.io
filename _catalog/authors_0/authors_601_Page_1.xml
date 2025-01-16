@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Noemí Navarro</title>
+  <id>Calibre2opds:authors:601</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_601_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noemí Navarro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El arte de no encajar</title>
+    <id>calibre:book:806</id>
+    <updated>2023-05-31T01:30:26Z</updated>
+    <link href="../../Noemi%20Navarro/El%20arte%20de%20no%20encajar%20%28806%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noemi%20Navarro/El%20arte%20de%20no%20encajar%20%28806%29/El%20arte%20de%20no%20encajar%20-%20Noemi%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Noemí Navarro</name>
+      <uri>../authors_0/authors_601_Page_1.xml</uri>
+    </author>
+    <published>2023-02-13T04:54:42Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro testimonial de @NoemimismaEste es el libro que a Noemí le hubiera gustado tener entre las manos el día en que a su hijo Mateo le diagnosticaron TEA. Y el libro que la habría ayudado a entender su propio caso cuando, al cabo del tiempo, descu...</summary>
+    <link href="../book_0/book_806.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

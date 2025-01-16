@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Comisario Montalbano</title>
+  <id>Calibre2opds:authors:399series:70</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_399_series_70_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Comisario Montalbano" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_399_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Andrea Camilleri" />
+  <entry>
+    <title>31 - El método Catalanotti</title>
+    <id>calibre:book:541</id>
+    <updated>2023-04-06T09:50:06Z</updated>
+    <link href="../../Andrea%20Camilleri/El%20metodo%20Catalanotti%20%28541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Camilleri/El%20metodo%20Catalanotti%20%28541%29/El%20metodo%20Catalanotti%20-%20Andrea%20Camilleri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <author>
+      <name>Andrea Camilleri</name>
+      <uri>../authors_0/authors_399_Page_1.xml</uri>
+    </author>
+    <published>2021-08-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Montalbano" />
+    <summary>Comisario Montalbano [31]:   Antepenúltima entrega del comisario Montalbano.     Un misterio apasionante que sabe a puro teatro.Es una velada como cualquier otra para el incansable mujeriego Mimí  Augello en la alcoba de su enésima amante. Pero cuand...</summary>
+    <link href="../book_0/book_541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>34 - La conciencia de Montalbano</title>
+    <id>calibre:book:791</id>
+    <updated>2023-05-31T01:04:22Z</updated>
+    <link href="../../Andrea%20Camilleri/La%20conciencia%20de%20Montalbano%20%28791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Camilleri/La%20conciencia%20de%20Montalbano%20%28791%29/La%20conciencia%20de%20Montalbano%20-%20Andrea%20Camilleri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <author>
+      <name>Andrea Camilleri</name>
+      <uri>../authors_0/authors_399_Page_1.xml</uri>
+    </author>
+    <published>2023-05-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Montalbano" />
+    <summary>Comisario Montalbano [34]: Seis relatos inéditos que recrean el irresistible universo del comisario Montalbano y su particular manera de entender la vida. Seis relatos no incluidos en las recopilaciones publicadas en vida de Andrea Camilleri, en los ...</summary>
+    <link href="../book_0/book_791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

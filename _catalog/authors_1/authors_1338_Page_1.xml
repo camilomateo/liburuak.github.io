@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juan Herranz</title>
+  <id>Calibre2opds:authors:1338</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Herranz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>El asesino de Google Maps</title>
+    <id>calibre:book:1867</id>
+    <updated>2024-09-02T04:27:39Z</updated>
+    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/El%20asesino%20de%20Google%20Maps%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="189 KB" />
+    <author>
+      <name>Juan Herranz</name>
+      <uri>../authors_1/authors_1338_Page_1.xml</uri>
+    </author>
+    <published>2024-06-20T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Navegando por Street View, Carlos descubre a una posible víctima oculta en la parte trasera de un coche.La casualidad lo condujo ante algo que jamás debiera haber visto.Desde ese momento estará en el punto de mira del asesino de Google Maps.Porque na...</summary>
+    <link href="../book_1/book_1867.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un hombre enamorado</title>
+    <id>calibre:book:1866</id>
+    <updated>2024-09-02T04:27:39Z</updated>
+    <link href="../../Juan%20Herranz/Un%20hombre%20enamorado%20%281866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Herranz/Un%20hombre%20enamorado%20%281866%29/Un%20hombre%20enamorado%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="150 KB" />
+    <author>
+      <name>Juan Herranz</name>
+      <uri>../authors_1/authors_1338_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Pero ahora está enamorado y puede ser aún más peligroso e imprevisible.Él es un asesino minucioso, porque así se sabe inalcanzable.Y se emplea más a fondo para defender lo que ha aprendido a amar.Aunque..., si sus asesinatos perfectos no dejan huella...</summary>
+    <link href="../book_1/book_1866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

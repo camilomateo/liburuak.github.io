@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>William B. Irvine</title>
+  <id>Calibre2opds:authors:515</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_515_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="William B. Irvine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>El arte de la buena vida</title>
+    <id>calibre:book:690</id>
+    <updated>2023-05-16T08:56:30Z</updated>
+    <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/El%20arte%20de%20la%20buena%20vida%20-%20William%20B.%20Irvine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+    <author>
+      <name>William B. Irvine</name>
+      <uri>../authors_0/authors_515_Page_1.xml</uri>
+    </author>
+    <published>2019-06-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Paidós</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Ensayo" />
+    <category term="Lang:es" />
+    <summary>Uno de los grandes temores al que muchos de nosotros nos enfrentamos es descubrir al final que hemos desperdiciado nuestra vida, a pesar de todos nuestros esfuerzos. En El arte de la buena vida, William B. Irvine explora la sabiduría de la filosofía...</summary>
+    <link href="../book_0/book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

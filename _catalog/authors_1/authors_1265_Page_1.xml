@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Adrian Shubert</title>
+  <id>Calibre2opds:authors:1265</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Adrian Shubert" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Nueva historia de la España contemporánea (1808-2018)</title>
+    <id>calibre:book:1764</id>
+    <updated>2024-08-26T10:56:10Z</updated>
+    <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/Nueva%20historia%20de%20la%20Espana%20con%20-%20Jose%20Alvarez%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>José Álvarez Junco</name>
+      <uri>../authors_1/authors_1264_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Adrian Shubert</name>
+      <uri>../authors_1/authors_1265_Page_1.xml</uri>
+    </author>
+    <published>2018-05-15T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Esta es una nueva historia de la España contemporánea, vista en toda su diversidad política y cultural. El volumen está estructurado alrededor de tres ejes que se entrecruzan y entre los que hay constantes referencias mutuas. La primera parte consta ...</summary>
+    <link href="../book_1/book_1764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

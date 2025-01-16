@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>May R. Ayamonte</title>
+  <id>Calibre2opds:authors:480</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_480_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="May R. Ayamonte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Las aguas sagradas</title>
+    <id>calibre:book:652</id>
+    <updated>2023-05-10T04:29:14Z</updated>
+    <link href="../../May%20R.%20Ayamonte/Las%20aguas%20sagradas%20%28652%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../May%20R.%20Ayamonte/Las%20aguas%20sagradas%20%28652%29/Las%20aguas%20sagradas%20-%20May%20R.%20Ayamonte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <author>
+      <name>May R. Ayamonte</name>
+      <uri>../authors_0/authors_480_Page_1.xml</uri>
+    </author>
+    <published>2023-04-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>AÑOS 50, GRANADA La ciudad se encuentra sumida en el tipo de silencio que solo deja tras su paso una tragedia. La tierra se ha abierto en dos y ha devorado todo lo que estaba a su alcance. Salvo a un niño, que ahora mira asustado los escombros mientr...</summary>
+    <link href="../book_0/book_652.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las niñas salvajes</title>
+    <id>calibre:book:1051</id>
+    <updated>2023-11-01T07:27:31Z</updated>
+    <link href="../../May%20R.%20Ayamonte/Las%20ninas%20salvajes%20%281051%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../May%20R.%20Ayamonte/Las%20ninas%20salvajes%20%281051%29/Las%20ninas%20salvajes%20-%20May%20R.%20Ayamonte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <author>
+      <name>May R. Ayamonte</name>
+      <uri>../authors_0/authors_480_Page_1.xml</uri>
+    </author>
+    <published>2022-04-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller extremo que te mantendrá en vilo hasta su desgarrador final1975, GRANADA: En el Virgen del Carmen, un colegio religioso y exclusivo para niñas, una de ellas espera con ilusión ser adoptada. Los años transcurren y su esperanza, cerca de d...</summary>
+    <link href="../book_1/book_1051.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Daniel Hurst</title>
+  <id>Calibre2opds:authors:1704</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1704_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Daniel Hurst" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>La amante del médico</title>
+    <id>calibre:book:2589</id>
+    <updated>2024-09-12T03:39:19Z</updated>
+    <link href="../../Daniel%20Hurst/La%20amante%20del%20medico%20%282589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20Hurst/La%20amante%20del%20medico%20%282589%29/La%20amante%20del%20medico%20-%20Daniel%20Hurst.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <author>
+      <name>Daniel Hurst</name>
+      <uri>../authors_1/authors_1704_Page_1.xml</uri>
+    </author>
+    <published>2024-09-07T02:43:02Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="suspense" />
+    <category term="Lang:en" />
+    <summary> Yo era la otra, la amante. Todos me culparon de la muerte del doctor Drew Devlin, y he pagado el precio por tener una relación con el hombre equivocado.  Lo perdí todo: mis amigos, mi familia, mi casa e incluso mi libertad. Fern, la retorcida mujer ...</summary>
+    <link href="../book_2/book_2589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

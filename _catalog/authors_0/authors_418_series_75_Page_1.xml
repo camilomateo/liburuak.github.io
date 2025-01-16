@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspectora Ana Arén</title>
+  <id>Calibre2opds:authors:418series:75</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_418_series_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspectora Ana Arén" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_418_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Carme Chaparro" />
+  <entry>
+    <title>2 - La química del odio</title>
+    <id>calibre:book:585</id>
+    <updated>2023-04-28T01:16:54Z</updated>
+    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/La%20quimica%20del%20odio%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <author>
+      <name>Carme Chaparro</name>
+      <uri>../authors_0/authors_418_Page_1.xml</uri>
+    </author>
+    <published>2018-05-24T09:08:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Ana Arén" />
+    <summary>Inspectora Ana Arén [2]: ¿QUÉ HARÍAS SI, TRAS HABER SOBREVIVIDO A LA QUE CREÍSTE QUE ERA LA PRUEBA MÁS DURA QUE PODÍAS SOPORTAR, EL DESTINO TE LLEVARA OTRA VEZ AL LÍMITE?Para la inspectora jefa Ana Arén no hay tregua: después de que resolviera el cas...</summary>
+    <link href="../book_0/book_585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Teresa Cardona</title>
+  <id>Calibre2opds:authors:4</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Teresa Cardona" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Un bien relativo</title>
+    <id>calibre:book:1417</id>
+    <updated>2024-04-09T11:16:46Z</updated>
+    <link href="../../Teresa%20Cardona/Un%20bien%20relativo%20%281417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Teresa%20Cardona/Un%20bien%20relativo%20%281417%29/Un%20bien%20relativo%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="483 KB" />
+    <author>
+      <name>Teresa Cardona</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2022-10-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La nueva voz de la novela policiaca en español. Justo cuando la teniente Karen Blecker se pregunta de nuevo si los inviernos serán siempre así de fríos y monocordes en el cuartel de San Lorenzo de El Escorial, el guardia Suárez notifica la llamada de...</summary>
+    <link href="../book_1/book_1417.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los dos lados</title>
+    <id>calibre:book:5</id>
+    <updated>2023-01-17T09:15:30Z</updated>
+    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/Los%20dos%20lados%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>Teresa Cardona</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2022-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Arde el suelo de granito y solo el rechinar de las cigarras perturba el apacible y familiar verano de San Lorenzo de El Escorial. Sus habitantes, acostumbrados a los rigores de la sierra, se quejan de la ola de calor, resguardándose a la sombra de lo...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

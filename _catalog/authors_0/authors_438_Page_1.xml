@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ana Cadenas</title>
+  <id>Calibre2opds:authors:438</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_438_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ana Cadenas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Una muchacha en el Alcázar</title>
+    <id>calibre:book:589</id>
+    <updated>2023-04-28T02:02:34Z</updated>
+    <link href="../../Ana%20Cadenas/Una%20muchacha%20en%20el%20Alcazar%20%28589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Cadenas/Una%20muchacha%20en%20el%20Alcazar%20%28589%29/Una%20muchacha%20en%20el%20Alcazar%20-%20Ana%20Cadenas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="686 KB" />
+    <author>
+      <name>Ana Cadenas</name>
+      <uri>../authors_0/authors_438_Page_1.xml</uri>
+    </author>
+    <published>2023-04-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mismo nombre, distinta fecha, distintos lugares. ¿Cómo puede alguien morir dos veces?Segovia, 1822. El mismo día en que Pedro cumple catorce años es rechazado como cadete en la Academia de Artillería de Segovia. Marita, la mujer que lo ha criado, con...</summary>
+    <link href="../book_0/book_589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jairo Junciel</title>
+  <id>Calibre2opds:authors:410</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_410_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jairo Junciel" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <entry>
+    <title>La máscara de Prometeo</title>
+    <id>calibre:book:554</id>
+    <updated>2023-04-11T09:33:24Z</updated>
+    <link href="../../Jairo%20Junciel/La%20mascara%20de%20Prometeo%20%28554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jairo%20Junciel/La%20mascara%20de%20Prometeo%20%28554%29/La%20mascara%20de%20Prometeo%20-%20Jairo%20Junciel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <author>
+      <name>Jairo Junciel</name>
+      <uri>../authors_0/authors_410_Page_1.xml</uri>
+    </author>
+    <published>2022-07-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Aventuras" />
+    <category term="Lang:es" />
+    <summary>Daniel, un joven que vive en la Compostela de mediados del siglo XIX, acaba sin querer con la vida de su primo y debe huir para no ser condenado a muerte. Un carruaje lo lleva a la mansión de un rico anciano llamado Waterfall. El anciano ha organizad...</summary>
+    <link href="../book_0/book_554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

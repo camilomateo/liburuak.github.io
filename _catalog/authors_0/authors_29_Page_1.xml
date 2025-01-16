@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Paul Verhoeven y Gerard Soeteman</title>
+  <id>Calibre2opds:authors:29</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Paul Verhoeven y Gerard Soeteman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>El libro negro</title>
+    <id>calibre:book:37</id>
+    <updated>2023-01-17T10:22:22Z</updated>
+    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/El%20libro%20negro%20-%20Paul%20Verhoeven%20y%20Gerard%20Soetema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="756 KB" />
+    <author>
+      <name>Paul Verhoeven y Gerard Soeteman</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>El Aleph Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ambientada en La Haya a finales de la Segunda Guerra Mundial El libro negro tiene como protagonista a Rachel, una joven judía perseguida por el régimen nazi cuya única posibilidad de salvación es colaborar con ellos ejerciendo de espía. Ya introducid...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Banana Yoshimoto</title>
+  <id>Calibre2opds:authors:216</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_216_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Banana Yoshimoto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Y" />
+  <entry>
+    <title>Lagartija</title>
+    <id>calibre:book:309</id>
+    <updated>2023-02-14T09:13:38Z</updated>
+    <link href="../../Banana%20Yoshimoto/Lagartija%20%28309%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Banana%20Yoshimoto/Lagartija%20%28309%29/Lagartija%20-%20Banana%20Yoshimoto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="631 KB" />
+    <author>
+      <name>Banana Yoshimoto</name>
+      <uri>../authors_0/authors_216_Page_1.xml</uri>
+    </author>
+    <published>2017-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Uniendo armónicamente el Japón tradicional y el moderno, Banana Yoshimoto ofrece en este volumen seis relatos cuyos protagonistas, jóvenes y no tan jóvenes, hombres y mujeres, se enfrentan al paso del tiempo y a la necesidad de superar sus traumas in...</summary>
+    <link href="../book_0/book_309.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Antonio Herrera Merchán</title>
+  <id>Calibre2opds:authors:641</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_641_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Antonio Herrera Merchán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Hoy, Mañana, Ayer</title>
+    <id>calibre:book:853</id>
+    <updated>2023-06-12T02:02:10Z</updated>
+    <link href="../../Antonio%20Herrera%20Merchan/Hoy%2C%20Manana%2C%20Ayer%20%28853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Herrera%20Merchan/Hoy%2C%20Manana%2C%20Ayer%20%28853%29/Hoy%2C%20Manana%2C%20Ayer%20-%20Antonio%20Herrera%20Merchan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>Antonio Herrera Merchán</name>
+      <uri>../authors_0/authors_641_Page_1.xml</uri>
+    </author>
+    <published>2020-09-25T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Universo de Letras</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Luis camina con una nota inquietante sobre un descubrimiento científico que hará cambiar la historia de la humanidad, la ciencia y la propia evolución. Los periodistas Pablo y Sofía son invitados a casa de Manolo, investigador responsable de esa nota...</summary>
+    <link href="../book_0/book_853.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

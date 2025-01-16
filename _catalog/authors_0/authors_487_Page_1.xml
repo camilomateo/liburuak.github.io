@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sonia López Iglesias</title>
+  <id>Calibre2opds:authors:487</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_487_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sonia López Iglesias" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>El privilegio de vivir con un adolescente</title>
+    <id>calibre:book:660</id>
+    <updated>2023-05-15T05:51:14Z</updated>
+    <link href="../../Sonia%20Lopez%20Iglesias/El%20privilegio%20de%20vivir%20con%20un%20adole%20%28660%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sonia%20Lopez%20Iglesias/El%20privilegio%20de%20vivir%20con%20un%20adole%20%28660%29/El%20privilegio%20de%20vivir%20con%20un%20a%20-%20Sonia%20Lopez%20Iglesias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Sonia López Iglesias</name>
+      <uri>../authors_0/authors_487_Page_1.xml</uri>
+    </author>
+    <published>2023-03-16T09:31:18Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una nueva mirada a la etapa que más retos nos depara, por la experta en adolescencia del Club de Malasmadres. Cuando en casa aparece la adolescencia nos suele coger poco preparados, como si de una repentina tormenta de verano se tratase, sin haberno...</summary>
+    <link href="../book_0/book_660.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

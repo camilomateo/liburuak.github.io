@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Albert Espinosa</title>
+  <id>Calibre2opds:authors:189</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_189_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Albert Espinosa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>El Mundo Amarillo</title>
+    <id>calibre:book:280</id>
+    <updated>2023-02-03T08:39:20Z</updated>
+    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/El%20Mundo%20Amarillo%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="128 KB" />
+    <author>
+      <name>Albert Espinosa</name>
+      <uri>../authors_0/authors_189_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="det_history" />
+    <category term="Lang:es" />
+    <summary>El mundo amarillo es un mundo fantástico que quiero compartir contigo. Es el mundo de los descubrimientos que hice durante los diez años que estuve enfermo de cáncer. Es curioso, pero la fuerza, la Vitalidad y los hallazgos que haces cuando estás enf...</summary>
+    <link href="../book_0/book_280.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Qué bien me haces cuando me haces bien</title>
+    <id>calibre:book:626</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Albert%20Espinosa/Que%20bien%20me%20haces%20cuando%20me%20haces%20b%20%28626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Albert%20Espinosa/Que%20bien%20me%20haces%20cuando%20me%20haces%20b%20%28626%29/Que%20bien%20me%20haces%20cuando%20me%20hac%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+    <author>
+      <name>Albert Espinosa</name>
+      <uri>../authors_0/authors_189_Page_1.xml</uri>
+    </author>
+    <published>2023-02-13T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>No esperaba nada y lo encontré todo.Qué bien me haces cuando me haces bien es mi tercer libro de relatos cortos tras Finales que merecen una historia (2018) y Si nos enseñaran a perder, ganaríamos siempre (2020). Es el final de esta trilogía de rela...</summary>
+    <link href="../book_0/book_626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

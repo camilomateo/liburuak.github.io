@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>James Tiptree Jr.</title>
+  <id>Calibre2opds:authors:963</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_963_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="James Tiptree Jr." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Una mirada a Alice B. Sheldon</title>
+    <id>calibre:book:1321</id>
+    <updated>2024-03-21T01:00:28Z</updated>
+    <link href="../../James%20Tiptree%20Jr_/Una%20mirada%20a%20Alice%20B.%20Sheldon%20%281321%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Tiptree%20Jr_/Una%20mirada%20a%20Alice%20B.%20Sheldon%20%281321%29/Una%20mirada%20a%20Alice%20B.%20Sheldon%20-%20James%20Tiptree%20Jr_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>James Tiptree Jr.</name>
+      <uri>../authors_0/authors_963_Page_1.xml</uri>
+    </author>
+    <published>2020-12-31T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>‎Crononauta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Qué ocurriría si en la Tierra no quedaran hombres? ¿Cómo podría ser el primer contacto con una raza alienígena a la que no puedes ver? ¿Qué pasaría si los hombres no tuvieran empatía con las mujeres? Estas y otras preguntas son las que se plantea Al...</summary>
+    <link href="../book_1/book_1321.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andrea Aguilar-Calderón</title>
+  <id>Calibre2opds:authors:1044</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1044_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andrea Aguilar-Calderón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Una asesina en el espejo</title>
+    <id>calibre:book:1429</id>
+    <updated>2024-04-20T05:13:29Z</updated>
+    <link href="../../Andrea%20Aguilar-Calderon/Una%20asesina%20en%20el%20espejo%20%281429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Aguilar-Calderon/Una%20asesina%20en%20el%20espejo%20%281429%29/Una%20asesina%20en%20el%20espejo%20-%20Andrea%20Aguilar-Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <author>
+      <name>Andrea Aguilar-Calderón</name>
+      <uri>../authors_1/authors_1044_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La aparición de un misterioso manuscrito reabre un caso cerrado hace décadas. El culpable está cerca, mucho más de lo que pensamos.El fervor religioso, el arte surrealista y la literatura se dan la mano hasta límites insospechados en este debut sorpr...</summary>
+    <link href="../book_1/book_1429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

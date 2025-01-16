@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hiro Arikawa</title>
+  <id>Calibre2opds:authors:886</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_886_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hiro Arikawa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Crónicas del gato viajero</title>
+    <id>calibre:book:1220</id>
+    <updated>2024-02-20T04:09:06Z</updated>
+    <link href="../../Hiro%20Arikawa/Cronicas%20del%20gato%20viajero%20%281220%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hiro%20Arikawa/Cronicas%20del%20gato%20viajero%20%281220%29/Cronicas%20del%20gato%20viajero%20-%20Hiro%20Arikawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="364 KB" />
+    <author>
+      <name>Hiro Arikawa</name>
+      <uri>../authors_0/authors_886_Page_1.xml</uri>
+    </author>
+    <published>2024-01-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Lumen recupera este conmovedor clásico de la literatura de gatos que conquistó a más de medio millón de lectores, se publicó en 33 países y se llevó al cine.Nana no es un gato cualquiera. Tiene el pelaje blanco, una cola de color negro con un gancho ...</summary>
+    <link href="../book_1/book_1220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El gato que decia adios</title>
+    <id>calibre:book:1485</id>
+    <updated>2024-05-03T02:01:58Z</updated>
+    <link href="../../Hiro%20Arikawa/El%20gato%20que%20decia%20adios%20%281485%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hiro%20Arikawa/El%20gato%20que%20decia%20adios%20%281485%29/El%20gato%20que%20decia%20adios%20-%20Hiro%20Arikawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Hiro Arikawa</name>
+      <uri>../authors_0/authors_886_Page_1.xml</uri>
+    </author>
+    <published>2024-04-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>...</summary>
+    <link href="../book_1/book_1485.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

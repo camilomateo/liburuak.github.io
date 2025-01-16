@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Karl Marx</title>
+  <id>Calibre2opds:authors:83</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Karl Marx" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Contribución a la crítica de la economía política</title>
+    <id>calibre:book:135</id>
+    <updated>2023-01-18T06:08:26Z</updated>
+    <link href="../../Karl%20Marx/Contribucion%20a%20la%20critica%20de%20la%20eco%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karl%20Marx/Contribucion%20a%20la%20critica%20de%20la%20eco%20%28135%29/Contribucion%20a%20la%20critica%20de%20la%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="277 KB" />
+    <author>
+      <name>Karl Marx</name>
+      <uri>../authors_0/authors_83_Page_1.xml</uri>
+    </author>
+    <published>2020-03-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Capital (3-tomos)</title>
+    <id>calibre:book:134</id>
+    <updated>2023-01-18T06:09:34Z</updated>
+    <link href="../../Karl%20Marx/El%20Capital%20%283-tomos%29%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karl%20Marx/El%20Capital%20%283-tomos%29%20%28134%29/El%20Capital%20%283-tomos%29%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Karl Marx</name>
+      <uri>../authors_0/authors_83_Page_1.xml</uri>
+    </author>
+    <published>2019-12-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.elejandria.com</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

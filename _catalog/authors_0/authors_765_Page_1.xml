@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Leslie Wolfe</title>
+  <id>Calibre2opds:authors:765</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Leslie Wolfe" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>La cirujana</title>
+    <id>calibre:book:1039</id>
+    <updated>2023-10-20T01:12:31Z</updated>
+    <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/La%20cirujana%20-%20Leslie%20Wolfe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <author>
+      <name>Leslie Wolfe</name>
+      <uri>../authors_0/authors_765_Page_1.xml</uri>
+    </author>
+    <published>2023-09-11T07:52:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cirujana de confianza. Esposa dedicada. ¿Asesina? Antes de que mi mundo se derrumbara, lo tenía todo. Una exitosa carrera. Una casa de ladrillo rojo preciosa, donde podía relajarme frente a la chimenea. Un apuesto y devoto marido cuyos ojos azules y ...</summary>
+    <link href="../book_1/book_1039.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Desaparecida en Frozen Falls</title>
+    <id>calibre:book:1760</id>
+    <updated>2024-08-26T10:56:09Z</updated>
+    <link href="../../Leslie%20Wolfe/Desaparecida%20en%20Frozen%20Falls%20%281760%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leslie%20Wolfe/Desaparecida%20en%20Frozen%20Falls%20%281760%29/Desaparecida%20en%20Frozen%20Falls%20-%20Leslie%20Wolfe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <author>
+      <name>Leslie Wolfe</name>
+      <uri>../authors_0/authors_765_Page_1.xml</uri>
+    </author>
+    <published>2024-08-21T09:16:42Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Misterio" />
+    <category term="Lang:en" />
+    <summary>En un fresco día de otoño en la pequeña ciudad de Mount Chester, la detective Kay Sharp se encuentra cara a cara con el pasado del que lleva huyendo la última década. Su exmarido, Brian, ha sido acusado de matar a Rachel, la ex mejor amiga de Kay, la...</summary>
+    <link href="../book_1/book_1760.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

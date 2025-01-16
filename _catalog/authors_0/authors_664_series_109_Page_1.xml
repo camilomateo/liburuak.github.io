@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Amalia</title>
+  <id>Calibre2opds:authors:664series:109</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_664_series_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Amalia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_664_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alejandro Palomas" />
+  <entry>
+    <title>2 - Un perro</title>
+    <id>calibre:book:887</id>
+    <updated>2023-06-23T01:09:40Z</updated>
+    <link href="../../Alejandro%20Palomas/Un%20perro%20%28887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Palomas/Un%20perro%20%28887%29/Un%20perro%20-%20Alejandro%20Palomas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="630 KB" />
+    <author>
+      <name>Alejandro Palomas</name>
+      <uri>../authors_0/authors_664_Page_1.xml</uri>
+    </author>
+    <published>2016-01-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <category term="Amalia" />
+    <summary>Amalia [2]: Han pasado ya tres años desde la cena de Nochevieja en casa de Amalia, y su vida y la de sus hijos desde entonces ha sido una montaña rusa de emociones, de alegrías y de pérdidas. Esta tarde han vuelto a reunirse en su casa para merendar ...</summary>
+    <link href="../book_0/book_887.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

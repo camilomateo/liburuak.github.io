@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Maggie O'Farrell</title>
+  <id>Calibre2opds:authors:387</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_387_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Maggie O'Farrell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>El retrato de casada</title>
+    <id>calibre:book:523</id>
+    <updated>2023-04-05T00:40:06Z</updated>
+    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/El%20retrato%20de%20casada%20-%20Maggie%20O%27Farrell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>Maggie O'Farrell</name>
+      <uri>../authors_0/authors_387_Page_1.xml</uri>
+    </author>
+    <published>2023-03-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El matrimonio era su destino. Ahora tendrá que sobrevivir a él. La esperadísima nueva novela de Maggie O’Farrell tras el gran éxito internacional de Hamnet. Florencia, mediados del siglo XVI. Lucrezia, tercera hija del gran duque Cosimo de’ Medici, e...</summary>
+    <link href="../book_0/book_523.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

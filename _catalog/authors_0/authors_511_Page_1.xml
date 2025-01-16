@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alia Trabucco Zerán</title>
+  <id>Calibre2opds:authors:511</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_511_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alia Trabucco Zerán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <entry>
+    <title>Las homicidas</title>
+    <id>calibre:book:686</id>
+    <updated>2023-05-16T08:56:24Z</updated>
+    <link href="../../Alia%20Trabucco%20Zeran/Las%20homicidas%20%28686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alia%20Trabucco%20Zeran/Las%20homicidas%20%28686%29/Las%20homicidas%20-%20Alia%20Trabucco%20Zeran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Alia Trabucco Zerán</name>
+      <uri>../authors_0/authors_511_Page_1.xml</uri>
+    </author>
+    <published>2023-03-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Este provocador e inquietante libro es el resultado de años de investigación sobre los crímenes cometidos por cuatro mujeres chilenas (Corina Rojas, Rosa Faúndez, María Carolina Geel y María Teresa Alfaro), y sobre cómo la sociedad, los medios de com...</summary>
+    <link href="../book_0/book_686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

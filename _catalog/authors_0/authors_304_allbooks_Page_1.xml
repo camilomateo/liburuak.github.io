@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Juan Eslava Galán</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_304_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Juan Eslava Galán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_304_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan Eslava Galán" />
+  <entry>
+    <title>Ciudades de la Bética</title>
+    <id>calibre:book:414</id>
+    <updated>2023-03-14T04:30:30Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2021-09-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación José Manuel Lara</dcterms:publisher>
+    <category term="Ciudades andaluzas en la Historia" />
+    <category term="Lang:es" />
+    <summary>Dos amigos aficionados a la arqueología y a la vida, Bonoso y su huésped el escocés Angus, se proponen visitar las antiguas ciudades de la Bética, aquella próspera provincia cuyos límites casi coincidían con los de la Andalucía actual. En animada con...</summary>
+    <link href="../book_0/book_414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enciclopedia Eslava</title>
+    <id>calibre:book:2594</id>
+    <updated>2024-09-17T00:25:56Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2017-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El prolífico divulgador y escritor Juan Eslava Galán reúne en estas más de 600 páginas un compendio de la sabiduría y cultura general que todos debemos y estamos obligados a conocer. Desde geografía, filosofía e historia de España hasta ciencias o li...</summary>
+    <link href="../book_2/book_2594.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enciclopedia nazi</title>
+    <id>calibre:book:2568</id>
+    <updated>2024-09-09T03:24:01Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="33 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2021-11-24T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una obra ambiciosa que expone de manera clara y rigurosa el mundo nazi y realiza un recorrido asombroso por la época que vio nacer este fenómeno. Aquí no solo hacen acto de presencia los «grandes hombres», sino también aquellos personajes anónimos qu...</summary>
+    <link href="../book_2/book_2568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Misterioso asesinato en casa de Cervantes: Premio Primavera de Novela 2015</title>
+    <id>calibre:book:1750</id>
+    <updated>2024-08-26T10:56:07Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/Misterioso%20asesinato%20en%20casa%20de%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2015-03-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Descubre al ganador del Premio Primavera 2015A las puertas de la casa de Miguel de Cervantes ha aparecido el cadáver del hidalgo Gaspar de Ezpeleta, al que han apuñalado. Una vecina beata acusa al escritor y a sus alegres hermanas, las Cervantas, de ...</summary>
+    <link href="../book_1/book_1750.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Segunda Guerra Mundial contada para escépticos</title>
+    <id>calibre:book:1551</id>
+    <updated>2024-06-02T10:59:44Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/La%20Segunda%20Guerra%20Mundial%20contada%20p%20%281551%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/La%20Segunda%20Guerra%20Mundial%20contada%20p%20%281551%29/La%20Segunda%20Guerra%20Mundial%20conta%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2015-01-13T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <category term="La Historia contada para escépticos" />
+    <summary>La Historia contada para escépticos [5]: En el año 2015 se conmemora el 70.º aniversario del final de la segunda guerra mundial, la guerra total de la que todos conocemos los grandes hitos: los turbios inicios del nazismo, la invasión de Polonia, la ...</summary>
+    <link href="../book_1/book_1551.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

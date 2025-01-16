@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jiri Weil</title>
+  <id>Calibre2opds:authors:1224</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1224_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jiri Weil" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>Vida con estrella</title>
+    <id>calibre:book:1709</id>
+    <updated>2024-08-06T10:52:12Z</updated>
+    <link href="../../Jiri%20Weil/Vida%20con%20estrella%20%281709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jiri%20Weil/Vida%20con%20estrella%20%281709%29/Vida%20con%20estrella%20-%20Jiri%20Weil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="397 KB" />
+    <author>
+      <name>Jiri Weil</name>
+      <uri>../authors_1/authors_1224_Page_1.xml</uri>
+    </author>
+    <published>2017-06-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cosida en la chaqueta, justo sobre el corazón, tal y como dictan las normas en una Praga ocupada por los nazis, una estrella convierte a Josef Roubícek en un forastero en su propia ciudad. Él, en tiempos un tipo tan normal e inofensivo que resultaba ...</summary>
+    <link href="../book_1/book_1709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

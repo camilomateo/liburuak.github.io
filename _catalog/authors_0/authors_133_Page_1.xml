@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Francisco Alcaide Hernández</title>
+  <id>Calibre2opds:authors:133</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Francisco Alcaide Hernández" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Aprendiendo de los mejores</title>
+    <id>calibre:book:206</id>
+    <updated>2023-01-26T07:27:04Z</updated>
+    <link href="../../Francisco%20Alcaide%20Hernandez/Aprendiendo%20de%20los%20mejores%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Alcaide%20Hernandez/Aprendiendo%20de%20los%20mejores%20%28206%29/Aprendiendo%20de%20los%20mejores%20-%20Francisco%20Alcaide%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <author>
+      <name>Francisco Alcaide Hernández</name>
+      <uri>../authors_0/authors_133_Page_1.xml</uri>
+    </author>
+    <published>2013-05-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alienta Editorial</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="iales" />
+    <category term="Divulgación" />
+    <category term="Lang:es" />
+    <summary>Decía Betrand Russell que «la mejor prueba de que algo puede hacerse es que antes alguien ya lo hizo». Por eso las personas inteligentes aprenden de la experiencia de los demás. Es cierto que nadie puede vivir tu vida por ti pero hay principios unive...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

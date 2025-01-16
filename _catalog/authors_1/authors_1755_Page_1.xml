@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gilraen Eärfalas</title>
+  <id>Calibre2opds:authors:1755</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1755_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gilraen Eärfalas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Cartas que no llegaron</title>
+    <id>calibre:book:2667</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/Cartas%20que%20no%20llegaron%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-11-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Ella era un alma libre, una sirena con ansias de conquistar los océanos. Él parecía el hombre perfecto, pero guardaba un secreto: quería convertirla en sardina y mantenerla cautiva en una pecera. ¿Cómo volver a nadar contracorriente, si la convencier...</summary>
+    <link href="../book_2/book_2667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Desfibrilador</title>
+    <id>calibre:book:2670</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/Desfibrilador%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-07-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Cada quien vive sus propios tormentos. Los míos me trajeron hasta donde estoy hoy, no sin antes intentar hundirme. La muerte me miró a los ojos una noche de febrero de 2010, recuerdo la sangre manar a borbotones de mis entrañas, me ahogaba, desaparec...</summary>
+    <link href="../book_2/book_2670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

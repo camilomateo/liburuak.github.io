@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La sombra del miedo</title>
+  <id>urn:book:3ac1ec4e-c4a2-4593-9d8a-f41fe0ece1c8</id>
+  <updated>2023-01-17T10:11:04Z</updated>
+  <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La sombra del miedo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ragnar Jónasson" />
+  <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+  <author>
+    <name>Ragnar Jónasson</name>
+    <uri>../authors_0/authors_14_Page_1.xml</uri>
+  </author>
+  <published>2019-09-30T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Seix Barral</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Islandia Negra" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Islandia Negra serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <span xmlns="" style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;">En
+    Siglufjördur, un pequeño pueblo pesquero en el norte
+    de Islandia, sólo accesible mediante un túnel, todos
+    se conocen y nunca ocurre nada. Ari Thór, quien acaba de
+    terminar la escuela de policía en Reykiavik, es enviado
+    allí para su primer caso. Este sitio ideal en el que
+    «nunca pasa nada», es hallado un cuerpo sin vida con
+    indicios de haber sido asesinado durante sus primeros días
+    en su puesto. Empieza así una investigación que
+    cambiará para siempre la vida del joven Ari.</span>
+  </content>
+  <link href="../series_0/series_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Islandia Negra serie" />
+  <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ragnar Jónasson" />
+</entry>

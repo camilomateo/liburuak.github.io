@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alejandro Gándara</title>
+  <id>Calibre2opds:authors:144</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_144_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alejandro Gándara" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Dioses contra microbios</title>
+    <id>calibre:book:217</id>
+    <updated>2023-01-27T11:54:40Z</updated>
+    <link href="../../Alejandro%20Gandara/Dioses%20contra%20microbios%20%28217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Gandara/Dioses%20contra%20microbios%20%28217%29/Dioses%20contra%20microbios%20-%20Alejandro%20Gandara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="567 KB" />
+    <author>
+      <name>Alejandro Gándara</name>
+      <uri>../authors_0/authors_144_Page_1.xml</uri>
+    </author>
+    <published>2020-09-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>No es frecuente apartarse de los caminos trillados para abordar una realidad tan abrumadora como la pandemia de la Covid-19, y eso lo consigue en esta original obra el profesor y escritor Alejandro Gándara. Por una parte, es un libro escrito desde la...</summary>
+    <link href="../book_0/book_217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Primer amor</title>
+    <id>calibre:book:407</id>
+    <updated>2023-03-13T09:24:36Z</updated>
+    <link href="../../Alejandro%20Gandara/Primer%20amor%20%28407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Gandara/Primer%20amor%20%28407%29/Primer%20amor%20-%20Alejandro%20Gandara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <author>
+      <name>Alejandro Gándara</name>
+      <uri>../authors_0/authors_144_Page_1.xml</uri>
+    </author>
+    <published>2023-03-02T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NOVELA MÁS EMOCIONANTE DE UN AUTOR CON «UNA DE LAS TRAYECTORIAS LITERARIAS MÁS SÓLIDAS DEL PANORAMA NACIONAL» (EL CULTURAL), GANADOR DE LOS PREMIOS NADAL Y HERRALDE«Creo que desde Juan Benet [...] no ha surgido entre nosotros una prosa tan poderos...</summary>
+    <link href="../book_0/book_407.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Charo Lagares</title>
+  <id>Calibre2opds:authors:671</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_671_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charo Lagares" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Sevillana</title>
+    <id>calibre:book:896</id>
+    <updated>2023-06-23T01:09:52Z</updated>
+    <link href="../../Charo%20Lagares/Sevillana%20%28896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charo%20Lagares/Sevillana%20%28896%29/Sevillana%20-%20Charo%20Lagares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <author>
+      <name>Charo Lagares</name>
+      <uri>../authors_0/authors_671_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una revelación literaria: una novela sorprendente sobre tres generaciones de mujeres y su relación tumultuosa con el dinero, el amor, la belleza y las convenciones sociales.«Me fascinó por su lucidez a la hora de retratar la hipocresía del conservadu...</summary>
+    <link href="../book_0/book_896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

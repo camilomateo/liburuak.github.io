@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Simon Scarrow</title>
+  <id>Calibre2opds:authors:247</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_247_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Simon Scarrow" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Blackout: Berlín 1939</title>
+    <id>calibre:book:352</id>
+    <updated>2023-02-23T01:18:58Z</updated>
+    <link href="../../Simon%20Scarrow/Blackout_%20Berlin%201939%20%28352%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simon%20Scarrow/Blackout_%20Berlin%201939%20%28352%29/Blackout_%20Berlin%201939%20-%20Simon%20Scarrow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="692 KB" />
+    <author>
+      <name>Simon Scarrow</name>
+      <uri>../authors_0/authors_247_Page_1.xml</uri>
+    </author>
+    <published>2022-06-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Edhasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Berlín 1939NUMERO 1 EN AMAZON CON LA EDICIÓN INGLESA DURANTE VARIAS SEMANAS.Berlín, 1939. Es un invierno especialmente frío, las calles están cubiertas de nieve y hielo, y resuena, en la distancia, el estruendo de la guerra. El Tercer Reich cerca la ...</summary>
+    <link href="../book_0/book_352.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

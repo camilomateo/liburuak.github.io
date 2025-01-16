@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ismael Salamanca (@ismaelcocinillas)</title>
+  <id>Calibre2opds:authors:1072</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1072_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ismael Salamanca (@ismaelcocinillas)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Con mucha hambre y poco tiempo</title>
+    <id>calibre:book:1466</id>
+    <updated>2024-04-30T04:46:10Z</updated>
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/Con%20mucha%20hambre%20y%20poco%20tiempo%20-%20Ismael%20Salamanca%20%28%40ismaelcocini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="32 MB" />
+    <author>
+      <name>Ismael Salamanca (@ismaelcocinillas)</name>
+      <uri>../authors_1/authors_1072_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Eres de los que tienen siempre mucha hambre y poco tiempo? ¿Te apetece probar sabores nuevos como el katsu sando o el falso risotto? ¿Te pirra el queso y quieres cocinar combinaciones imposibles, como las palomitas de parmesano? ¿No te resistes a un...</summary>
+    <link href="../book_1/book_1466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

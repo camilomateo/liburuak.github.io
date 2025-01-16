@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mario Benedetti</title>
+  <id>Calibre2opds:authors:1754</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1754_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mario Benedetti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>El amor, las mujeres y la vida</title>
+    <id>calibre:book:2666</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="227 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>2009-09-15T02:27:19Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Este libro reúne los mejores poemas de amor escritos por Mario Benedetti, uno de los poetas más innovadores, divertidos, ambiciosos y modernos de la literatura en español. El amor, las mujeres y la vida recoge una selección de poemas aclamados por va...</summary>
+    <link href="../book_2/book_2666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Antología Poética</title>
+    <id>calibre:book:2672</id>
+    <updated>2024-10-22T08:04:37Z</updated>
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/Antologia%20Poetica%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Mario Benedetti es uno de los escritores más leídos de nuestro idioma. Su obra literaria más de sesenta libros, traducidos a veinticinco lenguas abarca distintos géneros: la novela, el cuento, la poesía, el ensayo. Ha ejercido también la crítica lite...</summary>
+    <link href="../book_2/book_2672.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

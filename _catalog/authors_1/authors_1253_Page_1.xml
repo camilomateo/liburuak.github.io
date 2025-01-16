@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Beatriz Bracher</title>
+  <id>Calibre2opds:authors:1253</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1253_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Beatriz Bracher" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Antonio</title>
+    <id>calibre:book:1752</id>
+    <updated>2024-08-26T10:56:07Z</updated>
+    <link href="../../Beatriz%20Bracher/Antonio%20%281752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Beatriz%20Bracher/Antonio%20%281752%29/Antonio%20-%20Beatriz%20Bracher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="248 KB" />
+    <author>
+      <name>Beatriz Bracher</name>
+      <uri>../authors_1/authors_1253_Page_1.xml</uri>
+    </author>
+    <published>2024-02-26T02:37:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Periférica</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En vísperas del nacimiento de su hijo, un hombre joven decide reconstruir la historia de su malogrado padre, quien murió años atrás asolado por la enfermedad y la pobreza después de un largo proceso de decadencia mental. Para ello recurre a las tres ...</summary>
+    <link href="../book_1/book_1752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mónica Castellanos</title>
+  <id>Calibre2opds:authors:271</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_271_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mónica Castellanos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El aroma de los anhelos</title>
+    <id>calibre:book:378</id>
+    <updated>2023-03-04T02:11:46Z</updated>
+    <link href="../../Monica%20Castellanos/El%20aroma%20de%20los%20anhelos%20%28378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Castellanos/El%20aroma%20de%20los%20anhelos%20%28378%29/El%20aroma%20de%20los%20anhelos%20-%20Monica%20Castellanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="679 KB" />
+    <author>
+      <name>Mónica Castellanos</name>
+      <uri>../authors_0/authors_271_Page_1.xml</uri>
+    </author>
+    <published>2021-03-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El aroma de los anhelos es una historia de amor, pero también un gran retrato del México precursor al estallido de la Revolución mexicana. Durante el porfiriato crece cada vez más el descontento de la población. Distintos grupos comienzan a organizar...</summary>
+    <link href="../book_0/book_378.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

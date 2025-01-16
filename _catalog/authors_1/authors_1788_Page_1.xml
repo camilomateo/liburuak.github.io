@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Arne Dahl</title>
+  <id>Calibre2opds:authors:1788</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1788_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Arne Dahl" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>En el centro del círculo</title>
+    <id>calibre:book:2733</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <author>
+      <name>Arne Dahl</name>
+      <uri>../authors_1/authors_1788_Page_1.xml</uri>
+    </author>
+    <published>2024-09-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UNA TENSA NOVELA POLICÍACA SOBRE LA CAZA DE UN ACTIVISTA CLIMÁTICO CONVERTIDO EN ASESINO. «Arne Dahl demuestra una vez más que es uno de los mejores autores policíacos. No podrás dejar de leer esta novela». RUHR NACHRICHTEN (Alemania) «La novela de A...</summary>
+    <link href="../book_2/book_2733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

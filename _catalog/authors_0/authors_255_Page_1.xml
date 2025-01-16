@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marta Estévez</title>
+  <id>Calibre2opds:authors:255</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_255_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marta Estévez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>El secreto de las hermanas Asorey</title>
+    <id>calibre:book:360</id>
+    <updated>2023-02-27T01:40:56Z</updated>
+    <link href="../../Marta%20Estevez/El%20secreto%20de%20las%20hermanas%20Asorey%20%28360%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Estevez/El%20secreto%20de%20las%20hermanas%20Asorey%20%28360%29/El%20secreto%20de%20las%20hermanas%20Asor%20-%20Marta%20Estevez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Marta Estévez</name>
+      <uri>../authors_0/authors_255_Page_1.xml</uri>
+    </author>
+    <published>2023-02-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Santiago de Compostela, 1931. Cuatro hermanas se enfrentan a una trama de muerte y traición en una ciudad al borde de la ruptura. Cuatro hermanas se reúnen en torno al cadáver de su padre cuando aparece el cuerpo sin vida de una muchacha con indicios...</summary>
+    <link href="../book_0/book_360.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

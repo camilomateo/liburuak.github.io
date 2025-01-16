@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Edwin Catmull</title>
+  <id>Calibre2opds:authors:817</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_817_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Edwin Catmull" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Creatividad, S.A.</title>
+    <id>calibre:book:1114</id>
+    <updated>2024-01-08T09:16:14Z</updated>
+    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/Creatividad%2C%20S.A_%20-%20Edwin%20Catmull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="878 KB" />
+    <author>
+      <name>Edwin Catmull</name>
+      <uri>../authors_0/authors_817_Page_1.xml</uri>
+    </author>
+    <published>2017-04-24T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CONECTA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las fórmulas para crear entornos creativos de la mano del fundador y presidente de los estudios Disney-Pixar Studios. Creatividad, S.A. es un libro para profesionales que deseen llevar a sus equipos a cumbres más altas, un manual para cualquier lecto...</summary>
+    <link href="../book_1/book_1114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

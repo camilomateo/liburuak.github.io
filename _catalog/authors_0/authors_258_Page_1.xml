@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lara Ferreiro</title>
+  <id>Calibre2opds:authors:258</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_258_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lara Ferreiro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Adicta a un gilipollas</title>
+    <id>calibre:book:363</id>
+    <updated>2023-02-27T01:47:48Z</updated>
+    <link href="../../Lara%20Ferreiro/Adicta%20a%20un%20gilipollas%20%28363%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lara%20Ferreiro/Adicta%20a%20un%20gilipollas%20%28363%29/Adicta%20a%20un%20gilipollas%20-%20Lara%20Ferreiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Lara Ferreiro</name>
+      <uri>../authors_0/authors_258_Page_1.xml</uri>
+    </author>
+    <published>2023-02-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Un programa de desintoxicación radical en seis semanas para liberarte de tu adicción emocional.¿Crees que tal vez seas adicta a un hombre tóxico? ¿Acabas siempre enganchada al mismo perfil de gilipollas? ¿Repites patrones tóxicos en tus relaciones? ...</summary>
+    <link href="../book_0/book_363.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

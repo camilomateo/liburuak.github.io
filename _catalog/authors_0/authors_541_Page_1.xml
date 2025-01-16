@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joseph Roth</title>
+  <id>Calibre2opds:authors:541</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_541_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joseph Roth" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Izquierda y derecha</title>
+    <id>calibre:book:725</id>
+    <updated>2023-05-17T01:11:06Z</updated>
+    <link href="../../Joseph%20Roth/Izquierda%20y%20derecha%20%28725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joseph%20Roth/Izquierda%20y%20derecha%20%28725%29/Izquierda%20y%20derecha%20-%20Joseph%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="857 KB" />
+    <author>
+      <name>Joseph Roth</name>
+      <uri>../authors_0/authors_541_Page_1.xml</uri>
+    </author>
+    <published>2023-02-19T00:12:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Godot</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En Izquierda y derecha Joseph Roth describe un mundo particular conformado a la luz de la posguerra luego de la Primera Guerra Mundial: el de la familia Bernheim. Paul y Theodor, hermanos, exhiben dos caracteres que emergen de una familia que se ha v...</summary>
+    <link href="../book_0/book_725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

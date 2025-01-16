@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hansel y Gretel</title>
+  <id>urn:book:32b988f8-f3c2-43c4-828d-b958dd8d1495</id>
+  <updated>2023-01-23T07:49:14Z</updated>
+  <link href="./book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Hansel y Gretel" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authors_0/authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Hermanos Grimm" />
+  <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/Hansel%20y%20Gretel%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <author>
+    <name>Hermanos Grimm</name>
+    <uri>../authors_0/authors_109_Page_1.xml</uri>
+  </author>
+  <published>2019-12-16T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>www.elejandria.com</dcterms:publisher>
+  <category term="CUENTOS INFANTILES" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      CUENTOS INFANTILES, Lang:es
+    </p>
+  </content>
+  <link href="../authors_0/authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Hermanos Grimm" />
+</entry>

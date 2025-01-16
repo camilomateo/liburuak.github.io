@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Los casos del Departamento Q</title>
+  <id>Calibre2opds:authors:1193series:205</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1193_series_205_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Los casos del Departamento Q" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="./authors_1193_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jussi Adler-Olsen" />
+  <entry>
+    <title>1 - La mujer que arañaba las paredes</title>
+    <id>calibre:book:1657</id>
+    <updated>2024-07-07T03:32:36Z</updated>
+    <link href="../../Jussi%20Adler-Olsen/La%20mujer%20que%20aranaba%20las%20paredes%20%281657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jussi%20Adler-Olsen/La%20mujer%20que%20aranaba%20las%20paredes%20%281657%29/La%20mujer%20que%20aranaba%20las%20parede%20-%20Jussi%20Adler-Olsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <author>
+      <name>Jussi Adler-Olsen</name>
+      <uri>../authors_1/authors_1193_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Los casos del Departamento Q" />
+    <summary>Los casos del Departamento Q [1]: Un día de invierno, la joven y prometedora política danesa Merete Lynggaard desaparece durante un viaje sin dejar rastro. La policía inicia una infructuosa investigación, mientras los medios hacen todo tipo de conjet...</summary>
+    <link href="../book_1/book_1657.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

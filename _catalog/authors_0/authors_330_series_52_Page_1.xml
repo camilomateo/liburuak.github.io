@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspector Armand Gamache</title>
+  <id>Calibre2opds:authors:330series:52</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_330_series_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspector Armand Gamache" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_330_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Louise Penny" />
+  <entry>
+    <title>13 - Casas de cristal</title>
+    <id>calibre:book:443</id>
+    <updated>2023-03-23T11:00:38Z</updated>
+    <link href="../../Louise%20Penny/Casas%20de%20cristal%20%28443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louise%20Penny/Casas%20de%20cristal%20%28443%29/Casas%20de%20cristal%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="601 KB" />
+    <author>
+      <name>Louise Penny</name>
+      <uri>../authors_0/authors_330_Page_1.xml</uri>
+    </author>
+    <published>2023-01-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Armand Gamache" />
+    <summary>Inspector Armand Gamache [13]: La novela más intrigante de Louise Penny hasta la fecha: Three Pines como nunca lo habías visto. Cuando una figura misteriosa aparece en Three Pines un frío día de noviembre, lo primero que sienten Armand Gamache y el r...</summary>
+    <link href="../book_0/book_443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>14 - El reino de los ciegos</title>
+    <id>calibre:book:1418</id>
+    <updated>2024-04-09T11:16:19Z</updated>
+    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/El%20reino%20de%20los%20ciegos%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <author>
+      <name>Louise Penny</name>
+      <uri>../authors_0/authors_330_Page_1.xml</uri>
+    </author>
+    <published>2024-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Armand Gamache" />
+    <summary>Inspector Armand Gamache [14]: Vuelve la gran dama del crimen canadiense con la serie que ha cautivado a 15 millones de lectores«Un misterio hechizante.»The Washington PostSuspendido aún de empleo y sueldo por un caso relacionado con una remesa de dr...</summary>
+    <link href="../book_1/book_1418.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

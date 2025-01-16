@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Horacio Quiroga</title>
+  <id>Calibre2opds:authors:1519</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1519_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Horacio Quiroga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Q" />
+  <entry>
+    <title>A la deriva</title>
+    <id>calibre:book:2141</id>
+    <updated>2024-09-06T02:21:22Z</updated>
+    <link href="../../Horacio%20Quiroga/A%20la%20deriva%20%282141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Horacio%20Quiroga/A%20la%20deriva%20%282141%29/A%20la%20deriva%20-%20Horacio%20Quiroga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="76 KB" />
+    <author>
+      <name>Horacio Quiroga</name>
+      <uri>../authors_1/authors_1519_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuentos de Amor de Locura y de Muerte</title>
+    <id>calibre:book:2210</id>
+    <updated>2024-09-06T02:21:34Z</updated>
+    <link href="../../Horacio%20Quiroga/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20Muer%20%282210%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Horacio%20Quiroga/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20Muer%20%282210%29/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20-%20Horacio%20Quiroga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
+    <author>
+      <name>Horacio Quiroga</name>
+      <uri>../authors_1/authors_1519_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Max Ibarrola</title>
+  <id>Calibre2opds:authors:338</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Max Ibarrola" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>Los girasoles indolentes</title>
+    <id>calibre:book:453</id>
+    <updated>2023-03-23T11:00:42Z</updated>
+    <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/Los%20girasoles%20indolentes%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <author>
+      <name>Max Ibarrola</name>
+      <uri>../authors_0/authors_338_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Dos personas, trabajadores del Circo Robertson actualmente asentado en Londres, han sido asesinadas. El culpable ha dejado claro que no ha sido accidental, lo ha preparado bien y quiere que se vea su obra, por eso creen que volverá a pasar, no parará...</summary>
+    <link href="../book_0/book_453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La loba fiel</title>
+    <id>calibre:book:2765</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Max Ibarrola</name>
+      <uri>../authors_0/authors_338_Page_1.xml</uri>
+    </author>
+    <published>2024-04-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela de suspense en estado puro Arizona, verano de mil novecientos noventa y seis. En un rancho situado en medio del desierto, una empleada de la máxima confianza se lleva, sin mediar explicación, al nieto de un multimillonario. Años más tarde,...</summary>
+    <link href="../book_2/book_2765.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

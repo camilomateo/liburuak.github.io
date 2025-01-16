@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Aro Sainz de la Maza</title>
+  <id>Calibre2opds:authors:411</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_411_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Aro Sainz de la Maza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>El verdugo de Gaudí</title>
+    <id>calibre:book:555</id>
+    <updated>2023-04-11T09:33:24Z</updated>
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/El%20verdugo%20de%20Gaudi%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="597 KB" />
+    <author>
+      <name>Aro Sainz de la Maza</name>
+      <uri>../authors_0/authors_411_Page_1.xml</uri>
+    </author>
+    <published>2019-12-10T04:17:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En una desesperada carrera contrarreloj, Milo está dispuesto a sacrificar lo que sea necesario con tal de pararle los pies al asesino que amenaza con sembrar Barcelona de cadáveres.							En la fachada del emblemático edificio de La Pedrera de Gaudí ...</summary>
+    <link href="../book_0/book_555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

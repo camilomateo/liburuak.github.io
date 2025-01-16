@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gerard Shaw</title>
+  <id>Calibre2opds:authors:658</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_658_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gerard Shaw" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>7 técnicas exitosas para resolver conflictos</title>
+    <id>calibre:book:878</id>
+    <updated>2023-06-20T04:46:28Z</updated>
+    <link href="../../Gerard%20Shaw/7%20tecnicas%20exitosas%20para%20resolver%20c%20%28878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gerard%20Shaw/7%20tecnicas%20exitosas%20para%20resolver%20c%20%28878%29/7%20tecnicas%20exitosas%20para%20resolv%20-%20Gerard%20Shaw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <author>
+      <name>Gerard Shaw</name>
+      <uri>../authors_0/authors_658_Page_1.xml</uri>
+    </author>
+    <published>2020-04-14T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>¡Conviértete en un experto en resolver conflictos a través de métodos verbales y no violentos!¿Alguna vez has estado tan enojado con alguien que le gritaste en su cara cosas terribles, solo para lastimarlo? ¿O te lo han hecho a ti?¿Te encontraste en ...</summary>
+    <link href="../book_0/book_878.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

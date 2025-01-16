@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Crímenes del Sur</title>
+  <id>Calibre2opds:authors:31series:115</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_31_series_115_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Crímenes del Sur" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="./authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mario Escobar" />
+  <entry>
+    <title>1 - Lujuria</title>
+    <id>calibre:book:1138</id>
+    <updated>2024-01-08T09:16:19Z</updated>
+    <link href="../../Mario%20Escobar/Lujuria%20%281138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Lujuria%20%281138%29/Lujuria%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="222 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2021-05-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes del Sur" />
+    <summary>Crímenes del Sur [1]: En el centro de la ciudad de Málaga, nadie tiene secretos para nadie. ¿O tal vez sí los tengan?
+
+Amanda Romero es una trabajadora social de la ciudad de Málaga que trabaja en los Servicios Sociales, su exmarido Arturo es policía...</summary>
+    <link href="../book_1/book_1138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Soberbia</title>
+    <id>calibre:book:916</id>
+    <updated>2023-07-04T02:12:02Z</updated>
+    <link href="../../Mario%20Escobar/Soberbia%20%28916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Soberbia%20%28916%29/Soberbia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2021-10-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes del Sur" />
+    <summary>Crímenes del Sur [2]: En el centro de la ciudad de Málaga, nadie tiene secretos para nadie. ¿O tal vez sí los tengan? Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lect...</summary>
+    <link href="../book_0/book_916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

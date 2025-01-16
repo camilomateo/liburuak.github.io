@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Claudio Cerdán</title>
+  <id>Calibre2opds:authors:1061</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1061_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Claudio Cerdán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El hombre sin rostro</title>
+    <id>calibre:book:1453</id>
+    <updated>2024-04-30T04:46:08Z</updated>
+    <link href="../../Claudio%20Cerdan/El%20hombre%20sin%20rostro%20%281453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claudio%20Cerdan/El%20hombre%20sin%20rostro%20%281453%29/El%20hombre%20sin%20rostro%20-%20Claudio%20Cerdan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <author>
+      <name>Claudio Cerdán</name>
+      <uri>../authors_1/authors_1061_Page_1.xml</uri>
+    </author>
+    <published>2024-04-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Los monstruos no deberían caminar libres sin que nadie los reconociese... Lo mejor de la novela negra y el terror unidos en un nuevo nivel de oscuridad. «Trepidante. Claudio Cerdán sabe cómo mantener la tensión.» Susana Martín Gijón Para un padre no ...</summary>
+    <link href="../book_1/book_1453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

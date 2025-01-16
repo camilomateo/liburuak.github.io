@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Miguel Pedrero</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_136_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Miguel Pedrero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_136_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Miguel Pedrero" />
+  <entry>
+    <title>Proyecto Anticristo</title>
+    <id>calibre:book:209</id>
+    <updated>2023-01-27T10:32:26Z</updated>
+    <link href="../../Miguel%20Pedrero/Proyecto%20Anticristo%20%28209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Pedrero/Proyecto%20Anticristo%20%28209%29/Proyecto%20Anticristo%20-%20Miguel%20Pedrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="762 KB" />
+    <author>
+      <name>Miguel Pedrero</name>
+      <uri>../authors_0/authors_136_Page_1.xml</uri>
+    </author>
+    <published>2018-05-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Cydonia</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Novela Cydonia" />
+    <summary>Novela Cydonia [4]: Esta novela es el fruto de las entrevistas que mantuvo el autor –un conocido periodista de investigación– con personajes vinculados al mundo del espionaje, la política y la economía. La protagonista es Ana Maldonado, agente del CN...</summary>
+    <link href="../book_0/book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

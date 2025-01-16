@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ad Absurdum</title>
+  <id>Calibre2opds:authors:1699</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1699_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ad Absurdum" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Historia absurda de Cataluña</title>
+    <id>calibre:book:2596</id>
+    <updated>2024-09-12T03:39:22Z</updated>
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/Historia%20absurda%20de%20Cataluna%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <author>
+      <name>Ad Absurdum</name>
+      <uri>../authors_1/authors_1699_Page_1.xml</uri>
+    </author>
+    <published>2018-02-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cataluña se ha convertido en uno de los temas más candentes de los últimos años. ¿A qué se debe esto?¿Han hecho su propia Torre Eiffel con castellers?¿Han declarado la guerra a  Corea del Norte?¿O ha ocurrido alguna otra cosa?En este libro los chicos...</summary>
+    <link href="../book_2/book_2596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Historia absurda de España</title>
+    <id>calibre:book:2583</id>
+    <updated>2024-09-12T03:39:17Z</updated>
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/Historia%20absurda%20de%20Espana%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Ad Absurdum</name>
+      <uri>../authors_1/authors_1699_Page_1.xml</uri>
+    </author>
+    <published>2017-04-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Es un consuelo ver como una nueva generación de historiadores nos cuenta la Historia con humor y sin rollos para que los demás la disfrutemos. Un fantástico libro»Nieves Concostrina, autora de Menudas historias de la Historia «Si te interesa la hist...</summary>
+    <link href="../book_2/book_2583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

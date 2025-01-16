@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Toni Hill</title>
+  <id>Calibre2opds:authors:605</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_605_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Toni Hill" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Tigres de cristal</title>
+    <id>calibre:book:1676</id>
+    <updated>2024-07-22T06:21:11Z</updated>
+    <link href="../../Toni%20Hill/Tigres%20de%20cristal%20%281676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toni%20Hill/Tigres%20de%20cristal%20%281676%29/Tigres%20de%20cristal%20-%20Toni%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="698 KB" />
+    <author>
+      <name>Toni Hill</name>
+      <uri>../authors_0/authors_605_Page_1.xml</uri>
+    </author>
+    <published>2018-04-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una absorbente historia de suspense psicológico que explora los límites entre la culpa y la expiación. Con una trama intensa y llena de secretos, Toni Hill nos transporta a  un barrio mítico del Cinturón Rojo de Barcelona, tanto en los convulsos  año...</summary>
+    <link href="../book_1/book_1676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El último verdugo</title>
+    <id>calibre:book:810</id>
+    <updated>2023-06-06T08:14:10Z</updated>
+    <link href="../../Toni%20Hill/El%20ultimo%20verdugo%20%28810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toni%20Hill/El%20ultimo%20verdugo%20%28810%29/El%20ultimo%20verdugo%20-%20Toni%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="560 KB" />
+    <author>
+      <name>Toni Hill</name>
+      <uri>../authors_0/authors_605_Page_1.xml</uri>
+    </author>
+    <published>2023-05-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Él no puede dejar de matar. Tú no podrás parar de leer.«Toni Hill ha reinventado el thriller desde Barcelona».El PaísUna serie de brutales asesinatos desconciertan a la policía.Los cadáveres presentan una extraña marca en la nuca.Y junto a ellos apar...</summary>
+    <link href="../book_0/book_810.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

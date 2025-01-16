@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Roberto Fuentes</title>
+  <id>Calibre2opds:authors:496series:178</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_496_series_178_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Roberto Fuentes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_496_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alberto Meneses" />
+  <entry>
+    <title>7 - El legado del mal</title>
+    <id>calibre:book:1492</id>
+    <updated>2024-05-03T02:01:59Z</updated>
+    <link href="../../Alberto%20Meneses/El%20legado%20del%20mal%20%281492%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Meneses/El%20legado%20del%20mal%20%281492%29/El%20legado%20del%20mal%20-%20Alberto%20Meneses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <author>
+      <name>Alberto Meneses</name>
+      <uri>../authors_0/authors_496_Page_1.xml</uri>
+    </author>
+    <published>2024-04-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Roberto Fuentes" />
+    <summary>Roberto Fuentes [7]: Después de una larga excedencia, Roberto Fuentes ha vuelto al trabajo, aunque lo ha hecho alejado de los focos de la prensa y del punto de mira de sus superiores. Un destino tranquilo en Llanes, donde ver crecer a sus dos hijos, ...</summary>
+    <link href="../book_1/book_1492.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

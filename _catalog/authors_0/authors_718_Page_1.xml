@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elán</title>
+  <id>Calibre2opds:authors:718</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_718_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>La guía práctica para ser feliz</title>
+    <id>calibre:book:964</id>
+    <updated>2023-08-16T05:28:56Z</updated>
+    <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/La%20guia%20practica%20para%20ser%20feliz%20-%20Elan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Elán</name>
+      <uri>../authors_0/authors_718_Page_1.xml</uri>
+    </author>
+    <published>2022-06-07T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La fórmula para la felicidad no existe ni viene en este libro... No tiene lecciones de sabiduría ancestral, sino más bien lo que se puede aprender de los errores propios y de los demás, pero sobre todo de vivir cada segundo intensamente. No busca cam...</summary>
+    <link href="../book_0/book_964.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

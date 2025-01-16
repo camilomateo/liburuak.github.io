@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mario de La Rosa</title>
+  <id>Calibre2opds:authors:887</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_887_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mario de La Rosa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Que arda esta casa con nosotros dentro</title>
+    <id>calibre:book:1221</id>
+    <updated>2024-02-20T04:09:06Z</updated>
+    <link href="../../Mario%20de%20La%20Rosa/Que%20arda%20esta%20casa%20con%20nosotros%20den%20%281221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20de%20La%20Rosa/Que%20arda%20esta%20casa%20con%20nosotros%20den%20%281221%29/Que%20arda%20esta%20casa%20con%20nosotros%20-%20Mario%20de%20La%20Rosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="962 KB" />
+    <author>
+      <name>Mario de La Rosa</name>
+      <uri>../authors_0/authors_887_Page_1.xml</uri>
+    </author>
+    <published>2024-01-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros Cúpula</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <summary>Imprevisible y sensual. Una novela que te hará arder.Cuando Bianca y Álex se conocen sienten el deseo y la admiración como nunca habían imaginado. La química entre ellos hace notable una atracción de la que no pueden escapar. Sin embargo, su relación...</summary>
+    <link href="../book_1/book_1221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

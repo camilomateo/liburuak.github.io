@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fernando San Agustín</title>
+  <id>Calibre2opds:authors:682</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_682_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fernando San Agustín" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>La trastienda de los servicios de inteligencia</title>
+    <id>calibre:book:909</id>
+    <updated>2023-06-26T05:25:28Z</updated>
+    <link href="../../Fernando%20San%20Agustin/La%20trastienda%20de%20los%20servicios%20de%20i%20%28909%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20San%20Agustin/La%20trastienda%20de%20los%20servicios%20de%20i%20%28909%29/La%20trastienda%20de%20los%20servicios%20-%20Fernando%20San%20Agustin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <author>
+      <name>Fernando San Agustín</name>
+      <uri>../authors_0/authors_682_Page_1.xml</uri>
+    </author>
+    <published>2023-06-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Por el autor de Os matarán en nombre de Dios .«Fernando San Agustín es un espía listo, valiente y hábil. Sus operaciones cambiaron la historia de España. Un libro apasionante.» Fernando RuedaLa trastienda de los servicios de inteligencia es un recuen...</summary>
+    <link href="../book_0/book_909.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

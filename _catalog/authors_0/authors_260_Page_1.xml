@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kiko Llaneras</title>
+  <id>Calibre2opds:authors:260</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_260_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kiko Llaneras" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Piensa claro</title>
+    <id>calibre:book:365</id>
+    <updated>2023-02-27T01:47:50Z</updated>
+    <link href="../../Kiko%20Llaneras/Piensa%20claro%20%28365%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kiko%20Llaneras/Piensa%20claro%20%28365%29/Piensa%20claro%20-%20Kiko%20Llaneras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Kiko Llaneras</name>
+      <uri>../authors_0/authors_260_Page_1.xml</uri>
+    </author>
+    <published>2022-08-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>ESQUIVA LAS TRAMPAS DE TU INTUICIÓN Y TOMA DECISIONES MÁS ACERTADAS CON EL MEJOR MAESTRO DE LOS DATOS.¿Qué secuencia de errores provocó la catástrofe de Chernóbil? ¿Cuál es el secreto de un superpronosticador? ¿Por qué tantos futbolistas nacen en en...</summary>
+    <link href="../book_0/book_365.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

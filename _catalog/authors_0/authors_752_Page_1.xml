@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Claire Gradidge</title>
+  <id>Calibre2opds:authors:752</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_752_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Claire Gradidge" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>El retorno inesperado de Josephine Fox</title>
+    <id>calibre:book:1018</id>
+    <updated>2023-08-30T08:59:18Z</updated>
+    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/El%20retorno%20inesperado%20de%20Joseph%20-%20Claire%20Gradidge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="587 KB" />
+    <author>
+      <name>Claire Gradidge</name>
+      <uri>../authors_0/authors_752_Page_1.xml</uri>
+    </author>
+    <published>2021-10-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros de Seda, S.L.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un pasado del que nadie le habla, un cadáver que nadie reclama y un secreto que nadie ha podido desvelar. ¿Lo logrará Jo?Abril de 1941, Romsey, Inglaterra. Hace más de veinte años que Josephine Fox, Jo, no pisa el pueblo en el que nació. Nunca supo q...</summary>
+    <link href="../book_1/book_1018.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

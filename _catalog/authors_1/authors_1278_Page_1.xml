@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jason Fung</title>
+  <id>Calibre2opds:authors:1278</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1278_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jason Fung" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>El reto de la longevidad</title>
+    <id>calibre:book:1778</id>
+    <updated>2024-08-26T10:56:13Z</updated>
+    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>James DiNicolantonio</name>
+      <uri>../authors_1/authors_1277_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jason Fung</name>
+      <uri>../authors_1/authors_1278_Page_1.xml</uri>
+    </author>
+    <published>2020-09-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDAF</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nadie puede vivir para siempre (¡al menos por ahora!), pero en este innovador libro, los doctores James DiNicolantonio y Jason Fung explican cómo es posible alargar la vida y, al mismo tiempo, disfrutar de buena salud y conservar la vitalidad. Basado...</summary>
+    <link href="../book_1/book_1778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

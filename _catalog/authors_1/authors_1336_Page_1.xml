@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andreu Navarra</title>
+  <id>Calibre2opds:authors:1336</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1336_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andreu Navarra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Volver a aprender</title>
+    <id>calibre:book:1864</id>
+    <updated>2024-09-02T04:27:38Z</updated>
+    <link href="../../Andreu%20Navarra/Volver%20a%20aprender%20%281864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andreu%20Navarra/Volver%20a%20aprender%20%281864%29/Volver%20a%20aprender%20-%20Andreu%20Navarra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Andreu Navarra</name>
+      <uri>../authors_1/authors_1336_Page_1.xml</uri>
+    </author>
+    <published>2024-08-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plataforma Editorial</dcterms:publisher>
+    <category term="Educación" />
+    <category term="Lang:es" />
+    <summary>Volver a aprender hace una revisión del sistema educativo actual y nos plantea qué debemos hacer para que los jóvenes vuelvan a adquirir los conocimientos necesarios para convertirse en ciudadanos autónomos y personas integrales. ¿Por qué el mundo oc...</summary>
+    <link href="../book_1/book_1864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

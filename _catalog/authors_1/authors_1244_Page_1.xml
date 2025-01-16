@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Moderna de pueblo</title>
+  <id>Calibre2opds:authors:1244</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1244_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Moderna de pueblo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Idiotizadas. Un cuento de empoderhadas</title>
+    <id>calibre:book:1739</id>
+    <updated>2024-08-08T05:13:47Z</updated>
+    <link href="../../Moderna%20de%20pueblo/Idiotizadas.%20Un%20cuento%20de%20empoderha%20%281739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Moderna%20de%20pueblo/Idiotizadas.%20Un%20cuento%20de%20empoderha%20%281739%29/Idiotizadas.%20Un%20cuento%20de%20empod%20-%20Moderna%20de%20pueblo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Moderna de pueblo</name>
+      <uri>../authors_1/authors_1244_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Moderna de pueblo ha crecido escuchando frases como «eso no es propio de una señorita», «esa es una guarra» o «el día de tu boda será el más feliz de tu vida». Pero después de mudarse a la ciudad y conocer a Zorricienta, Gordinieves y la Sirenita Pes...</summary>
+    <link href="../book_1/book_1739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

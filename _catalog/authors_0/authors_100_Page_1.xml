@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Estefanía Ruiz</title>
+  <id>Calibre2opds:authors:100</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_100_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Estefanía Ruiz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Los secretos de la cortesana</title>
+    <id>calibre:book:156</id>
+    <updated>2023-01-23T06:20:02Z</updated>
+    <link href="../../Estefania%20Ruiz/Los%20secretos%20de%20la%20cortesana%20%28156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Estefania%20Ruiz/Los%20secretos%20de%20la%20cortesana%20%28156%29/Los%20secretos%20de%20la%20cortesana%20-%20Estefania%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <author>
+      <name>Estefanía Ruiz</name>
+      <uri>../authors_0/authors_100_Page_1.xml</uri>
+    </author>
+    <published>2022-10-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>HISTORIA, EROTISMO, ENREDO CASTIZO EN EL MADRID DEL XVIII Si te gustaron Los Bridgerton este libro es para ti Pasión, sexo, juego de seducción... ¿Quién es quién en la corte de los Monteros? Siglo XVIII. Julia Ponce de León, hija del pintor de cámara...</summary>
+    <link href="../book_0/book_156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

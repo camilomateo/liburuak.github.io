@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Andrés Oppenheimer</title>
+  <id>Calibre2opds:authors:802</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_802_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Andrés Oppenheimer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>¡Sálvese quien pueda!</title>
+    <id>calibre:book:1100</id>
+    <updated>2024-01-08T09:16:11Z</updated>
+    <link href="../../Andres%20Oppenheimer/%21Salvese%20quien%20pueda%21%20%281100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andres%20Oppenheimer/%21Salvese%20quien%20pueda%21%20%281100%29/%21Salvese%20quien%20pueda%21%20-%20Andres%20Oppenheimer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="987 KB" />
+    <author>
+      <name>Andrés Oppenheimer</name>
+      <uri>../authors_0/authors_802_Page_1.xml</uri>
+    </author>
+    <published>2018-08-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El 47% de los empleos será reemplazado por robots o computadoras inteligentes.¿Quién está preparado?Con una prosa vibrante y lúcida, Andrés Oppenheimer encara un fenómeno que transformará radicalmente la sociedad: es probable que, en las próximas dos...</summary>
+    <link href="../book_1/book_1100.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

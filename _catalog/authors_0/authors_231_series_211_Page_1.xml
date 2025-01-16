@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Atlee Pine</title>
+  <id>Calibre2opds:authors:231series:211</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_231_series_211_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Atlee Pine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authors_231_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Baldacci" />
+  <entry>
+    <title>2 - Un minuto para la medianoche</title>
+    <id>calibre:book:1712</id>
+    <updated>2024-08-06T10:52:12Z</updated>
+    <link href="../../David%20Baldacci/Un%20minuto%20para%20la%20medianoche%20%281712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Baldacci/Un%20minuto%20para%20la%20medianoche%20%281712%29/Un%20minuto%20para%20la%20medianoche%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <author>
+      <name>David Baldacci</name>
+      <uri>../authors_0/authors_231_Page_1.xml</uri>
+    </author>
+    <published>2024-07-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Atlee Pine" />
+    <summary>Atlee Pine [2]: Un caso abierto en un pueblo lleno de secretos en el que desenterrar el pasado puede ser mucho más peligroso de lo que parece. Hace treinta años la hermana gemela de la agente del FBI Atlee Pine fue secuestrada. Tenía solo siete años ...</summary>
+    <link href="../book_1/book_1712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

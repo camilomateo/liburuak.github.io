@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mónica Hernández</title>
+  <id>Calibre2opds:authors:507</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_507_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mónica Hernández" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>La asesina de Juárez</title>
+    <id>calibre:book:925</id>
+    <updated>2023-07-04T02:12:18Z</updated>
+    <link href="../../Monica%20Hernandez/La%20asesina%20de%20Juarez%20%28925%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Hernandez/La%20asesina%20de%20Juarez%20%28925%29/La%20asesina%20de%20Juarez%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Mónica Hernández</name>
+      <uri>../authors_0/authors_507_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Martínez Roca México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Su nombre se convirtió en leyenda. Su crimen cambió la historia de MéxicoMéxico, junio de 1872. Un carruaje se estaciona frente al gran pórtico del salón donde se celebra un baile en honor a Benito Juárez. Una mujer misteriosa baja de él, atrayendo ...</summary>
+    <link href="../book_0/book_925.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cofradía de las viudas</title>
+    <id>calibre:book:683</id>
+    <updated>2023-05-15T06:09:52Z</updated>
+    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/La%20cofradia%20de%20las%20viudas%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mónica Hernández</name>
+      <uri>../authors_0/authors_507_Page_1.xml</uri>
+    </author>
+    <published>2022-03-16T07:05:32Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Siglo XVII. La pugna por el poder en la Nueva España se intensifica con la llegada de un nuevo virrey. Las prebendas y privilegios otorgados por el antiguo representante de la corona han levantado envidias y enfrentamientos entre la burguesía, el Est...</summary>
+    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

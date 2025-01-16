@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hiromi Shinya</title>
+  <id>Calibre2opds:authors:1295</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1295_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hiromi Shinya" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>La enzima prodigiosa 2</title>
+    <id>calibre:book:1806</id>
+    <updated>2024-08-27T09:07:34Z</updated>
+    <link href="../../Hiromi%20Shinya/La%20enzima%20prodigiosa%202%20%281806%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hiromi%20Shinya/La%20enzima%20prodigiosa%202%20%281806%29/La%20enzima%20prodigiosa%202%20-%20Hiromi%20Shinya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="389 KB" />
+    <author>
+      <name>Hiromi Shinya</name>
+      <uri>../authors_1/authors_1295_Page_1.xml</uri>
+    </author>
+    <published>2014-08-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Salud y bienestar" />
+    <category term="Divulgación" />
+    <category term="Lang:es" />
+    <summary>La revolución de la salud continúa Combate el envejecimiento, detén el Alzhéimer, evita la diabetes y mejora tu vida sexual Más de 2.000.000 de ejemplares vendidos En La enzima prodigiosa el doctor Hiromi Shinya ofrecía a los lectores un tratamiento ...</summary>
+    <link href="../book_1/book_1806.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

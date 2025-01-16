@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marie Vingtras</title>
+  <id>Calibre2opds:authors:355</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_355_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marie Vingtras" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <entry>
+    <title>Ventisca</title>
+    <id>calibre:book:472</id>
+    <updated>2023-03-24T09:46:30Z</updated>
+    <link href="../../Marie%20Vingtras/Ventisca%20%28472%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marie%20Vingtras/Ventisca%20%28472%29/Ventisca%20-%20Marie%20Vingtras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Marie Vingtras</name>
+      <uri>../authors_0/authors_355_Page_1.xml</uri>
+    </author>
+    <published>2023-03-20T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nórdica</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La tormenta de nieve está causando estragos en Alaska. En el corazón de la tormenta, un niño desaparece. Solo tomó unos segundos, el tiempo para volver a atarse los cordones de los zapatos, para que Bess soltara la mano del niño y lo perdiera de vist...</summary>
+    <link href="../book_0/book_472.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

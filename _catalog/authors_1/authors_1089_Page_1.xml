@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marta Martínez Novoa</title>
+  <id>Calibre2opds:authors:1089</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1089_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marta Martínez Novoa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El síndrome de la chica buena</title>
+    <id>calibre:book:1489</id>
+    <updated>2024-05-03T02:01:59Z</updated>
+    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/El%20sindrome%20de%20la%20chica%20buena%20-%20Marta%20Martinez%20Novoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="492 KB" />
+    <author>
+      <name>Marta Martínez Novoa</name>
+      <uri>../authors_1/authors_1089_Page_1.xml</uri>
+    </author>
+    <published>2024-01-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La psicóloga Marta Martínez Novoa nos invita a liberarnos del síndrome de la chica buena para priorizar nuestro bienestar emocional y establecer relaciones auténticas y equilibradas.Libérate del síndrome de la chica buena y reconecta contigo misma y ...</summary>
+    <link href="../book_1/book_1489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

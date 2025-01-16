@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Robert Louis Stevenson</title>
+  <id>Calibre2opds:authors:1413</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1413_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Robert Louis Stevenson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Todos los libros de Robert Louis Stevenson</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 7 libros</content>
+    <link href="../authors_1/authors_1413_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Biblioteca PruébaT</title>
+    <id>Calibre2opds:authors:1413series:225</id>
+    <content type="text">4 libros</content>
+    <link href="../authors_1/authors_1413_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>El extraño caso del doctor Jekyll y el señor Hyde</title>
+    <id>calibre:book:2243</id>
+    <updated>2024-09-09T10:33:51Z</updated>
+    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/El%20extrano%20caso%20del%20doctor%20Jeky%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <author>
+      <name>Robert Louis Stevenson</name>
+      <uri>../authors_1/authors_1413_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wrong Box</title>
+    <id>calibre:book:2478</id>
+    <updated>2024-09-09T10:34:39Z</updated>
+    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/The%20Wrong%20Box%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="198 KB" />
+    <author>
+      <name>Robert Louis Stevenson</name>
+      <uri>../authors_1/authors_1413_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Treasure Island</title>
+    <id>calibre:book:2479</id>
+    <updated>2024-09-09T10:34:39Z</updated>
+    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/Treasure%20Island%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <author>
+      <name>Robert Louis Stevenson</name>
+      <uri>../authors_1/authors_1413_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_2/book_2479.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

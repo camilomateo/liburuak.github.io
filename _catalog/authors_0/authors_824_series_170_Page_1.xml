@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Petra Delicado</title>
+  <id>Calibre2opds:authors:824series:170</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_824_series_170_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Petra Delicado" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authors_824_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alicia Giménez Bartlett" />
+  <entry>
+    <title>9 - Nadie quiere saber</title>
+    <id>calibre:book:1413</id>
+    <updated>2024-04-08T05:29:28Z</updated>
+    <link href="../../Alicia%20Gimenez%20Bartlett/Nadie%20quiere%20saber%20%281413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Gimenez%20Bartlett/Nadie%20quiere%20saber%20%281413%29/Nadie%20quiere%20saber%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <author>
+      <name>Alicia Giménez Bartlett</name>
+      <uri>../authors_0/authors_824_Page_1.xml</uri>
+    </author>
+    <published>2013-02-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Petra Delicado" />
+    <summary>Petra Delicado [9]: La inspectora Petra Delicado y el subinspector Fermín Garzón reciben la orden de reabrir un caso que había permanecido cinco años archivado: Alfonso Siguán, un empresario textil barcelonés de 70 años, liquidado en circunstancias s...</summary>
+    <link href="../book_1/book_1413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ferran Cases</title>
+  <id>Calibre2opds:authors:506</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_506_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ferran Cases" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El pequeño gran libro de la ansiedad</title>
+    <id>calibre:book:682</id>
+    <updated>2023-05-15T05:51:38Z</updated>
+    <link href="../../Ferran%20Cases/El%20pequeno%20gran%20libro%20de%20la%20ansieda%20%28682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ferran%20Cases/El%20pequeno%20gran%20libro%20de%20la%20ansieda%20%28682%29/El%20pequeno%20gran%20libro%20de%20la%20ans%20-%20Ferran%20Cases.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <author>
+      <name>Ferran Cases</name>
+      <uri>../authors_0/authors_506_Page_1.xml</uri>
+    </author>
+    <published>2023-01-12T10:45:26Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Diana Editorial</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Soy Ferran Cases, conferenciante, escritor y divulgador experto en ansiedad. La primera persona que contactó conmigo desde que me dedico a esto me dijo que no se creía que aplicando lo que le estaba contando pudiese salir de la ansiedad. Desde ese dí...</summary>
+    <link href="../book_0/book_682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

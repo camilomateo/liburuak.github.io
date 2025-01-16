@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Miguel Pita</title>
+  <id>Calibre2opds:authors:1287</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1287_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Miguel Pita" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>El ADN dictador</title>
+    <id>calibre:book:1790</id>
+    <updated>2024-08-26T10:56:16Z</updated>
+    <link href="../../Miguel%20Pita/El%20ADN%20dictador%20%281790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Pita/El%20ADN%20dictador%20%281790%29/El%20ADN%20dictador%20-%20Miguel%20Pita.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Miguel Pita</name>
+      <uri>../authors_1/authors_1287_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El prestigioso científico Miguel Pita ha logrado introducirse con éxito en la mente de Ale, un ser humano cualquiera, durante un día de su vida. En este libro acompañaremos a Ale en el ascensor, en el trabajo o en una cita y, a través de este peculia...</summary>
+    <link href="../book_1/book_1790.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

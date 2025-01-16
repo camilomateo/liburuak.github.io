@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Daniel Silva</title>
+  <id>Calibre2opds:authors:415</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_415_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Daniel Silva" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>El coleccionista</title>
+    <id>calibre:book:1355</id>
+    <updated>2024-03-27T01:25:09Z</updated>
+    <link href="../../Daniel%20Silva/El%20coleccionista%20%281355%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20Silva/El%20coleccionista%20%281355%29/El%20coleccionista%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Daniel Silva</name>
+      <uri>../authors_0/authors_415_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>A la mañana siguiente de la gala anual de la Sociedad para la Conservación de Venecia, Gabriel Allon, restaurador de cuadros y espía legendario, entra en su cafetería favorita de la isla de Murano y encuentra allí al general Cesare Ferrari, comandant...</summary>
+    <link href="../book_1/book_1355.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Retrato de una desconocida</title>
+    <id>calibre:book:560</id>
+    <updated>2023-04-17T01:30:20Z</updated>
+    <link href="../../Daniel%20Silva/Retrato%20de%20una%20desconocida%20%28560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20Silva/Retrato%20de%20una%20desconocida%20%28560%29/Retrato%20de%20una%20desconocida%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="708 KB" />
+    <author>
+      <name>Daniel Silva</name>
+      <uri>../authors_0/authors_415_Page_1.xml</uri>
+    </author>
+    <published>2023-02-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En la nueva y deslumbrante obra maestra de Daniel Silva, autor número uno de la lista de superventas de The New York Times, Gabriel Allon se embarca en una búsqueda trepidante para descubrir al mayor falsificador de arte que jamás haya existido.Tras ...</summary>
+    <link href="../book_0/book_560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

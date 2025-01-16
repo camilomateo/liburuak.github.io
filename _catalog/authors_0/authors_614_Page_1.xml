@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lionel Shriver</title>
+  <id>Calibre2opds:authors:614</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_614_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lionel Shriver" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>El movimiento del cuerpo a través del espacio</title>
+    <id>calibre:book:823</id>
+    <updated>2023-06-06T10:53:46Z</updated>
+    <link href="../../Lionel%20Shriver/El%20movimiento%20del%20cuerpo%20a%20traves%20d%20%28823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lionel%20Shriver/El%20movimiento%20del%20cuerpo%20a%20traves%20d%20%28823%29/El%20movimiento%20del%20cuerpo%20a%20trav%20-%20Lionel%20Shriver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="575 KB" />
+    <author>
+      <name>Lionel Shriver</name>
+      <uri>../authors_0/authors_614_Page_1.xml</uri>
+    </author>
+    <published>2023-05-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela feroz y explosiva, repleta de temas candentes, que toma el culto a la forma física como mirador desde el que observar la sociedad americana. Alérgica a toda clase de actividades grupales, Serenata Terpsichore, la protagonista de esta novel...</summary>
+    <link href="../book_0/book_823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

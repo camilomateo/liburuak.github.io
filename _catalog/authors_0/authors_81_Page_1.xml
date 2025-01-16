@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>José Manuel Caballero Bonald</title>
+  <id>Calibre2opds:authors:81</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_81_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="José Manuel Caballero Bonald" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Desaprendizajes</title>
+    <id>calibre:book:132</id>
+    <updated>2023-01-18T03:19:38Z</updated>
+    <link href="../../Jose%20Manuel%20Caballero%20Bonald/Desaprendizajes%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Manuel%20Caballero%20Bonald/Desaprendizajes%20%28132%29/Desaprendizajes%20-%20Jose%20Manuel%20Caballero%20Bonald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="665 KB" />
+    <author>
+      <name>José Manuel Caballero Bonald</name>
+      <uri>../authors_0/authors_81_Page_1.xml</uri>
+    </author>
+    <published>2015-03-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Desaprendizajes es un poemario que interroga al lector con implacable recurrencia y otorga a su autor una personalidad poética, consistente y singular, inconfundible. El acento paródico, la subordinación sarcástica, la crítica de la cultura y de la s...</summary>
+    <link href="../book_0/book_132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Philippa Perry</title>
+  <id>Calibre2opds:authors:792</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_792_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Philippa Perry" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>El libro que ojalá tus padres hubieran leído</title>
+    <id>calibre:book:1089</id>
+    <updated>2023-12-12T08:20:57Z</updated>
+    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/El%20libro%20que%20ojala%20tus%20padres%20h%20-%20Philippa%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="450 KB" />
+    <author>
+      <name>Philippa Perry</name>
+      <uri>../authors_0/authors_792_Page_1.xml</uri>
+    </author>
+    <published>2020-10-28T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En este libro, la reconocida psicoterapeuta británica Philippa Perry nos dice qué es lo que realmente importa y qué tipo de comportamientos debemos evitar en la relación con nuestros hijos, ofreciéndonos pautas para: • Comprender cómo nuestra propia ...</summary>
+    <link href="../book_1/book_1089.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

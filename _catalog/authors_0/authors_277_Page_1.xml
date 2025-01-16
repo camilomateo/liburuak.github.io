@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alberto García-Salido</title>
+  <id>Calibre2opds:authors:277</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alberto García-Salido" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Aprender a volar</title>
+    <id>calibre:book:385</id>
+    <updated>2023-03-04T02:11:48Z</updated>
+    <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/Aprender%20a%20volar%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+    <author>
+      <name>Alberto García-Salido</name>
+      <uri>../authors_0/authors_277_Page_1.xml</uri>
+    </author>
+    <published>2022-03-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>HAGAMOS UN TRATO, EMPECEMOS A VIVIR. Una emotiva novela sobre dos amigos. Uno sabe que cada minuto cuenta, el otro está a punto de aprenderlo. Luis tiene dieciséis años y la vida le dio un vuelco cuando le diagnosticaron cáncer. A Diego, residente de...</summary>
+    <link href="../book_0/book_385.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todos los finales felices se parecen</title>
+    <id>calibre:book:2713</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/Todos%20los%20finales%20felices%20se%20pa%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="401 KB" />
+    <author>
+      <name>Alberto García-Salido</name>
+      <uri>../authors_0/authors_277_Page_1.xml</uri>
+    </author>
+    <published>2024-03-20T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La segunda novela de Alberto García-Salido (@nopanaden). Una emotiva y divertida historia, con dosis de drama y de comedia de enredo, escrita con el pulso de la vida misma: a partir de aquellos momentos que no se pueden planear.La historia de Ismael ...</summary>
+    <link href="../book_2/book_2713.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

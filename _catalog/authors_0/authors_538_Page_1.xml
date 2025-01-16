@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Oihane Cantabrana</title>
+  <id>Calibre2opds:authors:538</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_538_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Oihane Cantabrana" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Ordénate la vida</title>
+    <id>calibre:book:722</id>
+    <updated>2023-05-17T01:11:00Z</updated>
+    <link href="../../Oihane%20Cantabrana/Ordenate%20la%20vida%20%28722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oihane%20Cantabrana/Ordenate%20la%20vida%20%28722%29/Ordenate%20la%20vida%20-%20Oihane%20Cantabrana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Oihane Cantabrana</name>
+      <uri>../authors_0/authors_538_Page_1.xml</uri>
+    </author>
+    <published>2023-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>El orden que hay (o no hay) en nuestro hogar suele reflejar cómo nos sentimos por dentro. Los espacios ordenados invitan a la armonía y la paz mental; en cambio, en un lugar atiborrado de objetos es fácil que nuestra mente se distraiga.Oihane Cantabr...</summary>
+    <link href="../book_0/book_722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

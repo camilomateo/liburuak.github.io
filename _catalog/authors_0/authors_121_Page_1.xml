@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kayla Leiz</title>
+  <id>Calibre2opds:authors:121</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_121_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kayla Leiz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Cinco para una</title>
+    <id>calibre:book:186</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/Cinco%20para%20una%20-%20Kayla%20Leiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Kayla Leiz</name>
+      <uri>../authors_0/authors_121_Page_1.xml</uri>
+    </author>
+    <published>2016-07-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Erótico" />
+    <category term="Lang:es" />
+    <summary>Ex quería huir de su pasado, dejar atrás aquello que tanto daño le había hecho y empezar de cero. Cuando llega a un pueblo desconocido, un travesti la invita a un local exclusivo para mujeres. Los cinco strippers, a cuál más atractivo, que allí traba...</summary>
+    <link href="../book_0/book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

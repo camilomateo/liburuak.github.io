@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Antonio Runa</title>
+  <id>Calibre2opds:authors:803</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_803_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Antonio Runa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>La chica gris</title>
+    <id>calibre:book:1101</id>
+    <updated>2024-01-08T09:16:11Z</updated>
+    <link href="../../Antonio%20Runa/La%20chica%20gris%20%281101%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Runa/La%20chica%20gris%20%281101%29/La%20chica%20gris%20-%20Antonio%20Runa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="603 KB" />
+    <author>
+      <name>Antonio Runa</name>
+      <uri>../authors_0/authors_803_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Minotauro</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela monstruosa de sucesos paranormales. Los muertos no nos quieren como nosotros los queremos a ellos. Empiezo a sonar como mi padre. Se diría que él habla a través de mí. No. Se supone que yo ya no creo en estas cosas. Ya no. Isaac Zarco, per...</summary>
+    <link href="../book_1/book_1101.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La materia de las sombras</title>
+    <id>calibre:book:1533</id>
+    <updated>2024-06-02T10:59:40Z</updated>
+    <link href="../../Antonio%20Runa/La%20materia%20de%20las%20sombras%20%281533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Runa/La%20materia%20de%20las%20sombras%20%281533%29/La%20materia%20de%20las%20sombras%20-%20Antonio%20Runa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <author>
+      <name>Antonio Runa</name>
+      <uri>../authors_0/authors_803_Page_1.xml</uri>
+    </author>
+    <published>2024-02-26T11:25:44Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Minotauro</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La nueva obra de terror Antonio Runa (La Órbita de Endor)Una plaga de suicidios misteriosos está asolando la ciudad. La policía se plantea varias hipótesis que van desde la influencia de una secta peligrosa a un nuevo tipo de terrorismo. La investig...</summary>
+    <link href="../book_1/book_1533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

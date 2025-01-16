@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>VV. AA.</title>
+  <id>Calibre2opds:authors:350</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_350_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="VV. AA." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Benjamin Graham y el poder de las acciones de crecimiento</title>
+    <id>calibre:book:1840</id>
+    <updated>2024-08-30T02:13:10Z</updated>
+    <link href="../../VV.%20AA_/Benjamin%20Graham%20y%20el%20poder%20de%20las%20a%20%281840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../VV.%20AA_/Benjamin%20Graham%20y%20el%20poder%20de%20las%20a%20%281840%29/Benjamin%20Graham%20y%20el%20poder%20de%20l%20-%20VV.%20AA_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>VV. AA.</name>
+      <uri>../authors_0/authors_350_Page_1.xml</uri>
+    </author>
+    <published>2018-11-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Profit Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Benjamin Graham es el padre de la inversión, pero su mayor éxito inversor provino de una acción de crecimiento que aumentó su patrimonio personal con una cantidad muy por encima de todas las demás inversiones juntas. Este libro le ayuda a redescubrir...</summary>
+    <link href="../book_1/book_1840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Miss Marple. Doce casos nuevos</title>
+    <id>calibre:book:467</id>
+    <updated>2023-03-24T09:44:12Z</updated>
+    <link href="../../VV.%20AA_/Miss%20Marple.%20Doce%20casos%20nuevos%20%28467%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../VV.%20AA_/Miss%20Marple.%20Doce%20casos%20nuevos%20%28467%29/Miss%20Marple.%20Doce%20casos%20nuevos%20-%20VV.%20AA_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <author>
+      <name>VV. AA.</name>
+      <uri>../authors_0/authors_350_Page_1.xml</uri>
+    </author>
+    <published>2023-02-09T02:01:48Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después de 45 años, vuelve Miss Marple, la inmortal detective de la Gran Dama del Crimen.Un maravilloso homenaje a la mejor investigadora de la historia.La inmortal Miss Marple, la legendaria detective creada por Agatha Christie, vuelve a la acción t...</summary>
+    <link href="../book_0/book_467.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

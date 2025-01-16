@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sosuke Natsukawa</title>
+  <id>Calibre2opds:authors:1735</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1735_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sosuke Natsukawa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El gato que cuidaba las bibliotecas</title>
+    <id>calibre:book:2640</id>
+    <updated>2024-10-21T04:01:16Z</updated>
+    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/El%20gato%20que%20cuidaba%20las%20bibliot%20-%20Sosuke%20Natsukawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sosuke Natsukawa</name>
+      <uri>../authors_1/authors_1735_Page_1.xml</uri>
+    </author>
+    <published>2024-08-06T07:25:53Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después del fenómeno japonésEl gato que amaba los libros, llega una novela que nos brinda un nuevo e inolvidable homenaje a la literatura.La joven Nanami no puede participar en actividades extraescolares por su asma, pero le encanta leer y pasar el t...</summary>
+    <link href="../book_2/book_2640.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

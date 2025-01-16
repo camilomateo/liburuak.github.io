@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Noelia Amarillo</title>
+  <id>Calibre2opds:authors:116</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_116_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noelia Amarillo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Quédate a mi lado</title>
+    <id>calibre:book:178</id>
+    <updated>2023-01-26T07:16:18Z</updated>
+    <link href="../../Noelia%20Amarillo/Quedate%20a%20mi%20lado%20%28178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelia%20Amarillo/Quedate%20a%20mi%20lado%20%28178%29/Quedate%20a%20mi%20lado%20-%20Noelia%20Amarillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <author>
+      <name>Noelia Amarillo</name>
+      <uri>../authors_0/authors_116_Page_1.xml</uri>
+    </author>
+    <published>2013-11-13T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro Books</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <summary>Por la ganadora a la Mejor autora española y Mejor romance erótico del 2011 según la revista Románticas. En una ciudad en la que puedes tocar el cielo? o caer en el infierno.Invisible para aquellos que lo rodean, Jared camina sin rumbo por las calles...</summary>
+    <link href="../book_0/book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

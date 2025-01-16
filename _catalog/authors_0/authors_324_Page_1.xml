@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jorge Zepeda</title>
+  <id>Calibre2opds:authors:324</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_324_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jorge Zepeda" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <entry>
+    <title>Milena o el fémur más bello del mundo</title>
+    <id>calibre:book:435</id>
+    <updated>2023-03-20T05:50:06Z</updated>
+    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/Milena%20o%20el%20femur%20mas%20bello%20del%20-%20Jorge%20Zepeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Jorge Zepeda</name>
+      <uri>../authors_0/authors_324_Page_1.xml</uri>
+    </author>
+    <published>2014-12-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La belleza de Milena también fue su perdición. Convertida en esclava sexual desde la adolescencia, intenta huir cuando muere su protector, un magnate de la comunicación que sufre un fallo cardiaco mientras hace el amor con ella. En su angustiosa fuga...</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Teresa Pereiro</title>
+  <id>Calibre2opds:authors:721</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_721_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Teresa Pereiro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>El tiempo de la sal</title>
+    <id>calibre:book:967</id>
+    <updated>2023-08-16T05:29:00Z</updated>
+    <link href="../../Maria%20Teresa%20Pereiro/El%20tiempo%20de%20la%20sal%20%28967%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Teresa%20Pereiro/El%20tiempo%20de%20la%20sal%20%28967%29/El%20tiempo%20de%20la%20sal%20-%20Maria%20Teresa%20Pereiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>María Teresa Pereiro</name>
+      <uri>../authors_0/authors_721_Page_1.xml</uri>
+    </author>
+    <published>2023-08-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Era el tiempo de las luces y sus sombras, del pueblo ahogado por la ciudad. En el Vigo de 1878, sólo el mar permanece inalterable, y Sabela, una joven trabajadora de la crepuscular industria de la salazón, se aferra a él enredándose en el pasado como...</summary>
+    <link href="../book_0/book_967.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ray Loriga</title>
+  <id>Calibre2opds:authors:660</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_660_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ray Loriga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Rendición</title>
+    <id>calibre:book:880</id>
+    <updated>2023-06-22T03:04:24Z</updated>
+    <link href="../../Ray%20Loriga/Rendicion%20%28880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ray%20Loriga/Rendicion%20%28880%29/Rendicion%20-%20Ray%20Loriga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Ray Loriga</name>
+      <uri>../authors_0/authors_660_Page_1.xml</uri>
+    </author>
+    <published>2017-05-25T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una fábula luminosa sobre el destierro, la pérdida, la paternidad y los afectos.XX Premio Alfaguara de novela.¿Quiénes somos cuando nos cambian las circunstancias?La guerra dura una década y nadie sabe a ciencia cierta cómo transcurre, qué bando fue ...</summary>
+    <link href="../book_0/book_880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sábado, domingo</title>
+    <id>calibre:book:1725</id>
+    <updated>2024-08-08T04:59:23Z</updated>
+    <link href="../../Ray%20Loriga/Sabado%2C%20domingo%20%281725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ray%20Loriga/Sabado%2C%20domingo%20%281725%29/Sabado%2C%20domingo%20-%20Ray%20Loriga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="144 KB" />
+    <author>
+      <name>Ray Loriga</name>
+      <uri>../authors_0/authors_660_Page_1.xml</uri>
+    </author>
+    <published>2019-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La nueva novela de Ray Loriga: Premio Alfaguara de novela 2017 y uno de los escritores más singulares del panorama narrativo en español. Un adolescente y una historia sin resolver que marcará su futuro: un libro transgresor y original con un planteam...</summary>
+    <link href="../book_1/book_1725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

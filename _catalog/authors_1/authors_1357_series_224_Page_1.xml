@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Las cenizas de Hispania</title>
+  <id>Calibre2opds:authors:1357series:224</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1357_series_224_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Las cenizas de Hispania" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_1357_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="José Zoilo Hernández González" />
+  <entry>
+    <title>2 - Niebla y acero</title>
+    <id>calibre:book:1901</id>
+    <updated>2024-09-03T09:33:58Z</updated>
+    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/Niebla%20y%20acero%20-%20Jose%20Zoilo%20Hernandez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <author>
+      <name>José Zoilo Hernández González</name>
+      <uri>../authors_1/authors_1357_Page_1.xml</uri>
+    </author>
+    <published>2019-05-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones  B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Las cenizas de Hispania" />
+    <summary>Las cenizas de Hispania [2]: Hispania, año 456 d. C. Teodorico, rey de los visigodos, será el encargado de poner fin al acoso de los suevos sobre el territorio peninsular para instaurar la paz de Roma que el nuevo emperador desea. Tras la derrota de ...</summary>
+    <link href="../book_1/book_1901.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

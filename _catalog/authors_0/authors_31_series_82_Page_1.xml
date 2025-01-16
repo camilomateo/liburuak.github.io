@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: El gran reinicio</title>
+  <id>Calibre2opds:authors:31series:82</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_31_series_82_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: El gran reinicio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="./authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mario Escobar" />
+  <entry>
+    <title>1 - Utopía</title>
+    <id>calibre:book:625</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Mario%20Escobar/Utopia%20%28625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Utopia%20%28625%29/Utopia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="639 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2023-03-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="El gran reinicio" />
+    <summary>El gran reinicio [1]: En el siglo XVI, Tomás Moro publicó su obra Utopía, nombre de una isla ficticia y artificial construida en el continente americano. Quinientos años después, el filántropo y millonario Thomas Franklin, descendiente de una de las ...</summary>
+    <link href="../book_0/book_625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

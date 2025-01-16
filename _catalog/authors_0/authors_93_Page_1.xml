@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cristina Campos</title>
+  <id>Calibre2opds:authors:93</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_93_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cristina Campos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Historias de mujeres casadas</title>
+    <id>calibre:book:146</id>
+    <updated>2023-01-19T08:55:22Z</updated>
+    <link href="../../Cristina%20Campos/Historias%20de%20mujeres%20casadas%20%28146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Campos/Historias%20de%20mujeres%20casadas%20%28146%29/Historias%20de%20mujeres%20casadas%20-%20Cristina%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Cristina Campos</name>
+      <uri>../authors_0/authors_93_Page_1.xml</uri>
+    </author>
+    <published>2022-11-04T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Maridos, amantes y amigas van y vienen, pero el amor, el verdadero amor, permanece para siempre.Una novela sincera y actual sobre el matrimonio, la amistad, el deseo y el amor.Gabriela es una mujer casada con un hombre al que quiere. Al que adora. U...</summary>
+    <link href="../book_0/book_146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pan de limón con semillas de amapola</title>
+    <id>calibre:book:746</id>
+    <updated>2023-05-22T05:06:46Z</updated>
+    <link href="../../Cristina%20Campos/Pan%20de%20limon%20con%20semillas%20de%20amapol%20%28746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Campos/Pan%20de%20limon%20con%20semillas%20de%20amapol%20%28746%29/Pan%20de%20limon%20con%20semillas%20de%20am%20-%20Cristina%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Cristina Campos</name>
+      <uri>../authors_0/authors_93_Page_1.xml</uri>
+    </author>
+    <published>2016-01-26T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Durante el invierno de 2010, en un pequeño pueblo del interior de Mallorca, Anna y Marina, dos hermanas que fueron separadas en su juventud, se reencuentran para vender una panadería que han heredado de una misteriosa mujer a la que creen no conocer....</summary>
+    <link href="../book_0/book_746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

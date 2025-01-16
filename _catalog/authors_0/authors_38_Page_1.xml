@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Charlotte Link</title>
+  <id>Calibre2opds:authors:38</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charlotte Link" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>¿De quién te escondes?</title>
+    <id>calibre:book:121</id>
+    <updated>2023-01-18T00:43:34Z</updated>
+    <link href="../../Charlotte%20Link/_De%20quien%20te%20escondes_%20%28121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Link/_De%20quien%20te%20escondes_%20%28121%29/_De%20quien%20te%20escondes_%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Charlotte Link</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2017-08-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Al final Simon tiene que hacer esa pregunta a Nathalie. Dos días atrás se tropezó con esta joven en la playa. Estaba demacrada y asustada, y él se ofreció a ayudarla. Una decisión impulsiva que se ha vuelto en su contra, pues desde entonces se han vi...</summary>
+    <link href="../book_0/book_121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El engaño</title>
+    <id>calibre:book:49</id>
+    <updated>2023-01-17T10:27:38Z</updated>
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="657 KB" />
+    <author>
+      <name>Charlotte Link</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2015-09-02T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Para Kate Linville, solitaria policía de Scotland Yard, solo hay una persona en el mundo que merezca su amor y su confianza: el antiguo jefe de policía de Scarborough Richard Linville, su padre, a cuya sombra creció. Cuando este aparece brutalmente a...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

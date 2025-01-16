@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Melanie Levensohn</title>
+  <id>Calibre2opds:authors:367</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_367_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Melanie Levensohn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Una chica judía en París</title>
+    <id>calibre:book:496</id>
+    <updated>2023-04-01T02:01:58Z</updated>
+    <link href="../../Melanie%20Levensohn/Una%20chica%20judia%20en%20Paris%20%28496%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Melanie%20Levensohn/Una%20chica%20judia%20en%20Paris%20%28496%29/Una%20chica%20judia%20en%20Paris%20-%20Melanie%20Levensohn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Melanie Levensohn</name>
+      <uri>../authors_0/authors_367_Page_1.xml</uri>
+    </author>
+    <published>2023-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Inspirada en hechos reales y ambientada en el contexto de la Segunda Guerra Mundial Una chica judía en París es una poderosa novela sobre el amor prohibido PARÍS, 1940. La ciudad está bajo ocupación alemana. Una joven judía, Judith, conoce a un joven...</summary>
+    <link href="../book_0/book_496.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

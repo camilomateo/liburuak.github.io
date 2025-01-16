@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tabitha Webb</title>
+  <id>Calibre2opds:authors:320</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_320_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tabitha Webb" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>¿Arrepentida? ¡Jamás!</title>
+    <id>calibre:book:431</id>
+    <updated>2023-03-14T04:53:32Z</updated>
+    <link href="../../Tabitha%20Webb/_Arrepentida_%20%21Jamas%21%20%28431%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tabitha%20Webb/_Arrepentida_%20%21Jamas%21%20%28431%29/_Arrepentida_%20%21Jamas%21%20-%20Tabitha%20Webb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Tabitha Webb</name>
+      <uri>../authors_0/authors_320_Page_1.xml</uri>
+    </author>
+    <published>2021-09-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Su vida había sido planeada mediante un sencillo esquema que abarcaba las distintas décadas. Adolescente: descubrir el sexo, sobresalir en dicha materia; veinteañera: sexo «a lo loco», trascender; treintañera: sexo con padre de bebé, relajado; en los...</summary>
+    <link href="../book_0/book_431.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jack Kerouac</title>
+  <id>Calibre2opds:authors:964</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_964_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jack Kerouac" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <entry>
+    <title>Maggie Cassidy</title>
+    <id>calibre:book:1322</id>
+    <updated>2024-03-21T01:00:28Z</updated>
+    <link href="../../Jack%20Kerouac/Maggie%20Cassidy%20%281322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20Kerouac/Maggie%20Cassidy%20%281322%29/Maggie%20Cassidy%20-%20Jack%20Kerouac.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <author>
+      <name>Jack Kerouac</name>
+      <uri>../authors_0/authors_964_Page_1.xml</uri>
+    </author>
+    <published>2023-01-31T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Maggie Cassidy (escrita en 1953 y publicada en 1959) es el tercer volumen del magno ciclo La leyenda de Duluoz. En ella, el joven Jack Duluoz, de dieciséis años, conoce a una chica en el baile de Nochevieja de 1939, coquetean, vuelven a verse, se dan...</summary>
+    <link href="../book_1/book_1322.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los Vagabundos del Dharma</title>
+    <id>calibre:book:1567</id>
+    <updated>2024-06-02T10:59:48Z</updated>
+    <link href="../../Jack%20Kerouac/Los%20Vagabundos%20del%20Dharma%20%281567%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20Kerouac/Los%20Vagabundos%20del%20Dharma%20%281567%29/Los%20Vagabundos%20del%20Dharma%20-%20Jack%20Kerouac.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="226 KB" />
+    <author>
+      <name>Jack Kerouac</name>
+      <uri>../authors_0/authors_964_Page_1.xml</uri>
+    </author>
+    <published>2022-07-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una de las obras capitales de Jack Kerouac, el escritor paradigmático de la Generación Beat. Ambientada en California, expone su descubrimiento del budismo y su primera ley, «la vida es sufrimiento», durante la época en que se sentía un fracasado al...</summary>
+    <link href="../book_1/book_1567.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

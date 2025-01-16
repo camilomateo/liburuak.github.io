@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Teniente Tresser</title>
+  <id>Calibre2opds:authors:825series:138</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_825_series_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Teniente Tresser" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_825_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Inés Plana" />
+  <entry>
+    <title>3 - Lo que no cuentan los muertos</title>
+    <id>calibre:book:1123</id>
+    <updated>2024-01-08T09:16:16Z</updated>
+    <link href="../../Ines%20Plana/Lo%20que%20no%20cuentan%20los%20muertos%20%281123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ines%20Plana/Lo%20que%20no%20cuentan%20los%20muertos%20%281123%29/Lo%20que%20no%20cuentan%20los%20muertos%20-%20Ines%20Plana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1013 KB" />
+    <author>
+      <name>Inés Plana</name>
+      <uri>../authors_0/authors_825_Page_1.xml</uri>
+    </author>
+    <published>2021-11-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Teniente Tresser" />
+    <summary>Teniente Tresser [3]: Rita Marí, la heredera de una gran fortuna, sobrevivió a un accidente aéreo en el que murieron tres amigas suyas. Desde entonces, alejada de su marido e hijos, hundida en la culpa, vive recluida en su mansión al borde del mar, e...</summary>
+    <link href="../book_1/book_1123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

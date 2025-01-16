@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jordi Nomen</title>
+  <id>Calibre2opds:authors:99</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jordi Nomen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El niño filósofo</title>
+    <id>calibre:book:218</id>
+    <updated>2023-01-27T11:54:40Z</updated>
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20%28218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20%28218%29/El%20nino%20filosofo%20-%20Jordi%20Nomen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Jordi Nomen</name>
+      <uri>../authors_0/authors_99_Page_1.xml</uri>
+    </author>
+    <published>2018-06-18T01:10:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Arpa Editores</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La herramienta ideal para que familias y educadores desarrollen la inteligencia filosófica de los niños.Los niños tienen una extraordinaria capacidad de asombro y una curiosidad prácticamente ilimitada, dos cualidades que los convierten en pequeños g...</summary>
+    <link href="../book_0/book_218.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El niño filósofo y el arte</title>
+    <id>calibre:book:152</id>
+    <updated>2023-01-19T08:55:30Z</updated>
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20y%20el%20arte%20%28152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20y%20el%20arte%20%28152%29/El%20nino%20filosofo%20y%20el%20arte%20-%20Jordi%20Nomen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Jordi Nomen</name>
+      <uri>../authors_0/authors_99_Page_1.xml</uri>
+    </author>
+    <published>2019-04-29T05:04:46Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Arpa Editores</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La herramienta ideal para desarrollar el pensamiento creativo y la sensibilidad estética en los niños y niñas.El niño filósofo y el arte es la segunda entrega de la biblioteca de filosofía para niños de Jordi Nomen. En esta ocasión traza los puentes ...</summary>
+    <link href="../book_0/book_152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

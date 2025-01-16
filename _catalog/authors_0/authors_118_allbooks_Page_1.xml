@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Darlis Stefany</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_118_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Darlis Stefany" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="./authors_118_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Darlis Stefany" />
+  <entry>
+    <title>+18</title>
+    <id>calibre:book:180</id>
+    <updated>2023-01-26T07:16:18Z</updated>
+    <link href="../../Darlis%20Stefany/_18%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Darlis%20Stefany/_18%20%28180%29/_18%20-%20Darlis%20Stefany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Darlis Stefany</name>
+      <uri>../authors_0/authors_118_Page_1.xml</uri>
+    </author>
+    <published>2022-03-11T06:05:30Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <category term="Inspírame" />
+    <summary>Inspírame [1]: Uno de los últimos fenómenos de la plataforma Wattpad: una historia de amor alocada, divertida y llena de giros inesperados. Cuando los secretos salen a la luz... ¡todo es posible.Alaska Hans tiene un secreto: le encanta escribir. Y se...</summary>
+    <link href="../book_0/book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>+21</title>
+    <id>calibre:book:184</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Darlis%20Stefany/_21%20%28184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Darlis%20Stefany/_21%20%28184%29/_21%20-%20Darlis%20Stefany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Darlis Stefany</name>
+      <uri>../authors_0/authors_118_Page_1.xml</uri>
+    </author>
+    <published>2022-07-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <category term="Inspírame" />
+    <summary>Inspírame [2]: Darlis Stefany vuelve con su segunda novela publicada llena de amor, superación, amistades peligrosas y, sobre todo, escenas... +21 Graduarse en animación digital es el objetivo de Mérida Sousa, quien se encuentra iniciando sus estudio...</summary>
+    <link href="../book_0/book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

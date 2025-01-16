@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Agente especial Ainara Pons</title>
+  <id>Calibre2opds:authors:58series:176</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_58_series_176_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Agente especial Ainara Pons" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="./authors_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Raúl Garbantes" />
+  <entry>
+    <title>4 - Fuego mortal</title>
+    <id>calibre:book:1829</id>
+    <updated>2024-08-28T01:07:07Z</updated>
+    <link href="../../Raul%20Garbantes/Fuego%20mortal%20%281829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Fuego%20mortal%20%281829%29/Fuego%20mortal%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="400 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Giovanni Banfi</name>
+      <uri>../authors_1/authors_1307_Page_1.xml</uri>
+    </author>
+    <published>2022-06-13T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Agente especial Ainara Pons" />
+    <summary>Agente especial Ainara Pons [4]: La agente Ainara Pons regresa en la cuarta novela de la serie: Ella deberá resolver el caso de un incendiario en Nueva York, descubrir al culpable del homicidio de dos de sus mejores amigos, y encarar a un misterioso ...</summary>
+    <link href="../book_1/book_1829.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>8 - Jaque a la dama</title>
+    <id>calibre:book:1450</id>
+    <updated>2024-04-20T05:29:27Z</updated>
+    <link href="../../Raul%20Garbantes/Jaque%20a%20la%20dama%20%281450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Jaque%20a%20la%20dama%20%281450%29/Jaque%20a%20la%20dama%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2024-04-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Agente especial Ainara Pons" />
+    <summary>Agente especial Ainara Pons [8]: En el momento preciso en que Ainara Pons vislumbra el retiro, el destino pone en jaque su vida para ponerla fuera de juego.En la octava novela de la aclamada serie de Ainara Pons, el ajedrez del destino nunca ha sido ...</summary>
+    <link href="../book_1/book_1450.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

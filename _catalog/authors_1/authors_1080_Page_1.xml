@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Uri Levine</title>
+  <id>Calibre2opds:authors:1080</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1080_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Uri Levine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Enamórate del problema, no de la solución (Edición española)</title>
+    <id>calibre:book:1476</id>
+    <updated>2024-04-30T05:13:17Z</updated>
+    <link href="../../Uri%20Levine/Enamorate%20del%20problema%2C%20no%20de%20la%20so%20%281476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Uri%20Levine/Enamorate%20del%20problema%2C%20no%20de%20la%20so%20%281476%29/Enamorate%20del%20problema%2C%20no%20de%20l%20-%20Uri%20Levine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Uri Levine</name>
+      <uri>../authors_1/authors_1080_Page_1.xml</uri>
+    </author>
+    <published>2024-02-28T09:45:22Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>2024</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Descubre cómo triunfar con tu idea y crear impacto de la mano de un prestigioso empresario
+«Este libro debería ser lectura obligatoria para todo aspirante a emprendedor.»
+—Marc Randolph, cofundador de Netflix
+Construir una start-up y conseguir financ...</summary>
+    <link href="../book_1/book_1476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

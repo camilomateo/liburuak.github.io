@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Noni Manso</title>
+  <id>Calibre2opds:authors:890</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_890_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noni Manso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Tejido de sombras</title>
+    <id>calibre:book:1224</id>
+    <updated>2024-02-20T04:17:36Z</updated>
+    <link href="../../Noni%20Manso/Tejido%20de%20sombras%20%281224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noni%20Manso/Tejido%20de%20sombras%20%281224%29/Tejido%20de%20sombras%20-%20Noni%20Manso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Noni Manso</name>
+      <uri>../authors_0/authors_890_Page_1.xml</uri>
+    </author>
+    <published>2024-02-16T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>El famoso blogger Asher Knight ha muerto en extrañas circunstancias.¿Qué harías?A) Postearlo.B) Nada.C) Investigar su muerte.</summary>
+    <link href="../book_1/book_1224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

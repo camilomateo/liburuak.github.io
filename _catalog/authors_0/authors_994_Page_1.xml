@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julien Gracq</title>
+  <id>Calibre2opds:authors:994</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_994_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julien Gracq" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>La casa</title>
+    <id>calibre:book:1359</id>
+    <updated>2024-04-03T00:29:59Z</updated>
+    <link href="../../Julien%20Gracq/La%20casa%20%281359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julien%20Gracq/La%20casa%20%281359%29/La%20casa%20-%20Julien%20Gracq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="430 KB" />
+    <author>
+      <name>Julien Gracq</name>
+      <uri>../authors_0/authors_994_Page_1.xml</uri>
+    </author>
+    <published>2024-03-31T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Periférica</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Durante la Ocupación, dos veces a la semana un hombre realiza el mismo trayecto en autobús atravesando un desabrido paisaje. En sus repetidos viajes, en medio de una espesura propia de una pesadilla, vislumbra una casa en la que todo emana decrepitud...</summary>
+    <link href="../book_1/book_1359.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

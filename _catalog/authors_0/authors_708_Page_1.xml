@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Vecina Rubia</title>
+  <id>Calibre2opds:authors:708</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_708_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="La Vecina Rubia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Contando atardeceres</title>
+    <id>calibre:book:946</id>
+    <updated>2023-07-14T09:48:40Z</updated>
+    <link href="../../La%20Vecina%20Rubia/Contando%20atardeceres%20%28946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../La%20Vecina%20Rubia/Contando%20atardeceres%20%28946%29/Contando%20atardeceres%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <author>
+      <name>La Vecina Rubia</name>
+      <uri>../authors_0/authors_708_Page_1.xml</uri>
+    </author>
+    <published>2022-10-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros Cúpula</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hay veces que el destino se empeña en ponerte a una persona delante constantemente y, si algo he aprendido con el tiempo, es que la vida puede darte segundas oportunidades. Tras el fallecimiento de mi padre, un viaje improvisado con mi amiga Laura me...</summary>
+    <link href="../book_0/book_946.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mi querida Lucía</title>
+    <id>calibre:book:2684</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/Mi%20querida%20Lucia%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <author>
+      <name>La Vecina Rubia</name>
+      <uri>../authors_0/authors_708_Page_1.xml</uri>
+    </author>
+    <published>2024-10-16T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Aquel sofocante verano de 2002, Lucía Romasanta, astróloga, madre soltera y redactora de la sección del horóscopo con más éxito del país, recibe una perturbadora carta de un admirador anónimo. Un texto manuscrito que le hace directamente responsable ...</summary>
+    <link href="../book_2/book_2684.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Daniel San Martín Sepúlveda</title>
+  <id>Calibre2opds:authors:432</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_432_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Daniel San Martín Sepúlveda" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Clarity</title>
+    <id>calibre:book:579</id>
+    <updated>2023-04-28T01:16:50Z</updated>
+    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/Clarity%20-%20Daniel%20San%20Martin%20Sepulveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Daniel San Martín Sepúlveda</name>
+      <uri>../authors_0/authors_432_Page_1.xml</uri>
+    </author>
+    <published>2022-01-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta Chile</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vivimos tiempos complejos, en el sentido de la gran cantidad de información que se produce y que parece ser imposible de relacionar o digerir. A esta gran dificultad inicial se enfrenta Daniel San Martin en su libro Clarity, que, como su nombre sugie...</summary>
+    <link href="../book_0/book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

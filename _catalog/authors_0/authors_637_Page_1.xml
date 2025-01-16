@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alaina Urquhart</title>
+  <id>Calibre2opds:authors:637</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_637_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alaina Urquhart" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <entry>
+    <title>El carnicero y el pájaro</title>
+    <id>calibre:book:849</id>
+    <updated>2023-06-12T01:23:30Z</updated>
+    <link href="../../Alaina%20Urquhart/El%20carnicero%20y%20el%20pajaro%20%28849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alaina%20Urquhart/El%20carnicero%20y%20el%20pajaro%20%28849%29/El%20carnicero%20y%20el%20pajaro%20-%20Alaina%20Urquhart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <author>
+      <name>Alaina Urquhart</name>
+      <uri>../authors_0/authors_637_Page_1.xml</uri>
+    </author>
+    <published>2023-05-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nadie conoce a un asesino mejor que sus víctimas. La primera novela de Alaina Urquhart, técnica de autopsias y creadora de Morbid, el pódcast de true crime más escuchado del mundo. «Como lector querrás cerrar los ojos, pero la lucha entre el asesino ...</summary>
+    <link href="../book_0/book_849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

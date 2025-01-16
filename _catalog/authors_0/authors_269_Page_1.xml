@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Georgina Orellano</title>
+  <id>Calibre2opds:authors:269</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_269_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Georgina Orellano" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Puta feminista</title>
+    <id>calibre:book:375</id>
+    <updated>2023-03-03T08:34:22Z</updated>
+    <link href="../../Georgina%20Orellano/Puta%20feminista%20%28375%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Georgina%20Orellano/Puta%20feminista%20%28375%29/Puta%20feminista%20-%20Georgina%20Orellano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <author>
+      <name>Georgina Orellano</name>
+      <uri>../authors_0/authors_269_Page_1.xml</uri>
+    </author>
+    <published>2022-03-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUDAMERICANA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Nunca la prohibición es la solución y de eso las putas podemos dar cuenta».Un día la mujer cuyos hijos cuidaba le contó la verdad: Soy puta. Poco después le preguntó si quería atender a uno de sus clientes. Georgina Orellano calculó: con sus ingreso...</summary>
+    <link href="../book_0/book_375.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

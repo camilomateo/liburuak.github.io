@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>René Merino</title>
+  <id>Calibre2opds:authors:9</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="René Merino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>No se admiten devoluciones</title>
+    <id>calibre:book:1055</id>
+    <updated>2023-11-01T07:27:33Z</updated>
+    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/No%20se%20admiten%20devoluciones%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="36 MB" />
+    <author>
+      <name>René Merino</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Un entrañable testimonio en clave de humor que desmonta mitos sobre la paternidad.Ser padre conlleva retos y situaciones para las que, en muchos casos, no nos sentimos preparados. Con una sinceridad sin ambages y el humor ácido y tierno que lo carac...</summary>
+    <link href="../book_1/book_1055.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todo saldrá bien... a veces</title>
+    <id>calibre:book:11</id>
+    <updated>2024-02-05T06:06:52Z</updated>
+    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/Todo%20saldra%20bien_.%20a%20veces%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="17 MB" />
+    <author>
+      <name>René Merino</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>2022-07-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Con la sensibilidad y lucidez tan propias de su lenguaje, René Merino decide compartir su historia personal lidiando con la ansiedad y los problemas de salud mental. Tras una época de angustia desencadenada por la pérdida de trabajo, el autor entra ...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

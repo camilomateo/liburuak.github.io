@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Emilia Landaluce</title>
+  <id>Calibre2opds:authors:628</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_628_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Emilia Landaluce" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>Donde caiga la flecha</title>
+    <id>calibre:book:1581</id>
+    <updated>2024-06-02T10:59:53Z</updated>
+    <link href="../../Emilia%20Landaluce/Donde%20caiga%20la%20flecha%20%281581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Landaluce/Donde%20caiga%20la%20flecha%20%281581%29/Donde%20caiga%20la%20flecha%20-%20Emilia%20Landaluce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="579 KB" />
+    <author>
+      <name>Emilia Landaluce</name>
+      <uri>../authors_0/authors_628_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Rosa Belmonte</name>
+      <uri>../authors_0/authors_627_Page_1.xml</uri>
+    </author>
+    <published>2024-04-16T02:50:49Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Todos creemos saber cómo reaccionaríamos si nos enteráramos de algo terrible. Hasta que nos ocurre.  Esta novela ofrece una nueva entrega de las peripecias de Socorro, la periodista de sucesos protagonista de La mala víctima, la primera incursión en...</summary>
+    <link href="../book_1/book_1581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mala víctima</title>
+    <id>calibre:book:836</id>
+    <updated>2023-06-09T01:56:08Z</updated>
+    <link href="../../Rosa%20Belmonte/La%20mala%20victima%20%28836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rosa%20Belmonte/La%20mala%20victima%20%28836%29/La%20mala%20victima%20-%20Rosa%20Belmonte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="534 KB" />
+    <author>
+      <name>Rosa Belmonte</name>
+      <uri>../authors_0/authors_627_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Emilia Landaluce</name>
+      <uri>../authors_0/authors_628_Page_1.xml</uri>
+    </author>
+    <published>2023-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El verdadero periodismo es aquello que nadie quiere que se publique. Una novela que, bajo la apariencia de una comedia de costumbres, ofrece un thriller que nada tiene que envidiar a los mejores del mercado. El asesinato de Aldara, una joven aparente...</summary>
+    <link href="../book_0/book_836.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

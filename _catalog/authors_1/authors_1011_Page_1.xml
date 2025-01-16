@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Liudmila Ulítskaya</title>
+  <id>Calibre2opds:authors:1011</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1011_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Liudmila Ulítskaya" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <entry>
+    <title>Mentiras de mujeres</title>
+    <id>calibre:book:1378</id>
+    <updated>2024-04-03T00:30:04Z</updated>
+    <link href="../../Liudmila%20Ulitskaya/Mentiras%20de%20mujeres%20%281378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liudmila%20Ulitskaya/Mentiras%20de%20mujeres%20%281378%29/Mentiras%20de%20mujeres%20-%20Liudmila%20Ulitskaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="748 KB" />
+    <author>
+      <name>Liudmila Ulítskaya</name>
+      <uri>../authors_1/authors_1011_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Con ironía e ingenio Liudmila Ulítskaya propone una aguda observación de los comportamientos del ser humano y sus debilidades.En este libro, que se presenta como una novela por entregas, la gran novelista rusa Liudmila Ulítskaya nos propone sutiles ...</summary>
+    <link href="../book_1/book_1378.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

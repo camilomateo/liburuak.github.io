@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sabina Urraca</title>
+  <id>Calibre2opds:authors:1163</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1163_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sabina Urraca" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <entry>
+    <title>El celo</title>
+    <id>calibre:book:1599</id>
+    <updated>2024-06-02T10:59:58Z</updated>
+    <link href="../../Sabina%20Urraca/El%20celo%20%281599%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sabina%20Urraca/El%20celo%20%281599%29/El%20celo%20-%20Sabina%20Urraca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="501 KB" />
+    <author>
+      <name>Sabina Urraca</name>
+      <uri>../authors_1/authors_1163_Page_1.xml</uri>
+    </author>
+    <published>2024-05-09T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL ESPERADO REGRESO DE UNA DE LAS MEJORES AUTORAS DEL MOMENTO Una novela sobre la animalidad del deseo y el miedo a nombrar «Infalible y con un devenir arrasador, El celo contiene algunos de los pasajes más bellos de la autora. [...] Este libro esper...</summary>
+    <link href="../book_1/book_1599.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

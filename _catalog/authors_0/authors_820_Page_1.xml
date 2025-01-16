@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Antonio Sitges-Serra</title>
+  <id>Calibre2opds:authors:820</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_820_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Antonio Sitges-Serra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Si puede no vaya al médico</title>
+    <id>calibre:book:1117</id>
+    <updated>2024-01-08T09:16:14Z</updated>
+    <link href="../../Antonio%20Sitges-Serra/Si%20puede%20no%20vaya%20al%20medico%20%281117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Sitges-Serra/Si%20puede%20no%20vaya%20al%20medico%20%281117%29/Si%20puede%20no%20vaya%20al%20medico%20-%20Antonio%20Sitges-Serra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="748 KB" />
+    <author>
+      <name>Antonio Sitges-Serra</name>
+      <uri>../authors_0/authors_820_Page_1.xml</uri>
+    </author>
+    <published>2020-02-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LIBRANDA RANDOM</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Paciente o cliente?Este provocador libro sobre la dramática medicalización de nuestra  hipocondríaca sociedad pone al descubierto las prioridades insospechadas del sistema sanitario.La medicina, el antiguo y noble arte de curar cuyos poderes la cien...</summary>
+    <link href="../book_1/book_1117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

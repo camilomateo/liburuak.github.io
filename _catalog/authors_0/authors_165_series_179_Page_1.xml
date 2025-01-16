@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: El día que se perdió la cordura</title>
+  <id>Calibre2opds:authors:165series:179</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_165_series_179_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: El día que se perdió la cordura" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_165_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Javier Castillo" />
+  <entry>
+    <title>1 - El día que se perdió la cordura</title>
+    <id>calibre:book:1498</id>
+    <updated>2024-05-10T08:43:26Z</updated>
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20la%20cordura%20%281498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20la%20cordura%20%281498%29/El%20dia%20que%20se%20perdio%20la%20cordura%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <author>
+      <name>Javier Castillo</name>
+      <uri>../authors_0/authors_165_Page_1.xml</uri>
+    </author>
+    <published>2016-12-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El día que se perdió la cordura" />
+    <summary>El día que se perdió la cordura [1]: Amor, odio, destino, extrañas prácticas, intriga y acción trepidante  inundan las páginas de una novela que se ha convertido en todo un fenómeno editorial antes de su publicación en papel. «A veces el destino nos ...</summary>
+    <link href="../book_1/book_1498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El día que se perdió el amor</title>
+    <id>calibre:book:1504</id>
+    <updated>2024-05-10T08:43:28Z</updated>
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20el%20amor%20%281504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20el%20amor%20%281504%29/El%20dia%20que%20se%20perdio%20el%20amor%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="517 KB" />
+    <author>
+      <name>Javier Castillo</name>
+      <uri>../authors_0/authors_165_Page_1.xml</uri>
+    </author>
+    <published>2018-01-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El día que se perdió la cordura" />
+    <summary>El día que se perdió la cordura [2]: Más de 1.700.000 de ejemplares vendidos.Después del éxito arrollador de El día que se perdió la cordura, con una gran acogida internacional, Javier Castillo llega con una nueva novela que explora los límites del a...</summary>
+    <link href="../book_1/book_1504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

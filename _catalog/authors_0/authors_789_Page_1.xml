@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Peter Langa</title>
+  <id>Calibre2opds:authors:789</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_789_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Peter Langa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>28 bitcoins</title>
+    <id>calibre:book:1084</id>
+    <updated>2023-12-12T08:20:57Z</updated>
+    <link href="../../Peter%20Langa/28%20bitcoins%20%281084%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20Langa/28%20bitcoins%20%281084%29/28%20bitcoins%20-%20Peter%20Langa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="323 KB" />
+    <author>
+      <name>Peter Langa</name>
+      <uri>../authors_0/authors_789_Page_1.xml</uri>
+    </author>
+    <published>2022-08-04T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Un asesino en serie está sembrando el terror entre las familias más ricas del País Vasco. Berta Sanders, inspectora de policía vasco-irlandesa víctima de un pasado tormentoso, es quien lidera la investigación.Heiko Aguirre es el hijo de una de esas f...</summary>
+    <link href="../book_1/book_1084.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

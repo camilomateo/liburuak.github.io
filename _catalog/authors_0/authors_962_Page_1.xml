@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Reyes Calderón</title>
+  <id>Calibre2opds:authors:962</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_962_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Reyes Calderón" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>El juego de los crímenes perfectos</title>
+    <id>calibre:book:1320</id>
+    <updated>2024-03-21T01:00:28Z</updated>
+    <link href="../../Reyes%20Calderon/El%20juego%20de%20los%20crimenes%20perfectos%20%281320%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Calderon/El%20juego%20de%20los%20crimenes%20perfectos%20%281320%29/El%20juego%20de%20los%20crimenes%20perfec%20-%20Reyes%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <author>
+      <name>Reyes Calderón</name>
+      <uri>../authors_0/authors_962_Page_1.xml</uri>
+    </author>
+    <published>2022-02-01T02:12:58Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El Palacio de Hielo de Madrid, habilitado como morgue provisional durante la pandemia, no puede cerrar sus puertas y regresar a su actividad porque el ataúd no reclamado de una anciana lo impide. El inspector Salado y su ayudante Jaso acompañan al su...</summary>
+    <link href="../book_1/book_1320.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

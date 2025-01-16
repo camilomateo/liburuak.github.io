@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Leandro Pérez</title>
+  <id>Calibre2opds:authors:1092</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1092_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Leandro Pérez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>La sirena de Gibraltar</title>
+    <id>calibre:book:1494</id>
+    <updated>2024-05-10T08:31:14Z</updated>
+    <link href="../../Leandro%20Perez/La%20sirena%20de%20Gibraltar%20%281494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leandro%20Perez/La%20sirena%20de%20Gibraltar%20%281494%29/La%20sirena%20de%20Gibraltar%20-%20Leandro%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="399 KB" />
+    <author>
+      <name>Leandro Pérez</name>
+      <uri>../authors_1/authors_1092_Page_1.xml</uri>
+    </author>
+    <published>2017-01-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Madrid, junio de 2013. «Contra Gibraltar la política ya no vale», le dice a Juan Torca una mujer que quiere que asesine a dos prostitutas gibraltareñas. Un mes después el cuerpo desnudo de Rebecca  Cruz aparece en el Manzanares. Torca contempla cómo ...</summary>
+    <link href="../book_1/book_1494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

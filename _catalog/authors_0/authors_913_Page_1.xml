@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Unai Ansejo Barra</title>
+  <id>Calibre2opds:authors:913</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_913_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Unai Ansejo Barra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Menos costes, más rentabilidad</title>
+    <id>calibre:book:1251</id>
+    <updated>2024-02-23T09:42:00Z</updated>
+    <link href="../../Unai%20Ansejo%20Barra/Menos%20costes%2C%20mas%20rentabilidad%20%281251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Unai%20Ansejo%20Barra/Menos%20costes%2C%20mas%20rentabilidad%20%281251%29/Menos%20costes%2C%20mas%20rentabilidad%20-%20Unai%20Ansejo%20Barra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Unai Ansejo Barra</name>
+      <uri>../authors_0/authors_913_Page_1.xml</uri>
+    </author>
+    <published>2020-11-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>indexcapital</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Menos costes, más rentabilidad. Este libro que tienes entre las manos se ha ido cocinando a fuego muy lento desde hace varios años. Primero, muchos años de experiencia laboral relacionada con la gestión de activos y de formación académica han ido cre...</summary>
+    <link href="../book_1/book_1251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

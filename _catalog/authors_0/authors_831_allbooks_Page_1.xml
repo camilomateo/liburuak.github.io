@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de David Peace</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_831_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de David Peace" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_831_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Peace" />
+  <entry>
+    <title>Tokio Redux</title>
+    <id>calibre:book:1133</id>
+    <updated>2024-01-08T09:16:17Z</updated>
+    <link href="../../David%20Peace/Tokio%20Redux%20%281133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Peace/Tokio%20Redux%20%281133%29/Tokio%20Redux%20-%20David%20Peace.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="838 KB" />
+    <author>
+      <name>David Peace</name>
+      <uri>../authors_0/authors_831_Page_1.xml</uri>
+    </author>
+    <published>2021-10-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Hoja de Lata Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía de Tokio" />
+    <summary>Trilogía de Tokio [3]: El 5 de julio de 1949 la Ocupación tenía resaca. El Japón ocupado
+militarmente por los Estados Unidos se despierta de los festejos del
+Cuatro de Julio con una preocupante noticia: Sadanori Shimoyama, el
+presidente de la Empresa...</summary>
+    <link href="../book_1/book_1133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

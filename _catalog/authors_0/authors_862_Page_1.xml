@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Patricia Ramírez</title>
+  <id>Calibre2opds:authors:862</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_862_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Patricia Ramírez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Estrena optimismo</title>
+    <id>calibre:book:1184</id>
+    <updated>2024-02-01T09:59:07Z</updated>
+    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/Estrena%20optimismo%20-%20Patricia%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Patricia Ramírez</name>
+      <uri>../authors_0/authors_862_Page_1.xml</uri>
+    </author>
+    <published>2018-09-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La vida no es perfecta, pero tu actitud sí puede serlo.El nuevo libro de Patricia Ramírez incluye dinámicas y muchos ejercicios prácticos.Si hasta ahora no has estrenado optimismo, estás de suerte...¡Hay un montón de optimismo para ti!Ser optimista ...</summary>
+    <link href="../book_1/book_1184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si salieras a vivir...</title>
+    <id>calibre:book:1246</id>
+    <updated>2024-02-23T09:41:59Z</updated>
+    <link href="../../Patricia%20Ramirez/Si%20salieras%20a%20vivir__%20%281246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Ramirez/Si%20salieras%20a%20vivir__%20%281246%29/Si%20salieras%20a%20vivir__%20-%20Patricia%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Patricia Ramírez</name>
+      <uri>../authors_0/authors_862_Page_1.xml</uri>
+    </author>
+    <published>2018-02-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Subtitulado: Hábitos para disfrutar de una vida plena.«Si salieras a vivir... ¿Qué harías para tener un día pleno?»Al compartir esta pregunta en las redes sociales, @patri_psicologa obtuvo respuestas sencillas, que no cuestan dinero y que son fáciles...</summary>
+    <link href="../book_1/book_1246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

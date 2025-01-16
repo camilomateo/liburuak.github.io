@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julia Seales</title>
+  <id>Calibre2opds:authors:707</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_707_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julia Seales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Un crimen con clase</title>
+    <id>calibre:book:945</id>
+    <updated>2023-07-14T09:48:40Z</updated>
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/Un%20crimen%20con%20clase%20-%20Julia%20Seales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <author>
+      <name>Julia Seales</name>
+      <uri>../authors_0/authors_707_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Uno de los debuts más esperados del año: un crimen a puerta cerrada con ecos de Agatha Christie y Jane Austen que ya está siendo adaptado al cine y cuyos derechos de traducción se han vendido a ocho idiomas.Beatrice Steele guarda un oscuro secreto: e...</summary>
+    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

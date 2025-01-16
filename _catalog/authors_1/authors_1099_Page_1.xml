@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yolanda Cruz Ayala</title>
+  <id>Calibre2opds:authors:1099</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1099_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yolanda Cruz Ayala" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Sin latido</title>
+    <id>calibre:book:1506</id>
+    <updated>2024-05-10T08:43:28Z</updated>
+    <link href="../../Yolanda%20Cruz%20Ayala/Sin%20latido%20%281506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yolanda%20Cruz%20Ayala/Sin%20latido%20%281506%29/Sin%20latido%20-%20Yolanda%20Cruz%20Ayala.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1008 KB" />
+    <author>
+      <name>Yolanda Cruz Ayala</name>
+      <uri>../authors_1/authors_1099_Page_1.xml</uri>
+    </author>
+    <published>2024-05-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>‎Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Esta novela policial te sumergirá en los recovecos más sombríos de la mente humana.Una joven es encontrada sin vida en la ciudad costera de La Línea de la Concepción. ¿Suicidio, homicidio o accidente?Olivia, una brillante psicóloga, tiene en su poder...</summary>
+    <link href="../book_1/book_1506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

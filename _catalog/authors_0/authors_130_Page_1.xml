@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dietrich von Hildebrand</title>
+  <id>Calibre2opds:authors:130</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_130_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dietrich von Hildebrand" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Mi lucha contra Hitler</title>
+    <id>calibre:book:203</id>
+    <updated>2023-01-26T07:24:42Z</updated>
+    <link href="../../Dietrich%20von%20Hildebrand/Mi%20lucha%20contra%20Hitler%20%28203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dietrich%20von%20Hildebrand/Mi%20lucha%20contra%20Hitler%20%28203%29/Mi%20lucha%20contra%20Hitler%20-%20Dietrich%20von%20Hildebrand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="868 KB" />
+    <author>
+      <name>Dietrich von Hildebrand</name>
+      <uri>../authors_0/authors_130_Page_1.xml</uri>
+    </author>
+    <published>2016-02-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Rialp</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Qué hizo el autor para ser considerado un peligroso enemigo de Hitler? Golpear sin miedo en las raíces intelectuales y espirituales del nazismo, sin espionajes, sin violencias. Dedicó todas sus fuerzas a romper el hechizo que el nazismo poseía entre...</summary>
+    <link href="../book_0/book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

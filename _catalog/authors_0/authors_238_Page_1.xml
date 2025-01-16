@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sara Jaramillo Klinkert</title>
+  <id>Calibre2opds:authors:238</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_238_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sara Jaramillo Klinkert" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <entry>
+    <title>Escrito en la piel del jaguar</title>
+    <id>calibre:book:341</id>
+    <updated>2023-02-21T01:18:08Z</updated>
+    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/Escrito%20en%20la%20piel%20del%20jaguar%20-%20Sara%20Jaramillo%20Klinkert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Sara Jaramillo Klinkert</name>
+      <uri>../authors_0/authors_238_Page_1.xml</uri>
+    </author>
+    <published>2023-02-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La autora descubierta por Abad Faciolince, una de «las escritoras que  revolucionan las letras latinoamericanas» (SModa), vuelve a deslumbrar tras Cómo maté a mi padre y Donde cantan las ballenas (ganadora del XXVI Premio San Clemente)«La prosa es pr...</summary>
+    <link href="../book_0/book_341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

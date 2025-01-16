@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Natsume Soseki</title>
+  <id>Calibre2opds:authors:236</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_236_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Natsume Soseki" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Soy un gato</title>
+    <id>calibre:book:336</id>
+    <updated>2023-02-20T10:02:18Z</updated>
+    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/Soy%20un%20gato%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <author>
+      <name>Natsume Soseki</name>
+      <uri>../authors_0/authors_236_Page_1.xml</uri>
+    </author>
+    <published>2010-06-22T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Soy un gato, aunque todavía no tengo nombre.» Así comienza la primera y más hilarante novela de Natsume Soseki, una auténtica obra maestra de la literatura japonesa, que narra las aventuras de un desdeñoso felino que cohabita, de modo accidental, co...</summary>
+    <link href="../book_0/book_336.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Larrea &amp; Lysander</title>
+  <id>Calibre2opds:authors:417series:72</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_417_series_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Larrea &amp; Lysander" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_417_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Úrsula Campos" />
+  <entry>
+    <title>1 - Cuando te falte el aire</title>
+    <id>calibre:book:563</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Úrsula Campos</name>
+      <uri>../authors_0/authors_417_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Larrea &amp; Lysander" />
+    <summary>Larrea &amp; Lysander [1]: Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología....</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

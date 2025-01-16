@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Paula Farias</title>
+  <id>Calibre2opds:authors:1332</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1332_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Paula Farias" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Fantasmas azules</title>
+    <id>calibre:book:1860</id>
+    <updated>2024-09-02T04:27:37Z</updated>
+    <link href="../../Paula%20Farias/Fantasmas%20azules%20%281860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paula%20Farias/Fantasmas%20azules%20%281860%29/Fantasmas%20azules%20-%20Paula%20Farias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="284 KB" />
+    <author>
+      <name>Paula Farias</name>
+      <uri>../authors_1/authors_1332_Page_1.xml</uri>
+    </author>
+    <published>2021-02-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>María es una joven periodista acostumbrada a dejar huella que, desencantada tras una ruptura amorosa, decide aceptar una corresponsalía en Kabul. Allí encontrará un mundo diferente, extraño y mágico por momentos, azul y amarillo, dividido e inescruta...</summary>
+    <link href="../book_1/book_1860.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

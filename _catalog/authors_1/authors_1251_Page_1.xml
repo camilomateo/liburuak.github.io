@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sebastian Fitzek</title>
+  <id>Calibre2opds:authors:1251</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1251_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sebastian Fitzek" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>El último regalo</title>
+    <id>calibre:book:1746</id>
+    <updated>2024-08-26T10:56:06Z</updated>
+    <link href="../../Sebastian%20Fitzek/El%20ultimo%20regalo%20%281746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sebastian%20Fitzek/El%20ultimo%20regalo%20%281746%29/El%20ultimo%20regalo%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="466 KB" />
+    <author>
+      <name>Sebastian Fitzek</name>
+      <uri>../authors_1/authors_1251_Page_1.xml</uri>
+    </author>
+    <published>2021-02-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El autor de thriller más vendido en Alemania vuelve con una historia tan atractiva como aterradora.  Milan es un hombre inteligente y creativo, pero tiene un problema.  Después de una peligrosa operación a la que fue sometido en su  adolescencia, ha ...</summary>
+    <link href="../book_1/book_1746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gestos letales</title>
+    <id>calibre:book:2625</id>
+    <updated>2024-10-04T10:51:32Z</updated>
+    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/Gestos%20letales%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="881 KB" />
+    <author>
+      <name>Sebastian Fitzek</name>
+      <uri>../authors_1/authors_1251_Page_1.xml</uri>
+    </author>
+    <published>2024-09-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El autor de thriller número uno en Alemania vuelve con una trama absorbente que sorprende en cada giro. 19.000.000 de copias vendidas de todos sus libros. Un pequeño movimiento en la comisura de la boca, el más mínimo cambio en la pupila, son suficie...</summary>
+    <link href="../book_2/book_2625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

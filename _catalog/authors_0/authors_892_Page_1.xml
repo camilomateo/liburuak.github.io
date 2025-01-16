@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Rodrigo de la Calle</title>
+  <id>Calibre2opds:authors:892</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_892_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rodrigo de la Calle" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Paella power</title>
+    <id>calibre:book:1226</id>
+    <updated>2024-02-20T05:04:43Z</updated>
+    <link href="../../Rodrigo%20de%20la%20Calle/Paella%20power%20%281226%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rodrigo%20de%20la%20Calle/Paella%20power%20%281226%29/Paella%20power%20-%20Rodrigo%20de%20la%20Calle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="40 MB" />
+    <author>
+      <name>Rodrigo de la Calle</name>
+      <uri>../authors_0/authors_892_Page_1.xml</uri>
+    </author>
+    <published>2019-09-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta Gastro</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Manuales y cursos" />
+    <category term="Hogar" />
+    <category term="Lang:es" />
+    <summary>Una propuesta atrevida con los arroces y las paellas tradicionales y modernas como base, con una gran variedad de maneras y alternativas de prepararlas, desde la clásica paella valenciana hasta el arroz negro, pasando por la paella de verduras o la d...</summary>
+    <link href="../book_1/book_1226.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

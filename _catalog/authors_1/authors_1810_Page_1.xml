@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Anya Niewierra</title>
+  <id>Calibre2opds:authors:1810</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1810_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Anya Niewierra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>El camino</title>
+    <id>calibre:book:2770</id>
+    <updated>2024-12-31T08:29:18Z</updated>
+    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/El%20camino%20-%20Anya%20Niewierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="866 KB" />
+    <author>
+      <name>Anya Niewierra</name>
+      <uri>../authors_1/authors_1810_Page_1.xml</uri>
+    </author>
+    <published>2024-11-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LOTTE RECORRE EL CAMINO DE SANTIAGO EN BUSCA DE RESPUESTAS SOBRE LA MUERTE DE SU MARIDO. La chocolatera Lotte Bonnet vive feliz en el sur de Limburgo con su marido Emil, un exrefugiado de Bosnia. Tras el cáncer que su esposo acaba de superar, nada la...</summary>
+    <link href="../book_2/book_2770.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

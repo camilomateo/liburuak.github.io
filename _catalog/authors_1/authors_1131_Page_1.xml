@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Katie Marsh</title>
+  <id>Calibre2opds:authors:1131</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1131_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Katie Marsh" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Cómo no matar a tu ex</title>
+    <id>calibre:book:1552</id>
+    <updated>2024-06-02T10:59:45Z</updated>
+    <link href="../../Katie%20Marsh/Como%20no%20matar%20a%20tu%20ex%20%281552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Katie%20Marsh/Como%20no%20matar%20a%20tu%20ex%20%281552%29/Como%20no%20matar%20a%20tu%20ex%20-%20Katie%20Marsh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <author>
+      <name>Katie Marsh</name>
+      <uri>../authors_1/authors_1131_Page_1.xml</uri>
+    </author>
+    <published>2024-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>TRES MEJORES AMIGAS DISPUESTAS A TODO, UNAS COPAS DE MÁS Y UN EXMARIDO MUERTOQuería verlo muerto, pero no tan muerto…Clio se encuentra el cuerpo sin vida de Gary, su odioso ex, en la puerta de la caravana en la que vive desde que él la desplumó y la ...</summary>
+    <link href="../book_1/book_1552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

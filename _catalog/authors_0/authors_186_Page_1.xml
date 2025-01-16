@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dale Carnegie</title>
+  <id>Calibre2opds:authors:186</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_186_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dale Carnegie" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Como ganar amigos e influir sobre las personas</title>
+    <id>calibre:book:274</id>
+    <updated>2023-02-03T08:43:30Z</updated>
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <author>
+      <name>Dale Carnegie</name>
+      <uri>../authors_0/authors_186_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="religion_self" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cómo ganar amigos e influir sobre las personas</title>
+    <id>calibre:book:2673</id>
+    <updated>2024-10-22T08:08:32Z</updated>
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dale Carnegie</name>
+      <uri>../authors_0/authors_186_Page_1.xml</uri>
+    </author>
+    <published>1935-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Ensayo" />
+    <category term="Manuales y cursos" />
+    <category term="Lang:es" />
+    <summary>Convertido en un clásico de las relaciones humanas, «Cómo ganar amigos…» contiene principios tan sólidos que siendo escritos en 1936, siguen tan vigentes como entonces. Aplicando su gran conocimiento de las personas, dotes de observación y experienci...</summary>
+    <link href="../book_2/book_2673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

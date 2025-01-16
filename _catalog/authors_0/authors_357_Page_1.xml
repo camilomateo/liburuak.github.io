@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Rafael Tarradas Bultó</title>
+  <id>Calibre2opds:authors:357</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_357_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rafael Tarradas Bultó" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>El hijo del Reich</title>
+    <id>calibre:book:1852</id>
+    <updated>2024-09-02T04:27:34Z</updated>
+    <link href="../../Rafael%20Tarradas%20Bulto/El%20hijo%20del%20Reich%20%281852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rafael%20Tarradas%20Bulto/El%20hijo%20del%20Reich%20%281852%29/El%20hijo%20del%20Reich%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Rafael Tarradas Bultó</name>
+      <uri>../authors_0/authors_357_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El niño al que todos buscan. Una madre dispuesta a defenderlo. Un secreto inconfesable. 180.000 lectores ya tienen a Rafael Tarradas Bultó en su lista de imprescindibles. Todo Reich necesita a sus príncipes cerca. Londres, 1939. Cuando el agente del ...</summary>
+    <link href="../book_1/book_1852.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La voz de los valientes</title>
+    <id>calibre:book:478</id>
+    <updated>2023-03-29T02:11:46Z</updated>
+    <link href="../../Rafael%20Tarradas%20Bulto/La%20voz%20de%20los%20valientes%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rafael%20Tarradas%20Bulto/La%20voz%20de%20los%20valientes%20%28478%29/La%20voz%20de%20los%20valientes%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="749 KB" />
+    <author>
+      <name>Rafael Tarradas Bultó</name>
+      <uri>../authors_0/authors_357_Page_1.xml</uri>
+    </author>
+    <published>2023-02-21T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En tiempos de paz jugaron a ser otros. En tiempos de guerra descubrieron quiénes eran en realidad.Baviera, Alemania. El castillo de Fallstein es uno de los más fastuosos de la zona, pero, lejos de ser un remanso de paz alejado del frente, Hilda Sagni...</summary>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marga Iriarte</title>
+  <id>Calibre2opds:authors:423</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_423_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marga Iriarte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <entry>
+    <title>La novia del obispo</title>
+    <id>calibre:book:569</id>
+    <updated>2023-04-23T10:25:40Z</updated>
+    <link href="../../Eugenia%20Tusquets/La%20novia%20del%20obispo%20%28569%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eugenia%20Tusquets/La%20novia%20del%20obispo%20%28569%29/La%20novia%20del%20obispo%20-%20Eugenia%20Tusquets.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <author>
+      <name>Eugenia Tusquets</name>
+      <uri>../authors_0/authors_422_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Marga Iriarte</name>
+      <uri>../authors_0/authors_423_Page_1.xml</uri>
+    </author>
+    <published>2023-04-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros de Seda</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un cadáver que parece el producto de un asesinato ritual, una periodista en busca de una exclusiva y una policía que ni se imagina el peligro que corren al investigar. Barcelona, 2021. Judit no busca otra cosa en su profesión que hallar la exclusiva ...</summary>
+    <link href="../book_0/book_569.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

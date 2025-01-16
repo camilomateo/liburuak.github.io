@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tove Ditlevsen</title>
+  <id>Calibre2opds:authors:1009</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1009_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tove Ditlevsen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Las caras</title>
+    <id>calibre:book:1376</id>
+    <updated>2024-04-03T00:30:03Z</updated>
+    <link href="../../Tove%20Ditlevsen/Las%20caras%20%281376%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tove%20Ditlevsen/Las%20caras%20%281376%29/Las%20caras%20-%20Tove%20Ditlevsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="388 KB" />
+    <author>
+      <name>Tove Ditlevsen</name>
+      <uri>../authors_1/authors_1009_Page_1.xml</uri>
+    </author>
+    <published>2023-02-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La continuación natural de Trilogía de Copenhague: una desgarradora novela sobre una mujer al límite, que lucha por convertirse en escritora mientras vive marcada por la enfermedad mental y su condición de madre y esposa.Copenhague, 1968. Lise, escr...</summary>
+    <link href="../book_1/book_1376.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Felicidad perversa</title>
+    <id>calibre:book:1528</id>
+    <updated>2024-06-02T10:59:38Z</updated>
+    <link href="../../Tove%20Ditlevsen/Felicidad%20perversa%20%281528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tove%20Ditlevsen/Felicidad%20perversa%20%281528%29/Felicidad%20perversa%20-%20Tove%20Ditlevsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="443 KB" />
+    <author>
+      <name>Tove Ditlevsen</name>
+      <uri>../authors_1/authors_1009_Page_1.xml</uri>
+    </author>
+    <published>2024-04-03T02:36:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una mujer recién casada anhela, irracionalmente, un paraguas de seda; un esposo parece sentir celos del apego que tiene su esposa hacia un gato e intenta desprenderse de él; una madre traicionada despide impulsivamente a su empleada doméstica. Bajo l...</summary>
+    <link href="../book_1/book_1528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

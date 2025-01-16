@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alejandro G. Calvo</title>
+  <id>Calibre2opds:authors:358</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_358_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alejandro G. Calvo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Una película para cada año de tu vida</title>
+    <id>calibre:book:484</id>
+    <updated>2023-03-29T02:11:50Z</updated>
+    <link href="../../Alejandro%20G.%20Calvo/Una%20pelicula%20para%20cada%20ano%20de%20tu%20vi%20%28484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20G.%20Calvo/Una%20pelicula%20para%20cada%20ano%20de%20tu%20vi%20%28484%29/Una%20pelicula%20para%20cada%20ano%20de%20t%20-%20Alejandro%20G.%20Calvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Alejandro G. Calvo</name>
+      <uri>../authors_0/authors_358_Page_1.xml</uri>
+    </author>
+    <published>2023-01-31T04:58:40Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Temas de Hoy</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Si solo pudieras ver una película al año, ¿cuál sería?A lo largo de la vida, las personas disfrutamos, de media, de más de cinco mil películas. Nos emocionamos con historias y personajes que hacen un clic en nuestro interior que no sabemos explicar. ...</summary>
+    <link href="../book_0/book_484.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

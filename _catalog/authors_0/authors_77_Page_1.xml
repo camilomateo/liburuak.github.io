@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Noelia Lorenzo Pino</title>
+  <id>Calibre2opds:authors:77</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noelia Lorenzo Pino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Todos los libros de Noelia Lorenzo Pino</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_77_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Lur y Maddi</title>
+    <id>Calibre2opds:authors:77series:157</id>
+    <content type="text">Purasangre</content>
+    <link href="../authors_0/authors_77_series_157_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Blanco inmaculado</title>
+    <id>calibre:book:127</id>
+    <updated>2023-01-18T00:43:38Z</updated>
+    <link href="../../Noelia%20Lorenzo%20Pino/Blanco%20inmaculado%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelia%20Lorenzo%20Pino/Blanco%20inmaculado%20%28127%29/Blanco%20inmaculado%20-%20Noelia%20Lorenzo%20Pino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="661 KB" />
+    <author>
+      <name>Noelia Lorenzo Pino</name>
+      <uri>../authors_0/authors_77_Page_1.xml</uri>
+    </author>
+    <published>2022-09-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una trama absorbente, un escenario único, una pareja protagonista carismática y un final inesperado: Blanco inmaculado lo tiene todo para los amantes del thriller y la novela negra. «Adictiva, escalofriante, magistral. Noelia Lorenzo Pino se confirma...</summary>
+    <link href="../book_0/book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

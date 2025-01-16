@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>James Davies</title>
+  <id>Calibre2opds:authors:138</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="James Davies" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <entry>
+    <title>Sedados</title>
+    <id>calibre:book:211</id>
+    <updated>2023-01-27T10:32:28Z</updated>
+    <link href="../../James%20Davies/Sedados%20%28211%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Davies/Sedados%20%28211%29/Sedados%20-%20James%20Davies.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>James Davies</name>
+      <uri>../authors_0/authors_138_Page_1.xml</uri>
+    </author>
+    <published>2022-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Capitán Swing Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En Gran Bretaña, casi una cuarta parte de la población adulta toma un medicamento psiquiátrico al año, lo que supone un aumento de más del 500% desde 1980 y las cifras siguen creciendo. Sin embargo, a pesar de esta epidemia de prescripción, los nivel...</summary>
+    <link href="../book_0/book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

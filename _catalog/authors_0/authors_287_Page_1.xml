@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Chiyo Uno</title>
+  <id>Calibre2opds:authors:287</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_287_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Chiyo Uno" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <entry>
+    <title>Historia de una mujer soltera</title>
+    <id>calibre:book:394</id>
+    <updated>2023-03-09T00:08:54Z</updated>
+    <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/Historia%20de%20una%20mujer%20soltera%20-%20Chiyo%20Uno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <author>
+      <name>Chiyo Uno</name>
+      <uri>../authors_0/authors_287_Page_1.xml</uri>
+    </author>
+    <published>2023-03-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Unanovela excepcional,mezcla de autobiografíay ficción,por «una de las principales escritoras de Japón»The New York Times, ganadora del Japan Art Academy Prize y el Noma Prize.«Muchas de las raras aves, de los mirlos blancos, de las excepciones a la ...</summary>
+    <link href="../book_0/book_394.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

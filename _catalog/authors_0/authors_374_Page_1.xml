@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Reyes Monforte</title>
+  <id>Calibre2opds:authors:374</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_374_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Reyes Monforte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Postales del Este</title>
+    <id>calibre:book:696</id>
+    <updated>2023-05-17T01:10:04Z</updated>
+    <link href="../../Reyes%20Monforte/Postales%20del%20Este%20%28696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Monforte/Postales%20del%20Este%20%28696%29/Postales%20del%20Este%20-%20Reyes%20Monforte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Reyes Monforte</name>
+      <uri>../authors_0/authors_374_Page_1.xml</uri>
+    </author>
+    <published>2020-02-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En septiembre de 1943, la joven Ella llega prisionera al campo de concentración de Auschwitz, desde Francia. La jefa del campo de mujeres, la sanguinaria SS María Mandel, apodada la Bestia, descubre que su caligrafía es perfecta y la incorpora como c...</summary>
+    <link href="../book_0/book_696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La violinista roja</title>
+    <id>calibre:book:506</id>
+    <updated>2023-04-01T02:02:02Z</updated>
+    <link href="../../Reyes%20Monforte/La%20violinista%20roja%20%28506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Monforte/La%20violinista%20roja%20%28506%29/La%20violinista%20roja%20-%20Reyes%20Monforte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="938 KB" />
+    <author>
+      <name>Reyes Monforte</name>
+      <uri>../authors_0/authors_374_Page_1.xml</uri>
+    </author>
+    <published>2022-04-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Reyes Monforte regresa con su novela más ambiciosa: la apasionante historia de la española que se convirtió en la espía soviética más importante del siglo xx.La legendaria historia de una valerosa mujer que luchó por sus ideales más allá de la famil...</summary>
+    <link href="../book_0/book_506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

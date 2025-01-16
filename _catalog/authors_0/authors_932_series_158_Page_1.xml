@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Abad y Barroso</title>
+  <id>Calibre2opds:authors:932series:158</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_932_series_158_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Abad y Barroso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_932_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arantza Portabales" />
+  <entry>
+    <title>2 - La vida secreta de Úrsula Bas</title>
+    <id>calibre:book:1281</id>
+    <updated>2024-03-10T09:24:50Z</updated>
+    <link href="../../Arantza%20Portabales/La%20vida%20secreta%20de%20Ursula%20Bas%20%281281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arantza%20Portabales/La%20vida%20secreta%20de%20Ursula%20Bas%20%281281%29/La%20vida%20secreta%20de%20Ursula%20Bas%20-%20Arantza%20Portabales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <author>
+      <name>Arantza Portabales</name>
+      <uri>../authors_0/authors_932_Page_1.xml</uri>
+    </author>
+    <published>2021-05-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Abad y Barroso" />
+    <summary>Abad y Barroso [2]: TRAS EL ÉXITO DE BELLEZA ROJA , UN NUEVO CASO DE ABAD Y BARROSO: UNA EXCEPCIONAL INTRIGA DE CELOS Y VENGANZAS, POR LA NUEVA DAMA DE LA NOVELA NEGRA ESPAÑOLA «Arantza Portabales consigue que el lector sospeche de todos. [...] Negra...</summary>
+    <link href="../book_1/book_1281.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

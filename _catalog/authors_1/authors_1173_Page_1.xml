@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julio Alejandre</title>
+  <id>Calibre2opds:authors:1173</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1173_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julio Alejandre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>La armada de Dios</title>
+    <id>calibre:book:1625</id>
+    <updated>2024-06-13T06:06:43Z</updated>
+    <link href="../../Julio%20Alejandre/La%20armada%20de%20Dios%20%281625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julio%20Alejandre/La%20armada%20de%20Dios%20%281625%29/La%20armada%20de%20Dios%20-%20Julio%20Alejandre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Julio Alejandre</name>
+      <uri>../authors_1/authors_1173_Page_1.xml</uri>
+    </author>
+    <published>2024-04-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Pàmies</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el año 1585 Inglaterra y España entran en guerra abierta. Los ataques de los corsarios ingleses en el Caribe y el apoyo de su reina a los rebeldes holandeses colman la paciencia de Felipe II, que decide destronar a su enemiga y restaurar allí el c...</summary>
+    <link href="../book_1/book_1625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Buzzy Jackson</title>
+  <id>Calibre2opds:authors:436</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_436_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Buzzy Jackson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <entry>
+    <title>La joven del pelo rojo</title>
+    <id>calibre:book:587</id>
+    <updated>2023-04-28T01:45:12Z</updated>
+    <link href="../../Buzzy%20Jackson/La%20joven%20del%20pelo%20rojo%20%28587%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Buzzy%20Jackson/La%20joven%20del%20pelo%20rojo%20%28587%29/La%20joven%20del%20pelo%20rojo%20-%20Buzzy%20Jackson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <author>
+      <name>Buzzy Jackson</name>
+      <uri>../authors_0/authors_436_Page_1.xml</uri>
+    </author>
+    <published>2023-04-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA RESISTENCIA LA ADORA.LOS NAZIS LA TEMEN. Basada en la historia real de amor y lealtad de Hannie Schaft, La joven del pelo rojo es una novela sobre los límites a los que nos enfrentamos cuando se ponen a prueba nuestros valores. Ámsterdam, 1940. Ha...</summary>
+    <link href="../book_0/book_587.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

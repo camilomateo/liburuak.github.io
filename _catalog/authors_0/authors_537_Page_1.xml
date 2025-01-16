@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yolanda Fidalgo</title>
+  <id>Calibre2opds:authors:537</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_537_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yolanda Fidalgo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Más allá de los volcanes</title>
+    <id>calibre:book:886</id>
+    <updated>2023-06-23T01:09:38Z</updated>
+    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/Mas%20alla%20de%20los%20volcanes%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <author>
+      <name>Yolanda Fidalgo</name>
+      <uri>../authors_0/authors_537_Page_1.xml</uri>
+    </author>
+    <published>2017-09-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NOVELA GANADORA DEL IV PREMIO INTERNACIONAL DE NARRATIVA MARTA DE MONT MARÇAL.Eric Aubriot, antes de la gran guerra, era un médico brillante con un futuro prometedor. Tras ella, mientras París despierta y recupera la alegría, él se limita a sobreviv...</summary>
+    <link href="../book_0/book_886.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La música del mal</title>
+    <id>calibre:book:721</id>
+    <updated>2023-05-17T01:10:58Z</updated>
+    <link href="../../Yolanda%20Fidalgo/La%20musica%20del%20mal%20%28721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yolanda%20Fidalgo/La%20musica%20del%20mal%20%28721%29/La%20musica%20del%20mal%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <author>
+      <name>Yolanda Fidalgo</name>
+      <uri>../authors_0/authors_537_Page_1.xml</uri>
+    </author>
+    <published>2023-04-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nápoles, 1900. Fabio, el dueño del teatro Dellanotte, parte de viaje por un año, y encarga a sus dos hijos: Adriano, violonchelista ciego, y Carlo, la responsabilidad de regentar el teatro de la ópera. Pero tras su partida, todo va a cambiar. Sus hij...</summary>
+    <link href="../book_0/book_721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

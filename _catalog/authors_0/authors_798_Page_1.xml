@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Amelia De Dios Romero</title>
+  <id>Calibre2opds:authors:798</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_798_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Amelia De Dios Romero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <entry>
+    <title>Os vigila</title>
+    <id>calibre:book:1095</id>
+    <updated>2023-12-12T08:34:17Z</updated>
+    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/Os%20vigila%20-%20Amelia%20De%20Dios%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Amelia De Dios Romero</name>
+      <uri>../authors_0/authors_798_Page_1.xml</uri>
+    </author>
+    <published>2021-08-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NOVELA GANADORA DEL PREMIO MONT MARÇAL 2021.Un trepidante thriller psicológico que se desarrolla en las montañas asturianas.Olivia regresa a la casa de Caberu, en las montañas asturianas, un año después del accidente que acabó con la vida de Guillerm...</summary>
+    <link href="../book_1/book_1095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

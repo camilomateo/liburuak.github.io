@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Eloy Moreno</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_377_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Eloy Moreno" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_377_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eloy Moreno" />
+  <entry>
+    <title>El bolígrafo de gel verde</title>
+    <id>calibre:book:881</id>
+    <updated>2023-06-22T03:04:24Z</updated>
+    <link href="../../Eloy%20Moreno/El%20boligrafo%20de%20gel%20verde%20%28881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eloy%20Moreno/El%20boligrafo%20de%20gel%20verde%20%28881%29/El%20boligrafo%20de%20gel%20verde%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <author>
+      <name>Eloy Moreno</name>
+      <uri>../authors_0/authors_377_Page_1.xml</uri>
+    </author>
+    <published>2011-01-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>B DE BOOKS</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>«El bolígrafo de gel verde es el retrato detallado, minucioso, magnífico y angustioso de cómo perder el tiempo y, en consecuencia, perder la vida». Superficies de vida: Casa: 89 m2 Ascensor: 3 m2 Garaje: 8 m2 Empresa: la sala, unos 80 m2 Restaurante:...</summary>
+    <link href="../book_0/book_881.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Redes</title>
+    <id>calibre:book:2683</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/Redes%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="378 KB" />
+    <author>
+      <name>Eloy Moreno</name>
+      <uri>../authors_0/authors_377_Page_1.xml</uri>
+    </author>
+    <published>2024-09-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Didáctico" />
+    <category term="Lang:es" />
+    <category term="Invisible" />
+    <summary>Invisible [2]: Descubre la continuación de Invisible de Eloy Moreno. Emotiva, conmovedora, diferente... Redes narra, a través de los ojos de una adolescente, una historia que se ha convertido en la realidad de todos nosotros.¿Cuántos likes vale tu fe...</summary>
+    <link href="../book_2/book_2683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tierra</title>
+    <id>calibre:book:511</id>
+    <updated>2023-04-05T00:39:56Z</updated>
+    <link href="../../Eloy%20Moreno/Tierra%20%28511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eloy%20Moreno/Tierra%20%28511%29/Tierra%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="640 KB" />
+    <author>
+      <name>Eloy Moreno</name>
+      <uri>../authors_0/authors_377_Page_1.xml</uri>
+    </author>
+    <published>2020-01-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El problema de buscar la verdad es encontrarla y no saber qué hacer con ella.Una novela que cambiará tu forma de ver el mundo.Querido lector,Tienes en tus manos una novela que plantea preguntas difíciles de responder; una novela que habla sobre esas...</summary>
+    <link href="../book_0/book_511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alicia Giménez Bartlett</title>
+  <id>Calibre2opds:authors:824</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_824_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alicia Giménez Bartlett" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Todos los libros de Alicia Giménez Bartlett</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_824_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Petra Delicado</title>
+    <id>Calibre2opds:authors:824series:170</id>
+    <content type="text">Nadie quiere saber</content>
+    <link href="../authors_0/authors_824_series_170_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Crímenes que no olvidaré</title>
+    <id>calibre:book:1122</id>
+    <updated>2024-01-08T09:16:15Z</updated>
+    <link href="../../Alicia%20Gimenez%20Bartlett/Crimenes%20que%20no%20olvidare%20%281122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Gimenez%20Bartlett/Crimenes%20que%20no%20olvidare%20%281122%29/Crimenes%20que%20no%20olvidare%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="460 KB" />
+    <author>
+      <name>Alicia Giménez Bartlett</name>
+      <uri>../authors_0/authors_824_Page_1.xml</uri>
+    </author>
+    <published>2015-01-21T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve Petra Delicado, más adictiva y resolutiva que nunca. Premio Pepe Carvalho 2015.A lo largo de nueve episodios, Petra Delicado protagoniza la investigación de otros tantos crímenes que rompen el habitual devenir de hitos anuales como la Navidad,...</summary>
+    <link href="../book_1/book_1122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mujer fugitiva</title>
+    <id>calibre:book:1161</id>
+    <updated>2024-01-25T08:39:51Z</updated>
+    <link href="../../Alicia%20Gimenez%20Bartlett/La%20mujer%20fugitiva%20%281161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Gimenez%20Bartlett/La%20mujer%20fugitiva%20%281161%29/La%20mujer%20fugitiva%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <author>
+      <name>Alicia Giménez Bartlett</name>
+      <uri>../authors_0/authors_824_Page_1.xml</uri>
+    </author>
+    <published>2024-01-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Una mañana, el propietario de una furgoneta gastronómica ambulante aparece apuñalado en su interior. El vehículo está aparcado en una céntrica plaza, junto a otros de las mismas características. Todos participan en unas jornadas festivas que organiza...</summary>
+    <link href="../book_1/book_1161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

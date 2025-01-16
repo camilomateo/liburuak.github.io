@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Leon Battista Alberti</title>
+  <id>Calibre2opds:authors:1424</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1424_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Leon Battista Alberti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>El tratado de la pintura</title>
+    <id>calibre:book:1989</id>
+    <updated>2024-09-05T06:10:31Z</updated>
+    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/El%20tratado%20de%20la%20pintura%20-%20Leon%20Battista%20Alberti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Leon Battista Alberti</name>
+      <uri>../authors_1/authors_1424_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>da Vinci Leonardo</name>
+      <uri>../authors_1/authors_1425_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Leonardo" />
+    <category term="da" />
+    <category term="Vinci" />
+    <category term="1452-1519" />
+    <category term="Painting" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Alberti" />
+    <category term="Leon" />
+    <category term="Battista" />
+    <category term="1404-1472" />
+    <category term="Lang:es" />
+    <link href="../book_1/book_1989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pablo Zarrabeitia</title>
+  <id>Calibre2opds:authors:1042</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1042_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pablo Zarrabeitia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <entry>
+    <title>El dios de los espías</title>
+    <id>calibre:book:1425</id>
+    <updated>2024-04-09T11:16:20Z</updated>
+    <link href="../../Pablo%20Zarrabeitia/El%20dios%20de%20los%20espias%20%281425%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Zarrabeitia/El%20dios%20de%20los%20espias%20%281425%29/El%20dios%20de%20los%20espias%20-%20Pablo%20Zarrabeitia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="532 KB" />
+    <author>
+      <name>Pablo Zarrabeitia</name>
+      <uri>../authors_1/authors_1042_Page_1.xml</uri>
+    </author>
+    <published>2023-09-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«El pasado está lleno de respuestas»
+
+El final de la trilogía de *El alma de los espías*
+
+Madre, la antigua directora de Inteligencia del CNI, ha sido secuestrada. 
+
+Las personas son matrioshkas de secretos, y la maestra de espías conserva en su memo...</summary>
+    <link href="../book_1/book_1425.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Laureano Turienzo</title>
+  <id>Calibre2opds:authors:132</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_132_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Laureano Turienzo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <entry>
+    <title>Jeff Bezos</title>
+    <id>calibre:book:205</id>
+    <updated>2023-01-26T07:24:42Z</updated>
+    <link href="../../Laureano%20Turienzo/Jeff%20Bezos%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laureano%20Turienzo/Jeff%20Bezos%20%28205%29/Jeff%20Bezos%20-%20Laureano%20Turienzo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="883 KB" />
+    <author>
+      <name>Laureano Turienzo</name>
+      <uri>../authors_0/authors_132_Page_1.xml</uri>
+    </author>
+    <published>2022-12-12T08:56:49Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LID Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>DE JEFFREY PRESTON JORGENSEN A JEFF BEZOS .Historias, curiosidades y anécdotas que definen y nos muestran la evolución de un personaje totalmente poliédrico.Jeff Bezos es el padre de Amazon. Es el genio más grande que ha habido en los negocios desde ...</summary>
+    <link href="../book_0/book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

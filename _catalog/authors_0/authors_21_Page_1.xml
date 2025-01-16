@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Grisham</title>
+  <id>Calibre2opds:authors:21</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Grisham" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Todos los libros de John Grisham</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 8 libros</content>
+    <link href="../authors_0/authors_21_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: La tapadera</title>
+    <id>Calibre2opds:authors:21series:186</id>
+    <content type="text">El intercambio</content>
+    <link href="../authors_0/authors_21_series_186_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los adversarios</title>
+    <id>calibre:book:873</id>
+    <updated>2023-06-19T05:31:28Z</updated>
+    <link href="../../John%20Grisham/Los%20adversarios%20%28873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/Los%20adversarios%20%28873%29/Los%20adversarios%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="598 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2023-06-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tres emocionantes historias del maestro Grisham con el mundo de la ley como hilo conductor.«Vuelta a casa» nos lleva de regreso a Ford County, escenario de muchas de las inolvidables historias de John Grisham. Esta vez Jake Brigance no está en el tri...</summary>
+    <link href="../book_0/book_873.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ajuste de cuentas</title>
+    <id>calibre:book:1009</id>
+    <updated>2023-08-27T03:30:32Z</updated>
+    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/Ajuste%20de%20cuentas%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2019-10-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hay crímenes que hacen historia.Pete Banning era el hijo predilecto de Clanton, Mississippi. Héroe condecorado de la Segunda Guerra Mundial, patriarca de una notoria familia, granjero, padre, vecino y miembro incondicional de la iglesia metodista. Un...</summary>
+    <link href="../book_1/book_1009.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El caso Fitzgerald</title>
+    <id>calibre:book:814</id>
+    <updated>2023-06-06T08:14:18Z</updated>
+    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/El%20caso%20Fitzgerald%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2018-06-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>John Grisham, «El mejor autor vivo de thriller» según Ken Follett, siembra cizaña en el paraíso con su nueva y entretenida novela. Una historia que arranca con un robo de manuscritos y evoluciona hacia una persecución entre un seductor criminal y la ...</summary>
+    <link href="../book_0/book_814.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los guardianes</title>
+    <id>calibre:book:503</id>
+    <updated>2023-04-01T02:02:00Z</updated>
+    <link href="../../John%20Grisham/Los%20guardianes%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/Los%20guardianes%20%28503%29/Los%20guardianes%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2020-10-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un hombre inocente fue condenado por asesinato hace veintidós años. Su abogado no parará hasta verle libre. Pero quienes le encerraron ya mataron una vez. Y están preparados para volver a hacerlo.NADIE LO CUENTA MEJOR QUE GRISHAM.En la pequeña ciudad...</summary>
+    <link href="../book_0/book_503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La lista del juez</title>
+    <id>calibre:book:24</id>
+    <updated>2023-01-17T10:15:02Z</updated>
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2022-08-24T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller lleno de tensión y con una premisa impactante: ¿y si un asesino en serie buscado durante más de veinte años fuera un juez en ejercicio?Lacy Stoltz se ha encontrado en numerosas ocasiones frente a problemas de corrupción en su trabajo como...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El manuscrito</title>
+    <id>calibre:book:794</id>
+    <updated>2023-05-31T01:04:26Z</updated>
+    <link href="../../John%20Grisham/El%20manuscrito%20%28794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/El%20manuscrito%20%28794%29/El%20manuscrito%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2021-06-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Bienvenidos a Camino Island, donde todo puede pasar... incluso un asesinato durante un huracán que podría convertirse en el crimen perfecto. NADIE LO CUENTA COMO GRISHAM. Cuando el huracán Leo se desvía de su curso previsto para dirigirse hacia Camin...</summary>
+    <link href="../book_0/book_794.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tiempo de perdón</title>
+    <id>calibre:book:771</id>
+    <updated>2023-05-25T00:54:24Z</updated>
+    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/Tiempo%20de%20perdon%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="834 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2021-09-21T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>John Grisham vuelve a sus raíces con un brillante thriller    legal protagonizado por el inolvidable héroe de       Tiempo de  matar.Clanton, Mississippi, 1990. Stuart Kofer, ayudante del sheriff, se  considera intocable. Aunque, cuando bebe más de...</summary>
+    <link href="../book_0/book_771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

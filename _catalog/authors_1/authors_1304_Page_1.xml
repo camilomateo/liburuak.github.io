@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carlos Basso</title>
+  <id>Calibre2opds:authors:1304</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1304_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carlos Basso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Código Chile</title>
+    <id>calibre:book:1823</id>
+    <updated>2024-08-28T00:55:05Z</updated>
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Carlos Basso</name>
+      <uri>../authors_1/authors_1304_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancia...</summary>
+    <link href="../book_1/book_1823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

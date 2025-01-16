@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elisabeth Justicia</title>
+  <id>Calibre2opds:authors:869</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_869_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elisabeth Justicia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <entry>
+    <title>Dominga habla sola</title>
+    <id>calibre:book:1198</id>
+    <updated>2024-02-05T06:00:25Z</updated>
+    <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/Dominga%20habla%20sola%20-%20Elisabeth%20Justicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Elisabeth Justicia</name>
+      <uri>../authors_0/authors_869_Page_1.xml</uri>
+    </author>
+    <published>2023-03-03T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Humor" />
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Dominga habla sola ¡y a veces hasta se da la razón! La anciana más tierna, gamberra y viral de las redes nos muestra su ingenio y su filosofía vital en este libro de viñetas y textos en el que recopila algunas de sus más conocidas escenas junto a otr...</summary>
+    <link href="../book_1/book_1198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

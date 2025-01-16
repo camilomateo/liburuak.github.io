@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por H</title>
+  <id>Calibre2opds:allbooks:H</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_H_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por H" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por H" />
+  <entry>
+    <title>Una humilde propuesta</title>
+    <id>calibre:book:2399</id>
+    <updated>2024-09-09T10:34:23Z</updated>
+    <link href="../../Jonathan%20Swift/Una%20humilde%20propuesta%20%282399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Swift/Una%20humilde%20propuesta%20%282399%29/Una%20humilde%20propuesta%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="64 KB" />
+    <author>
+      <name>Jonathan Swift</name>
+      <uri>../authors_1/authors_1469_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [222]:</summary>
+    <link href="../book_2/book_2399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los hábitos secretos de los genios</title>
+    <id>calibre:book:830</id>
+    <updated>2023-06-06T10:53:52Z</updated>
+    <link href="../../Craig%20Wright/Los%20habitos%20secretos%20de%20los%20genios%20%28830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Craig%20Wright/Los%20habitos%20secretos%20de%20los%20genios%20%28830%29/Los%20habitos%20secretos%20de%20los%20gen%20-%20Craig%20Wright.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Craig Wright</name>
+      <uri>../authors_0/authors_621_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Einstein. Beethoven. Picasso. Jobs. La palabra genio evoca a estas figuras icónicas, cuyas contribuciones han transformado de forma irreversible a la sociedad. Sin embargo, Beethoven no sabía multiplicar, Picasso reprobó Matemáticas en la primaria y ...</summary>
+    <link href="../book_0/book_830.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 5)" />
+  <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
+</feed>

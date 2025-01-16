@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Brandon Sanderson</title>
+  <id>Calibre2opds:authors:126</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Brandon Sanderson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Curso de escritura creativa</title>
+    <id>calibre:book:624</id>
+    <updated>2023-05-11T11:08:06Z</updated>
+    <link href="../../Brandon%20Sanderson/Curso%20de%20escritura%20creativa%20%28624%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Curso%20de%20escritura%20creativa%20%28624%29/Curso%20de%20escritura%20creativa%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
+    </author>
+    <published>2022-02-25T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El curso de escritura creativa que Brandon Sanderson lleva casi dos décadas impartiendo en la universidad, por primera vez en formato libro.Curso de escritura creativa convierte en libro las clases que Brandon Sanderson lleva 16 años impartiendo anu...</summary>
+    <link href="../book_0/book_624.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía Nacidos de la bruma (Mistborn)</title>
+    <id>calibre:book:200</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/Trilogia%20Nacidos%20de%20la%20bruma%20%28M%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
+    </author>
+    <published>2019-06-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nova</dcterms:publisher>
+    <category term="S2" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>El imperio final,El Pozo de la Ascensión y El Héroe de las Eras son los tres primeros libros de la saga «Nacidos de la Bruma [Mistborn]», obra imprescindible del Cosmere, el universo destinado a dar forma a la serie más extensa y fascinante jamás esc...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

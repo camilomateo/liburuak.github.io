@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nicolás Buckley</title>
+  <id>Calibre2opds:authors:1271</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1271_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nicolás Buckley" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Del sacrificio a la derrota. Historia del conflicto vasco a través de las emociones de los militantes de ETA</title>
+    <id>calibre:book:1771</id>
+    <updated>2024-08-26T10:56:11Z</updated>
+    <link href="../../Nicolas%20Buckley/Del%20sacrificio%20a%20la%20derrota.%20Histor%20%281771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Buckley/Del%20sacrificio%20a%20la%20derrota.%20Histor%20%281771%29/Del%20sacrificio%20a%20la%20derrota.%20Hi%20-%20Nicolas%20Buckley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Nicolás Buckley</name>
+      <uri>../authors_1/authors_1271_Page_1.xml</uri>
+    </author>
+    <published>2020-09-28T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siglo XXI España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>"Nos partimos la cara… pero al final nos la acabaron rompiendo." "Yo he nacido aquí, creo en un proyecto." "Me pegaron doce tiros. A mi compañero, diecinueve. Yo, al menos, conseguí sobrevivir." A través del testimonio de antiguos combatientes de la ...</summary>
+    <link href="../book_1/book_1771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

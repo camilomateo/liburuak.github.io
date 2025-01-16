@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jon Echanove</title>
+  <id>Calibre2opds:authors:1781</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1781_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jon Echanove" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>El aprendiz</title>
+    <id>calibre:book:2722</id>
+    <updated>2024-11-26T04:34:04Z</updated>
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/El%20aprendiz%20-%20Jon%20Echanove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="445 KB" />
+    <author>
+      <name>Jon Echanove</name>
+      <uri>../authors_1/authors_1781_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
+    <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

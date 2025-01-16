@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Martín Berasategui</title>
+  <id>Calibre2opds:authors:959</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_959_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Martín Berasategui" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Cocina en casa con Martín Berasategui</title>
+    <id>calibre:book:1317</id>
+    <updated>2024-03-21T01:00:27Z</updated>
+    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/Cocina%20en%20casa%20con%20Martin%20Beras%20-%20Martin%20Berasategui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="714 KB" />
+    <author>
+      <name>Martín Berasategui</name>
+      <uri>../authors_0/authors_959_Page_1.xml</uri>
+    </author>
+    <published>2018-11-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>De la mano de Martín Berasategui, uno de nuestros grandes chefs  internacionales, 1.100 recetas imprescindibles para la cocina de cualquier casa. Tapas, bocadillos, ensaladas, sopas, verduras, huevos, arroces,  pescados, carnes, salsas, postres, pane...</summary>
+    <link href="../book_1/book_1317.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

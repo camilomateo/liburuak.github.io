@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Jay McInerney</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1192_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Jay McInerney" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="./authors_1192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jay McInerney" />
+  <entry>
+    <title>Al caer la luz</title>
+    <id>calibre:book:1656</id>
+    <updated>2024-07-07T03:32:36Z</updated>
+    <link href="../../Jay%20McInerney/Al%20caer%20la%20luz%20%281656%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jay%20McInerney/Al%20caer%20la%20luz%20%281656%29/Al%20caer%20la%20luz%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <author>
+      <name>Jay McInerney</name>
+      <uri>../authors_1/authors_1192_Page_1.xml</uri>
+    </author>
+    <published>2017-11-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía Calloway" />
+    <summary>Trilogía Calloway [1]: Russell Calloway es un brillante y ambicioso editor y su mujer, la fascinante Corrine, una joven agente de Bolsa que trabaja en Wall Street. Llevan casados poco tiempo, pero a sus amigos les parece que forman un matrimonio perf...</summary>
+    <link href="../book_1/book_1656.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La buena vida</title>
+    <id>calibre:book:1675</id>
+    <updated>2024-07-22T06:21:11Z</updated>
+    <link href="../../Jay%20McInerney/La%20buena%20vida%20%281675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jay%20McInerney/La%20buena%20vida%20%281675%29/La%20buena%20vida%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="457 KB" />
+    <author>
+      <name>Jay McInerney</name>
+      <uri>../authors_1/authors_1192_Page_1.xml</uri>
+    </author>
+    <published>2018-09-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía Calloway" />
+    <summary>Trilogía Calloway [2]: Tras superar no pocas dificultades, el matrimonio Calloway sigue unido. Russell continúa trabajando como editor, aunque en un puesto menos importante, y Corrine ha dejado su trabajo en la bolsa para dedicarse a sus dos hijos pe...</summary>
+    <link href="../book_1/book_1675.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

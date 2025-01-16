@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Maria Neves</title>
+  <id>Calibre2opds:authors:1059</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1059_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Maria Neves" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <entry>
+    <title>Llévame toda la noche</title>
+    <id>calibre:book:1451</id>
+    <updated>2024-04-20T05:29:27Z</updated>
+    <link href="../../Maria%20Neves/Llevame%20toda%20la%20noche%20%281451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Neves/Llevame%20toda%20la%20noche%20%281451%29/Llevame%20toda%20la%20noche%20-%20Maria%20Neves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="93 KB" />
+    <author>
+      <name>Maria Neves</name>
+      <uri>../authors_1/authors_1059_Page_1.xml</uri>
+    </author>
+    <published>2024-04-14T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Marina decide irse de vacaciones a Ibiza con unas amigas, a pesar de que no es una gran aficionada a la música electrónica, ¡y decide acompañarlas para divertirse!Después de una noche de borrachera, pierde a sus amigas en la discoteca y vuelve sola p...</summary>
+    <link href="../book_1/book_1451.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

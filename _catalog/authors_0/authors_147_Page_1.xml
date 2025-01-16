@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Matt Haig</title>
+  <id>Calibre2opds:authors:147</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_147_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Matt Haig" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Razones para seguir viviendo</title>
+    <id>calibre:book:220</id>
+    <updated>2023-01-27T11:59:14Z</updated>
+    <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/Razones%20para%20seguir%20viviendo%20-%20Matt%20Haig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <author>
+      <name>Matt Haig</name>
+      <uri>../authors_0/authors_147_Page_1.xml</uri>
+    </author>
+    <published>2016-05-25T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>¿Qué significa sentirse realmente vivo?A los veinticuatro años, el mundo de Matt Haig se derrumbó. No encontraba razones para seguir viviendo. Ésta es la historia real de cómo superó su depresión, triunfó sobre la enfermedad y aprendió a vivir otra v...</summary>
+    <link href="../book_0/book_220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

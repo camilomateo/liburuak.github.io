@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Johann Hari</title>
+  <id>Calibre2opds:authors:860</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_860_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Johann Hari" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <entry>
+    <title>Conexiones perdidas</title>
+    <id>calibre:book:1258</id>
+    <updated>2024-03-01T02:15:57Z</updated>
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/Conexiones%20perdidas%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Johann Hari</name>
+      <uri>../authors_0/authors_860_Page_1.xml</uri>
+    </author>
+    <published>2020-03-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Capitán Swing</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hari sufrió de depresión desde niño y comenzó a tomar antidepresivos cuando era adolescente. Como a toda su generación, le dijeron que la causa de su problema era un desequilibrio químico en su cerebro. Pero años más tarde comenzó a investigar y apre...</summary>
+    <link href="../book_1/book_1258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El valor de la atención</title>
+    <id>calibre:book:1181</id>
+    <updated>2024-02-01T09:53:29Z</updated>
+    <link href="../../Johann%20Hari/El%20valor%20de%20la%20atencion%20%281181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johann%20Hari/El%20valor%20de%20la%20atencion%20%281181%29/El%20valor%20de%20la%20atencion%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="422 KB" />
+    <author>
+      <name>Johann Hari</name>
+      <uri>../authors_0/authors_860_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Según algunos de los últimos estudios publicados, los adolescentes solo son capaces de concentrarse en una tarea durante sesenta y cinco segundos, mientras que los adultos apenas pueden aguantar tres minutos. Como muchos de nosotros, Johann Hari es c...</summary>
+    <link href="../book_1/book_1181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

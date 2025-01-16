@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>DBR Publishing</title>
+  <id>Calibre2opds:authors:1215</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1215_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="DBR Publishing" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Adoptando ChatGPT</title>
+    <id>calibre:book:1698</id>
+    <updated>2024-07-29T11:16:59Z</updated>
+    <link href="../../DBR%20Publishing/Adoptando%20ChatGPT%20%281698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../DBR%20Publishing/Adoptando%20ChatGPT%20%281698%29/Adoptando%20ChatGPT%20-%20DBR%20Publishing.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="485 KB" />
+    <author>
+      <name>DBR Publishing</name>
+      <uri>../authors_1/authors_1215_Page_1.xml</uri>
+    </author>
+    <published>2024-01-26T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>anonymous</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿A veces sientes que llevar tu negocio es como una subida interminable?No estás solo en esto.Estadísticas reveladoras de la Oficina de Estadísticas Laborales muestran que cerca de uno de cada cinco negocios nuevos cierra antes de alcanzar los dos año...</summary>
+    <link href="../book_1/book_1698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

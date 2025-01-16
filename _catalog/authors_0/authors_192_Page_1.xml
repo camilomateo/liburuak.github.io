@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fernando Aramburu</title>
+  <id>Calibre2opds:authors:192</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fernando Aramburu" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>El niño</title>
+    <id>calibre:book:1442</id>
+    <updated>2024-04-20T05:25:36Z</updated>
+    <link href="../../Fernando%20Aramburu/El%20nino%20%281442%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Aramburu/El%20nino%20%281442%29/El%20nino%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="452 KB" />
+    <author>
+      <name>Fernando Aramburu</name>
+      <uri>../authors_0/authors_192_Page_1.xml</uri>
+    </author>
+    <published>2024-04-03T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un accidente real en el País Vasco de los años ochenta, la vida devastada de una familia. Una historia emocionante, adictiva y conmovedora, como solo Aramburu sabe contar.Nicasio, ya jubilado, acostumbra a subir los jueves al cementerio de Ortuella a...</summary>
+    <link href="../book_1/book_1442.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hijos de la fábula</title>
+    <id>calibre:book:285</id>
+    <updated>2023-02-06T07:44:00Z</updated>
+    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/Hijos%20de%20la%20fabula%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="615 KB" />
+    <author>
+      <name>Fernando Aramburu</name>
+      <uri>../authors_0/authors_192_Page_1.xml</uri>
+    </author>
+    <published>2023-01-12T01:01:43Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Dos jóvenes exaltados, Asier y Joseba, se marchan en 2011 al sur de Francia con la intención de convertirse en militantes de ETA. Esperan instrucciones en una granja de pollos, acogidos por una pareja francesa con la que apenas se entienden. Allí se ...</summary>
+    <link href="../book_0/book_285.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los vencejos</title>
+    <id>calibre:book:321</id>
+    <updated>2023-02-16T07:03:28Z</updated>
+    <link href="../../Fernando%20Aramburu/Los%20vencejos%20%28321%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Aramburu/Los%20vencejos%20%28321%29/Los%20vencejos%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Fernando Aramburu</name>
+      <uri>../authors_0/authors_192_Page_1.xml</uri>
+    </author>
+    <published>2021-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Toni, un profesor de instituto enfadado con el mundo, decide poner fin a su vida. Meticuloso y sereno, tiene elegida la fecha: dentro de un año. Hasta entonces cada noche redactará, en el piso que comparte con su perra Pepa y una biblioteca de la que...</summary>
+    <link href="../book_0/book_321.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

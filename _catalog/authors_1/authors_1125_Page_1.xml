@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Anders Ericsson</title>
+  <id>Calibre2opds:authors:1125</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Anders Ericsson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Número uno</title>
+    <id>calibre:book:1544</id>
+    <updated>2024-06-02T10:59:43Z</updated>
+    <link href="../../Anders%20Ericsson/Numero%20uno%20%281544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anders%20Ericsson/Numero%20uno%20%281544%29/Numero%20uno%20-%20Anders%20Ericsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <author>
+      <name>Anders Ericsson</name>
+      <uri>../authors_1/authors_1125_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Robert Pool</name>
+      <uri>../authors_1/authors_1126_Page_1.xml</uri>
+    </author>
+    <published>2017-02-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CONECTA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El mayor experto mundial en rendimiento y desarrollo de habilidades, Anders Ericsson, nos enseña los secretos para conseguir ser el mejor en lo que nos propongamos.«Este libro es el guía que nos mostrará el camino hasta la cumbre. Lo lejos que queram...</summary>
+    <link href="../book_1/book_1544.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

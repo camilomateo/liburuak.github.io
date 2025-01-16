@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Comisario Brunetti</title>
+  <id>Calibre2opds:authors:589series:98</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_589_series_98_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Comisario Brunetti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="./authors_589_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Donna Leon" />
+  <entry>
+    <title>32 - Cosecharás tempestades</title>
+    <id>calibre:book:792</id>
+    <updated>2023-05-31T01:04:24Z</updated>
+    <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/Cosecharas%20tempestades%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="629 KB" />
+    <author>
+      <name>Donna Leon</name>
+      <uri>../authors_0/authors_589_Page_1.xml</uri>
+    </author>
+    <published>2023-05-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Brunetti" />
+    <summary>Comisario Brunetti [32]: En este nuevo caso, un crimen reciente transportará al comisario Brunetti a su pasado en la Italia convulsa de los años ochenta. «Una de las grandes escritoras de crimen y misterio.» The Times «Probablemente la mejor escritor...</summary>
+    <link href="../book_0/book_792.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>33 - El fuego purificador</title>
+    <id>calibre:book:1627</id>
+    <updated>2024-06-13T06:06:43Z</updated>
+    <link href="../../Donna%20Leon/El%20fuego%20purificador%20%281627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Donna%20Leon/El%20fuego%20purificador%20%281627%29/El%20fuego%20purificador%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="382 KB" />
+    <author>
+      <name>Donna Leon</name>
+      <uri>../authors_0/authors_589_Page_1.xml</uri>
+    </author>
+    <published>2024-06-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Brunetti" />
+    <summary>Comisario Brunetti [33]: El comisario Brunetti se enfrenta al alarmante fenómeno de la violencia juvenil en pleno corazón de Venecia.«Una serie para disfrutar infinitamente, tanto por sus reflexiones sobre la justicia y la venganza como por su capaci...</summary>
+    <link href="../book_1/book_1627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

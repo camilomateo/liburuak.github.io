@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juan Luis Arsuaga</title>
+  <id>Calibre2opds:authors:1708</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1708_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Luis Arsuaga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Todos los libros de Juan Luis Arsuaga</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_1/authors_1708_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: La vida contada por un sapiens a un neandertal</title>
+    <id>Calibre2opds:authors:1708series:229</id>
+    <content type="text">1 libro</content>
+    <link href="../authors_1/authors_1708_series_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>La muerte contada por un sapiens a un neandertal</title>
+    <id>calibre:book:2602</id>
+    <updated>2024-09-16T10:50:28Z</updated>
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>Juan José Millás</name>
+      <uri>../authors_0/authors_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Juan Luis Arsuaga</name>
+      <uri>../authors_1/authors_1708_Page_1.xml</uri>
+    </author>
+    <published>2022-02-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelven el sapiens y el neandertal, vuelve «la fiesta de la inteligencia» (David Broncano) «En la naturaleza no hay vejez, no hay decrepitud. Solo hay plenitud o muerte». «Nos encantaría descubrir que cada especie tiene un reloj biológico en sus célu...</summary>
+    <link href="../book_2/book_2602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nuestro cuerpo</title>
+    <id>calibre:book:2601</id>
+    <updated>2024-09-16T10:50:28Z</updated>
+    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/Nuestro%20cuerpo%20-%20Juan%20Luis%20Arsuaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Juan Luis Arsuaga</name>
+      <uri>../authors_1/authors_1708_Page_1.xml</uri>
+    </author>
+    <published>2023-06-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el Museo del Prado, un científico recorre el cuerpo del Diadúmeno de Policleto. En su anatomía puede leer una historia evolutiva de siete millones de años. En la sala contigua hay una escultura algo más tardía que muestra el cuerpo desnudo de la V...</summary>
+    <link href="../book_2/book_2601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

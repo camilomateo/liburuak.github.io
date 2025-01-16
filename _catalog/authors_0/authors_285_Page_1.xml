@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Claire Fuller</title>
+  <id>Calibre2opds:authors:285</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_285_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Claire Fuller" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Tierra inestable</title>
+    <id>calibre:book:392</id>
+    <updated>2023-03-09T00:08:54Z</updated>
+    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/Tierra%20inestable%20-%20Claire%20Fuller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <author>
+      <name>Claire Fuller</name>
+      <uri>../authors_0/authors_285_Page_1.xml</uri>
+    </author>
+    <published>2023-03-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Con sensibilidad e inteligencia, Claire Fuller compone un relato desgarrador sobre la pobreza rural en el siglo XXI. Sus personajes luchan por salir adelante en una sociedad que no es del todo consciente de haberlos dejado atrás.Los mellizos Jeanie y...</summary>
+    <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Don Carpenter</title>
+  <id>Calibre2opds:authors:1730</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1730_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Don Carpenter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Caía una lluvia intensa</title>
+    <id>calibre:book:2634</id>
+    <updated>2024-10-21T04:01:14Z</updated>
+    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/Caia%20una%20lluvia%20intensa%20-%20Don%20Carpenter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <author>
+      <name>Don Carpenter</name>
+      <uri>../authors_1/authors_1730_Page_1.xml</uri>
+    </author>
+    <published>2024-09-10T02:07:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Cuando pierdes, pierdes para siempre, y cuando ganas, solo dura un segundo o dos. Así es la vida».Jack Levitt, un adolescente huérfano, crece entre reformatorios, cárceles, los hoteles más decadentes y las subterráneas salas de billar de Oregón. Atr...</summary>
+    <link href="../book_2/book_2634.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

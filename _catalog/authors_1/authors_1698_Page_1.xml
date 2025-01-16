@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Xavier Sardà</title>
+  <id>Calibre2opds:authors:1698</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1698_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Xavier Sardà" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Adiós, muy buenas</title>
+    <id>calibre:book:2582</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="314 KB" />
+    <author>
+      <name>Xavier Sardà</name>
+      <uri>../authors_1/authors_1698_Page_1.xml</uri>
+    </author>
+    <published>2019-02-25T10:43:48Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Este escrito tiene la vocación de dibujar la vida cotidiana en un pequeño cementerio del litoral. Puestos, supone también un cierto divertimiento casi escolar de escribir con un pseudo y pésimo clasicismo. Total, poca cosa». Novela coral que se desa...</summary>
+    <link href="../book_2/book_2582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

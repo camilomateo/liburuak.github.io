@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marie Benedict</title>
+  <id>Calibre2opds:authors:535</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_535_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marie Benedict" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>La coleccionista</title>
+    <id>calibre:book:717</id>
+    <updated>2023-05-17T01:10:50Z</updated>
+    <link href="../../Victoria%20Christopher%20Murray/La%20coleccionista%20%28717%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victoria%20Christopher%20Murray/La%20coleccionista%20%28717%29/La%20coleccionista%20-%20Victoria%20Christopher%20Murray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <author>
+      <name>Victoria Christopher Murray</name>
+      <uri>../authors_0/authors_534_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Marie Benedict</name>
+      <uri>../authors_0/authors_535_Page_1.xml</uri>
+    </author>
+    <published>2023-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Apasionante novela basada en hechos reales sobre una de las mujeres más poderosas del mundo del arte y los libros de Nueva York. Gracias a su pasión por los libros, Belle da Costa Green se ha vuelto, con tan solo veinte años, la bibliotecaria más jov...</summary>
+    <link href="../book_0/book_717.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El secreto de su mente</title>
+    <id>calibre:book:926</id>
+    <updated>2023-07-04T02:12:20Z</updated>
+    <link href="../../Marie%20Benedict/El%20secreto%20de%20su%20mente%20%28926%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marie%20Benedict/El%20secreto%20de%20su%20mente%20%28926%29/El%20secreto%20de%20su%20mente%20-%20Marie%20Benedict.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Marie Benedict</name>
+      <uri>../authors_0/authors_535_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Ella cambió el mundo de la ciencia. Tres hombres se llevaron el crédito Rosalind Franklin es feliz en el laboratorio, ahí da rienda suelta a su imaginación y realiza los experimentos que, está segura, cambiarán el mundo de la ciencia. Lo único que en...</summary>
+    <link href="../book_0/book_926.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

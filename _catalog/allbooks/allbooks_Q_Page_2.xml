@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por Q</title>
+  <id>Calibre2opds:allbooks:Q</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Q_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por Q" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por Q" />
+  <entry>
+    <title>La quinta víctima</title>
+    <id>calibre:book:727</id>
+    <updated>2023-05-17T01:11:10Z</updated>
+    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/La%20quinta%20victima%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>J. D. Barker</name>
+      <uri>../authors_0/authors_166_Page_1.xml</uri>
+    </author>
+    <published>2019-05-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Detective Porter" />
+    <summary>Detective Porter [2]: El FBI ha retirado del caso Anson Bishop (el asesino de El Cuarto Mono) a Porter y su equipo, que pronto se enfrentan a una nueva serie de asesinatos: tras estar desaparecida durante tres semanas, el cuerpo de Ella Reynolds apar...</summary>
+    <link href="../book_0/book_727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La química del odio</title>
+    <id>calibre:book:585</id>
+    <updated>2023-04-28T01:16:54Z</updated>
+    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/La%20quimica%20del%20odio%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <author>
+      <name>Carme Chaparro</name>
+      <uri>../authors_0/authors_418_Page_1.xml</uri>
+    </author>
+    <published>2018-05-24T09:08:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Ana Arén" />
+    <summary>Inspectora Ana Arén [2]: ¿QUÉ HARÍAS SI, TRAS HABER SOBREVIVIDO A LA QUE CREÍSTE QUE ERA LA PRUEBA MÁS DURA QUE PODÍAS SOPORTAR, EL DESTINO TE LLEVARA OTRA VEZ AL LÍMITE?Para la inspectora jefa Ana Arén no hay tregua: después de que resolviera el cas...</summary>
+    <link href="../book_0/book_585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La química</title>
+    <id>calibre:book:1002</id>
+    <updated>2023-08-27T03:12:58Z</updated>
+    <link href="../../Stephenie%20Meyer/La%20quimica%20%281002%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephenie%20Meyer/La%20quimica%20%281002%29/La%20quimica%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../authors_0/authors_742_Page_1.xml</uri>
+    </author>
+    <published>2017-02-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En esta trepidante y adictiva novela, una ex-agente que huye de la organización en la que trabajaba deberá aceptar un último caso para limpiar su nombre y salvar su vida. Antes trabajaba para el gobierno de Estados Unidos, aunque casi nadie lo sabía....</summary>
+    <link href="../book_1/book_1002.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

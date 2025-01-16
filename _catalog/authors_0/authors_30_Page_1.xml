@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Men Marías</title>
+  <id>Calibre2opds:authors:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Men Marías" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>Lo que arrastra la lluvia</title>
+    <id>calibre:book:307</id>
+    <updated>2023-02-14T09:08:52Z</updated>
+    <link href="../../Men%20Marias/Lo%20que%20arrastra%20la%20lluvia%20%28307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Men%20Marias/Lo%20que%20arrastra%20la%20lluvia%20%28307%29/Lo%20que%20arrastra%20la%20lluvia%20-%20Men%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Men Marías</name>
+      <uri>../authors_0/authors_30_Page_1.xml</uri>
+    </author>
+    <published>2022-12-13T06:20:29Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela inquietante y sobrecogedora sobre los límites entre el bien y el mal y la locuraGranada, 2007. Un padre y una hija mueren a la vez. Pocos meses después, Marina, madre y esposa de los fallecidos, aparece en un parque. Ha dejado de ser la m...</summary>
+    <link href="../book_0/book_307.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última paloma</title>
+    <id>calibre:book:38</id>
+    <updated>2023-01-17T10:22:50Z</updated>
+    <link href="../../Men%20Marias/La%20ultima%20paloma%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Men%20Marias/La%20ultima%20paloma%20%2838%29/La%20ultima%20paloma%20-%20Men%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <author>
+      <name>Men Marías</name>
+      <uri>../authors_0/authors_30_Page_1.xml</uri>
+    </author>
+    <published>2021-05-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Frente a la base naval de Rota, tras el cordón policial que acordona la brutal escena, un grupo de vecinos clama que se haga justicia: el cuerpo de la joven Diana Buffet yace salvajemente mutilado y con unas enormes alas cosidas a su espalda. Ni las ...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

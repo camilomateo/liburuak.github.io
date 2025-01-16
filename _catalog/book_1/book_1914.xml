@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Diccionario de los lugares comunes</title>
+  <id>urn:book:8623453b-c902-446c-aded-958f388eecb1</id>
+  <updated>2024-09-05T06:00:42Z</updated>
+  <link href="./book_1914.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Diccionario de los lugares comunes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authors_1/authors_1365_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Gustave Flaubert" />
+  <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/Diccionario%20de%20los%20lugares%20comu%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+  <author>
+    <name>Gustave Flaubert</name>
+    <uri>../authors_1/authors_1365_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Referencia" />
+  <category term="Diccionarios" />
+  <category term="y" />
+  <category term="enciclopedias" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 16 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Referencia, Diccionarios, y, enciclopedias, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 16 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1365_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Gustave Flaubert" />
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lorenzo G. Acebedo</title>
+  <id>Calibre2opds:authors:709</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_709_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lorenzo G. Acebedo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>Todos los libros de Lorenzo G. Acebedo</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 2 libros</content>
+    <link href="../authors_0/authors_709_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Gonzalo de Berceo</title>
+    <id>Calibre2opds:authors:709series:200</id>
+    <content type="text">La Santa Compaña</content>
+    <link href="../authors_0/authors_709_series_200_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>La taberna de Silos</title>
+    <id>calibre:book:947</id>
+    <updated>2023-07-14T09:48:42Z</updated>
+    <link href="../../Lorenzo%20G.%20Acebedo/La%20taberna%20de%20Silos%20%28947%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20G.%20Acebedo/La%20taberna%20de%20Silos%20%28947%29/La%20taberna%20de%20Silos%20-%20Lorenzo%20G.%20Acebedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+    <author>
+      <name>Lorenzo G. Acebedo</name>
+      <uri>../authors_0/authors_709_Page_1.xml</uri>
+    </author>
+    <published>2023-05-08T02:11:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Como un Philip Marlowe de la Edad Media, Gonzalo de Berceo, poeta y copista, se empeña en encontrar al asesino de un monje en el monasterio de Silos.Corre la primera mitad del siglo XIII cuando el abad del monasterio de San Millán encarga a uno de s...</summary>
+    <link href="../book_0/book_947.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

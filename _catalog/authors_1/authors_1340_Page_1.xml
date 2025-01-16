@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Slavoj Žižek</title>
+  <id>Calibre2opds:authors:1340</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1340_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Slavoj Žižek" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <entry>
+    <title>El sexo y el fracaso del absoluto</title>
+    <id>calibre:book:1869</id>
+    <updated>2024-09-02T04:27:40Z</updated>
+    <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/El%20sexo%20y%20el%20fracaso%20del%20absolu%20-%20Slavoj%20Zizek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="740 KB" />
+    <author>
+      <name>Slavoj Žižek</name>
+      <uri>../authors_1/authors_1340_Page_1.xml</uri>
+    </author>
+    <published>2020-05-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Paidós</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Para delimitar el nuevo materialismo, Žižek critica y desafía no solo el trabajo de Alain Badiou, Robert Brandom, Joan Copjec, Quentin Meillassoux y Julia Kristeva (por nombrar solo algunos), sino también toda una ristra de conceptos desde la ciencia...</summary>
+    <link href="../book_1/book_1869.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Washington Poe</title>
+  <id>Calibre2opds:authors:449series:77</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_449_series_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Washington Poe" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="./authors_449_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="M. W. Craven" />
+  <entry>
+    <title>2 - Verano negro</title>
+    <id>calibre:book:1323</id>
+    <updated>2024-03-21T01:00:29Z</updated>
+    <link href="../../M.%20W.%20Craven/Verano%20negro%20%281323%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../M.%20W.%20Craven/Verano%20negro%20%281323%29/Verano%20negro%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <author>
+      <name>M. W. Craven</name>
+      <uri>../authors_0/authors_449_Page_1.xml</uri>
+    </author>
+    <published>2021-03-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Washington Poe" />
+    <summary>Washington Poe [2]: La fascinante y nueva entrega de la serie protagonizada por Washington Poe.M.W. Craven, autor ganador del Premio CWA Gold Dagger al mejor thriller del año.Tras El show de las marionetas, la nueva tormenta se aproxima.Jared Keaton,...</summary>
+    <link href="../book_1/book_1323.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Zona muerta</title>
+    <id>calibre:book:606</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../M.%20W.%20Craven/Zona%20muerta%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../M.%20W.%20Craven/Zona%20muerta%20%28606%29/Zona%20muerta%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <author>
+      <name>M. W. Craven</name>
+      <uri>../authors_0/authors_449_Page_1.xml</uri>
+    </author>
+    <published>2023-01-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial de Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Washington Poe" />
+    <summary>Washington Poe [4]: La fascinante y nueva entrega de la serie protagonizada por Washington Poe. NOVELA GANADORA DEL PRESTIGIOSO CWA IAN FLEMING STEEL DAGGER AWARD 2022.NOMINADA AL MEJOR THRILLER DE AÑO POR THEAKSTON OLD PECULIAR.El sargento Washingto...</summary>
+    <link href="../book_0/book_606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

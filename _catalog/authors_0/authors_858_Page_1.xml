@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gillian Flynn</title>
+  <id>Calibre2opds:authors:858</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_858_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gillian Flynn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Heridas abiertas</title>
+    <id>calibre:book:1732</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Gillian%20Flynn/Heridas%20abiertas%20%281732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gillian%20Flynn/Heridas%20abiertas%20%281732%29/Heridas%20abiertas%20-%20Gillian%20Flynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="410 KB" />
+    <author>
+      <name>Gillian Flynn</name>
+      <uri>../authors_0/authors_858_Page_1.xml</uri>
+    </author>
+    <published>2014-03-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Heridas abiertas es la primera novela de Gillian Flynn, autora de la exitosa Perdida y consagrada ya como maestra del thriller psicológico.Recién salida de una breve estancia en un hospital psiquiátrico, Camille Preaker se dirige a su ciudad natal a ...</summary>
+    <link href="../book_1/book_1732.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lugares oscuros</title>
+    <id>calibre:book:1177</id>
+    <updated>2024-01-30T06:17:56Z</updated>
+    <link href="../../Gillian%20Flynn/Lugares%20oscuros%20%281177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gillian%20Flynn/Lugares%20oscuros%20%281177%29/Lugares%20oscuros%20-%20Gillian%20Flynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <author>
+      <name>Gillian Flynn</name>
+      <uri>../authors_0/authors_858_Page_1.xml</uri>
+    </author>
+    <published>2016-02-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una historia addictiva y formidablemente escrita que, a través del misterio, indaga en el papel de la memoria y nos adentra en los sentimientos más crudos del ser humano. Un thriller como solo Gillian Flynn, la autora de Perdida, sabe hacerlo. Libby ...</summary>
+    <link href="../book_1/book_1177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

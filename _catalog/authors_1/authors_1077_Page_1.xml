@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cristina Sanabria</title>
+  <id>Calibre2opds:authors:1077</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1077_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cristina Sanabria" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Mind the Gap</title>
+    <id>calibre:book:1472</id>
+    <updated>2024-04-30T05:13:16Z</updated>
+    <link href="../../Cristina%20Sanabria/Mind%20the%20Gap%20%281472%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Sanabria/Mind%20the%20Gap%20%281472%29/Mind%20the%20Gap%20-%20Cristina%20Sanabria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="386 KB" />
+    <author>
+      <name>Cristina Sanabria</name>
+      <uri>../authors_1/authors_1077_Page_1.xml</uri>
+    </author>
+    <published>2024-04-25T01:57:16Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Mind de Gap es una novela que se infiltra en las grietas económicas, emocionales e idiomáticas que surgen al vivir en otro país, como Reino Unido. La residencia donde Alejandra y Marco se conocieron, también tenía grietas -de otro tipo-, aunque no fu...</summary>
+    <link href="../book_1/book_1472.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

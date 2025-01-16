@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>J.D. Barker</title>
+  <id>Calibre2opds:authors:716</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_716_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="J.D. Barker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>El último juego</title>
+    <id>calibre:book:962</id>
+    <updated>2023-08-16T05:28:54Z</updated>
+    <link href="../../J.D.%20Barker/El%20ultimo%20juego%20%28962%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.D.%20Barker/El%20ultimo%20juego%20%28962%29/El%20ultimo%20juego%20-%20J.D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="630 KB" />
+    <author>
+      <name>J.D. Barker</name>
+      <uri>../authors_0/authors_716_Page_1.xml</uri>
+    </author>
+    <published>2022-03-28T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La polémica presentadora de radio Jordan Briggs ha conseguido ser una de las voces más famosas del país, con un estilo de lo más personal: es incapaz de contenerse y dice siempre lo que piensa, por impopular que sea, a micro abierto frente a millones...</summary>
+    <link href="../book_0/book_962.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

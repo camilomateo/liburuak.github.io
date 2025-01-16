@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Benjamin Whitmer</title>
+  <id>Calibre2opds:authors:301</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_301_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Benjamin Whitmer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <entry>
+    <title>Evasión</title>
+    <id>calibre:book:411</id>
+    <updated>2023-03-13T09:46:54Z</updated>
+    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/Evasion%20-%20Benjamin%20Whitmer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <author>
+      <name>Benjamin Whitmer</name>
+      <uri>../authors_0/authors_301_Page_1.xml</uri>
+    </author>
+    <published>2023-03-01T11:21:26Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>American noir en estado puro1968. En la víspera de Año Nuevo, doce presos escapan de la prisión de Old Lonesome, emplazada en las proximidades de un pequeño pueblo de Colorado, al pie de las Montañas Rocosas. El suceso conmociona profundamente a todo...</summary>
+    <link href="../book_0/book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

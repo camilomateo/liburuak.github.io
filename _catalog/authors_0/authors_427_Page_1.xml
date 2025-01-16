@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marian Rojas Estapé</title>
+  <id>Calibre2opds:authors:427</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_427_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marian Rojas Estapé" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Como hacer que te pasen cosas buenas</title>
+    <id>calibre:book:1345</id>
+    <updated>2024-03-21T01:00:33Z</updated>
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/Como%20hacer%20que%20te%20pasen%20cosas%20b%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <author>
+      <name>Marian Rojas Estapé</name>
+      <uri>../authors_0/authors_427_Page_1.xml</uri>
+    </author>
+    <published>2018-03-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Uniendo el punto de vista científico, psicológico y humano, la autora nos ofrece una reflexión profunda, salpicada de útiles consejos y con vocación eminentemente didáctica, acerca de la aplicación de nuestras propias capacidades al empeño de procura...</summary>
+    <link href="../book_1/book_1345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Encuentra tu persona vitamina</title>
+    <id>calibre:book:574</id>
+    <updated>2023-04-23T10:24:16Z</updated>
+    <link href="../../Marian%20Rojas%20Estape/Encuentra%20tu%20persona%20vitamina%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marian%20Rojas%20Estape/Encuentra%20tu%20persona%20vitamina%20%28574%29/Encuentra%20tu%20persona%20vitamina%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Marian Rojas Estapé</name>
+      <uri>../authors_0/authors_427_Page_1.xml</uri>
+    </author>
+    <published>2021-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>¿Por qué hay personas que nos hacen sufrir tanto y otras que nos generan confianza y cuya sola presencia nos reconforta? ¿Por qué hay gente que tiene tendencia a establecer relaciones complicadas y dolorosas? ¿Amamos como nos amaron? ¿Hay «algo» bioq...</summary>
+    <link href="../book_0/book_574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sebastian Llanos</title>
+  <id>Calibre2opds:authors:128</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sebastian Llanos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>La caída de Martin Orchard</title>
+    <id>calibre:book:201</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/La%20caida%20de%20Martin%20Orchard%20-%20Martin%20Lundqvist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <author>
+      <name>Martin Lundqvist</name>
+      <uri>../authors_0/authors_127_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sebastian Llanos</name>
+      <uri>../authors_0/authors_128_Page_1.xml</uri>
+    </author>
+    <published>2020-05-05T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Martin Lundqvist</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>'El Apocalipsis se acercaba. La Explosi&amp;oacute;n de Rayos Gamma era inminente y llegar&amp;iacute;a a la Tierra el 20 de octubre de 2131 y yo, Martin Orchard, necesitaba asegurarme de que la humanidad sobreviviera a este suceso sin precedentes.&amp;nbsp;En e...</summary>
+    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

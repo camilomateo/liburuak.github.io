@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Paco Gómez Escribano</title>
+  <id>Calibre2opds:authors:403</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_403_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Paco Gómez Escribano" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Después de la derrota</title>
+    <id>calibre:book:1517</id>
+    <updated>2024-05-22T06:46:47Z</updated>
+    <link href="../../Paco%20Gomez%20Escribano/Despues%20de%20la%20derrota%20%281517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paco%20Gomez%20Escribano/Despues%20de%20la%20derrota%20%281517%29/Despues%20de%20la%20derrota%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Paco Gómez Escribano</name>
+      <uri>../authors_0/authors_403_Page_1.xml</uri>
+    </author>
+    <published>2024-04-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Zip es un periodista frustrado que abandonó hace años la profesión por problemas con las drogas y con la disciplina laboral. Ahora, en su edad madura, regenta un hostal que recibió en herencia de sus tíos, sus verdaderos padres. Una mañana, al regre...</summary>
+    <link href="../book_1/book_1517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Narcopiso</title>
+    <id>calibre:book:546</id>
+    <updated>2023-04-06T09:50:08Z</updated>
+    <link href="../../Paco%20Gomez%20Escribano/Narcopiso%20%28546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paco%20Gomez%20Escribano/Narcopiso%20%28546%29/Narcopiso%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>Paco Gómez Escribano</name>
+      <uri>../authors_0/authors_403_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>El Pirri pasa la mayoría de su tiempo en el bar del Julito, un ecosistema en el que el mismísimo Bukowski no habría desentonado, haciendo crucigramas y leyendo novelas negras que le proporciona su amigo el Cortecín, con el que mantiene una extraña a...</summary>
+    <link href="../book_0/book_546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

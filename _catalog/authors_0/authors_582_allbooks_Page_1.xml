@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Noemí Trujillo</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_582_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Noemí Trujillo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="./authors_582_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Noemí Trujillo" />
+  <entry>
+    <title>La forja de una rebelde</title>
+    <id>calibre:book:780</id>
+    <updated>2023-05-25T01:33:00Z</updated>
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Noemí Trujillo</name>
+      <uri>../authors_0/authors_582_Page_1.xml</uri>
+    </author>
+    <published>2021-12-02T02:59:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El segundo caso de la inspectora Manuela Mauri  La nueva serie de éxito de la novela negra en españolDesde el inicio de la alerta sanitaria, Manuela Mauri no ha tenido un respiro y por primera vez en su vida se siente desbordada por los acontecimien...</summary>
+    <link href="../book_0/book_780.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si esto es una mujer</title>
+    <id>calibre:book:783</id>
+    <updated>2023-05-25T01:33:04Z</updated>
+    <link href="../../Lorenzo%20Silva/Si%20esto%20es%20una%20mujer%20%28783%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Si%20esto%20es%20una%20mujer%20%28783%29/Si%20esto%20es%20una%20mujer%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="576 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Noemí Trujillo</name>
+      <uri>../authors_0/authors_582_Page_1.xml</uri>
+    </author>
+    <published>2019-05-21T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Mauri" />
+    <summary>Inspectora Mauri [1]: La inspectora de homicidios Manuela Mauri lleva siete meses de baja cuando recibe la visita de la oficial Guadalupe Larbi para pedirle que se reincorpore al trabajo: sólo ella, le dice, tiene la autoridad y el empuje necesarios ...</summary>
+    <link href="../book_0/book_783.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

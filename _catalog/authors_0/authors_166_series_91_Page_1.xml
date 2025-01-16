@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Detective Porter</title>
+  <id>Calibre2opds:authors:166series:91</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_166_series_91_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Detective Porter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authors_166_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. D. Barker" />
+  <entry>
+    <title>1 - El Cuarto Mono</title>
+    <id>calibre:book:718</id>
+    <updated>2023-05-17T01:10:52Z</updated>
+    <link href="../../J.%20D.%20Barker/El%20Cuarto%20Mono%20%28718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20D.%20Barker/El%20Cuarto%20Mono%20%28718%29/El%20Cuarto%20Mono%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="955 KB" />
+    <author>
+      <name>J. D. Barker</name>
+      <uri>../authors_0/authors_166_Page_1.xml</uri>
+    </author>
+    <published>2018-06-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Detective Porter" />
+    <summary>Detective Porter [1]: El detective de la policía de Chicago Sam Porter investiga el caso de un hombre atropellado, pues los indicios en la escena del crimen apuntan a que se trata de El Cuarto Mono, un asesino en serie que ha estado aterrorizando la ...</summary>
+    <link href="../book_0/book_718.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - La quinta víctima</title>
+    <id>calibre:book:727</id>
+    <updated>2023-05-17T01:11:10Z</updated>
+    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/La%20quinta%20victima%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>J. D. Barker</name>
+      <uri>../authors_0/authors_166_Page_1.xml</uri>
+    </author>
+    <published>2019-05-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Detective Porter" />
+    <summary>Detective Porter [2]: El FBI ha retirado del caso Anson Bishop (el asesino de El Cuarto Mono) a Porter y su equipo, que pronto se enfrentan a una nueva serie de asesinatos: tras estar desaparecida durante tres semanas, el cuerpo de Ella Reynolds apar...</summary>
+    <link href="../book_0/book_727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

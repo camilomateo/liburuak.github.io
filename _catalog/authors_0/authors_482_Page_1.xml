@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Carme Elias</title>
+  <id>Calibre2opds:authors:482</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_482_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Carme Elias" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <entry>
+    <title>Cuando ya no sea yo</title>
+    <id>calibre:book:654</id>
+    <updated>2023-05-10T04:29:14Z</updated>
+    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/Cuando%20ya%20no%20sea%20yo%20-%20Carme%20Elias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <author>
+      <name>Carme Elias</name>
+      <uri>../authors_0/authors_482_Page_1.xml</uri>
+    </author>
+    <published>2023-04-05T11:47:51Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Escribir un libro de memorias mientras la mía se desvanece es arriesgado. Aun así, siento la tentación de hacerlo. Amo la palabra escrita. Siempre me ha gustado y la he saboreado como intérprete. Soy actriz de profesión y, lo que es más importante, d...</summary>
+    <link href="../book_0/book_654.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elia Barceló</title>
+  <id>Calibre2opds:authors:245</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_245_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elia Barceló" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Todos los libros de Elia Barceló</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 3 libros</content>
+    <link href="../authors_0/authors_245_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Muerte en Santa Rita</title>
+    <id>Calibre2opds:authors:245series:60</id>
+    <content type="text">2 libros</content>
+    <link href="../authors_0/authors_245_series_60_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Muerte en Santa Rita</title>
+    <id>calibre:book:350</id>
+    <updated>2023-02-22T05:53:26Z</updated>
+    <link href="../../Elia%20Barcelo/Muerte%20en%20Santa%20Rita%20%28350%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elia%20Barcelo/Muerte%20en%20Santa%20Rita%20%28350%29/Muerte%20en%20Santa%20Rita%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <author>
+      <name>Elia Barceló</name>
+      <uri>../authors_0/authors_245_Page_1.xml</uri>
+    </author>
+    <published>2022-04-28T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>HAY UN LUGAR EN EL QUE RESIDEN SECRETOS ESCONDIDOS A LO LARGO DE VARIAS DÉCADAS. BIENVENIDOS A SANTA RITA. UN NOIR MEDITERRÁNEO DE ELIA BARCELÓ. Estamos en Santa Rita, un antiguo balneario, que luego fue sanatorio y ahora es la casa de una escritora ...</summary>
+    <link href="../book_0/book_350.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

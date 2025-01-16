@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El murciélago</title>
+  <id>urn:book:54b9c114-2239-42a1-85d7-02ede139b377</id>
+  <updated>2023-10-20T01:12:33Z</updated>
+  <link href="./book_1043.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El murciélago" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authors_0/authors_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jo Nesbø" />
+  <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/El%20murcielago%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+  <author>
+    <name>Jo Nesbø</name>
+    <uri>../authors_0/authors_266_Page_1.xml</uri>
+  </author>
+  <published>2015-10-06T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Reservoir Books</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Harry Hole" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Harry Hole serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <p>Harry Hole es enviado a Sydney desde Oslo para que
+      investigue el asesinato de una mujer noruega, Inger Holter,
+      cuyo cadáver ha sido encontrado entre oscuras rocas, al
+      pie de un acantilado. La policía sospecha que fue
+      violada antes de morir, pero no se ha hallado rastro alguno
+      de ADN.</p>
+      <p>Harry Hole tendrá como compañero de
+      investigación a Andrew Kengsinton, detective aborigen
+      australiano. Ambos sospechan del novio de Inger, Evans White,
+      atractivo camello conocido por la policía. Sin embargo,
+      Harry comienza a vislumbrar que el caso es más complejo
+      de lo que a priori pudiera parecer, y poco después el
+      equipo de investigación relaciona una serie de
+      desapariciones y asesinatos sin resolver que sugieren que un
+      asesino en serie anda suelto.</p>
+      <p>Harry Hole es un joven y brillante detective, pero esconde
+      un oscuro secreto. Durante su estancia en Sydney se
+      enamorará perdidamente de Birgita Enquist, a quien le
+      confesará lo que oculta su pasado y qué le aleja de
+      su país...</p>
+    </div>
+  </content>
+  <link href="../series_0/series_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Harry Hole serie" />
+  <link href="../authors_0/authors_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jo Nesbø" />
+</entry>

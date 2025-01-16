@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Scalzi</title>
+  <id>Calibre2opds:authors:348</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_348_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Scalzi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>La humanidad dividida</title>
+    <id>calibre:book:463</id>
+    <updated>2023-03-24T09:44:12Z</updated>
+    <link href="../../John%20Scalzi/La%20humanidad%20dividida%20%28463%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/La%20humanidad%20dividida%20%28463%29/La%20humanidad%20dividida%20-%20John%20Scalzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../authors_0/authors_348_Page_1.xml</uri>
+    </author>
+    <published>2017-11-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Minotauro</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Durante años, la Unión Colonial ha protegido a sus ciudadanos del peligroso universo que los rodea. Pero la población de la Tierra por fin conoce la horrible verdad. La Unión ha usado la Tierra como una fuente de reclutas para su guerra contra las f...</summary>
+    <link href="../book_0/book_463.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Sociedad por la Preservación de los Kaiju</title>
+    <id>calibre:book:531</id>
+    <updated>2023-04-05T00:40:14Z</updated>
+    <link href="../../John%20Scalzi/La%20Sociedad%20por%20la%20Preservacion%20de%20%28531%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/La%20Sociedad%20por%20la%20Preservacion%20de%20%28531%29/La%20Sociedad%20por%20la%20Preservacion%20-%20John%20Scalzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../authors_0/authors_348_Page_1.xml</uri>
+    </author>
+    <published>2023-02-09T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Minotauro</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando el COVID-19 arrasa con la ciudad de Nueva York, Jamie Gray se ve obligado a trabajar como repartidor de comida a domicilio, hasta el día en que hace una entrega a un viejo conocido, Tom, que trabaja en lo que él define como una «organización p...</summary>
+    <link href="../book_0/book_531.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Raquel Oliva</title>
+  <id>Calibre2opds:authors:975</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_975_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Raquel Oliva" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <entry>
+    <title>Ni una sola gota</title>
+    <id>calibre:book:1334</id>
+    <updated>2024-03-21T01:00:31Z</updated>
+    <link href="../../Raquel%20Oliva/Ni%20una%20sola%20gota%20%281334%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raquel%20Oliva/Ni%20una%20sola%20gota%20%281334%29/Ni%20una%20sola%20gota%20-%20Raquel%20Oliva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Raquel Oliva</name>
+      <uri>../authors_0/authors_975_Page_1.xml</uri>
+    </author>
+    <published>2023-10-16T11:41:58Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>2023</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Estás lista para un viaje que transformará tu vida?
+Descubre el camino que te llevará a terminar con la incontinencia urinaria.
+La incontinencia urinaria afecta a un 15 por ciento de mujeres en España. Es un problema de salud que impacta en su biene...</summary>
+    <link href="../book_1/book_1334.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

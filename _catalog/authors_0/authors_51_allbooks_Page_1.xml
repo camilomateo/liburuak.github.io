@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros de Philip Kerr</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_51_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Philip Kerr" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="./authors_51_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip Kerr" />
+  <entry>
+    <title>Materia oscura</title>
+    <id>calibre:book:87</id>
+    <updated>2023-01-18T00:09:26Z</updated>
+    <link href="../../Philip%20Kerr/Materia%20oscura%20%2887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20Kerr/Materia%20oscura%20%2887%29/Materia%20oscura%20-%20Philip%20Kerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Philip Kerr</name>
+      <uri>../authors_0/authors_51_Page_1.xml</uri>
+    </author>
+    <published>2020-10-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un absorbente thriller histórico sobre política, ciencia y religión en el Londres de finales del siglo XVII por uno de los autores más icónicos del género negro.En 1696, Christopher Ellis, un impetuoso joven aficionado a los naipes y a las mujeres, e...</summary>
+    <link href="../book_0/book_87.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El otro lado del silencio</title>
+    <id>calibre:book:73</id>
+    <updated>2023-01-18T00:02:44Z</updated>
+    <link href="../../Philip%20Kerr/El%20otro%20lado%20del%20silencio%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20Kerr/El%20otro%20lado%20del%20silencio%20%2873%29/El%20otro%20lado%20del%20silencio%20-%20Philip%20Kerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <author>
+      <name>Philip Kerr</name>
+      <uri>../authors_0/authors_51_Page_1.xml</uri>
+    </author>
+    <published>2017-10-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Bernie Gunther" />
+    <summary>Bernie Gunther [11]: En 1956, el exdetective Bernie Gunther vive en la Riviera francesa. Debería llevar una existencia tranquila, pero eso es algo imposible para él. El pasado de la guerra le alcanza de la mano de un antiguo oficial nazi. Además, ha ...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

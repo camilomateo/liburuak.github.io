@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Antonio Puente Mayor</title>
+  <id>Calibre2opds:authors:67</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_67_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Antonio Puente Mayor" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <entry>
+    <title>El pintor de los muertos</title>
+    <id>calibre:book:100</id>
+    <updated>2023-01-18T00:15:18Z</updated>
+    <link href="../../Antonio%20Puente%20Mayor/El%20pintor%20de%20los%20muertos%20%28100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Puente%20Mayor/El%20pintor%20de%20los%20muertos%20%28100%29/El%20pintor%20de%20los%20muertos%20-%20Antonio%20Puente%20Mayor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="533 KB" />
+    <author>
+      <name>Antonio Puente Mayor</name>
+      <uri>../authors_0/authors_67_Page_1.xml</uri>
+    </author>
+    <published>2022-03-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Sevilla, 1672. Cuando el banquero Pietro Bertorelli es hallado muerto en su casa palacio con un extraño símbolo en el cuerpo, la Inquisición abre una investigación. Esta les conduce hasta un discípulo del afamado pintor Juan de Valdés Leal, quien se ...</summary>
+    <link href="../book_0/book_100.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

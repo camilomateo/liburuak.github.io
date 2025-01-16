@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Abel Quentin</title>
+  <id>Calibre2opds:authors:455</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_455_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Abel Quentin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Q" />
+  <entry>
+    <title>El visionario</title>
+    <id>calibre:book:614</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../Abel%20Quentin/El%20visionario%20%28614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Abel%20Quentin/El%20visionario%20%28614%29/El%20visionario%20-%20Abel%20Quentin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <author>
+      <name>Abel Quentin</name>
+      <uri>../authors_0/authors_455_Page_1.xml</uri>
+    </author>
+    <published>2023-01-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Con enorme talento y un finísimo sentido del humor, esta novela llena de matices es una muy pertinente sátira sobre el auge de la nueva moral.Al inicio de los años ochenta, Jean Roscoff es un joven académico de izquierdas con una carrera prometedora;...</summary>
+    <link href="../book_0/book_614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Inspectora Escudero</title>
+  <id>Calibre2opds:authors:475series:83</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_475_series_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Inspectora Escudero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="./authors_475_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Luis David Pérez" />
+  <entry>
+    <title>1 - El ladrón de miedos</title>
+    <id>calibre:book:641</id>
+    <updated>2023-05-04T11:35:08Z</updated>
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/El%20ladron%20de%20miedos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <author>
+      <name>Luis David Pérez</name>
+      <uri>../authors_0/authors_475_Page_1.xml</uri>
+    </author>
+    <published>2023-05-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspectora Escudero" />
+    <summary>Inspectora Escudero [1]: Cuando el bien y el mal conviven en la misma casa, pero no se puede discernir quién es uno y el otro.Oviedo. 21 de septiembre. La capital asturiana celebra San Mateo, su fiesta grande.La inspectora de Homicidios Marta Escuder...</summary>
+    <link href="../book_0/book_641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El ladrón de barro</title>
+    <id>calibre:book:1423</id>
+    <updated>2024-04-09T11:16:20Z</updated>
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/El%20ladron%20de%20barro%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <author>
+      <name>Luis David Pérez</name>
+      <uri>../authors_0/authors_475_Page_1.xml</uri>
+    </author>
+    <published>2023-09-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Escudero" />
+    <summary>Inspectora Escudero [2]: ¿Puede un dibujo de barro desenmascarar la sonrisa del hombre más afortunado?La inspectora Marta Escudero aterriza en Alicante para liderar la Unidad Central de Inteligencia Criminal y hacerse cargo de un suceso que se ha con...</summary>
+    <link href="../book_1/book_1423.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

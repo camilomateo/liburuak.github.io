@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nekane González</title>
+  <id>Calibre2opds:authors:788</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_788_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nekane González" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Palabras a mi mejor amiga</title>
+    <id>calibre:book:1082</id>
+    <updated>2023-11-20T08:26:24Z</updated>
+    <link href="../../Nekane%20Gonzalez/Palabras%20a%20mi%20mejor%20amiga%20%281082%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nekane%20Gonzalez/Palabras%20a%20mi%20mejor%20amiga%20%281082%29/Palabras%20a%20mi%20mejor%20amiga%20-%20Nekane%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>Nekane González</name>
+      <uri>../authors_0/authors_788_Page_1.xml</uri>
+    </author>
+    <published>2022-12-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>2023</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Un inspirador libro sobre lo importante de los mensajes que damos con nuestras palabras, especialmente las que usamos para hablarnos a nosotras mismas. Si las palabras crean realidades, construyamos una donde el mundo sea un lugar más amable. Sobre t...</summary>
+    <link href="../book_1/book_1082.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

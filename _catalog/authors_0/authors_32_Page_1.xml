@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Claudia Piñeiro</title>
+  <id>Calibre2opds:authors:32</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Claudia Piñeiro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <entry>
+    <title>Catedrales</title>
+    <id>calibre:book:40</id>
+    <updated>2023-01-17T10:23:42Z</updated>
+    <link href="../../Claudia%20Pineiro/Catedrales%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claudia%20Pineiro/Catedrales%20%2840%29/Catedrales%20-%20Claudia%20Pineiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="717 KB" />
+    <author>
+      <name>Claudia Piñeiro</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2020-02-06T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial Argentina</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hace treinta años, en un terreno baldío de un barrio tranquilo, apareció  descuartizado y quemado el cadáver de una adolescente. La investigación  se cerró sin culpables y su familia -de clase media educada, formal y  católica- silenciosamente se fue...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elena sabe</title>
+    <id>calibre:book:1723</id>
+    <updated>2024-08-08T04:59:22Z</updated>
+    <link href="../../Claudia%20Pineiro/Elena%20sabe%20%281723%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claudia%20Pineiro/Elena%20sabe%20%281723%29/Elena%20sabe%20-%20Claudia%20Pineiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="255 KB" />
+    <author>
+      <name>Claudia Piñeiro</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2015-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un relato que rompe el silencio y se pronuncia en alta voz sobre la libertad de elegir. Poco después de que Rita aparece muerta en la iglesia que suele frecuentar, la investigación se da por cerrada, y su madre es la única que no renuncia a esclarece...</summary>
+    <link href="../book_1/book_1723.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

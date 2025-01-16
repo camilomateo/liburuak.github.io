@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alejandra Beigbedere</title>
+  <id>Calibre2opds:authors:1768</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1768_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alejandra Beigbedere" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>Una pluma en el aire</title>
+    <id>calibre:book:2695</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/Una%20pluma%20en%20el%20aire%20-%20Alejandra%20Beigbedere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="757 KB" />
+    <author>
+      <name>Alejandra Beigbedere</name>
+      <uri>../authors_1/authors_1768_Page_1.xml</uri>
+    </author>
+    <published>2024-10-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El apasionante relato de la Argentinita, una mujer que quería bailar por encima de todo. Una oda al arte, a la amistad y a la libertad.El día en que la Argentinita sube por primera vez a un escenario, con tan solo cuatro años, descubre que bailar es ...</summary>
+    <link href="../book_2/book_2695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

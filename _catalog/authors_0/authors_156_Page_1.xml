@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elvira Lindo</title>
+  <id>Calibre2opds:authors:156</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elvira Lindo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <entry>
+    <title>30 maneras de quitarse el sombrero</title>
+    <id>calibre:book:229</id>
+    <updated>2023-01-27T00:04:02Z</updated>
+    <link href="../../Elvira%20Lindo/30%20maneras%20de%20quitarse%20el%20sombrero%20%28229%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elvira%20Lindo/30%20maneras%20de%20quitarse%20el%20sombrero%20%28229%29/30%20maneras%20de%20quitarse%20el%20sombr%20-%20Elvira%20Lindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Elvira Lindo</name>
+      <uri>../authors_0/authors_156_Page_1.xml</uri>
+    </author>
+    <published>2018-11-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En los años veinte, Maruja Mallo, Margarita Manso y Concha Méndez desafiaron las normas de la época al quitarse el sombrero en plena Puerta del Sol, haciendo de ese gesto un acto de desobediencia. Escritoras, pintoras, fotógrafas y creadoras de diver...</summary>
+    <link href="../book_0/book_229.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En la boca del lobo</title>
+    <id>calibre:book:637</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Elvira%20Lindo/En%20la%20boca%20del%20lobo%20%28637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elvira%20Lindo/En%20la%20boca%20del%20lobo%20%28637%29/En%20la%20boca%20del%20lobo%20-%20Elvira%20Lindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="598 KB" />
+    <author>
+      <name>Elvira Lindo</name>
+      <uri>../authors_0/authors_156_Page_1.xml</uri>
+    </author>
+    <published>2023-03-29T10:27:44Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las historias que compartimos pueden cambiar nuestro destino. Vuelve Elvira Lindo con una novela de suspense en la mejor tradición del cuento clásico. Julieta y su madre llegan a La Sabina a pasar las vacaciones. A sus once años esa aldea perdida le ...</summary>
+    <link href="../book_0/book_637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sam Christer</title>
+  <id>Calibre2opds:authors:22</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sam Christer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>En su nombre</title>
+    <id>calibre:book:25</id>
+    <updated>2023-01-17T10:15:46Z</updated>
+    <link href="../../Sam%20Christer/En%20su%20nombre%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sam%20Christer/En%20su%20nombre%20%2825%29/En%20su%20nombre%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sam Christer</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2021-09-30T05:48:41Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ha llegado por fin el momento de desvelar el secreto mejor guardado de la historia.  Nadie sabe de dónde procede la Sábana Santa ni cuándo fue creada. Pero el mayor misterio religioso del cristianismo alberga la clave para comprender los motivos de u...</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El legado de Stonehenge</title>
+    <id>calibre:book:74</id>
+    <updated>2023-01-21T01:46:46Z</updated>
+    <link href="../../Sam%20Christer/El%20legado%20de%20Stonehenge%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sam%20Christer/El%20legado%20de%20Stonehenge%20%2874%29/El%20legado%20de%20Stonehenge%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="604 KB" />
+    <author>
+      <name>Sam Christer</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2021-10-08T03:47:49Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Reino Unido, época actual. Ocho días antes del solsticio de verano, es hallado el cadáver de un hombre en los alrededores del monumento de Stonehenge. En la piel tiene las marcas de unos extraños símbolos. Unas horas más tarde, un famoso cazador de r...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

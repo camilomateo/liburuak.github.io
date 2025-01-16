@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Banville</title>
+  <id>Calibre2opds:authors:261</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_261_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Banville" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <entry>
+    <title>El libro de las pruebas</title>
+    <id>calibre:book:1170</id>
+    <updated>2024-01-25T08:51:59Z</updated>
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La perfecta introducción al universo Banville«Una novela sorprendente, perturbadora» (The New York Times Book Review), por el ganador del Premio Booker y del Premio Príncipe de Asturias de las Letras.Freddie Montgomery es un científico de talento exi...</summary>
+    <link href="../book_1/book_1170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las singularidades</title>
+    <id>calibre:book:366</id>
+    <updated>2023-02-27T01:47:50Z</updated>
+    <link href="../../John%20Banville/Las%20singularidades%20%28366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/Las%20singularidades%20%28366%29/Las%20singularidades%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2023-02-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«NUNCA PODRÉ VOLVER A ESCRIBIR UN LIBRO ASÍ. ES COMO TODOS MIS LIBROS UNIDOS EN UNO SOLO» La nueva novela del gran maestro irlandés, ganador de los premios Príncipe de Asturias, Man Booker y Franz Kafka, y «Nobel cercano si hay justicia» (Rodrigo Fre...</summary>
+    <link href="../book_0/book_366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía Montgomery</title>
+    <id>calibre:book:1169</id>
+    <updated>2024-01-25T08:51:59Z</updated>
+    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/Trilogia%20Montgomery%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="842 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2020-02-03T09:04:30Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En un único volumen dos novelas inéditas del Premio Príncipe de Asturias de las Letrasjunto a El libro de las pruebas. «Una gran obra en la que cada suave momento detona en voz bajapara mostrar un mortífero destello interior.»Don  DeLillo Esta trilog...</summary>
+    <link href="../book_1/book_1169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

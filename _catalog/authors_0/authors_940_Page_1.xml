@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tom Franklin</title>
+  <id>Calibre2opds:authors:940</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_940_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tom Franklin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>Smonk</title>
+    <id>calibre:book:1293</id>
+    <updated>2024-03-15T09:02:26Z</updated>
+    <link href="../../Tom%20Franklin/Smonk%20%281293%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Franklin/Smonk%20%281293%29/Smonk%20-%20Tom%20Franklin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="416 KB" />
+    <author>
+      <name>Tom Franklin</name>
+      <uri>../authors_0/authors_940_Page_1.xml</uri>
+    </author>
+    <published>2022-12-29T08:04:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Dirty Works</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Smonk odia a las cabras y a los irlandeses. Tiene un Winchester y gasta un bastón de empuñadura de marfil con una espada oculta. Lleva cuatro o cinco revólveres repartidos por la ropa, munición de sobra, cartuchos de dinamita y un cuchillo en una bot...</summary>
+    <link href="../book_1/book_1293.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

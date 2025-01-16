@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lucía Galán</title>
+  <id>Calibre2opds:authors:904</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_904_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lucía Galán" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Los virus no entran por los pies</title>
+    <id>calibre:book:1241</id>
+    <updated>2024-02-23T09:41:57Z</updated>
+    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/Los%20virus%20no%20entran%20por%20los%20pie%20-%20Lucia%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Lucía Galán</name>
+      <uri>../authors_0/authors_904_Page_1.xml</uri>
+    </author>
+    <published>2024-01-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Salud" />
+    <category term="Lang:es" />
+    <summary>«Aunque a priori te puedas sentir abrumado o abrumada por el exceso de información, te puedo asegurar que siempre es mejor saber que no saber, que el conocimiento no es solo poder, sino que es control y es calma. Y esto, en la maternidad y paternidad...</summary>
+    <link href="../book_1/book_1241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

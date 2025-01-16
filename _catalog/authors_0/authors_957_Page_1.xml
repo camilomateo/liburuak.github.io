@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Víctor Amela</title>
+  <id>Calibre2opds:authors:957</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_957_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Víctor Amela" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <entry>
+    <title>La hija del capitán Groc</title>
+    <id>calibre:book:1524</id>
+    <updated>2024-06-02T10:59:37Z</updated>
+    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/La%20hija%20del%20capitan%20Groc%20-%20Victor%20Amela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <author>
+      <name>Víctor Amela</name>
+      <uri>../authors_0/authors_957_Page_1.xml</uri>
+    </author>
+    <published>2016-05-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>Manuela Penarrocha tiene trece años. Sentada en una sillita baja de enea en el portal de su casa, cose las alpargatas como nadie. La niña de ojos grises y cabellos de oro recuerda a su padre. Él, como el resto de carlistas, hombre de alpargata, garro...</summary>
+    <link href="../book_1/book_1524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si yo me pierdo</title>
+    <id>calibre:book:1315</id>
+    <updated>2024-03-21T00:44:05Z</updated>
+    <link href="../../Victor%20Amela/Si%20yo%20me%20pierdo%20%281315%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Amela/Si%20yo%20me%20pierdo%20%281315%29/Si%20yo%20me%20pierdo%20-%20Victor%20Amela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Víctor Amela</name>
+      <uri>../authors_0/authors_957_Page_1.xml</uri>
+    </author>
+    <published>2022-10-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Federico García Lorca desembarcó en Cuba procedente de Nueva York en marzo de 1930, invitado por una semana. Pero discurrieron más de tres meses hasta que el poeta andaluz decidió volver a España, embriagado de música y belleza caribeñas, soneros y s...</summary>
+    <link href="../book_1/book_1315.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

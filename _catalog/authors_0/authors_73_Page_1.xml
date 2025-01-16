@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Robin Cook</title>
+  <id>Calibre2opds:authors:73</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Robin Cook" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <entry>
+    <title>Todos los libros de Robin Cook</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 4 libros</content>
+    <link href="../authors_0/authors_73_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Jack Stapleton &amp; Laurie Montgomery</title>
+    <id>Calibre2opds:authors:73series:156</id>
+    <content type="text">Turno de noche</content>
+    <link href="../authors_0/authors_73_series_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Nano</title>
+    <id>calibre:book:108</id>
+    <updated>2023-01-18T00:43:26Z</updated>
+    <link href="../../Robin%20Cook/Nano%20%28108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Cook/Nano%20%28108%29/Nano%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <author>
+      <name>Robin Cook</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Tras una experiencia traumática, Pia Grazdani ha decidido abandonar los estudios de medicina y dedicarse por completo a la investigación. Ahora trabaja en Nano, un instituto de nanotecnología enclavado en las montañas de Colorado y custodiado como un...</summary>
+    <link href="../book_0/book_108.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pandemia</title>
+    <id>calibre:book:261</id>
+    <updated>2023-02-02T09:06:36Z</updated>
+    <link href="../../Robin%20Cook/Pandemia%20%28261%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Cook/Pandemia%20%28261%29/Pandemia%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
+    <author>
+      <name>Robin Cook</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <published>2022-01-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El maestro del thriller médico vuelve con una explosiva novela sobre un virus mortal y sus oscuros orígenes. Cuando una joven aparentemente sana se desploma de repente en el metro de Nueva York y muere al llegar al hospital, su caso es atribuido a un...</summary>
+    <link href="../book_0/book_261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Virus mortal</title>
+    <id>calibre:book:395</id>
+    <updated>2023-03-09T00:08:56Z</updated>
+    <link href="../../Robin%20Cook/Virus%20mortal%20%28395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Cook/Virus%20mortal%20%28395%29/Virus%20mortal%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <author>
+      <name>Robin Cook</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <published>2023-03-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando una enfermedad desconocida y letal golpea a su familia y una despiadada compañía de seguros amenaza con arrebatárselo todo,el expolicía Brian Murphy decide defenderse.Un mosquito tigre pica a Emma Murphy durante una barbacoa en la playa, de va...</summary>
+    <link href="../book_0/book_395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

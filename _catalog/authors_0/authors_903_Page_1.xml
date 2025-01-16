@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Richard Smith</title>
+  <id>Calibre2opds:authors:903</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_903_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Richard Smith" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <entry>
+    <title>Cómo adelgazar follando</title>
+    <id>calibre:book:1240</id>
+    <updated>2024-02-23T09:41:57Z</updated>
+    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/Como%20adelgazar%20follando%20-%20Richard%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Richard Smith</name>
+      <uri>../authors_0/authors_903_Page_1.xml</uri>
+    </author>
+    <published>2017-03-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Salud" />
+    <category term="Lang:es" />
+    <summary>El manual más divertido para perder esos kilitos de más y tonificar todo tu cuerpo, en una nueva edición con ilustraciones de Aleix Saló, uno de los autores gráficos más transgresores del momento.¿Alguna vez te has planteado cuántas calorías pierdes ...</summary>
+    <link href="../book_1/book_1240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
