@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Biblioteca PruébaT</title>
+  <id>Calibre2opds::serieslist:Bseries:225</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_225_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Biblioteca PruébaT" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por B" />
+  <link href="./series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca PruébaT" />
+  <link href="../series_0/series_225_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 16)" />
+  <entry>
+    <title>31 - Meditaciones</title>
+    <id>calibre:book:1931</id>
+    <updated>2024-09-05T06:03:56Z</updated>
+    <link href="../../Marco%20Aurelio/Meditaciones%20%281931%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marco%20Aurelio/Meditaciones%20%281931%29/Meditaciones%20-%20Marco%20Aurelio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="177 KB" />
+    <author>
+      <name>Marco Aurelio</name>
+      <uri>../authors_1/authors_1378_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [31]:</summary>
+    <link href="../book_1/book_1931.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>32 - El Rey Arturo y los Caballeros de la Mesa Redonda</title>
+    <id>calibre:book:2025</id>
+    <updated>2024-09-06T01:57:47Z</updated>
+    <link href="../../Thomas%20Malory/El%20Rey%20Arturo%20y%20los%20Caballeros%20de%20l%20%282025%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thomas%20Malory/El%20Rey%20Arturo%20y%20los%20Caballeros%20de%20l%20%282025%29/El%20Rey%20Arturo%20y%20los%20Caballeros%20-%20Thomas%20Malory.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="342 KB" />
+    <author>
+      <name>Thomas Malory</name>
+      <uri>../authors_1/authors_1455_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [32]:</summary>
+    <link href="../book_2/book_2025.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>33 - Las aventuras de Pinocho</title>
+    <id>calibre:book:2100</id>
+    <updated>2024-09-06T02:09:22Z</updated>
+    <link href="../../Carlo%20Collodi/Las%20aventuras%20de%20Pinocho%20%282100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlo%20Collodi/Las%20aventuras%20de%20Pinocho%20%282100%29/Las%20aventuras%20de%20Pinocho%20-%20Carlo%20Collodi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="167 KB" />
+    <author>
+      <name>Carlo Collodi</name>
+      <uri>../authors_1/authors_1494_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [33]:</summary>
+    <link href="../book_2/book_2100.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>33 - Utopía</title>
+    <id>calibre:book:2548</id>
+    <updated>2024-09-09T10:35:06Z</updated>
+    <link href="../../Tomas%20Moro/Utopia%20%282548%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tomas%20Moro/Utopia%20%282548%29/Utopia%20-%20Tomas%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <author>
+      <name>Tomás Moro</name>
+      <uri>../authors_1/authors_1682_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Descripción" />
+    <category term="de" />
+    <category term="la" />
+    <category term="república" />
+    <category term="ficticia" />
+    <category term="isla" />
+    <category term="Utopía" />
+    <category term="Filosofía" />
+    <category term="Política" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [33]:</summary>
+    <link href="../book_2/book_2548.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>34 - La casa de Bernarda Alba</title>
+    <id>calibre:book:2193</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/La%20casa%20de%20Bernarda%20Alba%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Tragedia" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [34]:</summary>
+    <link href="../book_2/book_2193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>34 - Robin Hood</title>
+    <id>calibre:book:2546</id>
+    <updated>2024-09-09T10:35:06Z</updated>
+    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/Robin%20Hood%20-%20Sir%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="211 KB" />
+    <author>
+      <name>Sir Walter Scott</name>
+      <uri>../authors_1/authors_1681_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [34]:</summary>
+    <link href="../book_2/book_2546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>35 - Ana de las tejas verdes</title>
+    <id>calibre:book:2293</id>
+    <updated>2024-09-09T10:34:01Z</updated>
+    <link href="../../Rogelio%20Guerrero/Ana%20de%20las%20tejas%20verdes%20%282293%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rogelio%20Guerrero/Ana%20de%20las%20tejas%20verdes%20%282293%29/Ana%20de%20las%20tejas%20verdes%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="359 KB" />
+    <author>
+      <name>Rogelio Guerrero</name>
+      <uri>../authors_1/authors_1478_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [35]:</summary>
+    <link href="../book_2/book_2293.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>35 - La condena</title>
+    <id>calibre:book:2285</id>
+    <updated>2024-09-09T10:33:59Z</updated>
+    <link href="../../Franz%20Kafka/La%20condena%20%282285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Franz%20Kafka/La%20condena%20%282285%29/La%20condena%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="90 KB" />
+    <author>
+      <name>Franz Kafka</name>
+      <uri>../authors_1/authors_1575_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [35]:</summary>
+    <link href="../book_2/book_2285.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>36 - Los bandidos de Río Frío</title>
+    <id>calibre:book:2196</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Payno%2C%20Manuel/Los%20bandidos%20de%20Rio%20Frio%20%282196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Payno%2C%20Manuel/Los%20bandidos%20de%20Rio%20Frio%20%282196%29/Los%20bandidos%20de%20Rio%20Frio%20-%20Payno%2C%20Manuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Payno, Manuel</name>
+      <uri>../authors_1/authors_1554_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [36]:</summary>
+    <link href="../book_2/book_2196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>36 - La Galatea</title>
+    <id>calibre:book:2199</id>
+    <updated>2024-09-06T02:21:33Z</updated>
+    <link href="../../Cervantes/La%20Galatea%20%282199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cervantes/La%20Galatea%20%282199%29/La%20Galatea%20-%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="347 KB" />
+    <author>
+      <name>Cervantes</name>
+      <uri>../authors_1/authors_1555_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [36]:</summary>
+    <link href="../book_2/book_2199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>37 - El banquete</title>
+    <id>calibre:book:1962</id>
+    <updated>2024-09-05T06:10:26Z</updated>
+    <link href="../../Platon/El%20banquete%20%281962%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Platon/El%20banquete%20%281962%29/El%20banquete%20-%20Platon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <author>
+      <name>Platón</name>
+      <uri>../authors_0/authors_84_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [37]:</summary>
+    <link href="../book_1/book_1962.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>37 - Economía y sociedad</title>
+    <id>calibre:book:1966</id>
+    <updated>2024-09-05T06:10:27Z</updated>
+    <link href="../../Max%20Weber/Economia%20y%20sociedad%20%281966%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Weber/Economia%20y%20sociedad%20%281966%29/Economia%20y%20sociedad%20-%20Max%20Weber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="130 KB" />
+    <author>
+      <name>Max Weber</name>
+      <uri>../authors_1/authors_1408_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [37]:</summary>
+    <link href="../book_1/book_1966.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>38 - El baile</title>
+    <id>calibre:book:2299</id>
+    <updated>2024-09-09T10:34:02Z</updated>
+    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/El%20baile%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="83 KB" />
+    <author>
+      <name>Irène Némirovsky</name>
+      <uri>../authors_1/authors_1037_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [38]:</summary>
+    <link href="../book_2/book_2299.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>38 - Los sertones</title>
+    <id>calibre:book:2014</id>
+    <updated>2024-09-06T01:57:45Z</updated>
+    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/Los%20sertones%20-%20Euclides%20Da%20Cunha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="217 KB" />
+    <author>
+      <name>Euclides Da Cunha</name>
+      <uri>../authors_1/authors_1445_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [38]:</summary>
+    <link href="../book_2/book_2014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>39 - Fausto</title>
+    <id>calibre:book:2286</id>
+    <updated>2024-09-09T10:33:59Z</updated>
+    <link href="../../Goethe/Fausto%20%282286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Goethe/Fausto%20%282286%29/Fausto%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="328 KB" />
+    <author>
+      <name>Goethe</name>
+      <uri>../authors_1/authors_1598_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [39]:</summary>
+    <link href="../book_2/book_2286.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>40 - Atala</title>
+    <id>calibre:book:2012</id>
+    <updated>2024-09-06T01:57:45Z</updated>
+    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/Atala%20-%20Francois-Rene%20de%20Chateaubriand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="132 KB" />
+    <author>
+      <name>Francois-René de Chateaubriand</name>
+      <uri>../authors_1/authors_1443_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [40]:</summary>
+    <link href="../book_2/book_2012.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>40 - La mujer en la sociedad moderna</title>
+    <id>calibre:book:1943</id>
+    <updated>2024-09-05T06:03:58Z</updated>
+    <link href="../../Soledad%20Acosta%20de%20Samper/La%20mujer%20en%20la%20sociedad%20moderna%20%281943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Soledad%20Acosta%20de%20Samper/La%20mujer%20en%20la%20sociedad%20moderna%20%281943%29/La%20mujer%20en%20la%20sociedad%20moderna%20-%20Soledad%20Acosta%20de%20Samper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="323 KB" />
+    <author>
+      <name>Soledad Acosta de Samper</name>
+      <uri>../authors_1/authors_1388_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [40]:</summary>
+    <link href="../book_1/book_1943.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>41 - Camino de perfeccion</title>
+    <id>calibre:book:1944</id>
+    <updated>2024-09-05T06:03:58Z</updated>
+    <link href="../../Santa%20Teresa%20de%20Jesus/Camino%20de%20perfeccion%20%281944%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Santa%20Teresa%20de%20Jesus/Camino%20de%20perfeccion%20%281944%29/Camino%20de%20perfeccion%20-%20Santa%20Teresa%20de%20Jesus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="187 KB" />
+    <author>
+      <name>Santa Teresa de Jesus</name>
+      <uri>../authors_1/authors_1389_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [41]:</summary>
+    <link href="../book_1/book_1944.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>42 - Aforismos y sentencias</title>
+    <id>calibre:book:1967</id>
+    <updated>2024-09-05T06:10:27Z</updated>
+    <link href="../../Hipocrates/Aforismos%20y%20sentencias%20%281967%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hipocrates/Aforismos%20y%20sentencias%20%281967%29/Aforismos%20y%20sentencias%20-%20Hipocrates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <author>
+      <name>Hipócrates</name>
+      <uri>../authors_1/authors_1409_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [42]:</summary>
+    <link href="../book_1/book_1967.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>43 - Ejercicios espirituales</title>
+    <id>calibre:book:1945</id>
+    <updated>2024-09-05T06:03:59Z</updated>
+    <link href="../../Ignacio%20de%20Loyola/Ejercicios%20espirituales%20%281945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ignacio%20de%20Loyola/Ejercicios%20espirituales%20%281945%29/Ejercicios%20espirituales%20-%20Ignacio%20de%20Loyola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="136 KB" />
+    <author>
+      <name>Ignacio de Loyola</name>
+      <uri>../authors_1/authors_1390_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [43]:</summary>
+    <link href="../book_1/book_1945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>44 - Nana</title>
+    <id>calibre:book:2300</id>
+    <updated>2024-09-09T10:34:03Z</updated>
+    <link href="../../Emile%20Zola/Nana%20%282300%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emile%20Zola/Nana%20%282300%29/Nana%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <author>
+      <name>Émile Zola</name>
+      <uri>../authors_1/authors_1607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [44]:</summary>
+    <link href="../book_2/book_2300.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>45 - Bodas de sangre</title>
+    <id>calibre:book:2191</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/Bodas%20de%20sangre%20%282191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/Bodas%20de%20sangre%20%282191%29/Bodas%20de%20sangre%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="92 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [45]:</summary>
+    <link href="../book_2/book_2191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>46 - Cartas a un joven poeta</title>
+    <id>calibre:book:1946</id>
+    <updated>2024-09-05T06:03:59Z</updated>
+    <link href="../../Rainer%20Maria%20Rilke/Cartas%20a%20un%20joven%20poeta%20%281946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rainer%20Maria%20Rilke/Cartas%20a%20un%20joven%20poeta%20%281946%29/Cartas%20a%20un%20joven%20poeta%20-%20Rainer%20Maria%20Rilke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="94 KB" />
+    <author>
+      <name>Rainer Maria Rilke</name>
+      <uri>../authors_1/authors_1391_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [46]:</summary>
+    <link href="../book_1/book_1946.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>47 - David Copperfield</title>
+    <id>calibre:book:2304</id>
+    <updated>2024-09-09T10:34:03Z</updated>
+    <link href="../../Charles%20Dickens/David%20Copperfield%20%282304%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Dickens/David%20Copperfield%20%282304%29/David%20Copperfield%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="875 KB" />
+    <author>
+      <name>Charles Dickens</name>
+      <uri>../authors_1/authors_1370_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [47]:</summary>
+    <link href="../book_2/book_2304.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>48 - A la sombra de las muchachas en flor</title>
+    <id>calibre:book:2302</id>
+    <updated>2024-09-09T10:34:03Z</updated>
+    <link href="../../Marcel%20Proust/A%20la%20sombra%20de%20las%20muchachas%20en%20flo%20%282302%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcel%20Proust/A%20la%20sombra%20de%20las%20muchachas%20en%20flo%20%282302%29/A%20la%20sombra%20de%20las%20muchachas%20en%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="528 KB" />
+    <author>
+      <name>Marcel Proust</name>
+      <uri>../authors_1/authors_1608_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [48]:</summary>
+    <link href="../book_2/book_2302.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../series_0/series_225_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 16)" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
+  <link href="../series_0/series_225_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+</feed>

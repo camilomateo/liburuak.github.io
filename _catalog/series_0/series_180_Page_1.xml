@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Quirke</title>
+  <id>Calibre2opds::serieslist:Qseries:180</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_180_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Quirke" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por Q" />
+  <entry>
+    <title>5 - Venganza</title>
+    <id>calibre:book:1673</id>
+    <updated>2024-07-17T11:56:50Z</updated>
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/Venganza%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="289 KB" />
+    <author>
+      <name>Benjamin Black</name>
+      <uri>../authors_1/authors_1100_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Quirke" />
+    <summary>Quirke [5]: Los Delahaye y los Clancy comparten una historia de alianza y ambición que pasa de padres a hijos. Y ahora, también de muerte y preguntas sin respuesta: ¿Por qué Victor Delahaye iba a necesitar a un testigo para suicidarse? El doctor Quir...</summary>
+    <link href="../book_1/book_1673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - Las sombras de Quirke</title>
+    <id>calibre:book:1507</id>
+    <updated>2024-05-10T08:43:29Z</updated>
+    <link href="../../Benjamin%20Black/Las%20sombras%20de%20Quirke%20%281507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Black/Las%20sombras%20de%20Quirke%20%281507%29/Las%20sombras%20de%20Quirke%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="353 KB" />
+    <author>
+      <name>Benjamin Black</name>
+      <uri>../authors_1/authors_1100_Page_1.xml</uri>
+    </author>
+    <published>2017-02-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Quirke" />
+    <summary>Quirke [7]: El maestro irlandés y Premio Príncipe de Asturias sorprende con la mejor entrega de Black hasta la fecha.«La séptima entrega, Las sombras de Quirke, es tan magnífica como de costumbre. Si aún no ha conocido a Quirke, un patólogo alcohólic...</summary>
+    <link href="../book_1/book_1507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - Órdenes sagradas</title>
+    <id>calibre:book:1550</id>
+    <updated>2024-06-02T10:59:44Z</updated>
+    <link href="../../Benjamin%20Black/Ordenes%20sagradas%20%281550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Black/Ordenes%20sagradas%20%281550%29/Ordenes%20sagradas%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="323 KB" />
+    <author>
+      <name>Benjamin Black</name>
+      <uri>../authors_1/authors_1100_Page_1.xml</uri>
+    </author>
+    <published>2014-12-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Quirke" />
+    <summary>Quirke [7]: Tras el éxito de La rubia de ojos negros, llega «la más poderosa de las entregas de Quirke hasta la fecha.» John L. Murphy, PopMattersPremio Príncipe de Asturias de las Letras 2014 a John Banville por «su inteligente, honda y original cre...</summary>
+    <link href="../book_1/book_1550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

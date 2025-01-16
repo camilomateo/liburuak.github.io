@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Las hijas perdidas</title>
+  <id>Calibre2opds::serieslist:Lseries:65</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_65_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Las hijas perdidas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>1 - La hija italiana</title>
+    <id>calibre:book:514</id>
+    <updated>2023-04-05T00:40:00Z</updated>
+    <link href="../../Soraya%20Lane/La%20hija%20italiana%20%28514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Soraya%20Lane/La%20hija%20italiana%20%28514%29/La%20hija%20italiana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="846 KB" />
+    <author>
+      <name>Soraya Lane</name>
+      <uri>../authors_0/authors_379_Page_1.xml</uri>
+    </author>
+    <published>2023-03-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Las hijas perdidas" />
+    <summary>Las hijas perdidas [1]: Londres, en la actualidad: Lily, una joven enóloga inglesa a punto de viajar a Italia para trabajar en uno de los mejores viñedos del país, recibe una inesperada convocatoria de un despacho de abogados. Al acudir a la cita, de...</summary>
+    <link href="../book_0/book_514.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - La hija cubana</title>
+    <id>calibre:book:1436</id>
+    <updated>2024-04-20T05:13:31Z</updated>
+    <link href="../../Soraya%20Lane/La%20hija%20cubana%20%281436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Soraya%20Lane/La%20hija%20cubana%20%281436%29/La%20hija%20cubana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="827 KB" />
+    <author>
+      <name>Soraya Lane</name>
+      <uri>../authors_0/authors_379_Page_1.xml</uri>
+    </author>
+    <published>2024-04-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Las hijas perdidas" />
+    <summary>Las hijas perdidas [2]: LA ESPERADA SEGUNDA ENTREGA DE «LAS HIJAS PERDIDAS», LA SAGA QUE HA CONQUISTADO A LAS LECTORAS DE LUCINDA RILEY EN TODO EL MUNDOLa Habana, 1950. Como hija primogénita de una de las familias más poderosas de Cuba y considerada ...</summary>
+    <link href="../book_1/book_1436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Últimos dos meses</title>
+  <id>Calibre2opds:recent:TWOMONTHS</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_TWOMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos dos meses" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <link href="../recent/recent_TWOMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <entry>
+    <title>El secreto de Adela [11 de diciembre de 2024]</title>
+    <id>calibre:book:2739</id>
+    <updated>2024-12-11T08:34:19Z</updated>
+    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/El%20secreto%20de%20Adela%20-%20Mar%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="338 KB" />
+    <author>
+      <name>Mar Montilla</name>
+      <uri>../authors_1/authors_1793_Page_1.xml</uri>
+    </author>
+    <published>2024-06-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL EXTRAORDINARIO DEBUT DE LA NUEVA VOZ DE LA NOVELA HISTÓRICA ESPAÑOLA«Una novela sobre aquellas mujeres que se rebelaron contra el destino y encontraron su voz. Adela representa la fuerza que se esconde en todas nosotras.» Nieves Herrero, autora de...</summary>
+    <link href="../book_2/book_2739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El buen vasallo [11 de diciembre de 2024]</title>
+    <id>calibre:book:2737</id>
+    <updated>2024-12-11T08:34:18Z</updated>
+    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/El%20buen%20vasallo%20-%20Francisco%20Narla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Francisco Narla</name>
+      <uri>../authors_1/authors_1791_Page_1.xml</uri>
+    </author>
+    <published>2024-09-06T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hubo un tiempo en el que la península ibérica estaba inmersa en guerras constantes. Fueron siglos de batallas célebres, valientes gestas que los juglares luego cantaron por tabernas y plazas. Pero hay una historia que siempre callaron, quizá porque n...</summary>
+    <link href="../book_2/book_2737.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La eterna noche de los 43 [11 de diciembre de 2024]</title>
+    <id>calibre:book:2736</id>
+    <updated>2024-12-11T08:34:18Z</updated>
+    <link href="../../Miguel%20Angel%20Juarez%20Franco/La%20eterna%20noche%20de%20los%2043%20%282736%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Angel%20Juarez%20Franco/La%20eterna%20noche%20de%20los%2043%20%282736%29/La%20eterna%20noche%20de%20los%2043%20-%20Miguel%20Angel%20Juarez%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <author>
+      <name>Miguel Ángel Juárez Franco</name>
+      <uri>../authors_1/authors_1790_Page_1.xml</uri>
+    </author>
+    <published>2024-09-23T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Almuzara México</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>En la ciudad de Iguala, un pequeño pueblo mexicano del estado de Guerrero, un grupo de 43 jóvenes estudiantes desapareció en circunstancias misteriosas la noche del 26 al 27 de septiembre de 2014. El caso de los 43 va mucho más allá de una simple des...</summary>
+    <link href="../book_2/book_2736.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El secreto de la alondra [11 de diciembre de 2024]</title>
+    <id>calibre:book:2738</id>
+    <updated>2024-12-11T08:34:19Z</updated>
+    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/El%20secreto%20de%20la%20alondra%20-%20Fiona%20Valpy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <author>
+      <name>Fiona Valpy</name>
+      <uri>../authors_1/authors_1792_Page_1.xml</uri>
+    </author>
+    <published>2024-08-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros de Seda</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una aldea en las Tierras Altas que no es el lugar idílico que parecía; una joven que busca la felicidad; un pasado que atormentará a su hija. Loch Ewe, 1940. Flora vive en una remota aldea de montaña que, de un día para otro, se convierte en una base...</summary>
+    <link href="../book_2/book_2738.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las niñas del coro [11 de diciembre de 2024]</title>
+    <id>calibre:book:2735</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Patricia%20Gibney/Las%20ninas%20del%20coro%20%282735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Gibney/Las%20ninas%20del%20coro%20%282735%29/Las%20ninas%20del%20coro%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Patricia Gibney</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <published>2024-10-14T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Lottie Parker" />
+    <summary>Lottie Parker [13]: Allí se sentían seguras..., pero alguien quería acabar con ellas Se acerca la Navidad y la ciudad de Ragmullin está sepultada bajo un manto de nieve que ha obligado a cerrar las escuelas. Cuando la inspectora Lottie Parker recibe ...</summary>
+    <link href="../book_2/book_2735.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El país del atardecer dorado [11 de diciembre de 2024]</title>
+    <id>calibre:book:2734</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <author>
+      <name>Celia Santos</name>
+      <uri>../authors_1/authors_1789_Page_1.xml</uri>
+    </author>
+    <published>2024-10-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una historia de amor, exilio y esperanza en la Australia de los años sesenta. «Celia Santos sabe cómo emocionar al lector». Anika entre libros Octubre, 1961. Un avión repleto de mujeres despega de Madrid con destino a Australia. Ciento catorce almas,...</summary>
+    <link href="../book_2/book_2734.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En el centro del círculo [11 de diciembre de 2024]</title>
+    <id>calibre:book:2733</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <author>
+      <name>Arne Dahl</name>
+      <uri>../authors_1/authors_1788_Page_1.xml</uri>
+    </author>
+    <published>2024-09-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UNA TENSA NOVELA POLICÍACA SOBRE LA CAZA DE UN ACTIVISTA CLIMÁTICO CONVERTIDO EN ASESINO. «Arne Dahl demuestra una vez más que es uno de los mejores autores policíacos. No podrás dejar de leer esta novela». RUHR NACHRICHTEN (Alemania) «La novela de A...</summary>
+    <link href="../book_2/book_2733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La era de la revolución, 1789-1848 [11 de diciembre de 2024]</title>
+    <id>calibre:book:2730</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Eric Hobsbawm</name>
+      <uri>../authors_1/authors_1785_Page_1.xml</uri>
+    </author>
+    <published>1964-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>somosepub</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <category term="Las Eras" />
+    <summary>Las Eras [1]: La era de la revolución inicia el panorama de la historia contemporánea del mundo que Eric Hobsbawm comenzó con este libro y concluyó con su Historia del siglo XX. El gran historiador británico nos ofrece en esta obra, reconocida como u...</summary>
+    <link href="../book_2/book_2730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Únicas [11 de diciembre de 2024]</title>
+    <id>calibre:book:2731</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/Unicas%20-%20Alicia%20Vallina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Alicia Vallina</name>
+      <uri>../authors_1/authors_1786_Page_1.xml</uri>
+    </author>
+    <published>2024-09-19T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las apasionantes vidas de cincuenta mujeres olvidadas que construyeron la historia de España.  Una ilustradora antifascista, la pasión femenina de Lorca, la fusilera que fue azote de los franceses durante la guerra de la Independencia, la mejor trap...</summary>
+    <link href="../book_2/book_2731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alevosía [11 de diciembre de 2024]</title>
+    <id>calibre:book:2726</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="432 KB" />
+    <author>
+      <name>Pablo Illanes</name>
+      <uri>../authors_1/authors_1783_Page_1.xml</uri>
+    </author>
+    <published>2024-09-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Acción y aventura" />
+    <category term="Lang:es" />
+    <summary>La primera novela policial del creador de Perfil falso, la serie de habla no inglesa más vista de Netflix con más de 76 millones de visualizaciones
+
+La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá enfrentar a un psicópata...</summary>
+    <link href="../book_2/book_2726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando la persona tóxica eres tú [11 de diciembre de 2024]</title>
+    <id>calibre:book:2725</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/Cuando%20la%20persona%20toxica%20eres%20t%20-%20Juan%20Carlos%20Carrasco%20%28%40seraltam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juan Carlos Carrasco (@seraltamentesensible)</name>
+      <uri>../authors_1/authors_1782_Page_1.xml</uri>
+    </author>
+    <published>2024-07-24T03:16:39Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El método que te ayudará a sustituir los pensamientos negativos y automáticos por una mirada optimista y reflexiva hacia tu propio ser. ¿Te imaginas tener al lado a alguien que te menospreciara cada día, que señalara cada uno de tus defectos, que te ...</summary>
+    <link href="../book_2/book_2725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La invención de todas las cosas [11 de diciembre de 2024]</title>
+    <id>calibre:book:2727</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/La%20invencion%20de%20todas%20las%20cosas%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Jorge Volpi</name>
+      <uri>../authors_0/authors_168_Page_1.xml</uri>
+    </author>
+    <published>2024-09-30T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un viaje apasionante y original a la imaginación como origen y motor del mundoPor el ganador del Premio Alfaguara de novela, el Biblioteca Breve y el José Donoso«Un libro que atrapa, nos invita a explorar el mapa genético de nuestras ideas y nos devu...</summary>
+    <link href="../book_2/book_2727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El misterioso caso del impostor del Titanic [11 de diciembre de 2024]</title>
+    <id>calibre:book:2724</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/El%20misterioso%20caso%20del%20impostor%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carmen Posadas</name>
+      <uri>../authors_1/authors_1029_Page_1.xml</uri>
+    </author>
+    <published>2024-10-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
+    <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Solo queda silencio [11 de diciembre de 2024]</title>
+    <id>calibre:book:2729</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Txemi Parra</name>
+      <uri>../authors_1/authors_1784_Page_1.xml</uri>
+    </author>
+    <published>2024-10-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después de la nevada...Después de la confesión...Después de la muerte... SOLO QUEDA SILENCIO En Jaca, el Año Nuevo amanece con una tragedia: han hallado en el río el cadáver de Martín Blasco, un joven abogado. Su último mensaje constaba de una única ...</summary>
+    <link href="../book_2/book_2729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tercera víctima [11 de diciembre de 2024]</title>
+    <id>calibre:book:2728</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/La%20tercera%20victima%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="979 KB" />
+    <author>
+      <name>Lisa Gardner</name>
+      <uri>../authors_1/authors_1731_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un acto inenarrable ha destrozado la idílica localidad de Bakersville, en el estado de Oregón, y sus antaño pacíficos habitantes exigen una justicia rápida. Pero, aunque un niño ha confesado el horrendo crimen, las pruebas demuestran que podría no se...</summary>
+    <link href="../book_2/book_2728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Asesinato en la Academia [11 de diciembre de 2024]</title>
+    <id>calibre:book:2723</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20la%20Academia%20%282723%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20la%20Academia%20%282723%29/Asesinato%20en%20la%20Academia%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Escritor Tokenizado</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Olivia Wolf, una aspirante a inspectora, con un agudo ojo analítico y una rebeldía innata, se encuentra en el centro de la tormenta. Junto a su compañero Valentino, Olivia descubre un enigmático caballo de ajedrez que lleva a desenterrar secretos osc...</summary>
+    <link href="../book_2/book_2723.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El aprendiz [26 de noviembre de 2024]</title>
+    <id>calibre:book:2722</id>
+    <updated>2024-11-26T04:34:04Z</updated>
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/El%20aprendiz%20-%20Jon%20Echanove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="445 KB" />
+    <author>
+      <name>Jon Echanove</name>
+      <uri>../authors_1/authors_1781_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
+    <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una paz cruel [26 de noviembre de 2024]</title>
+    <id>calibre:book:2720</id>
+    <updated>2024-11-26T04:32:48Z</updated>
+    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/Una%20paz%20cruel%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
+    <author>
+      <name>Theodor Kallifatides</name>
+      <uri>../authors_0/authors_453_Page_1.xml</uri>
+    </author>
+    <published>2024-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las obras que encumbraron a Theodor Kallifatides como uno de los grandes escritores europeos de la segunda mitad del siglo XX fueron sus tres novelas Campesinos y señores (1973), El arado y la espada (1975) y Una paz cruel (1977), que ahora se traduc...</summary>
+    <link href="../book_2/book_2720.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El viento distante y otros relatos [26 de noviembre de 2024]</title>
+    <id>calibre:book:2721</id>
+    <updated>2024-11-26T04:32:49Z</updated>
+    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/El%20viento%20distante%20y%20otros%20rela%20-%20Jose%20Emilio%20Pacheco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>José Emilio Pacheco</name>
+      <uri>../authors_1/authors_1780_Page_1.xml</uri>
+    </author>
+    <published>2024-09-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta - México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una niña a quien un castigo del cielo convierte en tortuga y termina siendo la triste atracción de una feria, un parque de diversiones con elefantes que dan a luz a saltimbanquis, una cautiva emparedada en un monasterio, un sádico e infame revolucion...</summary>
+    <link href="../book_2/book_2721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Réquiem por todos los muertos [22 de noviembre de 2024]</title>
+    <id>calibre:book:2715</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/Requiem%20por%20todos%20los%20muertos%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="991 KB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>2024-09-18T06:41:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Negra" />
+    <category term="Lang:es" />
+    <category term="Inspector Morse" />
+    <summary>Inspector Morse [1]: Vuelve Endeavour Morse, el mítico inspector de la policía de Oxford.El inspector Morse podría haber estado de vacaciones en Grecia en lugar de investigando un caso que la policía ha descartado hace tiempo. Pero el brutal asesinat...</summary>
+    <link href="../book_2/book_2715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sangre no perdona [22 de noviembre de 2024]</title>
+    <id>calibre:book:2714</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/La%20sangre%20no%20perdona%20-%20Charlie%20Donlea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Charlie Donlea</name>
+      <uri>../authors_0/authors_59_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <summary>El sol se oculta en Sugar Beach, Santa Lucía, una de las playas más hermosas del Caribe. Él la espera en un pequeño mirador en la montaña, con dos copas de champagne listas, para celebrar el momento más feliz de su vida. No escucha los pasos a sus es...</summary>
+    <link href="../book_2/book_2714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Victoria [22 de noviembre de 2024]</title>
+    <id>calibre:book:2716</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Paloma%20Sanchez-Garnica/Victoria%20%282716%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paloma%20Sanchez-Garnica/Victoria%20%282716%29/Victoria%20-%20Paloma%20Sanchez-Garnica.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Paloma Sánchez-Garnica</name>
+      <uri>../authors_1/authors_1779_Page_1.xml</uri>
+    </author>
+    <published>2024-10-21T03:31:52Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Se enfrentaron al horror y lucharon contra la injusticia. Pero nada reconcilia más que el amor.Recién terminada la Segunda Guerra Mundial, en un Berlín arrasado y sin futuro aparente, Victoria sobrevive cantando cada noche en el club Kassandra. Pese ...</summary>
+    <link href="../book_2/book_2716.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Envidia [22 de noviembre de 2024]</title>
+    <id>calibre:book:2712</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/Envidia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="135 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <summary>Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límit...</summary>
+    <link href="../book_2/book_2712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un momento de ternura y de piedad [22 de noviembre de 2024]</title>
+    <id>calibre:book:2710</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Irene%20Cuevas/Un%20momento%20de%20ternura%20y%20de%20piedad%20%282710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Irene%20Cuevas/Un%20momento%20de%20ternura%20y%20de%20piedad%20%282710%29/Un%20momento%20de%20ternura%20y%20de%20pied%20-%20Irene%20Cuevas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="477 KB" />
+    <author>
+      <name>Irene Cuevas</name>
+      <uri>../authors_1/authors_1777_Page_1.xml</uri>
+    </author>
+    <published>2024-09-07T03:08:11Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>ASESINAR CON TERNURA NO ES IMPOSIBLE
+
+Un descubrimiento original y rompedor sobre el amor y la familia que devorarás en lo que dura una merienda
+
+«De momento, mi novela femenina favorita del año. Y la más inesperada».
+Pedro Almodóvar
+
+«Humor, intelig...</summary>
+    <link href="../book_2/book_2710.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todos los finales felices se parecen [22 de noviembre de 2024]</title>
+    <id>calibre:book:2713</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/Todos%20los%20finales%20felices%20se%20pa%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="401 KB" />
+    <author>
+      <name>Alberto García-Salido</name>
+      <uri>../authors_0/authors_277_Page_1.xml</uri>
+    </author>
+    <published>2024-03-20T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La segunda novela de Alberto García-Salido (@nopanaden). Una emotiva y divertida historia, con dosis de drama y de comedia de enredo, escrita con el pulso de la vida misma: a partir de aquellos momentos que no se pueden planear.La historia de Ismael ...</summary>
+    <link href="../book_2/book_2713.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

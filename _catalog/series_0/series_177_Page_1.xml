@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bruno Malatesta</title>
+  <id>Calibre2opds::serieslist:Bseries:177</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_177_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Bruno Malatesta" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por B" />
+  <entry>
+    <title>1 - Asesinato en el Rally Costa Brava</title>
+    <id>calibre:book:1482</id>
+    <updated>2024-04-30T05:13:18Z</updated>
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20el%20Rally%20Costa%20Brava%20%281482%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20el%20Rally%20Costa%20Brava%20%281482%29/Asesinato%20en%20el%20Rally%20Costa%20Bra%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="829 KB" />
+    <author>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
+    </author>
+    <published>2021-08-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Bruno Malatesta" />
+    <summary>Bruno Malatesta [1]: Una perpetua enemistad entre dos pilotos transciende a las pistas de rally, hasta chocar con sus intereses personales. La venganza y la inesperada traición convertirán una carrera destinada a proclamar el mejor piloto de Europa, ...</summary>
+    <link href="../book_1/book_1482.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

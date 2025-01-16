@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inspector Barbarotti</title>
+  <id>Calibre2opds::serieslist:Iseries:148</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_148_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspector Barbarotti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>2 - La raíz del mal</title>
+    <id>calibre:book:1412</id>
+    <updated>2024-04-08T05:23:24Z</updated>
+    <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/La%20raiz%20del%20mal%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="673 KB" />
+    <author>
+      <name>Håkan Nesser</name>
+      <uri>../authors_1/authors_1034_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T08:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Barbarotti" />
+    <summary>Inspector Barbarotti [2]:  El segundo caso del inspector Barbarotti. Una verdad mal enterrada siempre encuentra la forma de ver la luz. Bretaña, 2002. Seis turistas suecos se conocen por casualidad durante el verano. Dos parejas y dos solteros con po...</summary>
+    <link href="../book_1/book_1412.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Las dos vidas del señor Roos</title>
+    <id>calibre:book:1193</id>
+    <updated>2024-02-05T05:55:58Z</updated>
+    <link href="../../Hakan%20Nesser/Las%20dos%20vidas%20del%20senor%20Roos%20%281193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hakan%20Nesser/Las%20dos%20vidas%20del%20senor%20Roos%20%281193%29/Las%20dos%20vidas%20del%20senor%20Roos%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <author>
+      <name>Hakan Nesser</name>
+      <uri>../authors_0/authors_865_Page_1.xml</uri>
+    </author>
+    <published>2023-12-12T09:42:40Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Barbarotti" />
+    <summary>Inspector Barbarotti [3]: NO HUYAS. HASTA EN LO MÁS INHÓSPITO DEL BOSQUE TU PASADO TE ENCONTRARÁ.   El tercer caso del inspector Gunnar Barbarotti   «Una de las mejores creaciones de la literatura negra.» The New York Times  «El Padrino de la novela ...</summary>
+    <link href="../book_1/book_1193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

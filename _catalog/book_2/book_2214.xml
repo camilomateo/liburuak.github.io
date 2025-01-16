@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El Periquillo Sarniento</title>
+  <id>urn:book:ea179b5c-b040-43cc-9f4a-f5e6dc9d0e33</id>
+  <updated>2024-09-06T02:21:36Z</updated>
+  <link href="./book_2214.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El Periquillo Sarniento" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../../Jose%20Joaquin%20Fernandez%20de%20Lizardi/El%20Periquillo%20Sarniento%20%282214%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jose%20Joaquin%20Fernandez%20de%20Lizardi/El%20Periquillo%20Sarniento%20%282214%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jose%20Joaquin%20Fernandez%20de%20Lizardi/El%20Periquillo%20Sarniento%20%282214%29/El%20Periquillo%20Sarniento%20-%20Jose%20Joaquin%20Fernandez%20de%20Lizar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="724 KB" />
+  <author>
+    <name>José Joaquín Fernández de Lizardi</name>
+    <uri>../authors_1/authors_1563_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../authors_1/authors_1563_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Joaquín Fernández de Lizardi" />
+</entry>

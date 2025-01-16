@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>¡Vivir!</title>
+  <id>urn:book:91c27812-6f47-4deb-b610-d238c8474b60</id>
+  <updated>2024-09-09T10:34:24Z</updated>
+  <link href="./book_2404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="¡Vivir!" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authors_1/authors_1638_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ayn Rand" />
+  <link href="../../Ayn%20Rand/%21Vivir%21%20%282404%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Ayn%20Rand/%21Vivir%21%20%282404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Ayn%20Rand/%21Vivir%21%20%282404%29/%21Vivir%21%20-%20Ayn%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="112 KB" />
+  <author>
+    <name>Ayn Rand</name>
+    <uri>../authors_1/authors_1638_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Ciencia" />
+  <category term="Ficción" />
+  <category term="Didáctico" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 234 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencia, Ficción, Didáctico, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 234 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1638_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ayn Rand" />
+</entry>

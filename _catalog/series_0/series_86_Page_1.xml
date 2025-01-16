@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Camille Verhoeven</title>
+  <id>Calibre2opds::serieslist:Cseries:86</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_86_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Camille Verhoeven" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por C" />
+  <entry>
+    <title>1 - Irène</title>
+    <id>calibre:book:668</id>
+    <updated>2023-05-15T05:51:22Z</updated>
+    <link href="../../Pierre%20Lemaitre/Irene%20%28668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Irene%20%28668%29/Irene%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Camille Verhoeven" />
+    <summary>Camille Verhoeven [1]: El comandante Camille Verhoeven vive la vida perfecta: está casado con la maravillosa Irène, con la que espera su primer hijo. Pero su felicidad se resquebraja tras un asesinato inusualmente salvaje. Desde que la noticia se hac...</summary>
+    <link href="../book_0/book_668.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

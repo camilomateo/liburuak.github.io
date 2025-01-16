@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kraken</title>
+  <id>Calibre2opds::serieslist:Kseries:59</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kraken" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por K" />
+  <entry>
+    <title>2 - El ángel de la ciudad</title>
+    <id>calibre:book:489</id>
+    <updated>2023-04-01T02:01:56Z</updated>
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/El%20angel%20de%20la%20ciudad%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Eva García Sáenz de Urturi</name>
+      <uri>../authors_0/authors_362_Page_1.xml</uri>
+    </author>
+    <published>2023-03-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Kraken" />
+    <summary>Kraken [2]: En una Venecia rodeada de misterio, el inspector Kraken se enfrenta a la encrucijada más compleja de su vida: resolver el pasado o apostar por el futuro.Un espléndido y decadente palazzo arde en una pequeña isla veneciana donde se celebra...</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

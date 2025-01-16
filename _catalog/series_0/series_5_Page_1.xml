@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El cabo Holmes</title>
+  <id>Calibre2opds::serieslist:Eseries:5</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="El cabo Holmes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por E" />
+  <entry>
+    <title>8 - Doble crimen en Finisterre</title>
+    <id>calibre:book:23</id>
+    <updated>2023-01-17T10:14:36Z</updated>
+    <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/Doble%20crimen%20en%20Finisterre%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2021-12-09T02:18:54Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Kokapeli</dcterms:publisher>
+    <category term="Misterio" />
+    <category term="Lang:es" />
+    <category term="El cabo Holmes" />
+    <summary>El cabo Holmes [8]: Descubre por qué llaman Holmes a un guardia civil de las Rías Bajas. Doble crimen en Finisterre es la octava novela de la colección el cabo Holmes, con una nueva trama basada en un crimen que llevará al inteligente y metódico guar...</summary>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>10 - Al final del camino</title>
+    <id>calibre:book:1680</id>
+    <updated>2024-07-22T06:30:41Z</updated>
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2023-07-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Kokapeli Ediciones</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Crime" />
+    <category term="Lang:es" />
+    <category term="El cabo Holmes" />
+    <summary>El cabo Holmes [10]: El hijo de un negociante de diamantes de Amberes y su novia gallega deciden hacer el Camino de Santiago. Mientras se dan un paseo nocturno por la playa de Lires, la última etapa antes de llegar al cabo Finisterre, surgen de la os...</summary>
+    <link href="../book_1/book_1680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

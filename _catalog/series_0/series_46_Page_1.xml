@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los colores de la belleza</title>
+  <id>Calibre2opds::serieslist:Lseries:46</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los colores de la belleza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>3 - El triunfo de Sophia</title>
+    <id>calibre:book:374</id>
+    <updated>2023-03-03T08:31:28Z</updated>
+    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/El%20triunfo%20de%20Sophia%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="683 KB" />
+    <author>
+      <name>Corina Bomann</name>
+      <uri>../authors_0/authors_268_Page_1.xml</uri>
+    </author>
+    <published>2022-12-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los colores de la belleza" />
+    <summary>Los colores de la belleza [3]: El destino de Sophia se decide en la cautivadora última entrega de la trilogía best seller de Corina Bomann.Nueva York, 1934. Sophia se encuentra de nuevo en una encrucijada. Durante años, las dos emperatrices del maqui...</summary>
+    <link href="../book_0/book_374.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

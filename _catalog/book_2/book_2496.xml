@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Novela de ajedrez</title>
+  <id>urn:book:3b1d01b7-4660-420e-a3d3-b2e2234fa0cd</id>
+  <updated>2024-09-09T10:34:43Z</updated>
+  <link href="./book_2496.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Novela de ajedrez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/Novela%20de%20ajedrez%20-%20Stefan%20Zweig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+  <author>
+    <name>Stefan Zweig</name>
+    <uri>../authors_1/authors_1334_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:en
+    </p>
+  </content>
+  <link href="../authors_1/authors_1334_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stefan Zweig" />
+</entry>

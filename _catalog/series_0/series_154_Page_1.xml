@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inspector Rojo</title>
+  <id>Calibre2opds::serieslist:Iseries:154</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_154_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspector Rojo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>8 - El Laberinto del Diablo</title>
+    <id>calibre:book:1235</id>
+    <updated>2024-02-23T08:42:57Z</updated>
+    <link href="../../Pablo%20Poveda/El%20Laberinto%20del%20Diablo%20%281235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20Laberinto%20del%20Diablo%20%281235%29/El%20Laberinto%20del%20Diablo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-02-21T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Pablo Poveda Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Rojo" />
+    <summary>Inspector Rojo [8]:  Al filo del abismo, Rojo se enfrenta a lo que podría ser su final como policía.Terminar una partida… nunca fue tan difícil.Han pasado dos años desde que Rojo resolvió el caso más peligroso de su carrera. No obstante, la inquietan...</summary>
+    <link href="../book_1/book_1235.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>9 - Sombra en la Costa</title>
+    <id>calibre:book:2688</id>
+    <updated>2024-10-25T00:02:42Z</updated>
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-09-25T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspector Rojo" />
+    <summary>Inspector Rojo [9]: En una mañana de verano, los inspectores de homicidios Rojo y Agulló reciben la denuncia de una joven británica desaparecida en la costa de Alicante durante la noche de Hogueras.El caso de la desaparición se convierte en el inicio...</summary>
+    <link href="../book_2/book_2688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

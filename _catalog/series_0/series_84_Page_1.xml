@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los crímenes de Fjällbacka</title>
+  <id>Calibre2opds::serieslist:Lseries:84</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_84_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los crímenes de Fjällbacka" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>7 - Los vigilantes del faro</title>
+    <id>calibre:book:1398</id>
+    <updated>2024-04-08T02:39:41Z</updated>
+    <link href="../../Camilla%20Lackberg/Los%20vigilantes%20del%20faro%20%281398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/Los%20vigilantes%20del%20faro%20%281398%29/Los%20vigilantes%20del%20faro%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2013-05-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los crímenes de Fjällbacka" />
+    <summary>Los crímenes de Fjällbacka [7]: Una historia de antiguas leyendas y tragedias familiares entre la década de 1870 y la época actual. La novela más espectral de la serie Los crímenes de Fjällbacka (Novela negra)Desde que Patrik se ha reincorporado al t...</summary>
+    <link href="../book_1/book_1398.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>10 - La bruja</title>
+    <id>calibre:book:649</id>
+    <updated>2023-05-10T04:29:10Z</updated>
+    <link href="../../Camilla%20Lackberg/La%20bruja%20%28649%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/La%20bruja%20%28649%29/La%20bruja%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="716 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2018-05-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los crímenes de Fjällbacka" />
+    <summary>Los crímenes de Fjällbacka [10]: Nada es lo que parece.No te fíes del título ni de la portada.La última novela de Camilla Läckberg no es lo que parece.Resuelve el enigma de La bruja.Las cazas de brujas no son cosa del pasado.El enemigo no siempre es ...</summary>
+    <link href="../book_0/book_649.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

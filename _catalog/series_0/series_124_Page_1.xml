@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Gurney</title>
+  <id>Calibre2opds::serieslist:Dseries:124</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Gurney" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por D" />
+  <entry>
+    <title>3 - Deja en paz al diablo</title>
+    <id>calibre:book:1804</id>
+    <updated>2024-08-27T09:07:34Z</updated>
+    <link href="../../John%20Verdon/Deja%20en%20paz%20al%20diablo%20%281804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Verdon/Deja%20en%20paz%20al%20diablo%20%281804%29/Deja%20en%20paz%20al%20diablo%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="483 KB" />
+    <author>
+      <name>John Verdon</name>
+      <uri>../authors_0/authors_638_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="David Gurney" />
+    <summary>David Gurney [3]: Nada es nunca lo que parece. Y menos si David Gurney está involucrado. Han pasado seis meses. David Gurney apenas ha conseguido reincorporarse a una cierta normalidad después de haberse encontrado al borde de la muerte tras resolver...</summary>
+    <link href="../book_1/book_1804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Controlaré tus sueños</title>
+    <id>calibre:book:1006</id>
+    <updated>2023-08-27T03:13:06Z</updated>
+    <link href="../../John%20Verdon/Controlare%20tus%20suenos%20%281006%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Verdon/Controlare%20tus%20suenos%20%281006%29/Controlare%20tus%20suenos%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <author>
+      <name>John Verdon</name>
+      <uri>../authors_0/authors_638_Page_1.xml</uri>
+    </author>
+    <published>2015-09-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="David Gurney" />
+    <summary>David Gurney [4]:  ¿Cómo pueden tener el mismo sueño cuatro personas? ¿Por qué iban a suicidarse después de soñarlo? John Verdon, la gran sensación del thriller a escala internacional, ha vuelto con un nuevo libro que recordará a sus seguidores el ri...</summary>
+    <link href="../book_1/book_1006.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los Casos De Juan Urbano</title>
+  <id>Calibre2opds::serieslist:Lseries:198</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_198_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los Casos De Juan Urbano" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>7 - El anillo del general</title>
+    <id>calibre:book:1598</id>
+    <updated>2024-06-02T10:59:57Z</updated>
+    <link href="../../Benjamin%20Prado/El%20anillo%20del%20general%20%281598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Prado/El%20anillo%20del%20general%20%281598%29/El%20anillo%20del%20general%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="481 KB" />
+    <author>
+      <name>Benjamín Prado</name>
+      <uri>../authors_0/authors_459_Page_1.xml</uri>
+    </author>
+    <published>2024-05-16T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los Casos De Juan Urbano" />
+    <summary>Los Casos De Juan Urbano [7]: ¿SE PUEDE SENTIR PIEDAD POR QUIEN HA SIDO UN MONSTRUO?  Un nuevo caso de Juan Urbano entre la España de hoy y los años más oscuros del franquismo y la dictadura argentina.  «A mediocamino entre el Philip Marlowe de Chand...</summary>
+    <link href="../book_1/book_1598.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

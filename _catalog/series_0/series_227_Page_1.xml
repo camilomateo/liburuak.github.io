@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inspectora Elena Blanco</title>
+  <id>Calibre2opds::serieslist:Iseries:227</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_227_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspectora Elena Blanco" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>5 - El clan</title>
+    <id>calibre:book:2573</id>
+    <updated>2024-09-26T00:25:38Z</updated>
+    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/El%20clan%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <author>
+      <name>Carmen Mola</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2023-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Elena Blanco" />
+    <summary>Inspectora Elena Blanco [5]: Magnífica, brutal y enormemente adictiva, Carmen Mola se supera en el esperado desenlace de la serie Inspectora Elena Blanco.Cuando morir no importa, todo está permitido. Elena Blanco , inspectora de la Brigada de Análisi...</summary>
+    <link href="../book_2/book_2573.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

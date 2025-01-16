@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Georges Dupin</title>
+  <id>Calibre2opds::serieslist:Gseries:194</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Georges Dupin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por G" />
+  <entry>
+    <title>4 - Un cadáver en Port du Bélon</title>
+    <id>calibre:book:1578</id>
+    <updated>2024-06-02T10:59:52Z</updated>
+    <link href="../../Jean-Luc%20Bannalec/Un%20cadaver%20en%20Port%20du%20Belon%20%281578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Luc%20Bannalec/Un%20cadaver%20en%20Port%20du%20Belon%20%281578%29/Un%20cadaver%20en%20Port%20du%20Belon%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
+    <author>
+      <name>Jean-Luc Bannalec</name>
+      <uri>../authors_1/authors_1101_Page_1.xml</uri>
+    </author>
+    <published>2016-07-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Georges Dupin" />
+    <summary>Georges Dupin [4]: En Riec-sur-Bélon, entre acantilados, bosques mágicos y el Atlántico, el lugar donde se cultivan las mejores ostras del mundo, aparece un cadáver en un aparcamiento. Sin embargo, cuando la policía llega, el cuerpo ha desaparecido. ...</summary>
+    <link href="../book_1/book_1578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - El secreto de Île-de-Sein</title>
+    <id>calibre:book:1584</id>
+    <updated>2024-06-02T10:59:53Z</updated>
+    <link href="../../Jean-Luc%20Bannalec/El%20secreto%20de%20Ile-de-Sein%20%281584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Luc%20Bannalec/El%20secreto%20de%20Ile-de-Sein%20%281584%29/El%20secreto%20de%20Ile-de-Sein%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="448 KB" />
+    <author>
+      <name>Jean-Luc Bannalec</name>
+      <uri>../authors_1/authors_1101_Page_1.xml</uri>
+    </author>
+    <published>2017-06-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Georges Dupin" />
+    <summary>Georges Dupin [5]: El secreto de Île-de-Sein es el nuevo caso del comisario Dupin, el protagonista de la serie de novela policíaca que lleva vendidos más de 2.500.000 de ejemplares. Una pequeña isla bretona cargada de mitos, leyendas, secretos y muer...</summary>
+    <link href="../book_1/book_1584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

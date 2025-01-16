@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El libro del sepulturero</title>
+  <id>Calibre2opds::serieslist:Eseries:88</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="El libro del sepulturero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por E" />
+  <entry>
+    <title>2 - El sepulturero y la Tierra Negra</title>
+    <id>calibre:book:681</id>
+    <updated>2023-05-15T05:51:36Z</updated>
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/El%20sepulturero%20y%20la%20Tierra%20Negr%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="708 KB" />
+    <author>
+      <name>Oliver Pötzsch</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2023-05-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El libro del sepulturero" />
+    <summary>El libro del sepulturero [2]: El thriller histórico que triunfa en toda Europa.3.500.000 de lectores. Viena, 1894. En un sarcófago del Museo de Historia de la ciudad aparece, momificado, el cuerpo del profesor Alfons Strössner, uno de los mayores egi...</summary>
+    <link href="../book_0/book_681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

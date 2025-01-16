@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bevilacqua</title>
+  <id>Calibre2opds::serieslist:Bseries:7</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Bevilacqua" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por B" />
+  <entry>
+    <title>9 - Donde los escorpiones</title>
+    <id>calibre:book:31</id>
+    <updated>2023-01-17T10:18:56Z</updated>
+    <link href="../../Lorenzo%20Silva/Donde%20los%20escorpiones%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Donde%20los%20escorpiones%20%2831%29/Donde%20los%20escorpiones%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="591 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Bevilacqua" />
+    <summary>Bevilacqua [9]: Madrid, julio de 2014. Pasados los cincuenta, y ya con más pasado que futuro, el subteniente Bevilacqua, veterano investigador de homicidios de la unidad central de la Guardia Civil, recibe una llamada del responsable de operaciones i...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

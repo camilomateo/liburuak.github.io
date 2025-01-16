@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Crímenes en tierras violentas</title>
+  <id>Calibre2opds::serieslist:Cseries:219</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_219_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Crímenes en tierras violentas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por C" />
+  <entry>
+    <title>1 - Fama y muerte</title>
+    <id>calibre:book:1791</id>
+    <updated>2024-08-26T10:56:16Z</updated>
+    <link href="../../Raul%20Garbantes/Fama%20y%20muerte%20%281791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Fama%20y%20muerte%20%281791%29/Fama%20y%20muerte%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="328 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes en tierras violentas" />
+    <summary>Crímenes en tierras violentas [1]: Una inspectora principiante con aspiraciones.Un inspector veterano adicto al alcohol y las drogas.Su trabajo en conjunto será la única esperanza para resolver un atróz crimen.Una mujer es encontrada sin vida en el T...</summary>
+    <link href="../book_1/book_1791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Lealtad y sangre</title>
+    <id>calibre:book:1800</id>
+    <updated>2024-08-26T10:56:18Z</updated>
+    <link href="../../Raul%20Garbantes/Lealtad%20y%20sangre%20%281800%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Lealtad%20y%20sangre%20%281800%29/Lealtad%20y%20sangre%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="374 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes en tierras violentas" />
+    <summary>Crímenes en tierras violentas [3]: Mujeres policías son víctimas de asesinatos.Una familia con un pasado oscuro.¿Podrán Aneth y Goya atar cabos y evitar que siga esta terrible ola de homicidios?Cuando la inspectora Aneth Castillo descubre que su mejo...</summary>
+    <link href="../book_1/book_1800.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

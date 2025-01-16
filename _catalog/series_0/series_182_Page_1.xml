@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los crímenes del Piamonte</title>
+  <id>Calibre2opds::serieslist:Lseries:182</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_182_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los crímenes del Piamonte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>3 - Pura rabia</title>
+    <id>calibre:book:1514</id>
+    <updated>2024-05-22T06:46:45Z</updated>
+    <link href="../../Davide%20Longo/Pura%20rabia%20%281514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Davide%20Longo/Pura%20rabia%20%281514%29/Pura%20rabia%20-%20Davide%20Longo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="915 KB" />
+    <author>
+      <name>Davide Longo</name>
+      <uri>../authors_0/authors_368_Page_1.xml</uri>
+    </author>
+    <published>2024-05-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <category term="Los crímenes del Piamonte" />
+    <summary>Los crímenes del Piamonte [3]: No te pierdas el nuevo caso de la serie Los crímenes del Piamonte. «Uno de los grandes valores de la nueva novela negra italiana.» Juan Carlos Galindo, El País «Una serie redonda, entretenida, ambiciosa y adictiva.» Aho...</summary>
+    <link href="../book_1/book_1514.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

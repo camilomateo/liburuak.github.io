@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los Lejongärd</title>
+  <id>Calibre2opds::serieslist:Lseries:111</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los Lejongärd" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>3 - La promesa de Solveig</title>
+    <id>calibre:book:903</id>
+    <updated>2023-06-26T05:25:18Z</updated>
+    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/La%20promesa%20de%20Solveig%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="682 KB" />
+    <author>
+      <name>Corina Bomann</name>
+      <uri>../authors_0/authors_268_Page_1.xml</uri>
+    </author>
+    <published>2023-06-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los Lejongärd" />
+    <summary>Los Lejongärd [3]: Solveig, la tercera generación de las mujeres Lejongård, no solo debe superar un duro golpe del destino, sino también luchar con firmeza por la supervivencia de su amada finca. En diciembre de 1967, Solveig, la hija de Matilda, una...</summary>
+    <link href="../book_0/book_903.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

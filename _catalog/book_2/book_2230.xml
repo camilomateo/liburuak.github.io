@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Poemas</title>
+  <id>urn:book:b97813f3-d1b6-43b1-a482-6dcef77c2809</id>
+  <updated>2024-09-06T02:21:49Z</updated>
+  <link href="./book_2230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Poemas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authors_1/authors_1571_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="José María Eguren" />
+  <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/Poemas%20-%20Jose%20Maria%20Eguren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="71 KB" />
+  <author>
+    <name>José María Eguren</name>
+    <uri>../authors_1/authors_1571_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 58 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 58 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1571_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José María Eguren" />
+</entry>

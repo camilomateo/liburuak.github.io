@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jack Reacher</title>
+  <id>Calibre2opds::serieslist:Jseries:38</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jack Reacher" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por J" />
+  <entry>
+    <title>6 - Sin fallos</title>
+    <id>calibre:book:318</id>
+    <updated>2023-02-16T08:42:28Z</updated>
+    <link href="../../Lee%20Child/Sin%20fallos%20%28318%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/Sin%20fallos%20%28318%29/Sin%20fallos%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../authors_0/authors_224_Page_1.xml</uri>
+    </author>
+    <published>2022-11-30T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Blatt &amp; Ríos</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jack Reacher" />
+    <summary>Jack Reacher [6]: Se acerca el invierno y a Jack Reacher lo buscan desde el corazón mismo del poder: el Servicio Secreto de los Estados Unidos lo necesita. La misión es tan secreta como urgente, y el más mínimo fallo puede poner en riesgo la democrac...</summary>
+    <link href="../book_0/book_318.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - El inductor</title>
+    <id>calibre:book:2622</id>
+    <updated>2024-09-20T02:10:30Z</updated>
+    <link href="../../Lee%20Child/El%20inductor%20%282622%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/El%20inductor%20%282622%29/El%20inductor%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../authors_0/authors_224_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Jack Reacher" />
+    <summary>Jack Reacher [7]: Clandestino: sin duda la situación más solitaria y vulnerable para trabajar. Sin embargo, Jack Reacher está dispuesto a actuar en esas condiciones cuando un equipo extraoficial de la DEA le propone una misión de alto riesgo. Reputad...</summary>
+    <link href="../book_2/book_2622.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>13 - Mañana no estás</title>
+    <id>calibre:book:651</id>
+    <updated>2023-05-10T04:29:12Z</updated>
+    <link href="../../Lee%20Child/Manana%20no%20estas%20%28651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/Manana%20no%20estas%20%28651%29/Manana%20no%20estas%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../authors_0/authors_224_Page_1.xml</uri>
+    </author>
+    <published>2020-07-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Blatt &amp; Ríos</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Jack Reacher" />
+    <summary>Jack Reacher [13]: Dos de la mañana en el metro de Nueva York, primera década del siglo XXI. En la ciudad está vivo el recuerdo del ataque a las Torres Gemelas. Jack Reacher y cinco pasajeros en un vagón. Algo no va bien con uno de ellos: cumple con ...</summary>
+    <link href="../book_0/book_651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

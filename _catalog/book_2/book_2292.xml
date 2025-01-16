@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Diario de un seductor</title>
+  <id>urn:book:dd21d7fe-b9a6-4e12-ab5c-c694c3a4c82e</id>
+  <updated>2024-09-09T10:34:01Z</updated>
+  <link href="./book_2292.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Diario de un seductor" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authors_1/authors_1601_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sören Kierkegaard" />
+  <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/Diario%20de%20un%20seductor%20-%20Soren%20Kierkegaard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="166 KB" />
+  <author>
+    <name>Sören Kierkegaard</name>
+    <uri>../authors_1/authors_1601_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Relato" />
+  <category term="Romántico" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 20 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Relato, Romántico, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 20 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1601_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Sören Kierkegaard" />
+</entry>

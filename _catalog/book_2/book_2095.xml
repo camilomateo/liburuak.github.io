@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The snow Queen</title>
+  <id>urn:book:3370250c-6ad6-46a9-9e39-b9c12f9668be</id>
+  <updated>2024-09-06T02:09:12Z</updated>
+  <link href="./book_2095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The snow Queen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+  <author>
+    <name>H. C. Andersen</name>
+    <uri>../authors_1/authors_1491_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Fairy" />
+  <category term="tales" />
+  <category term="--" />
+  <category term="Denmark" />
+  <category term="Children's" />
+  <category term="Stories" />
+  <category term="Danish" />
+  <category term="Translations" />
+  <category term="into" />
+  <category term="English" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fairy, tales, --, Denmark, Children's, Stories, Danish, Translations, into, English, Lang:en
+    </p>
+  </content>
+  <link href="../authors_1/authors_1491_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de H. C. Andersen" />
+</entry>

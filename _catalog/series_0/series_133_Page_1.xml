@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inspector Dolores Morales</title>
+  <id>Calibre2opds::serieslist:Iseries:133</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspector Dolores Morales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>3 - Tongolele no sabia bailar</title>
+    <id>calibre:book:1086</id>
+    <updated>2023-12-12T08:20:57Z</updated>
+    <link href="../../Sergio%20Ramirez/Tongolele%20no%20sabia%20bailar%20%281086%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sergio%20Ramirez/Tongolele%20no%20sabia%20bailar%20%281086%29/Tongolele%20no%20sabia%20bailar%20-%20Sergio%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <author>
+      <name>Sergio Ramirez</name>
+      <uri>../authors_0/authors_790_Page_1.xml</uri>
+    </author>
+    <published>2021-05-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Dolores Morales" />
+    <summary>Inspector Dolores Morales [3]: «El que hace sombra, pierde el cuerpo y pierde la sombra -dijo Lord Dixon-. Apunte esa frase, camarada, que es de mi propia cosecha.»Estamos en pleno siglo XXI, en una Nicaragua en la que se están viviendo unas revuelta...</summary>
+    <link href="../book_1/book_1086.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

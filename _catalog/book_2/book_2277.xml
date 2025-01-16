@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Ilíada</title>
+  <id>urn:book:a5bdaecd-0f2b-4421-a1c9-4dd7eca4ac72</id>
+  <updated>2024-09-09T10:33:58Z</updated>
+  <link href="./book_2277.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Ilíada" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authors_1/authors_1576_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Homero" />
+  <link href="../../Homero/La%20Iliada%20%282277%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Homero/La%20Iliada%20%282277%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Homero/La%20Iliada%20%282277%29/La%20Iliada%20-%20Homero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="420 KB" />
+  <author>
+    <name>Homero</name>
+    <uri>../authors_1/authors_1576_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>enap</dcterms:publisher>
+  <category term="Clásico" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Clásico, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1576_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Homero" />
+</entry>

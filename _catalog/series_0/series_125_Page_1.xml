@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Subjefe Rocco Schiavone</title>
+  <id>Calibre2opds::serieslist:Sseries:125</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Subjefe Rocco Schiavone" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por S" />
+  <entry>
+    <title>6 - Polvo y sombra</title>
+    <id>calibre:book:1030</id>
+    <updated>2023-10-20T10:25:40Z</updated>
+    <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/Polvo%20y%20sombra%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="528 KB" />
+    <author>
+      <name>Antonio Manzini</name>
+      <uri>../authors_0/authors_760_Page_1.xml</uri>
+    </author>
+    <published>2020-01-23T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Subjefe Rocco Schiavone" />
+    <summary>Subjefe Rocco Schiavone [6]: El buen tiempo no acaba de llegar a Aosta y el subjefe Rocco Schiavone tiene que lidiar con dos crímenes mientras repasa latín con Gabriele, el vecino adolescente cuya madre nunca está en casa. El cadáver de una transexua...</summary>
+    <link href="../book_1/book_1030.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>8 - No más apuestas</title>
+    <id>calibre:book:1596</id>
+    <updated>2024-06-02T10:59:57Z</updated>
+    <link href="../../Antonio%20Manzini/No%20mas%20apuestas%20%281596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Manzini/No%20mas%20apuestas%20%281596%29/No%20mas%20apuestas%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="411 KB" />
+    <author>
+      <name>Antonio Manzini</name>
+      <uri>../authors_0/authors_760_Page_1.xml</uri>
+    </author>
+    <published>2024-05-16T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Subjefe Rocco Schiavone" />
+    <summary>Subjefe Rocco Schiavone [8]: Un caso lleno de pasiones, crímenes y vicios inconfesables. Vuelve Rocco Schiavone, el subjefe políticamente más incorrectoMientras Rocco Schiavone sigue sin tener clara la identidad del asesino de Romano Favre, inspector...</summary>
+    <link href="../book_1/book_1596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

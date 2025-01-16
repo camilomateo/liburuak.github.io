@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los libros de puerto escondido</title>
+  <id>Calibre2opds::serieslist:Lseries:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los libros de puerto escondido" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>1 - Donde fuimos invencibles</title>
+    <id>calibre:book:777</id>
+    <updated>2023-05-25T01:32:58Z</updated>
+    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/Donde%20fuimos%20invencibles%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2018-04-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los libros de puerto escondido" />
+    <summary>Los libros de puerto escondido [1]: El verano está terminando y la teniente Valentina Redondo está contando los días para empezar sus vacaciones. Pero algo insólito sucede en el centro mismo del pueblo costero de Suances: el jardinero del antiguo Pal...</summary>
+    <link href="../book_0/book_777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1 - Puerto escondido</title>
+    <id>calibre:book:14</id>
+    <updated>2023-01-17T10:10:00Z</updated>
+    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/Puerto%20escondido%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2015-07-20T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los libros de puerto escondido" />
+    <summary>Los libros de puerto escondido [1]: Oliver, un joven londinense con una peculiar situación familiar y una triste pérdida, hereda una casona colonial, Villa Marina, a pie de playa en el pueblecito costero de Suances, en Cantabria. En las obras de remo...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

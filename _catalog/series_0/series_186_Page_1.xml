@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La tapadera</title>
+  <id>Calibre2opds::serieslist:Lseries:186</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_186_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="La tapadera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por L" />
+  <entry>
+    <title>2 - El intercambio</title>
+    <id>calibre:book:1535</id>
+    <updated>2024-06-02T10:59:41Z</updated>
+    <link href="../../John%20Grisham/El%20intercambio%20%281535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/El%20intercambio%20%281535%29/El%20intercambio%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="627 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2024-04-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La tapadera" />
+    <summary>La tapadera [2]: Hacequince años burló a la mafia y salió con vida. ¿Qué fue del abogado Mitch McDeere?
+El protagonista del icónico thrillerLA TAPADERAregresa en una novela aún más trepidante.
+«La secuela más ansiosamente esperada de la última década...</summary>
+    <link href="../book_1/book_1535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

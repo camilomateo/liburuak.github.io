@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inspector Morse</title>
+  <id>Calibre2opds::serieslist:Iseries:215</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_215_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspector Morse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>1 - Réquiem por todos los muertos</title>
+    <id>calibre:book:2715</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/Requiem%20por%20todos%20los%20muertos%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="991 KB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>2024-09-18T06:41:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Negra" />
+    <category term="Lang:es" />
+    <category term="Inspector Morse" />
+    <summary>Inspector Morse [1]: Vuelve Endeavour Morse, el mítico inspector de la policía de Oxford.El inspector Morse podría haber estado de vacaciones en Grecia en lugar de investigando un caso que la policía ha descartado hace tiempo. Pero el brutal asesinat...</summary>
+    <link href="../book_2/book_2715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - El mundo silencioso de Nicholas Quinn</title>
+    <id>calibre:book:1777</id>
+    <updated>2024-08-26T10:56:13Z</updated>
+    <link href="../../Colin%20Dexter/El%20mundo%20silencioso%20de%20Nicholas%20Qui%20%281777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/El%20mundo%20silencioso%20de%20Nicholas%20Qui%20%281777%29/El%20mundo%20silencioso%20de%20Nicholas%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>1999-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Inspector Morse" />
+    <summary>Inspector Morse [3]: Una dosis letal de cianuro pone fin a la vida de un hombre. Y a la vez es el punto de partida de un laberíntico caso para el inspector Morse. La víctima, un profesor sordo, acababa de ser asignado a un cómodo cargo universitario,...</summary>
+    <link href="../book_1/book_1777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

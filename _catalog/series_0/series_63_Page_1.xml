@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Miren Triggs</title>
+  <id>Calibre2opds::serieslist:Mseries:63</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_63_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Miren Triggs" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por M" />
+  <entry>
+    <title>1 - La chica de nieve</title>
+    <id>calibre:book:512</id>
+    <updated>2023-04-05T00:39:58Z</updated>
+    <link href="../../Javier%20Castillo/La%20chica%20de%20nieve%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Castillo/La%20chica%20de%20nieve%20%28512%29/La%20chica%20de%20nieve%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Javier Castillo</name>
+      <uri>../authors_0/authors_165_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Miren Triggs" />
+    <summary>Miren Triggs [1]: La novela más leída del confinamiento.El thriller perfecto que cambia las reglas del género.El desfile más famoso del planeta.Una niña de tres años desaparecida.¿Dónde está Kiera Templeton?Nueva York, 1998, cabalgata de Acción de Gr...</summary>
+    <link href="../book_0/book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - La grieta del silencio</title>
+    <id>calibre:book:1430</id>
+    <updated>2024-04-20T05:13:29Z</updated>
+    <link href="../../Javier%20Castillo/La%20grieta%20del%20silencio%20%281430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Castillo/La%20grieta%20del%20silencio%20%281430%29/La%20grieta%20del%20silencio%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="477 KB" />
+    <author>
+      <name>Javier Castillo</name>
+      <uri>../authors_0/authors_165_Page_1.xml</uri>
+    </author>
+    <published>2024-04-15T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Miren Triggs" />
+    <summary>Miren Triggs [3]: Un niño de siete años desaparecido Un misterio silenciado durante treinta años ¿Que sucedió con Daniel Miller? Staten Island, 1981. La bicicleta de Daniel Miller aparece abandonada en las inmediaciones de su casa. No hay rastro del ...</summary>
+    <link href="../book_1/book_1430.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

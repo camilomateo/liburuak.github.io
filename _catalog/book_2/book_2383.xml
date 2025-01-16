@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Las penas del joven Werther</title>
+  <id>urn:book:d1c099c6-146b-4da6-8039-e5ce1dc8caca</id>
+  <updated>2024-09-09T10:34:20Z</updated>
+  <link href="./book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las penas del joven Werther" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authors_1/authors_1598_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Goethe" />
+  <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+  <author>
+    <name>Goethe</name>
+    <uri>../authors_1/authors_1598_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Drama" />
+  <category term="Psicológico" />
+  <category term="Romántico" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 199 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Drama, Psicológico, Romántico, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 199 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1598_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Goethe" />
+</entry>

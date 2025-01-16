@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Un Misterio de Avery Black</title>
+  <id>Calibre2opds::serieslist:Useries:16</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Un Misterio de Avery Black" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por U" />
+  <entry>
+    <title>6 - Una razón para aterrarse</title>
+    <id>calibre:book:81</id>
+    <updated>2023-01-18T00:02:46Z</updated>
+    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/Una%20razon%20para%20aterrarse%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <author>
+      <name>Blake Pierce</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Un Misterio de Avery Black" />
+    <summary>Un Misterio de Avery Black [6]: Una mujer aparece muerta en el clóset de su propio apartamento, su cuerpo cubierto de arañas venenosas, lo cual deja a la policía de Boston desconcertada. Dado que todas las pistas han llevado a callejones sin salidas,...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El profesor</title>
+  <id>Calibre2opds::serieslist:Eseries:226</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_226_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="El profesor" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por E" />
+  <entry>
+    <title>1 - El profesor</title>
+    <id>calibre:book:2572</id>
+    <updated>2024-09-11T03:29:01Z</updated>
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2015-07-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [1]: León es un joven profesor de literatura en el Liceum Copernicus de Varsovia. Destrozado por su ruptura sentimental, el As de corazones compagina su trabajo con su sueño de convertirse en escritor. Mientras se divierte con otras mujer...</summary>
+    <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El aprendiz</title>
+    <id>calibre:book:2588</id>
+    <updated>2024-09-12T03:39:19Z</updated>
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2016-09-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
+    <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

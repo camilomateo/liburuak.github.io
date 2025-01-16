@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Antonia Scott</title>
+  <id>Calibre2opds::serieslist:Aseries:69</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_69_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Antonia Scott" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por A" />
+  <entry>
+    <title>1 - La reina roja</title>
+    <id>calibre:book:535</id>
+    <updated>2023-04-05T00:40:16Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="848 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2018-11-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Antonia Scott" />
+    <summary>Antonia Scott [1]: Antonia Scott es una mujer muy especial. Tiene un don que es al mismo tiempo una maldición: una extraordinaria inteligencia. Gracias a ella ha salvado decenas de vidas, pero también lo ha perdido todo. Hoy se parapeta contra el mun...</summary>
+    <link href="../book_0/book_535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Rey blanco</title>
+    <id>calibre:book:539</id>
+    <updated>2023-04-06T09:50:06Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/Rey%20blanco%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="610 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2020-11-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Antonia Scott" />
+    <summary>Antonia Scott [3]: ESPERO QUE NO TE HA YAS OLVIDADO DE MÍ.¿JUGAMOS?Cuando Antonia Scott recibe este mensaje, sabe muy bien quién se lo envía. También sabe que ese juego es casi imposible de ganar. Pero a Antonia no le gusta perder.Después de todo est...</summary>
+    <link href="../book_0/book_539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

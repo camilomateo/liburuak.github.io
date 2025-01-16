@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Serie Falcó</title>
+  <id>Calibre2opds::serieslist:Sseries:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Serie Falcó" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por S" />
+  <entry>
+    <title>3 - Sabotaje</title>
+    <id>calibre:book:43</id>
+    <updated>2023-01-17T10:25:12Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Sabotaje%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Sabotaje%20%2843%29/Sabotaje%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="584 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2018-10-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Serie Falcó" />
+    <summary>Serie Falcó [3]: ¿Es el Guernica que conocemos el verdadero cuadro que pintó Picasso?  ¿Qué hacía Falcó en París en la primavera de 1937?  ARTURO PÉREZ-REVERTE Y LORENZO FALCÓ: UNA HISTORIA DE SABOTAJE. «La luz declinante de la ventana y su efecto óp...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

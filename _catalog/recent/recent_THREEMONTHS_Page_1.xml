@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Últimos tres meses</title>
+  <id>Calibre2opds:recent:THREEMONTHS</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos tres meses" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <link href="../recent/recent_THREEMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 3)" />
+  <entry>
+    <title>Persiguiendo a Bécquer [15 de noviembre de 2024]</title>
+    <id>calibre:book:2708</id>
+    <updated>2024-11-15T04:07:05Z</updated>
+    <link href="../../Miguel%20Lago/Persiguiendo%20a%20Becquer%20%282708%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Lago/Persiguiendo%20a%20Becquer%20%282708%29/Persiguiendo%20a%20Becquer%20-%20Miguel%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <author>
+      <name>Miguel Lago</name>
+      <uri>../authors_1/authors_1775_Page_1.xml</uri>
+    </author>
+    <published>2024-09-26T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando el espectáculo se convierte en una carrera contrarreloj, solo el ingenio de un cómico puede desentrañar la verdad. La primera novela de Miguel Lago combina el ingenio con el suspense en una adictiva trama policial.
+Antoñito, el nieto de don Ma...</summary>
+    <link href="../book_2/book_2708.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La abadesa de Barcelona [15 de noviembre de 2024]</title>
+    <id>calibre:book:2707</id>
+    <updated>2024-11-15T04:07:05Z</updated>
+    <link href="../../Francisco%20Sempere/La%20abadesa%20de%20Barcelona%20%282707%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Sempere/La%20abadesa%20de%20Barcelona%20%282707%29/La%20abadesa%20de%20Barcelona%20-%20Francisco%20Sempere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="431 KB" />
+    <author>
+      <name>Francisco Sempere</name>
+      <uri>../authors_0/authors_593_Page_1.xml</uri>
+    </author>
+    <published>2024-10-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una intriga movida por la inconmensurable fuerza del amor de una madre por su hija.Tras el éxito de La cortesana de León , Francisco Sempere escribe este thriller histórico que nos demuestra que los asuntos de los reyes en realidad siempre están en m...</summary>
+    <link href="../book_2/book_2707.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las que no duermen NASH (Los Valles Tranquilos) [15 de noviembre de 2024]</title>
+    <id>calibre:book:2706</id>
+    <updated>2024-11-15T04:07:04Z</updated>
+    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dolores Redondo</name>
+      <uri>../authors_0/authors_62_Page_1.xml</uri>
+    </author>
+    <published>2024-11-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En los Valles Tranquilos no gusta desenterrar secretos ni revelar verdades. Prepárate para la noche más larga. LA NUEVA NOVELA DE DOLORES REDONDOLa psicóloga forense Nash Elizondo documenta el origen de una leyenda sobre brujería en la sima de Legarr...</summary>
+    <link href="../book_2/book_2706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pequeños milagros [7 de noviembre de 2024]</title>
+    <id>calibre:book:2702</id>
+    <updated>2024-11-07T00:45:05Z</updated>
+    <link href="../../Nicholas%20Sparks/Pequenos%20milagros%20%282702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicholas%20Sparks/Pequenos%20milagros%20%282702%29/Pequenos%20milagros%20-%20Nicholas%20Sparks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <author>
+      <name>Nicholas Sparks</name>
+      <uri>../authors_1/authors_1773_Page_1.xml</uri>
+    </author>
+    <published>2024-06-24T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El autor de El cuaderno de Noah vuelve a emocionarnos con una historia de amor verdadero, familia y la importancia de encontrar nuestro lugar en el mundo.Tanner ha pasado toda su vida yendo de un lugar a otro, sin pertenecer a ninguna parte. Cuando s...</summary>
+    <link href="../book_2/book_2702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todo muere [7 de noviembre de 2024]</title>
+    <id>calibre:book:2703</id>
+    <updated>2024-11-07T00:45:05Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2024-11-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Todo arde" />
+    <summary>Todo arde [3]: LA ESPERA HA TERMINADOSe cierra el círculo del Universo Reina Roja.«Ni en un millón de años podrías imaginarte un desenlace como este».ZendaVuelve el autor más leído en lengua española.EL MAYOR UNIVERSO DE THRILLER JAMÁS ESCRITONota de...</summary>
+    <link href="../book_2/book_2703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atusparia [31 de octubre de 2024]</title>
+    <id>calibre:book:2699</id>
+    <updated>2024-11-05T06:11:38Z</updated>
+    <link href="../../Gabriela%20Wiener/Atusparia%20%282699%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriela%20Wiener/Atusparia%20%282699%29/Atusparia%20-%20Gabriela%20Wiener.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <author>
+      <name>Gabriela Wiener</name>
+      <uri>../authors_1/authors_1771_Page_1.xml</uri>
+    </author>
+    <published>2024-10-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La gran novela rusa de Gabriela Wiener.«Seguirle lapista a Wiener es uno delospocoslujos quenos quedan».AlejandroZambra «¿Puede una novela ser esperpento y lírica, tragedia y farsa, denuncia y comedia, revolución y pasión amorosa? Marxismo internacio...</summary>
+    <link href="../book_2/book_2699.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Donde muere la luz [31 de octubre de 2024]</title>
+    <id>calibre:book:2698</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="463 KB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2024-09-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La desaparición de dos niños en la isla de Gotland se entrelaza con el misterioso pasado de la isla.Cuando faltan pocos días para Halloween, dos niños que disfrutan de sus vacaciones de otoño en Gotland desaparecen sin dejar rastro.Su pista se pierde...</summary>
+    <link href="../book_2/book_2698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La historia de un muro [31 de octubre de 2024]</title>
+    <id>calibre:book:2697</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Nasser%20Abu%20Srour/La%20historia%20de%20un%20muro%20%282697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nasser%20Abu%20Srour/La%20historia%20de%20un%20muro%20%282697%29/La%20historia%20de%20un%20muro%20-%20Nasser%20Abu%20Srour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="380 KB" />
+    <author>
+      <name>Nasser Abu Srour</name>
+      <uri>../authors_1/authors_1770_Page_1.xml</uri>
+    </author>
+    <published>2024-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nasser Abu Srour, recluido en una prisión israelí desde 1993 y condenado a cadena perpetua por su presunta participación en la muerte de un oficial de inteligencia israelí, ha escrito un testimonio extraordinario. «Esta es la historia de un muro que ...</summary>
+    <link href="../book_2/book_2697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una pluma en el aire [31 de octubre de 2024]</title>
+    <id>calibre:book:2695</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/Una%20pluma%20en%20el%20aire%20-%20Alejandra%20Beigbedere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="757 KB" />
+    <author>
+      <name>Alejandra Beigbedere</name>
+      <uri>../authors_1/authors_1768_Page_1.xml</uri>
+    </author>
+    <published>2024-10-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El apasionante relato de la Argentinita, una mujer que quería bailar por encima de todo. Una oda al arte, a la amistad y a la libertad.El día en que la Argentinita sube por primera vez a un escenario, con tan solo cuatro años, descubre que bailar es ...</summary>
+    <link href="../book_2/book_2695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los versos sueltos del Edén [31 de octubre de 2024]</title>
+    <id>calibre:book:2696</id>
+    <updated>2024-10-31T05:50:32Z</updated>
+    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/Los%20versos%20sueltos%20del%20Eden%20-%20Paloma%20Rivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <author>
+      <name>Paloma Rivas</name>
+      <uri>../authors_1/authors_1769_Page_1.xml</uri>
+    </author>
+    <published>2024-09-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LOS MUROS MÁS INFRANQUEABLES SON LOS DE LA PROPIA MENTE
+La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el puesto de jefa del área de salud mental en la residencia Santa Teresa. Regentada por la congregación de las Carment...</summary>
+    <link href="../book_2/book_2696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estirpe de sangre [26 de octubre de 2024]</title>
+    <id>calibre:book:2692</id>
+    <updated>2024-10-26T00:29:48Z</updated>
+    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/Estirpe%20de%20sangre%20-%20Sandra%20Aza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sandra Aza</name>
+      <uri>../authors_1/authors_1767_Page_1.xml</uri>
+    </author>
+    <published>2024-09-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Libelo de sangre" />
+    <summary>Libelo de sangre [2]: Es la hora de restaurar el honor familiar. Es la hora de culminar la venganza. Tras el auto de fe que le ha dejado huérfano, Alonso acude a la Inclusa para recuperar a su hermano Diego, pero allí enfrenta la peor de las noticias...</summary>
+    <link href="../book_2/book_2692.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La segunda venida [25 de octubre de 2024]</title>
+    <id>calibre:book:2687</id>
+    <updated>2024-10-25T00:02:42Z</updated>
+    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/La%20segunda%20venida%20-%20Dani%20Novarama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="355 KB" />
+    <author>
+      <name>Dani Novarama</name>
+      <uri>../authors_1/authors_1766_Page_1.xml</uri>
+    </author>
+    <published>2024-10-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La primera novela de Dani Novarama, uno de los divulgadores más seguidos en redes, es un trepidante thriller de anticipación científica sobre las virtudes y los peligros que la inteligencia artificial puede traer a la civilización. Y trata de respond...</summary>
+    <link href="../book_2/book_2687.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sombra en la Costa [25 de octubre de 2024]</title>
+    <id>calibre:book:2688</id>
+    <updated>2024-10-25T00:02:42Z</updated>
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-09-25T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspector Rojo" />
+    <summary>Inspector Rojo [9]: En una mañana de verano, los inspectores de homicidios Rojo y Agulló reciben la denuncia de una joven británica desaparecida en la costa de Alicante durante la noche de Hogueras.El caso de la desaparición se convierte en el inicio...</summary>
+    <link href="../book_2/book_2688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La heredera del mar [22 de octubre de 2024]</title>
+    <id>calibre:book:2686</id>
+    <updated>2024-10-22T08:11:24Z</updated>
+    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="969 KB" />
+    <author>
+      <name>Juan Francisco Ferrándiz</name>
+      <uri>../authors_1/authors_1765_Page_1.xml</uri>
+    </author>
+    <published>2024-03-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>1348. La Corona de Aragón vive una de sus épocas más convulsas. Una enfermedad terrible y desconocida llega al puerto de Barcelona y comienza a propagarse por sus calles cuando Marina Montaner, descendiente de un largo linaje de mercaderes valenciano...</summary>
+    <link href="../book_2/book_2686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La isla de la mujer dormida [22 de octubre de 2024]</title>
+    <id>calibre:book:2685</id>
+    <updated>2024-10-22T08:11:24Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/La%20isla%20de%20la%20mujer%20dormida%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="472 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE. Una novela de mar, amor y aventuras en el Egeo durante los años de la Guerra Civil española. Buscaba la boca delhombre con la suya, húmeda de sal. -¿Tienes frío? -preguntó él. -No, no Tengo miedo. -¿A qué? -A ...</summary>
+    <link href="../book_2/book_2685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mi querida Lucía [22 de octubre de 2024]</title>
+    <id>calibre:book:2684</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/Mi%20querida%20Lucia%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <author>
+      <name>La Vecina Rubia</name>
+      <uri>../authors_0/authors_708_Page_1.xml</uri>
+    </author>
+    <published>2024-10-16T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Aquel sofocante verano de 2002, Lucía Romasanta, astróloga, madre soltera y redactora de la sección del horóscopo con más éxito del país, recibe una perturbadora carta de un admirador anónimo. Un texto manuscrito que le hace directamente responsable ...</summary>
+    <link href="../book_2/book_2684.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Redes [22 de octubre de 2024]</title>
+    <id>calibre:book:2683</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/Redes%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="378 KB" />
+    <author>
+      <name>Eloy Moreno</name>
+      <uri>../authors_0/authors_377_Page_1.xml</uri>
+    </author>
+    <published>2024-09-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Didáctico" />
+    <category term="Lang:es" />
+    <category term="Invisible" />
+    <summary>Invisible [2]: Descubre la continuación de Invisible de Eloy Moreno. Emotiva, conmovedora, diferente... Redes narra, a través de los ojos de una adolescente, una historia que se ha convertido en la realidad de todos nosotros.¿Cuántos likes vale tu fe...</summary>
+    <link href="../book_2/book_2683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En agosto nos vemos [22 de octubre de 2024]</title>
+    <id>calibre:book:2681</id>
+    <updated>2024-10-22T08:11:22Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/En%20agosto%20nos%20vemos%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../authors_0/authors_643_Page_1.xml</uri>
+    </author>
+    <published>2024-03-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Cada mes de agosto Ana Magdalena Bach toma el transbordador hasta la isla donde está enterrada su madre para visitar la tumba en la que yace. Esas visitas acaban suponiendo una irresistible invitación a convertirse en una persona distinta durante una...</summary>
+    <link href="../book_2/book_2681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No es amor [22 de octubre de 2024]</title>
+    <id>calibre:book:2682</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/No%20es%20amor%20-%20Ali%20Hazelwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <author>
+      <name>Ali Hazelwood</name>
+      <uri>../authors_1/authors_1764_Page_1.xml</uri>
+    </author>
+    <published>2024-06-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Una aventura secreta y prohibida demuestra que en el amor y en la ciencia todo vale. Puede que Rue Siebert no lo tenga todo, pero no le falta de nada: tiene unos pocos amigos con los que siempre puede contar, la estabilidad económica que anhelaba de ...</summary>
+    <link href="../book_2/book_2682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El poder de las palabras [22 de octubre de 2024]</title>
+    <id>calibre:book:2680</id>
+    <updated>2024-10-22T08:08:35Z</updated>
+    <link href="../../Mariano%20Sigman/El%20poder%20de%20las%20palabras%20%282680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mariano%20Sigman/El%20poder%20de%20las%20palabras%20%282680%29/El%20poder%20de%20las%20palabras%20-%20Mariano%20Sigman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Mariano Sigman</name>
+      <uri>../authors_0/authors_762_Page_1.xml</uri>
+    </author>
+    <published>2022-09-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Es posible cambiar, en cualquier momento de la vida, nuestras ideas más arraigadas, nuestra forma de pensar y también nuestra experiencia emocional. Para lograrlo es suficiente una herramienta sencilla y extremadamente efectiva en la transformación d...</summary>
+    <link href="../book_2/book_2680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Querida yo : tenemos que hablar : conócete y sé feliz contigo [22 de octubre de 2024]</title>
+    <id>calibre:book:2678</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/Querida%20yo%20_%20tenemos%20que%20hablar%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="837 KB" />
+    <author>
+      <name>Elizabeth Clapés</name>
+      <uri>../authors_0/authors_542_Page_1.xml</uri>
+    </author>
+    <published>2022-02-02T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Antes, cuando escuchaba hablar sobre la importancia de «conocerse a una misma», no lo entendía. Cuando llevas treinta años viviendo contigo, ¿se puede saber qué es lo que te falta por conocer? ¿De verdad hay algo que puede pillarte por sorpresa?
+
+   ...</summary>
+    <link href="../book_2/book_2678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Terapia para llevar [22 de octubre de 2024]</title>
+    <id>calibre:book:2679</id>
+    <updated>2024-10-22T08:08:35Z</updated>
+    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/Terapia%20para%20llevar%20-%20Ana%20Perez%20__Naci%20dramatica__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Ana Pérez «Nací dramática»</name>
+      <uri>../authors_1/authors_1763_Page_1.xml</uri>
+    </author>
+    <published>2023-05-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="psicología" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>¿Estás desconectado de ti mismo? ¿Sientes que te pasa algo, pero no sabes qué es? ¿La opinión de los demás te condiciona demasiado? Los pequeños malestares del día a día son una gran oportunidad para mejorar.En Terapia para llevar encontrarás 20 conc...</summary>
+    <link href="../book_2/book_2679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las 48 leyes del poder [22 de octubre de 2024]</title>
+    <id>calibre:book:2676</id>
+    <updated>2024-10-22T08:08:33Z</updated>
+    <link href="../../Robert%20Greene/Las%2048%20leyes%20del%20poder%20%282676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Greene/Las%2048%20leyes%20del%20poder%20%282676%29/Las%2048%20leyes%20del%20poder%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../authors_1/authors_1760_Page_1.xml</uri>
+    </author>
+    <published>1998-03-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>Una guía diseñada para mostrarle al lector cuáles son las cualidades personales que se deben de tener para alcanzar el poder en términos sociológicos, un método práctico para todo aquel que quiera conseguir el poder, observe el poder, o tenga que def...</summary>
+    <link href="../book_2/book_2676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si lo crees, lo creas [22 de octubre de 2024]</title>
+    <id>calibre:book:2677</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/Si%20lo%20crees%2C%20lo%20creas%20-%20Brian%20Tracy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <author>
+      <name>Brian Tracy</name>
+      <uri>../authors_1/authors_1761_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Christina Stein</name>
+      <uri>../authors_1/authors_1762_Page_1.xml</uri>
+    </author>
+    <published>2018-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>Descubre los secretos para eliminar pensamientos y conductas negativas y desbloquear todo tu potencial para el éxito.    Si te sientes abrumado o incapaz de escapar de tus pensamientos negativos, este libro te pondrá en el camino correcto. Ya sea que...</summary>
+    <link href="../book_2/book_2677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Adiós a la inflamación [22 de octubre de 2024]</title>
+    <id>calibre:book:2675</id>
+    <updated>2024-10-22T08:08:33Z</updated>
+    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/Adios%20a%20la%20inflamacion%20-%20Sandra%20Monino%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sandra Moñino Costa</name>
+      <uri>../authors_1/authors_1759_Page_1.xml</uri>
+    </author>
+    <published>2024-03-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Divulgación" />
+    <category term="Salud y bienestar" />
+    <category term="Lang:es" />
+    <summary>Aumento de peso, problemas en la piel, dolores de cabeza o patologías como la diabetes, el hipotiroidismo, la esclerosis múltiple, el cáncer o la depresión podrían deberse a una inflamación crónica. En este libro descubrirás que una dieta adecuada, h...</summary>
+    <link href="../book_2/book_2675.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_THREEMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+</feed>

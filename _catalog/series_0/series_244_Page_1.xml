@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jeff y Haila Troy</title>
+  <id>Calibre2opds::serieslist:Jseries:244</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_244_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jeff y Haila Troy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por J" />
+  <entry>
+    <title>1 - Dispuesto a matar</title>
+    <id>calibre:book:2794</id>
+    <updated>2025-01-09T08:28:26Z</updated>
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/Dispuesto%20a%20matar%20-%20Kelley%20Roos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="250 KB" />
+    <author>
+      <name>Kelley Roos</name>
+      <uri>../authors_1/authors_1829_Page_1.xml</uri>
+    </author>
+    <published>1940-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jeff y Haila Troy" />
+    <summary>Jeff y Haila Troy [1]: Es la noche de estreno de una obra de teatro en la que actúa Haila Troy. La coprotagonista y compañera de cuarto de Haila, Carol Blanton, de repente enferma de laringitis y no puede actuar. Su suplente, una chica con la pasión ...</summary>
+    <link href="../book_2/book_2794.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

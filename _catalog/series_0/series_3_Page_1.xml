@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Islandia Negra</title>
+  <id>Calibre2opds::serieslist:Iseries:3</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Islandia Negra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <entry>
+    <title>1 - La sombra del miedo</title>
+    <id>calibre:book:16</id>
+    <updated>2023-01-17T10:11:04Z</updated>
+    <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2019-09-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Islandia Negra" />
+    <summary>Islandia Negra [1]: En Siglufjördur, un pequeño pueblo pesquero en el norte de Islandia, sólo accesible mediante un túnel,  todos se conocen y nunca ocurre nada. Ari Thór, quien acaba de terminar la escuela de policía en Reykiavik, es enviado allí pa...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Niebla en el alma</title>
+    <id>calibre:book:537</id>
+    <updated>2023-04-05T00:40:18Z</updated>
+    <link href="../../Ragnar%20Jonasson/Niebla%20en%20el%20alma%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/Niebla%20en%20el%20alma%20%28537%29/Niebla%20en%20el%20alma%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="740 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2021-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Islandia Negra" />
+    <summary>Islandia Negra [3]:  1955: Dos hermanas y sus parejas se trasladan a un fiordo aislado y deshabitado. Su estancia termina abruptamente cuando una de las mujeres fallece en circunstancias misteriosas. Sin testigos, pistas ni sospechosos, el caso nunca...</summary>
+    <link href="../book_0/book_537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - La noche eterna</title>
+    <id>calibre:book:562</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ragnar%20Jonasson/La%20noche%20eterna%20%28562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/La%20noche%20eterna%20%28562%29/La%20noche%20eterna%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2022-02-14T07:54:29Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Islandia Negra" />
+    <summary>Islandia Negra [4]: Han pasado muchos años desde la última vez que Ásta puso un pie en Kálfshamarsnes, una pequeña lengua de tierra del norte de Islandia en la que parece que el tiempo se hubiera congelado: las rocas basálticas, imponentes y hermosas...</summary>
+    <link href="../book_0/book_562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - La verdad silenciada</title>
+    <id>calibre:book:1020</id>
+    <updated>2023-09-12T07:25:22Z</updated>
+    <link href="../../Ragnar%20Jonasson/La%20verdad%20silenciada%20%281020%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ragnar%20Jonasson/La%20verdad%20silenciada%20%281020%29/La%20verdad%20silenciada%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <author>
+      <name>Ragnar Jónasson</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2023-08-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Islandia Negra" />
+    <summary>Islandia Negra [5]: Asesinar a un policía es siempre algo personal. En medio de la noche polar azotada por el viento y la lluvia, Herjólfur, el nuevo inspector jefe de la policía de Siglufjördur, es asesinado a sangre fría en una casa abandonada a la...</summary>
+    <link href="../book_1/book_1020.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

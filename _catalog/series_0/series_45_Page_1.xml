@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Somos secretos</title>
+  <id>Calibre2opds::serieslist:Sseries:45</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Somos secretos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por S" />
+  <entry>
+    <title>1 - Cada atardecer</title>
+    <id>calibre:book:383</id>
+    <updated>2023-03-04T02:11:48Z</updated>
+    <link href="../../Andrea%20Longarela/Cada%20atardecer%20%28383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Longarela/Cada%20atardecer%20%28383%29/Cada%20atardecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="978 KB" />
+    <author>
+      <name>Andrea Longarela</name>
+      <uri>../authors_0/authors_252_Page_1.xml</uri>
+    </author>
+    <published>2023-01-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Crossbooks</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Somos secretos" />
+    <summary>Somos secretos [1]: Primer libro de la bilogía Somos secretos de Andrea Longarela. Martina lleva cinco años sin pintarse los labios. Más o menos desde que Jon se marchó. Jon lleva cinco años pensando en ella. En lo que hizo. En las decisiones del pas...</summary>
+    <link href="../book_0/book_383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Cada amanecer</title>
+    <id>calibre:book:357</id>
+    <updated>2023-02-24T09:48:12Z</updated>
+    <link href="../../Andrea%20Longarela/Cada%20amanecer%20%28357%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Longarela/Cada%20amanecer%20%28357%29/Cada%20amanecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="942 KB" />
+    <author>
+      <name>Andrea Longarela</name>
+      <uri>../authors_0/authors_252_Page_1.xml</uri>
+    </author>
+    <published>2023-01-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Crossbooks</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Somos secretos" />
+    <summary>Somos secretos [2]: Segundo libro de la bilogía Somos secretos de Andrea Longarela. Martina está herida y siente que se encuentra de nuevo en la casilla de salida. Jon la quiere, pero no sabe qué hacer para recuperar lo que tenían. La vida de Gabi ir...</summary>
+    <link href="../book_0/book_357.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

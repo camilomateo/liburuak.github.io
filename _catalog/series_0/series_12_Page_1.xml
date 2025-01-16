@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Falcó</title>
+  <id>Calibre2opds::serieslist:Fseries:12</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Falcó" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por F" />
+  <entry>
+    <title>1 - Falcó</title>
+    <id>calibre:book:48</id>
+    <updated>2023-01-17T10:27:16Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Falco%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Falco%20%2848%29/Falco%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2016-10-19T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros4</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Falcó" />
+    <summary>Falcó [1]: «El mundo de Falcó era otro, y allí los bandos estaban perfectamente definidos: de una parte él, y de la otra todos los demás».La Europa turbulenta de los años treinta y cuarenta del siglo XX es el escenario de las andanzas de Lorenzo Falc...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Eva</title>
+    <id>calibre:book:46</id>
+    <updated>2023-01-17T10:26:34Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/Eva%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2017-09-15T11:29:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Falcó" />
+    <summary>Falcó [2]: «No me tengas por una de esas burguesitas perdidas entre las filas  obreras. Soy una agente soviética, y tus criminales jefes fascistas podrían pedirte cuentas.» Marzo de 1937. Mientras la Guerra Civil sigue su trágico curso, una  nueva mi...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

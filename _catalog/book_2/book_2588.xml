@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El aprendiz</title>
+  <id>urn:book:4d50f8fd-67d2-4bd5-8a9a-203d828c4f41</id>
+  <updated>2024-09-12T03:39:19Z</updated>
+  <link href="./book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El aprendiz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authors_0/authors_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pablo Poveda" />
+  <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+  <author>
+    <name>Pablo Poveda</name>
+    <uri>../authors_0/authors_232_Page_1.xml</uri>
+  </author>
+  <published>2016-09-01T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Intriga" />
+  <category term="Policial" />
+  <category term="Lang:es" />
+  <category term="El profesor" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la El profesor serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Intriga, Policial, Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Han pasado diez años desde que León abandonó
+    Varsovia, pero ha llegado el momento de volver. Sin embargo,
+    Europa ha cambiado: una revolución calienta las calles y
+    el español caerá atrapado en ella sin desearlo.</p>
+  </content>
+  <link href="../series_0/series_226_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la El profesor serie" />
+  <link href="../authors_0/authors_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pablo Poveda" />
+</entry>

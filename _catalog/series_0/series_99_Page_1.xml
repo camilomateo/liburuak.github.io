@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Eddie Flynn</title>
+  <id>Calibre2opds::serieslist:Eseries:99</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eddie Flynn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por E" />
+  <entry>
+    <title>4 - 13</title>
+    <id>calibre:book:809</id>
+    <updated>2023-06-06T08:14:10Z</updated>
+    <link href="../../Steve%20Cavanagh/13%20%28809%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Cavanagh/13%20%28809%29/13%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Steve Cavanagh</name>
+      <uri>../authors_0/authors_604_Page_1.xml</uri>
+    </author>
+    <published>2019-05-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Eddie Flynn" />
+    <summary>Eddie Flynn [4]: EL ASESINO NO ESTÁ EN EL BANQUILLO DE LOS ACUSADOS... ESTÁ ENTRE EL JURADO"Hasta donde sabe, ¿hay algún impedimento para que usted forme parte de este jurado?"El asesinato no fue la parte más complicada. Fue tan solo el inicio del ju...</summary>
+    <link href="../book_0/book_809.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Cincuenta Cincuenta</title>
+    <id>calibre:book:812</id>
+    <updated>2023-06-06T08:14:14Z</updated>
+    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <author>
+      <name>Steve Cavanagh</name>
+      <uri>../authors_0/authors_604_Page_1.xml</uri>
+    </author>
+    <published>2023-05-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Eddie Flynn" />
+    <summary>Eddie Flynn [5]: Dos hermanas a juicio por asesinato.Se acusan mutuamente.¿A quién crees? "911 ¿cuál es su emergencia?""Mi papá está muerto. Mi hermana Sofía lo mató. Ella todavía está en la casa. Por favor envíe ayuda."“Mi papá está muerto. Mi herma...</summary>
+    <link href="../book_0/book_812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

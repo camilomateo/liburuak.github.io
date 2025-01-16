@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Rizzoli &amp; Isles</title>
+  <id>Calibre2opds::serieslist:Rseries:166</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_166_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rizzoli &amp; Isles" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por R" />
+  <entry>
+    <title>11 - Morir dos veces</title>
+    <id>calibre:book:1382</id>
+    <updated>2024-04-03T00:30:04Z</updated>
+    <link href="../../Tess%20Gerritsen/Morir%20dos%20veces%20%281382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tess%20Gerritsen/Morir%20dos%20veces%20%281382%29/Morir%20dos%20veces%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Tess Gerritsen</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Rizzoli &amp; Isles" />
+    <summary>Rizzoli &amp; Isles [11]: Él la dio por muerta. Pero ella sigue aquí. Cuando la detective de homicidios de Boston Jane Rizzoli y la médica forense Maura Isles llegan a la escena de un crimen brutal, se encuentran con una matanza digna de la bestia más fe...</summary>
+    <link href="../book_1/book_1382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

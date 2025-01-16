@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El cuento de la abuelita</title>
+  <id>urn:book:bbd0fa8d-d109-405d-b3eb-7256757a7903</id>
+  <updated>2024-09-06T02:21:27Z</updated>
+  <link href="./book_2172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El cuento de la abuelita" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authors_1/authors_1538_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Torcuato Tárrago y Mateos" />
+  <link href="../../Torcuato%20Tarrago%20y%20Mateos/El%20cuento%20de%20la%20abuelita%20%282172%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Torcuato%20Tarrago%20y%20Mateos/El%20cuento%20de%20la%20abuelita%20%282172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Torcuato%20Tarrago%20y%20Mateos/El%20cuento%20de%20la%20abuelita%20%282172%29/El%20cuento%20de%20la%20abuelita%20-%20Torcuato%20Tarrago%20y%20Mateos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+  <author>
+    <name>Torcuato Tárrago y Mateos</name>
+    <uri>../authors_1/authors_1538_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 94 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Cuento enmarcado donde el amor entre dos jóvenes
+    sucumbe por la ingratitud y la ambición.</p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 94 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1538_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Torcuato Tárrago y Mateos" />
+</entry>

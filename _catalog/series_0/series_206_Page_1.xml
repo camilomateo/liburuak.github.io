@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Serie Bergman</title>
+  <id>Calibre2opds::serieslist:Sseries:206</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_206_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Serie Bergman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por S" />
+  <entry>
+    <title>7 - Verdades enterradas</title>
+    <id>calibre:book:1661</id>
+    <updated>2024-07-07T03:32:37Z</updated>
+    <link href="../../Michael%20Hjorth/Verdades%20enterradas%20%281661%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Hjorth/Verdades%20enterradas%20%281661%29/Verdades%20enterradas%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Michael Hjorth</name>
+      <uri>../authors_0/authors_852_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Hans Rosenfeldt</name>
+      <uri>../authors_0/authors_848_Page_1.xml</uri>
+    </author>
+    <published>2021-11-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Serie Bergman" />
+    <summary>Serie Bergman [7]: Tres años después de los acontecimientos que vivieron en Mentiras consentidas, Vanja, Torkel, Ursula, Billy y el resto del equipo de la Unidad de Homicidios de Estocolmo deberán encargarse de un asesino en serie que ha dejado un ra...</summary>
+    <link href="../book_1/book_1661.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

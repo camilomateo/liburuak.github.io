@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Serie Málaga</title>
+  <id>Calibre2opds::serieslist:Sseries:150</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_150_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Serie Málaga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por S" />
+  <entry>
+    <title>2 - En el lado oscuro de la luna</title>
+    <id>calibre:book:1215</id>
+    <updated>2024-02-20T01:04:11Z</updated>
+    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/En%20el%20lado%20oscuro%20de%20la%20luna%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mari Jungstedt</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2022-06-07T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Serie Málaga" />
+    <summary>Serie Málaga [2]: La esperada nueva novela de la Serie Málaga, de Mari Jungstedt. Tras el éxito de Antes de que lleguen las nubes, el inspector Héctor Correa y la profesora sueca Lisa Hagel regresan a la Costa del Sol. En un gélido día de Año Nuevo, ...</summary>
+    <link href="../book_1/book_1215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

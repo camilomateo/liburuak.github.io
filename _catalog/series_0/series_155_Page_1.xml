@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El Cementerio de los Libros Olvidados</title>
+  <id>Calibre2opds::serieslist:Eseries:155</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_155_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="El Cementerio de los Libros Olvidados" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por E" />
+  <entry>
+    <title>2 - El Juego del Ángel</title>
+    <id>calibre:book:1267</id>
+    <updated>2024-03-07T06:24:52Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Juego%20del%20Angel%20%281267%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Juego%20del%20Angel%20%281267%29/El%20Juego%20del%20Angel%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="846 KB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2008-04-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El Cementerio de los Libros Olvidados" />
+    <summary>El Cementerio de los Libros Olvidados [2]: En la turbulenta Barcelona de los años 20 un joven escritor obsesionado con un amor imposible recibe la oferta de un misterioso editor para escribir un libro como no ha existido nunca, a cambio de una fortun...</summary>
+    <link href="../book_1/book_1267.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - El prisionero del cielo</title>
+    <id>calibre:book:1270</id>
+    <updated>2024-03-07T06:24:53Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/El%20prisionero%20del%20cielo%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2011-11-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El Cementerio de los Libros Olvidados" />
+    <summary>El Cementerio de los Libros Olvidados [3]: Barcelona, 1957. Daniel Sempere y su amigo Fermín, los héroes de La Sombra del Viento, regresan de nuevo a la aventura para afrontar el mayor desafío de sus vidas. Justo cuando todo empezaba a sonreírles, un...</summary>
+    <link href="../book_1/book_1270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

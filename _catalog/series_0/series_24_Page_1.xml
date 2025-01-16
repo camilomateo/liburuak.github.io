@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mujer en apuros</title>
+  <id>Calibre2opds::serieslist:Mseries:24</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mujer en apuros" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por M" />
+  <entry>
+    <title>1 - El palacio de la inocencia</title>
+    <id>calibre:book:125</id>
+    <updated>2023-01-18T00:43:38Z</updated>
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20inocencia%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20inocencia%20%28125%29/El%20palacio%20de%20la%20inocencia%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2016-06-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Mujer en apuros" />
+    <summary>Mujer en apuros [1]: A la mitad de un sueño lleno de pesadillas, Diana recibe una llamada aterradora. Su hermana Bárbara y su pequeño sobrino Leo han sido brutalmente asesinados. Mientras que Mina, su sobrina de cinco años, ha desaparecido y es proba...</summary>
+    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El palacio de la mala suerte</title>
+    <id>calibre:book:124</id>
+    <updated>2023-01-18T00:43:36Z</updated>
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20mala%20suerte%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20mala%20suerte%20%28124%29/El%20palacio%20de%20la%20mala%20suerte%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2022-09-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Mujer en apuros" />
+    <summary>Mujer en apuros [2]: El esposo de Diana, Alex, se ve involucrado en un accidente de carretera al atropellar a un niño. Alex lleva al niño al hospital. Cuando Diana llega al hospital, no puede localizar a su esposo y también se entera de que el niño d...</summary>
+    <link href="../book_0/book_124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

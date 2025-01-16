@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kate Marshall</title>
+  <id>Calibre2opds::serieslist:Kseries:20</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Kate Marshall" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <link href="../serieslist/serieslist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por K" />
+  <entry>
+    <title>1 - La noche más oscura</title>
+    <id>calibre:book:104</id>
+    <updated>2023-01-18T00:15:20Z</updated>
+    <link href="../../Robert%20Bryndza/La%20noche%20mas%20oscura%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Bryndza/La%20noche%20mas%20oscura%20%28104%29/La%20noche%20mas%20oscura%20-%20Robert%20Bryndza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Robert Bryndza</name>
+      <uri>../authors_0/authors_69_Page_1.xml</uri>
+    </author>
+    <published>2022-01-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Kate Marshall" />
+    <summary>Kate Marshall [1]: Trató de olvidar el pasado, pero la oscuridad volvió a por ella*Kate Marshall era una joven y prometedora inspectora de policía cuando atrapó al famoso asesino en serie del barrio de Nine Elms, en la ciudad de Londres. Sin embargo,...</summary>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Bajo aguas oscuras</title>
+    <id>calibre:book:102</id>
+    <updated>2023-01-18T00:15:18Z</updated>
+    <link href="../../Robert%20Bryndza/Bajo%20aguas%20oscuras%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Bryndza/Bajo%20aguas%20oscuras%20%28102%29/Bajo%20aguas%20oscuras%20-%20Robert%20Bryndza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="755 KB" />
+    <author>
+      <name>Robert Bryndza</name>
+      <uri>../authors_0/authors_69_Page_1.xml</uri>
+    </author>
+    <published>2022-04-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Kate Marshall" />
+    <summary>Kate Marshall [2]: Tú no lo ves…, pero él a ti sí Cuando la detective Kate Marshall encuentra el cuerpo sin vida de un joven en el embalse de Shadow Sands, las autoridades califican el suceso como un «trágico accidente». Sin embargo, algo no cuadra. ...</summary>
+    <link href="../book_0/book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
