@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 10)" />
   <entry>
     <title>El Mapa</title>
     <id>calibre:book:902</id>
@@ -47,6 +47,28 @@
     <category term="Lang:es" />
     <summary>Escrito desde el corazón y la memoria, Maquetos es la historia de tres generaciones de una familia, la de Rosa Díez, que fueron tratados como extraños en el País Vasco. Es el ejemplo de cómo el franquismo, primero, y el nacionalismo, después, señala...</summary>
     <link href="../book_0/book_233.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mareas de aceite</title>
+    <id>calibre:book:2816</id>
+    <updated>2025-01-20T11:21:17Z</updated>
+    <link href="../../Angelica%20Yuste/Mareas%20de%20aceite%20%282816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angelica%20Yuste/Mareas%20de%20aceite%20%282816%29/Mareas%20de%20aceite%20-%20Angelica%20Yuste.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="292 KB" />
+    <author>
+      <name>Angélica Yuste</name>
+      <uri>../authors_1/authors_1842_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Thrillers" />
+    <category term="suspense" />
+    <category term="Action &amp; Adventure" />
+    <category term="Lang:es" />
+    <summary>Acatando la última voluntad de su padre, Vera, abogada de treinta y nueve años, reflota el velero familiar y embarca junto a los suyos para arrojar al Mediterráneo las cenizas de un hombre que le dio dinero, apellidos y ningún amor. Pero la idílica e...</summary>
+    <link href="../book_2/book_2816.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Marianela</title>
@@ -440,28 +462,6 @@ La tensión del Brexit y los ataques...</summary>
     <summary>Pablo Echenique aborda con sorprendente transparencia la lucha fratricida de la izquierda en los últimos años, el fin del bipartidismo y la negociación del primer gobierno de coalición en España, el ejercicio del poder y la vida privada de un cientí...</summary>
     <link href="../book_0/book_432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Memorias de un vigilante</title>
-    <id>calibre:book:2124</id>
-    <updated>2024-09-06T02:21:19Z</updated>
-    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/Memorias%20de%20un%20vigilante%20-%20Jose%20S.%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
-    <author>
-      <name>José S. Alvarez</name>
-      <uri>../authors_1/authors_1508_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Crime" />
-    <category term="--" />
-    <category term="Argentina" />
-    <category term="Buenos" />
-    <category term="Aires" />
-    <category term="Criminals" />
-    <category term="Lang:es" />
-    <link href="../book_2/book_2124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

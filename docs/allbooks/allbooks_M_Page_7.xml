@@ -13,7 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 de 10)" />
+  <entry>
+    <title>El mejor del mundo</title>
+    <id>calibre:book:2560</id>
+    <updated>2024-09-09T03:24:00Z</updated>
+    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+    <author>
+      <name>Juan Tallón</name>
+      <uri>../authors_1/authors_1684_Page_1.xml</uri>
+    </author>
+    <published>2024-08-02T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Nuestra vida está marcada por el apellido que llevamos? Una novela sobre realidades paralelas.Antonio es un empresario gallego con una ambición desmedida. Cuando por fin asume la dirección de la fábrica de ataúdes fundada por su padre, hasta entonce...</summary>
+    <link href="../book_2/book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Las mejores tartas de queso</title>
     <id>calibre:book:1058</id>
@@ -451,24 +468,7 @@ Hubo un tiempo en que los libros podían descubrir nuev...</summary>
     <summary>La taberna Kamogawa [1]: La novela más apetitosa que leerás jamás. Una historia deliciosa que combina misterios y cocina y que triunfa en Japón y en todo el mundo Los misterios de la taberna Kamogawa es una de las novelas más apetitosas que vas a lee...</summary>
     <link href="../book_0/book_817.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El misterioso caso del impostor del Titanic</title>
-    <id>calibre:book:2724</id>
-    <updated>2024-12-11T08:23:55Z</updated>
-    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/El%20misterioso%20caso%20del%20impostor%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Carmen Posadas</name>
-      <uri>../authors_1/authors_1029_Page_1.xml</uri>
-    </author>
-    <published>2024-10-08T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
-    <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

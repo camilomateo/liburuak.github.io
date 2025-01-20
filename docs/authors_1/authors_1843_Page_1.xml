@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juan Carlos Galindo</title>
+  <id>Calibre2opds:authors:1843</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1843_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Carlos Galindo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <entry>
+    <title>Hontoria</title>
+    <id>calibre:book:2817</id>
+    <updated>2025-01-20T11:21:17Z</updated>
+    <link href="../../Juan%20Carlos%20Galindo/Hontoria%20%282817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Carlos%20Galindo/Hontoria%20%282817%29/Hontoria%20-%20Juan%20Carlos%20Galindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <author>
+      <name>Juan Carlos Galindo</name>
+      <uri>../authors_1/authors_1843_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un joven periodista de sucesos investiga el salvaje asesinato de una familia en Hontoria. Una historia trepidante y atmosférica con Segovia como telón de fondo Agosto de 2016: tres miembros de una familia mueren brutalmente apuñalados en su casa de H...</summary>
+    <link href="../book_2/book_2817.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

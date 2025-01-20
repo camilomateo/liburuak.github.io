@@ -13,7 +13,29 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 10)" />
+  <entry>
+    <title>Memorias de un vigilante</title>
+    <id>calibre:book:2124</id>
+    <updated>2024-09-06T02:21:19Z</updated>
+    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/Memorias%20de%20un%20vigilante%20-%20Jose%20S.%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <author>
+      <name>José S. Alvarez</name>
+      <uri>../authors_1/authors_1508_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Crime" />
+    <category term="--" />
+    <category term="Argentina" />
+    <category term="Buenos" />
+    <category term="Aires" />
+    <category term="Criminals" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Memorias del subsuelo</title>
     <id>calibre:book:2438</id>
@@ -447,24 +469,7 @@
     <summary>La ciudad sin luz [1]:  Singular, polémica y brillante, la novela más ambiciosa de Juan Manuel de Prada. Llevábamos mucho tiempo esperando una obra así.  Juan Manuel de Prada une su descomunal talento para la narrativa con el conocimiento en profundi...</summary>
     <link href="../book_1/book_1592.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Milena o el fémur más bello del mundo</title>
-    <id>calibre:book:435</id>
-    <updated>2023-03-20T05:50:06Z</updated>
-    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/Milena%20o%20el%20femur%20mas%20bello%20del%20-%20Jorge%20Zepeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
-    <author>
-      <name>Jorge Zepeda</name>
-      <uri>../authors_0/authors_324_Page_1.xml</uri>
-    </author>
-    <published>2014-12-10T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La belleza de Milena también fue su perdición. Convertida en esclava sexual desde la adolescencia, intenta huir cuando muere su protector, un magnate de la comunicación que sufre un fallo cardiaco mientras hace el amor con ella. En su angustiosa fuga...</summary>
-    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

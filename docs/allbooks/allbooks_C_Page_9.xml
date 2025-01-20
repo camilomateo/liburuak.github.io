@@ -15,6 +15,24 @@
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
   <link href="../allbooks/allbooks_C_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 de 13)" />
   <entry>
+    <title>La caja de Pandora</title>
+    <id>calibre:book:47</id>
+    <updated>2023-01-17T10:26:54Z</updated>
+    <link href="../../Lindsey%20Davis/La%20caja%20de%20Pandora%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lindsey%20Davis/La%20caja%20de%20Pandora%20%2847%29/La%20caja%20de%20Pandora%20-%20Lindsey%20Davis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <author>
+      <name>Lindsey Davis</name>
+      <uri>../authors_0/authors_37_Page_1.xml</uri>
+    </author>
+    <published>2019-07-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Flavia Albia" />
+    <summary>Flavia Albia [6]: La nueva novela de la reina del género policiaco en la Antigua Roma.La investigadora privada Flavia Albia se ve inmersa de nuevo en un intrigante misterio en el que ayudará incluso a la hostil exesposa de su marido.En una de las sie...</summary>
+    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La caja de botones de Gwendy</title>
     <id>calibre:book:1074</id>
     <updated>2023-11-20T08:26:23Z</updated>
@@ -440,27 +458,6 @@
     <category term="Lang:es" />
     <summary>Nadie conoce a un asesino mejor que sus víctimas. La primera novela de Alaina Urquhart, técnica de autopsias y creadora de Morbid, el pódcast de true crime más escuchado del mundo. «Como lector querrás cerrar los ojos, pero la lucha entre el asesino ...</summary>
     <link href="../book_0/book_849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La casa de Bernarda Alba</title>
-    <id>calibre:book:2193</id>
-    <updated>2024-09-06T02:21:32Z</updated>
-    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/La%20casa%20de%20Bernarda%20Alba%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
-    <author>
-      <name>Federico García Lorca</name>
-      <uri>../authors_0/authors_85_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Teatro" />
-    <category term="Tragedia" />
-    <category term="Clásico" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [34]:</summary>
-    <link href="../book_2/book_2193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 13)" />
   <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />

@@ -13,7 +13,23 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 10)" />
+  <entry>
+    <title>Mía: Cuando el amor va un paso más allá</title>
+    <id>calibre:book:1209</id>
+    <updated>2024-02-06T06:22:02Z</updated>
+    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20-%20Allyson%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="184 KB" />
+    <author>
+      <name>Allyson Martín</name>
+      <uri>../authors_0/authors_877_Page_1.xml</uri>
+    </author>
+    <published>2022-09-30T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>...</summary>
+    <link href="../book_1/book_1209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Mírame y bésame</title>
     <id>calibre:book:465</id>
@@ -444,24 +460,7 @@ El profesor y creador de La cuna de Halicarnaso escribe una emotiva novela en ho
     <summary>Las cosas más importantes de la vida tienen su propia voz. Solo debes aprender a escucharlas con el corazón. «Una pequeña perla que merece ser recolectada. Por la temática y el tono, por su ambición literaria.» Le Figaro «Una inmersión luminosa en el...</summary>
     <link href="../book_0/book_828.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El mejor del mundo</title>
-    <id>calibre:book:2560</id>
-    <updated>2024-09-09T03:24:00Z</updated>
-    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
-    <author>
-      <name>Juan Tallón</name>
-      <uri>../authors_1/authors_1684_Page_1.xml</uri>
-    </author>
-    <published>2024-08-02T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Nuestra vida está marcada por el apellido que llevamos? Una novela sobre realidades paralelas.Antonio es un empresario gallego con una ambición desmedida. Cuando por fin asume la dirección de la fábrica de ataúdes fundada por su padre, hasta entonce...</summary>
-    <link href="../book_2/book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

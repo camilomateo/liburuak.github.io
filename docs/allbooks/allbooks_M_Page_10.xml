@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por M</title>
+  <id>Calibre2opds:allbooks:M</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
+  <entry>
+    <title>La música del mal</title>
+    <id>calibre:book:721</id>
+    <updated>2023-05-17T01:10:58Z</updated>
+    <link href="../../Yolanda%20Fidalgo/La%20musica%20del%20mal%20%28721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yolanda%20Fidalgo/La%20musica%20del%20mal%20%28721%29/La%20musica%20del%20mal%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <author>
+      <name>Yolanda Fidalgo</name>
+      <uri>../authors_0/authors_537_Page_1.xml</uri>
+    </author>
+    <published>2023-04-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nápoles, 1900. Fabio, el dueño del teatro Dellanotte, parte de viaje por un año, y encarga a sus dos hijos: Adriano, violonchelista ciego, y Carlo, la responsabilidad de regentar el teatro de la ópera. Pero tras su partida, todo va a cambiar. Sus hij...</summary>
+    <link href="../book_0/book_721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+</feed>

@@ -13,7 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 10)" />
+  <entry>
+    <title>Milena o el fémur más bello del mundo</title>
+    <id>calibre:book:435</id>
+    <updated>2023-03-20T05:50:06Z</updated>
+    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/Milena%20o%20el%20femur%20mas%20bello%20del%20-%20Jorge%20Zepeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Jorge Zepeda</name>
+      <uri>../authors_0/authors_324_Page_1.xml</uri>
+    </author>
+    <published>2014-12-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La belleza de Milena también fue su perdición. Convertida en esclava sexual desde la adolescencia, intenta huir cuando muere su protector, un magnate de la comunicación que sufre un fallo cardiaco mientras hace el amor con ella. En su angustiosa fuga...</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Mind the Gap</title>
     <id>calibre:book:1472</id>
@@ -444,26 +461,7 @@
     <summary>Bacon tenía a España en la sangre. Un español, Velázquez, fue su gran maestro. De su Retrato de Inocencio X diría Bacon, rotundo, «siempre he creído que este era uno de los mejores cuadros del mundo. He intentado, sin ningún éxito, hacer ciertas repr...</summary>
     <link href="../book_2/book_2615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Mucho ruido y pocas nueces</title>
-    <id>calibre:book:2439</id>
-    <updated>2024-09-09T10:34:31Z</updated>
-    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="169 KB" />
-    <author>
-      <name>William Shakespeare</name>
-      <uri>../authors_1/authors_1585_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Humor" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [2]:</summary>
-    <link href="../book_2/book_2439.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

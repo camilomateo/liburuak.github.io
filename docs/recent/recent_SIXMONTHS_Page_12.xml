@@ -13,481 +13,487 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
   <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 de 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 de 16)" />
   <entry>
-    <title>Las euménides [9 de septiembre de 2024]</title>
-    <id>calibre:book:2343</id>
-    <updated>2024-09-09T10:34:11Z</updated>
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="79 KB" />
+    <title>Doña Milagros [9 de septiembre de 2024]</title>
+    <id>calibre:book:2386</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/Dona%20Milagros%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
     <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+      <name>Emilia Pardo Bazán</name>
+      <uri>../authors_1/authors_1523_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [182]:</summary>
+    <link href="../book_2/book_2386.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La educación sentimental [9 de septiembre de 2024]</title>
+    <id>calibre:book:2385</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/La%20educacion%20sentimental%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="438 KB" />
+    <author>
+      <name>Gustave Flaubert</name>
+      <uri>../authors_1/authors_1365_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [185]:</summary>
+    <link href="../book_2/book_2385.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El jinete de bronce [9 de septiembre de 2024]</title>
+    <id>calibre:book:2388</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Aleksandr%20S.%20Pushkin/El%20jinete%20de%20bronce%20%282388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aleksandr%20S.%20Pushkin/El%20jinete%20de%20bronce%20%282388%29/El%20jinete%20de%20bronce%20-%20Aleksandr%20S.%20Pushkin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="60 KB" />
+    <author>
+      <name>Aleksandr S. Pushkin</name>
+      <uri>../authors_1/authors_1634_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [190]:</summary>
+    <link href="../book_2/book_2388.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La montaña mágica [9 de septiembre de 2024]</title>
+    <id>calibre:book:2389</id>
+    <updated>2024-09-09T10:34:21Z</updated>
+    <link href="../../Thomas%20Mann/La%20montana%20magica%20%282389%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thomas%20Mann/La%20montana%20magica%20%282389%29/La%20montana%20magica%20-%20Thomas%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="850 KB" />
+    <author>
+      <name>Thomas Mann</name>
+      <uri>../authors_1/authors_1635_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Filosófico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [196]:</summary>
+    <link href="../book_2/book_2389.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El paraíso de los gatos [9 de septiembre de 2024]</title>
+    <id>calibre:book:2384</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <author>
+      <name>Émile Zola</name>
+      <uri>../authors_1/authors_1607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Juvenil" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [200]:</summary>
+    <link href="../book_2/book_2384.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sirena negra [9 de septiembre de 2024]</title>
+    <id>calibre:book:2387</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <author>
+      <name>Emilia Pardo Bazán</name>
+      <uri>../authors_1/authors_1523_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [186]:</summary>
+    <link href="../book_2/book_2387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El crucero de la Chatarra Rodante [9 de septiembre de 2024]</title>
+    <id>calibre:book:2382</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/El%20crucero%20de%20la%20Chatarra%20Rodan%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>F. Scott Fitzgerald</name>
+      <uri>../authors_1/authors_1406_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="memorias" />
+    <category term="Viajes" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [197]:</summary>
+    <link href="../book_2/book_2382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Emma [9 de septiembre de 2024]</title>
+    <id>calibre:book:2378</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../Jane%20Austen/Emma%20%282378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Emma%20%282378%29/Emma%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [176]:</summary>
+    <link href="../book_2/book_2378.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mercader de Venecia [9 de septiembre de 2024]</title>
+    <id>calibre:book:2379</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../William%20Shakespeare/El%20mercader%20de%20Venecia%20%282379%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/El%20mercader%20de%20Venecia%20%282379%29/El%20mercader%20de%20Venecia%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="122 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [183]:</summary>
+    <link href="../book_2/book_2379.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Otelo [9 de septiembre de 2024]</title>
+    <id>calibre:book:2380</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../William%20Shakespeare/Otelo%20%282380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Otelo%20%282380%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [187]:</summary>
+    <link href="../book_2/book_2380.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las penas del joven Werther [9 de septiembre de 2024]</title>
+    <id>calibre:book:2383</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <author>
+      <name>Goethe</name>
+      <uri>../authors_1/authors_1598_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [199]:</summary>
+    <link href="../book_2/book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reliquia [9 de septiembre de 2024]</title>
+    <id>calibre:book:2381</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <author>
+      <name>Eça de Queirós</name>
+      <uri>../authors_1/authors_1506_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [198]:</summary>
+    <link href="../book_2/book_2381.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alrededor de la Luna [9 de septiembre de 2024]</title>
+    <id>calibre:book:2374</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/Alrededor%20de%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
+    <author>
+      <name>Julio Verne</name>
+      <uri>../authors_1/authors_1468_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [179]:</summary>
+    <link href="../book_2/book_2374.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De la Tierra a la Luna [9 de septiembre de 2024]</title>
+    <id>calibre:book:2375</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Julio%20Verne/De%20la%20Tierra%20a%20la%20Luna%20%282375%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julio%20Verne/De%20la%20Tierra%20a%20la%20Luna%20%282375%29/De%20la%20Tierra%20a%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <author>
+      <name>Julio Verne</name>
+      <uri>../authors_1/authors_1468_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [178]:</summary>
+    <link href="../book_2/book_2375.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La esfinge de los hielos [9 de septiembre de 2024]</title>
+    <id>calibre:book:2376</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/La%20esfinge%20de%20los%20hielos%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="358 KB" />
+    <author>
+      <name>Julio Verne</name>
+      <uri>../authors_1/authors_1468_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [175]:</summary>
+    <link href="../book_2/book_2376.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El jugador [9 de septiembre de 2024]</title>
+    <id>calibre:book:2373</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/El%20jugador%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="185 KB" />
+    <author>
+      <name>Fiódor Dostoyevski</name>
+      <uri>../authors_1/authors_1417_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [181]:</summary>
+    <link href="../book_2/book_2373.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Orgullo y prejuicio [9 de septiembre de 2024]</title>
+    <id>calibre:book:2377</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Jane%20Austen/Orgullo%20y%20prejuicio%20%282377%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Orgullo%20y%20prejuicio%20%282377%29/Orgullo%20y%20prejuicio%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="376 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [174]:</summary>
+    <link href="../book_2/book_2377.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Julio César [9 de septiembre de 2024]</title>
+    <id>calibre:book:2371</id>
+    <updated>2024-09-09T10:34:17Z</updated>
+    <link href="../../William%20Shakespeare/Julio%20Cesar%20%282371%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Julio%20Cesar%20%282371%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [151]:</summary>
-    <link href="../book_2/book_2343.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [161]:</summary>
+    <link href="../book_2/book_2371.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Agamenón [9 de septiembre de 2024]</title>
-    <id>calibre:book:2339</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Esquilo/Agamenon%20%282339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Agamenon%20%282339%29/Agamenon%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <title>El rey Lear [9 de septiembre de 2024]</title>
+    <id>calibre:book:2372</id>
+    <updated>2024-09-09T10:34:17Z</updated>
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
     <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [156]:</summary>
-    <link href="../book_2/book_2339.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [172]:</summary>
+    <link href="../book_2/book_2372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Antígona [9 de septiembre de 2024]</title>
-    <id>calibre:book:2341</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Sofocles/Antigona%20%282341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Antigona%20%282341%29/Antigona%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <title>El curioso caso de Benjamin Button [9 de septiembre de 2024]</title>
+    <id>calibre:book:2366</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/El%20curioso%20caso%20de%20Benjamin%20But%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="107 KB" />
     <author>
-      <name>Sófocles</name>
-      <uri>../authors_1/authors_1577_Page_1.xml</uri>
+      <name>F. Scott Fitzgerald</name>
+      <uri>../authors_1/authors_1406_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Teatro" />
-    <category term="Tragedia" />
+    <category term="Fantástico" />
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [153]:</summary>
-    <link href="../book_2/book_2341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [171]:</summary>
+    <link href="../book_2/book_2366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El archivo de Sherlock Holmes [9 de septiembre de 2024]</title>
-    <id>calibre:book:2338</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/El%20archivo%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <title>La lámpara roja [9 de septiembre de 2024]</title>
+    <id>calibre:book:2368</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/La%20lampara%20roja%20%282368%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/La%20lampara%20roja%20%282368%29/La%20lampara%20roja%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
     </author>
-    <published>0101-02-01T06:00:00Z</published>
+    <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Policial" />
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [107]:</summary>
-    <link href="../book_2/book_2338.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [162]:</summary>
+    <link href="../book_2/book_2368.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La camisa del hombre feliz [9 de septiembre de 2024]</title>
-    <id>calibre:book:2337</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Leon%20Tolstoi/La%20camisa%20del%20hombre%20feliz%20%282337%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leon%20Tolstoi/La%20camisa%20del%20hombre%20feliz%20%282337%29/La%20camisa%20del%20hombre%20feliz%20-%20Leon%20Tolstoi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="45 KB" />
+    <title>La Mandrágora [9 de septiembre de 2024]</title>
+    <id>calibre:book:2370</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/La%20Mandragora%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
     <author>
-      <name>León Tolstoi</name>
-      <uri>../authors_1/authors_1622_Page_1.xml</uri>
+      <name>Nicolás Maquiavelo</name>
+      <uri>../authors_1/authors_1587_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [173]:</summary>
+    <link href="../book_2/book_2370.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Reina de las Nieves [9 de septiembre de 2024]</title>
+    <id>calibre:book:2367</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/La%20Reina%20de%20las%20Nieves%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="88 KB" />
+    <author>
+      <name>Hans Christian Andersen</name>
+      <uri>../authors_0/authors_104_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [144]:</summary>
-    <link href="../book_2/book_2337.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [159]:</summary>
+    <link href="../book_2/book_2367.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las coéforas [9 de septiembre de 2024]</title>
-    <id>calibre:book:2342</id>
-    <updated>2024-09-09T10:34:11Z</updated>
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="97 KB" />
+    <title>Sueño de la libélula [9 de septiembre de 2024]</title>
+    <id>calibre:book:2369</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/Sueno%20de%20la%20libelula%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="810 KB" />
     <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+      <name>Natsume Sōseki</name>
+      <uri>../authors_1/authors_1633_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [170]:</summary>
+    <link href="../book_2/book_2369.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Almohada de hierba [9 de septiembre de 2024]</title>
+    <id>calibre:book:2364</id>
+    <updated>2024-09-09T10:34:15Z</updated>
+    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/Almohada%20de%20hierba%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <author>
+      <name>Natsume Sōseki</name>
+      <uri>../authors_1/authors_1633_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
     <category term="Lang:es" />
     <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [150]:</summary>
-    <link href="../book_2/book_2342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Biblioteca PruébaT [160]:</summary>
+    <link href="../book_2/book_2364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Edipo en Colono [9 de septiembre de 2024]</title>
-    <id>calibre:book:2340</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/Edipo%20en%20Colono%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
-    <author>
-      <name>Sófocles</name>
-      <uri>../authors_1/authors_1577_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Teatro" />
-    <category term="Tragedia" />
-    <category term="griega" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [132]:</summary>
-    <link href="../book_2/book_2340.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las aventuras de Sherlock Holmes [9 de septiembre de 2024]</title>
-    <id>calibre:book:2331</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/Las%20aventuras%20de%20Sherlock%20Holme%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="301 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [117]:</summary>
-    <link href="../book_2/book_2331.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las memorias de Sherlock Holmes [9 de septiembre de 2024]</title>
-    <id>calibre:book:2332</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/Las%20memorias%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="312 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [119]:</summary>
-    <link href="../book_2/book_2332.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El regreso de Sherlock Holmes [9 de septiembre de 2024]</title>
-    <id>calibre:book:2335</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/El%20regreso%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [109]:</summary>
-    <link href="../book_2/book_2335.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El sabueso de los Baskerville [9 de septiembre de 2024]</title>
-    <id>calibre:book:2333</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20sabueso%20de%20los%20Baskerville%20%282333%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20sabueso%20de%20los%20Baskerville%20%282333%29/El%20sabueso%20de%20los%20Baskerville%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Clásico" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [111]:</summary>
-    <link href="../book_2/book_2333.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Su última reverencia [9 de septiembre de 2024]</title>
-    <id>calibre:book:2334</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/Su%20ultima%20reverencia%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="208 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [124]:</summary>
-    <link href="../book_2/book_2334.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El valle del terror [9 de septiembre de 2024]</title>
-    <id>calibre:book:2336</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/El%20valle%20del%20terror%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Clásico" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [112]:</summary>
-    <link href="../book_2/book_2336.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El capitán tormenta [9 de septiembre de 2024]</title>
-    <id>calibre:book:2326</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../Emilio%20Salgari/El%20capitan%20tormenta%20%282326%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilio%20Salgari/El%20capitan%20tormenta%20%282326%29/El%20capitan%20tormenta%20-%20Emilio%20Salgari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
-    <author>
-      <name>Emilio Salgari</name>
-      <uri>../authors_1/authors_1620_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [108]:</summary>
-    <link href="../book_2/book_2326.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>En casa del ocultista [9 de septiembre de 2024]</title>
-    <id>calibre:book:2327</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../Dimitrios%20Vikelas/En%20casa%20del%20ocultista%20%282327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dimitrios%20Vikelas/En%20casa%20del%20ocultista%20%282327%29/En%20casa%20del%20ocultista%20-%20Dimitrios%20Vikelas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
-    <author>
-      <name>Dimitrios Vikelas</name>
-      <uri>../authors_1/authors_1621_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Cuento" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [114]:</summary>
-    <link href="../book_2/book_2327.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Estudio en escarlata [9 de septiembre de 2024]</title>
-    <id>calibre:book:2329</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/Estudio%20en%20escarlata%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="172 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [113]:</summary>
-    <link href="../book_2/book_2329.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre invisible [9 de septiembre de 2024]</title>
-    <id>calibre:book:2325</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../H.%20G.%20Wells/El%20hombre%20invisible%20%282325%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20G.%20Wells/El%20hombre%20invisible%20%282325%29/El%20hombre%20invisible%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="199 KB" />
-    <author>
-      <name>H. G. Wells</name>
-      <uri>../authors_1/authors_1619_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [123]:</summary>
-    <link href="../book_2/book_2325.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El Príncipe y el Mendigo [9 de septiembre de 2024]</title>
-    <id>calibre:book:2328</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../Mark%20Twain/El%20Principe%20y%20el%20Mendigo%20%282328%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Twain/El%20Principe%20y%20el%20Mendigo%20%282328%29/El%20Principe%20y%20el%20Mendigo%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="257 KB" />
-    <author>
-      <name>Mark Twain</name>
-      <uri>../authors_1/authors_1488_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [130]:</summary>
-    <link href="../book_2/book_2328.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El signo de los cuatro [9 de septiembre de 2024]</title>
-    <id>calibre:book:2330</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/El%20signo%20de%20los%20cuatro%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [129]:</summary>
-    <link href="../book_2/book_2330.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Agnes Grey [9 de septiembre de 2024]</title>
-    <id>calibre:book:2321</id>
-    <updated>2024-09-09T10:34:07Z</updated>
-    <link href="../../Anne%20Bronte/Agnes%20Grey%20%282321%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Bronte/Agnes%20Grey%20%282321%29/Agnes%20Grey%20-%20Anne%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="245 KB" />
-    <author>
-      <name>Anne Brontë</name>
-      <uri>../authors_1/authors_1617_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [99]:</summary>
-    <link href="../book_2/book_2321.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Blancanieves [9 de septiembre de 2024]</title>
-    <id>calibre:book:2319</id>
-    <updated>2024-09-09T10:34:07Z</updated>
-    <link href="../../Hermanos%20Grimm/Blancanieves%20%282319%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/Blancanieves%20%282319%29/Blancanieves%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="76 KB" />
-    <author>
-      <name>Hermanos Grimm</name>
-      <uri>../authors_0/authors_109_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:en" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [74]:</summary>
-    <link href="../book_2/book_2319.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Capitanes intrépidos [9 de septiembre de 2024]</title>
-    <id>calibre:book:2324</id>
-    <updated>2024-09-09T10:34:08Z</updated>
-    <link href="../../Rudyard%20Kipling/Capitanes%20intrepidos%20%282324%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rudyard%20Kipling/Capitanes%20intrepidos%20%282324%29/Capitanes%20intrepidos%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="204 KB" />
-    <author>
-      <name>Rudyard Kipling</name>
-      <uri>../authors_0/authors_112_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="nonfiction" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [120]:</summary>
-    <link href="../book_2/book_2324.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Gargantúa [9 de septiembre de 2024]</title>
-    <id>calibre:book:2322</id>
-    <updated>2024-09-09T10:34:07Z</updated>
-    <link href="../../Francois%20Rabelais/Gargantua%20%282322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francois%20Rabelais/Gargantua%20%282322%29/Gargantua%20-%20Francois%20Rabelais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="246 KB" />
-    <author>
-      <name>François Rabelais</name>
-      <uri>../authors_1/authors_1618_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [73]:</summary>
-    <link href="../book_2/book_2322.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Manhattan Transfer [9 de septiembre de 2024]</title>
-    <id>calibre:book:2320</id>
-    <updated>2024-09-09T10:34:07Z</updated>
-    <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/Manhattan%20Transfer%20-%20John%20Dos%20Passos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="388 KB" />
-    <author>
-      <name>John Dos Passos</name>
-      <uri>../authors_1/authors_1616_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [75]:</summary>
-    <link href="../book_2/book_2320.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La máquina del tiempo [9 de septiembre de 2024]</title>
-    <id>calibre:book:2323</id>
-    <updated>2024-09-09T10:34:07Z</updated>
-    <link href="../../H.%20G.%20Wells/La%20maquina%20del%20tiempo%20%282323%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20G.%20Wells/La%20maquina%20del%20tiempo%20%282323%29/La%20maquina%20del%20tiempo%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="166 KB" />
-    <author>
-      <name>H. G. Wells</name>
-      <uri>../authors_1/authors_1619_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [115]:</summary>
-    <link href="../book_2/book_2323.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 15)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
-  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
 </feed>

@@ -13,7 +13,26 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 9)" />
+  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 10)" />
+  <entry>
+    <title>Mucho ruido y pocas nueces</title>
+    <id>calibre:book:2439</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="169 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [2]:</summary>
+    <link href="../book_2/book_2439.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Muerte de una librera</title>
     <id>calibre:book:2618</id>
@@ -433,23 +452,7 @@
     <summary>¿Cuáles son las claves del éxito mundial de las conferencias TED? Jeremey, Donovan, uno de los organizadores del TED, nos brinda esta guía llena de consejos para hacer de tu exposición oral un acto inspirador capaz de subyugar al público. Las confere...</summary>
     <link href="../book_0/book_433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Mía: Cuando el amor va un paso más allá</title>
-    <id>calibre:book:1209</id>
-    <updated>2024-02-06T06:22:02Z</updated>
-    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20-%20Allyson%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="184 KB" />
-    <author>
-      <name>Allyson Martín</name>
-      <uri>../authors_0/authors_877_Page_1.xml</uri>
-    </author>
-    <published>2022-09-30T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>...</summary>
-    <link href="../book_1/book_1209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
 </feed>

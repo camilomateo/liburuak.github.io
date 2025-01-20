@@ -14,6 +14,21 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por V" />
   <entry>
+    <title>La voz sombra</title>
+    <id>calibre:book:1832</id>
+    <updated>2024-08-30T02:04:05Z</updated>
+    <link href="../../Ryoko%20Sekiguchi/La%20voz%20sombra%20%281832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ryoko%20Sekiguchi/La%20voz%20sombra%20%281832%29/La%20voz%20sombra%20-%20Ryoko%20Sekiguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Ryoko Sekiguchi</name>
+      <uri>../authors_1/authors_1309_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Editorial Periférica</dcterms:publisher>
+    <summary>Antes de la invención de la fotografía y de las grabaciones sonoras, a los vivos no les quedaban de quien moría sino unos pocos objetos que lo habían acompañado; su olor impregnado en la ropa; la letra, si la persona sabía escribir; retratos pintados...</summary>
+    <link href="../book_1/book_1832.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La vuelta al mundo en 15 mujeres</title>
     <id>calibre:book:801</id>
     <updated>2023-05-31T01:18:14Z</updated>

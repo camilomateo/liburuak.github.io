@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Helene Flood</title>
+  <id>Calibre2opds:authors:1840</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1840_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Helene Flood" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <entry>
+    <title>La herencia</title>
+    <id>calibre:book:2812</id>
+    <updated>2025-01-20T11:21:16Z</updated>
+    <link href="../../Helene%20Flood/La%20herencia%20%282812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Helene%20Flood/La%20herencia%20%282812%29/La%20herencia%20-%20Helene%20Flood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <author>
+      <name>Helene Flood</name>
+      <uri>../authors_1/authors_1840_Page_1.xml</uri>
+    </author>
+    <published>2024-12-03T11:53:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Antes de que Erling sufriera un ataque al corazón y cayera fulminado en la calle, ya había sufrido una serie de "casi" accidentes bastante sospechosos. Ahora, sola en su inmensa casa, Evy, su esposa durante cuarenta y cinco años, reflexiona: hay algo...</summary>
+    <link href="../book_2/book_2812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

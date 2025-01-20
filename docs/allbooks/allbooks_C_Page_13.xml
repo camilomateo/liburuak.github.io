@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
   <entry>
+    <title>Un crimen con clase</title>
+    <id>calibre:book:945</id>
+    <updated>2023-07-14T09:48:40Z</updated>
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/Un%20crimen%20con%20clase%20-%20Julia%20Seales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <author>
+      <name>Julia Seales</name>
+      <uri>../authors_0/authors_707_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Uno de los debuts más esperados del año: un crimen a puerta cerrada con ecos de Agatha Christie y Jane Austen que ya está siendo adaptado al cine y cuyos derechos de traducción se han vendido a ocho idiomas.Beatrice Steele guarda un oscuro secreto: e...</summary>
+    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El crimen de la habitación 12</title>
     <id>calibre:book:844</id>
     <updated>2023-06-12T01:23:24Z</updated>
