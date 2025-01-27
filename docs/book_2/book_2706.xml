@@ -6,11 +6,11 @@
   <link href="./book_2706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las que no duermen NASH (Los Valles Tranquilos)" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
   <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Dolores Redondo</name>
     <uri>../authors_0/authors_62_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-weight: bold">En los Valles Tranquilos no
@@ -63,5 +63,5 @@
       literario.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Dolores Redondo" />
+  <link href="../authors_0/authors_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dolores Redondo" />
 </entry>

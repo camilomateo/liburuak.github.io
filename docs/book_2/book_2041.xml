@@ -6,15 +6,15 @@
   <link href="./book_2041.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El flautista de Hamelín" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authors_0/authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Hermanos Grimm" />
   <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="68 KB" />
+  <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="68 KB" />
   <author>
     <name>Hermanos Grimm</name>
     <uri>../authors_0/authors_109_Page_1.xml</uri>
@@ -26,12 +26,12 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
   </content>
-  <link href="../authors_0/authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Hermanos Grimm" />
+  <link href="../authors_0/authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Hermanos Grimm" />
 </entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Laurie Gilmore</title>
+  <id>Calibre2opds:authors:1863</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1863_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Laurie Gilmore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>Café con aroma a calabaza</title>
+    <id>calibre:book:2847</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../Laurie%20Gilmore/Cafe%20con%20aroma%20a%20calabaza%20%282847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laurie%20Gilmore/Cafe%20con%20aroma%20a%20calabaza%20%282847%29/Cafe%20con%20aroma%20a%20calabaza%20-%20Laurie%20Gilmore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
+    <author>
+      <name>Laurie Gilmore</name>
+      <uri>../authors_1/authors_1863_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T08:19:44Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando Jeanie recibe el encargo de su querida tía Dot de llevar el Pumpkin Spice Café en el pequeño pueblo de Dream Harbor, decide aprovechar la oportunidad para empezar una nueva vida lejos de su estresante trabajo de oficina.Todos en el pueblo pare...</summary>
+    <link href="../book_2/book_2847.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

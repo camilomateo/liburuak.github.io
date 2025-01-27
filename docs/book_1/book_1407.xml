@@ -6,12 +6,12 @@
   <link href="./book_1407.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Algunos días de mayo y uno de junio" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jordi Sierra i Fabra" />
   <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="513 KB" />
+  <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
   <author>
     <name>Jordi Sierra i Fabra</name>
     <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">En la última entrega de Mascarell, el inspector
     tendrá que enfrentarse al caso más grande de su vida.
@@ -59,5 +59,5 @@
     Congreso, sino la vida futura de la ciudad, porque Barcelona y
     Mascarell pueden estar en el ojo del huracán.</p>
   </content>
-  <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jordi Sierra i Fabra" />
+  <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jordi Sierra i Fabra" />
 </entry>

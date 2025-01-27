@@ -6,13 +6,13 @@
   <link href="./book_643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El mal camino" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mikel Santiago" />
   <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/El%20mal%20camino%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="652 KB" />
+  <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/El%20mal%20camino%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
   <author>
     <name>Mikel Santiago</name>
     <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <span style="color: rgb(0, 0, 0); font-family: Arial, Verdana, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">El
@@ -48,5 +48,5 @@
       <br style="color: rgb(0, 0, 0); font-family: Arial, Verdana, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);" />
     </div>
   </content>
-  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mikel Santiago" />
+  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mikel Santiago" />
 </entry>

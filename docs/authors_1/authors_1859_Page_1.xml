@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nicolas Feuz</title>
+  <id>Calibre2opds:authors:1859</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1859_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nicolas Feuz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <entry>
+    <title>El Filatelista</title>
+    <id>calibre:book:2843</id>
+    <updated>2025-01-27T00:40:26Z</updated>
+    <link href="../../Nicolas%20Feuz/El%20Filatelista%20%282843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Feuz/El%20Filatelista%20%282843%29/El%20Filatelista%20-%20Nicolas%20Feuz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
+    <author>
+      <name>Nicolas Feuz</name>
+      <uri>../authors_1/authors_1859_Page_1.xml</uri>
+    </author>
+    <published>2024-11-12T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL GRAN DESCUBRIMIENTO DE JÖEL DICKER COMO EDITOR«No pude dejarlo. Es extraordinario»Jöel DickerNúmero uno en ventas en SuizaMejor thriller del Salón del Libro de París 2015 y 2018Prix de L&amp;apos;Évêché 2022«Un thriller filatélico sangrante»Le MondeAl...</summary>
+    <link href="../book_2/book_2843.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

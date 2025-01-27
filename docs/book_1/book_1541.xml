@@ -6,16 +6,16 @@
   <link href="./book_1541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="MONTESBLANCOS" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/MONTESBLANCOS%20-%20Esteban%20Navarro%20Soriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="363 KB" />
+  <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/MONTESBLANCOS%20-%20Esteban%20Navarro%20Soriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
   <author>
     <name>Esteban Navarro Soriano</name>
     <uri>../authors_1/authors_1122_Page_1.xml</uri>
@@ -26,14 +26,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Un constructor de Zaragoza adquiere los terrenos del
@@ -52,5 +52,5 @@
       fortuna.</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Esteban Navarro Soriano" />
+  <link href="../authors_1/authors_1122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Esteban Navarro Soriano" />
 </entry>

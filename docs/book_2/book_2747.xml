@@ -6,11 +6,11 @@
   <link href="./book_2747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No se van a ordenar solas las cosas" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+  <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
   <author>
     <name>Nuria Labari</name>
     <uri>../authors_1/authors_1798_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>
@@ -55,5 +55,5 @@
       </p>
     </div>
   </content>
-  <link href="../authors_1/authors_1798_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Nuria Labari" />
+  <link href="../authors_1/authors_1798_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Nuria Labari" />
 </entry>

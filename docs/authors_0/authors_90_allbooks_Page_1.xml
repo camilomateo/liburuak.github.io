@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Megan Maxwell</title>
+  <title>All books by Megan Maxwell</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_90_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Megan Maxwell" />
+  <link href="./authors_90_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Megan Maxwell" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="./authors_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Megan Maxwell" />
   <entry>
     <title>¿A qué estás esperando?</title>
     <id>calibre:book:185</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Megan%20Maxwell/_A%20que%20estas%20esperando_%20%28185%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Megan%20Maxwell/_A%20que%20estas%20esperando_%20%28185%29/_A%20que%20estas%20esperando_%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="682 KB" />
+    <link href="../../Megan%20Maxwell/_A%20que%20estas%20esperando_%20%28185%29/_A%20que%20estas%20esperando_%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="682 KB" />
     <author>
       <name>Megan Maxwell</name>
       <uri>../authors_0/authors_90_Page_1.xml</uri>
@@ -39,7 +39,7 @@
     <id>calibre:book:195</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/Alegrame%20la%20vista%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/Alegrame%20la%20vista%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Megan Maxwell</name>
       <uri>../authors_0/authors_90_Page_1.xml</uri>
@@ -59,7 +59,7 @@
     <id>calibre:book:465</id>
     <updated>2023-03-24T09:44:12Z</updated>
     <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/Mirame%20y%20besame%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="694 KB" />
+    <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/Mirame%20y%20besame%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="694 KB" />
     <author>
       <name>Megan Maxwell</name>
       <uri>../authors_0/authors_90_Page_1.xml</uri>
@@ -77,7 +77,7 @@
     <id>calibre:book:143</id>
     <updated>2023-01-27T08:55:26Z</updated>
     <link href="../../Megan%20Maxwell/Y%20ahora%20supera%20mi%20beso%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Megan%20Maxwell/Y%20ahora%20supera%20mi%20beso%20%28143%29/Y%20ahora%20supera%20mi%20beso%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Megan%20Maxwell/Y%20ahora%20supera%20mi%20beso%20%28143%29/Y%20ahora%20supera%20mi%20beso%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Megan Maxwell</name>
       <uri>../authors_0/authors_90_Page_1.xml</uri>

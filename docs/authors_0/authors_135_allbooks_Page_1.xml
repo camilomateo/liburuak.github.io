@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Kamilla Oresvärd</title>
+  <title>All books by Kamilla Oresvärd</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_135_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Kamilla Oresvärd" />
+  <link href="./authors_135_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Kamilla Oresvärd" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with O" />
   <link href="./authors_135_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Kamilla Oresvärd" />
   <entry>
     <title>El baile de la niebla</title>
     <id>calibre:book:208</id>
     <updated>2023-01-27T08:44:28Z</updated>
     <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/El%20baile%20de%20la%20niebla%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="696 KB" />
+    <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/El%20baile%20de%20la%20niebla%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="696 KB" />
     <author>
       <name>Kamilla Oresvärd</name>
       <uri>../authors_0/authors_135_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1019</id>
     <updated>2023-08-30T08:59:20Z</updated>
     <link href="../../Kamilla%20Oresvard/La%20soga%20de%20la%20deshonra%20%281019%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kamilla%20Oresvard/La%20soga%20de%20la%20deshonra%20%281019%29/La%20soga%20de%20la%20deshonra%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Kamilla%20Oresvard/La%20soga%20de%20la%20deshonra%20%281019%29/La%20soga%20de%20la%20deshonra%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Kamilla Oresvärd</name>
       <uri>../authors_0/authors_135_Page_1.xml</uri>

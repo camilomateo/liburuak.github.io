@@ -6,11 +6,11 @@
   <link href="./book_646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un nuevo país al otro lado de mi ventana" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <link href="../../Theodor%20Kallifatides/Un%20nuevo%20pais%20al%20otro%20lado%20de%20mi%20ve%20%28646%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Theodor%20Kallifatides/Un%20nuevo%20pais%20al%20otro%20lado%20de%20mi%20ve%20%28646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Theodor%20Kallifatides/Un%20nuevo%20pais%20al%20otro%20lado%20de%20mi%20ve%20%28646%29/Un%20nuevo%20pais%20al%20otro%20lado%20de%20m%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+  <link href="../../Theodor%20Kallifatides/Un%20nuevo%20pais%20al%20otro%20lado%20de%20mi%20ve%20%28646%29/Un%20nuevo%20pais%20al%20otro%20lado%20de%20m%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="649 KB" />
   <author>
     <name>Theodor Kallifatides</name>
     <uri>../authors_0/authors_453_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="" class="description">
       <span>Theodor Kallifatides emigró de Grecia a Suecia en
@@ -47,5 +47,5 @@
       nuevo a sus lectores.</span>
     </p>
   </content>
-  <link href="../authors_0/authors_453_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Theodor Kallifatides" />
+  <link href="../authors_0/authors_453_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Theodor Kallifatides" />
 </entry>

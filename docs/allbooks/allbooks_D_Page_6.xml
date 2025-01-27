@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por D</title>
+  <title>Books starting with D</title>
   <id>Calibre2opds:allbooks:D</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,54 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_D_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por D" />
+  <link href="./allbooks_D_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with D" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por D" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with D" />
+  <entry>
+    <title>El día de los perdidos</title>
+    <id>calibre:book:2806</id>
+    <updated>2025-01-16T08:08:29Z</updated>
+    <link href="../../Stiff%20Sullivan/El%20dia%20de%20los%20perdidos%20%282806%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stiff%20Sullivan/El%20dia%20de%20los%20perdidos%20%282806%29/El%20dia%20de%20los%20perdidos%20-%20Stiff%20Sullivan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Stiff Sullivan</name>
+      <uri>../authors_1/authors_1836_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <summary>El pueblo gallego de San Amaro ha aprendido a vivir con sus muertos. Diego, no. Tres años después de la inexplicable desaparición de su hermana y sus amigos, él sigue atrapado en el tormento de saber qué ocurrió aquella noche. Pero, cuando en el aniv...</summary>
+    <link href="../book_2/book_2806.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un día más en la muerte de Estados Unidos</title>
+    <id>calibre:book:1369</id>
+    <updated>2024-04-03T00:30:01Z</updated>
+    <link href="../../Gary%20Younge/Un%20dia%20mas%20en%20la%20muerte%20de%20Estados%20%281369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gary%20Younge/Un%20dia%20mas%20en%20la%20muerte%20de%20Estados%20%281369%29/Un%20dia%20mas%20en%20la%20muerte%20de%20Esta%20-%20Gary%20Younge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
+    <author>
+      <name>Gary Younge</name>
+      <uri>../authors_1/authors_1004_Page_1.xml</uri>
+    </author>
+    <published>2020-05-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del K.O.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«La obra maestra de Gary Younge. No volverás
+a mirar con los mismos ojos una noticia sobre
+violencia con armas de fuego. Un relato magistral
+en el que ha logrado controlar su indignación y que
+resulta tremendamente cautivador. Un libro que se
+lee ent...</summary>
+    <link href="../book_1/book_1369.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El día que se perdió el amor</title>
     <id>calibre:book:1504</id>
     <updated>2024-05-10T08:43:28Z</updated>
     <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20el%20amor%20%281504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20el%20amor%20%281504%29/El%20dia%20que%20se%20perdio%20el%20amor%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="517 KB" />
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20el%20amor%20%281504%29/El%20dia%20que%20se%20perdio%20el%20amor%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="517 KB" />
     <author>
       <name>Javier Castillo</name>
       <uri>../authors_0/authors_165_Page_1.xml</uri>
@@ -36,7 +73,7 @@
     <id>calibre:book:1498</id>
     <updated>2024-05-10T08:43:26Z</updated>
     <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20la%20cordura%20%281498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20la%20cordura%20%281498%29/El%20dia%20que%20se%20perdio%20la%20cordura%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Javier%20Castillo/El%20dia%20que%20se%20perdio%20la%20cordura%20%281498%29/El%20dia%20que%20se%20perdio%20la%20cordura%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Javier Castillo</name>
       <uri>../authors_0/authors_165_Page_1.xml</uri>
@@ -54,7 +91,7 @@
     <id>calibre:book:2434</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/Los%20dias%20de%20Birmania%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="306 KB" />
+    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/Los%20dias%20de%20Birmania%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
     <author>
       <name>George Orwell</name>
       <uri>../authors_1/authors_1609_Page_1.xml</uri>
@@ -73,7 +110,7 @@
     <id>calibre:book:1373</id>
     <updated>2024-04-03T00:30:02Z</updated>
     <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20dias%20de%20la%20fiebre%20%281373%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20dias%20de%20la%20fiebre%20%281373%29/Los%20dias%20de%20la%20fiebre%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="258 KB" />
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20dias%20de%20la%20fiebre%20%281373%29/Los%20dias%20de%20la%20fiebre%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="258 KB" />
     <author>
       <name>Andrés Felipe Solano Mendoza</name>
       <uri>../authors_0/authors_998_Page_1.xml</uri>

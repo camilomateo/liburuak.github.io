@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
-  <link href="../allbooks/allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <link href="../allbooks/allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
   <entry>
     <title>The Teaching of History</title>
     <id>calibre:book:1988</id>
     <updated>2024-09-05T06:10:31Z</updated>
     <link href="../../E.%20C.%20Hartwell/The%20Teaching%20of%20History%20%281988%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../E.%20C.%20Hartwell/The%20Teaching%20of%20History%20%281988%29/The%20Teaching%20of%20History%20-%20E.%20C.%20Hartwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="89 KB" />
+    <link href="../../E.%20C.%20Hartwell/The%20Teaching%20of%20History%20%281988%29/The%20Teaching%20of%20History%20-%20E.%20C.%20Hartwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="89 KB" />
     <author>
       <name>E. C. Hartwell</name>
       <uri>../authors_1/authors_1423_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:2516</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="108 KB" />
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="108 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:2089</id>
     <updated>2024-09-06T02:09:10Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/The%20Three%20Musketeers%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/The%20Three%20Musketeers%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="624 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -97,7 +97,7 @@
     <id>calibre:book:2517</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="153 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -130,7 +130,7 @@
     <id>calibre:book:2515</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../Christopher%20Marlowe/The%20Tragical%20History%20of%20Doctor%20Faus%20%282515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christopher%20Marlowe/The%20Tragical%20History%20of%20Doctor%20Faus%20%282515%29/The%20Tragical%20History%20of%20Doctor%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <link href="../../Christopher%20Marlowe/The%20Tragical%20History%20of%20Doctor%20Faus%20%282515%29/The%20Tragical%20History%20of%20Doctor%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="86 KB" />
     <author>
       <name>Christopher Marlowe</name>
       <uri>../authors_1/authors_1667_Page_1.xml</uri>
@@ -154,7 +154,7 @@
     <id>calibre:book:2442</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/The%20White%20Company%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="424 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/The%20White%20Company%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="424 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -186,7 +186,7 @@
     <id>calibre:book:2444</id>
     <updated>2024-09-09T10:34:32Z</updated>
     <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="265 KB" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="265 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -214,7 +214,7 @@
     <id>calibre:book:2445</id>
     <updated>2024-09-09T10:34:32Z</updated>
     <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="296 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -240,7 +240,7 @@
     <id>calibre:book:2446</id>
     <updated>2024-09-09T10:34:32Z</updated>
     <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="309 KB" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="309 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -264,7 +264,7 @@
     <id>calibre:book:2447</id>
     <updated>2024-09-09T10:34:32Z</updated>
     <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -290,7 +290,7 @@
     <id>calibre:book:2450</id>
     <updated>2024-09-09T10:34:33Z</updated>
     <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="288 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -315,7 +315,7 @@
     <id>calibre:book:2478</id>
     <updated>2024-09-09T10:34:39Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/The%20Wrong%20Box%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="198 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/The%20Wrong%20Box%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="198 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -331,7 +331,7 @@
     <id>calibre:book:2088</id>
     <updated>2024-09-06T02:09:10Z</updated>
     <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="102 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>
@@ -354,7 +354,7 @@
     <id>calibre:book:2527</id>
     <updated>2024-09-09T10:34:49Z</updated>
     <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/The%20divine%20comedy%20-%20Dante%20Alighieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/The%20divine%20comedy%20-%20Dante%20Alighieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Dante Alighieri</name>
       <uri>../authors_1/authors_1579_Page_1.xml</uri>
@@ -379,7 +379,7 @@
     <id>calibre:book:2093</id>
     <updated>2024-09-06T02:09:12Z</updated>
     <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/The%20little%20mermaid%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="461 KB" />
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/The%20little%20mermaid%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="461 KB" />
     <author>
       <name>H. C. Andersen</name>
       <uri>../authors_1/authors_1491_Page_1.xml</uri>
@@ -405,7 +405,7 @@
     <id>calibre:book:2485</id>
     <updated>2024-09-09T10:34:41Z</updated>
     <link href="../../Aeschylus/The%20persians%20%282485%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aeschylus/The%20persians%20%282485%29/The%20persians%20-%20Aeschylus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <link href="../../Aeschylus/The%20persians%20%282485%29/The%20persians%20-%20Aeschylus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="100 KB" />
     <author>
       <name>Aeschylus</name>
       <uri>../authors_1/authors_1652_Page_1.xml</uri>
@@ -421,7 +421,7 @@
     <id>calibre:book:2513</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../E.%20T.%20A.%20Hoffmann/The%20sand%20man%20%282513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../E.%20T.%20A.%20Hoffmann/The%20sand%20man%20%282513%29/The%20sand%20man%20-%20E.%20T.%20A.%20Hoffmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <link href="../../E.%20T.%20A.%20Hoffmann/The%20sand%20man%20%282513%29/The%20sand%20man%20-%20E.%20T.%20A.%20Hoffmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="137 KB" />
     <author>
       <name>E. T. A. Hoffmann</name>
       <uri>../authors_1/authors_1666_Page_1.xml</uri>
@@ -452,7 +452,7 @@
     <id>calibre:book:2095</id>
     <updated>2024-09-06T02:09:12Z</updated>
     <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="893 KB" />
     <author>
       <name>H. C. Andersen</name>
       <uri>../authors_1/authors_1491_Page_1.xml</uri>
@@ -478,7 +478,7 @@
     <id>calibre:book:2096</id>
     <updated>2024-09-06T02:09:12Z</updated>
     <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/The%20ugly%20duckling%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/The%20ugly%20duckling%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>H. C. Andersen</name>
       <uri>../authors_1/authors_1491_Page_1.xml</uri>
@@ -504,7 +504,7 @@
     <id>calibre:book:2070</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Lewis%20Carroll/Through%20the%20Looking-Glass%20%282070%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lewis%20Carroll/Through%20the%20Looking-Glass%20%282070%29/Through%20the%20Looking-Glass%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="155 KB" />
+    <link href="../../Lewis%20Carroll/Through%20the%20Looking-Glass%20%282070%29/Through%20the%20Looking-Glass%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="155 KB" />
     <author>
       <name>Lewis Carroll</name>
       <uri>../authors_1/authors_1462_Page_1.xml</uri>
@@ -535,7 +535,7 @@
     <id>calibre:book:2307</id>
     <updated>2024-09-09T10:34:04Z</updated>
     <link href="../../Marcel%20Proust/El%20Tiempo%20Recobrado%20%282307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marcel%20Proust/El%20Tiempo%20Recobrado%20%282307%29/El%20Tiempo%20Recobrado%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="351 KB" />
+    <link href="../../Marcel%20Proust/El%20Tiempo%20Recobrado%20%282307%29/El%20Tiempo%20Recobrado%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
     <author>
       <name>Marcel Proust</name>
       <uri>../authors_1/authors_1608_Page_1.xml</uri>
@@ -553,7 +553,7 @@
     <id>calibre:book:771</id>
     <updated>2023-05-25T00:54:24Z</updated>
     <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/Tiempo%20de%20perdon%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="834 KB" />
+    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/Tiempo%20de%20perdon%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="834 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -570,7 +570,7 @@
     <id>calibre:book:669</id>
     <updated>2023-05-15T05:51:24Z</updated>
     <link href="../../Alberto%20Meneses/Tiempos%20de%20oscuridad%20%28669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Meneses/Tiempos%20de%20oscuridad%20%28669%29/Tiempos%20de%20oscuridad%20-%20Alberto%20Meneses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <link href="../../Alberto%20Meneses/Tiempos%20de%20oscuridad%20%28669%29/Tiempos%20de%20oscuridad%20-%20Alberto%20Meneses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
     <author>
       <name>Alberto Meneses</name>
       <uri>../authors_0/authors_496_Page_1.xml</uri>
@@ -587,7 +587,7 @@
     <id>calibre:book:511</id>
     <updated>2023-04-05T00:39:56Z</updated>
     <link href="../../Eloy%20Moreno/Tierra%20%28511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eloy%20Moreno/Tierra%20%28511%29/Tierra%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="640 KB" />
+    <link href="../../Eloy%20Moreno/Tierra%20%28511%29/Tierra%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="640 KB" />
     <author>
       <name>Eloy Moreno</name>
       <uri>../authors_0/authors_377_Page_1.xml</uri>
@@ -604,7 +604,7 @@
     <id>calibre:book:1555</id>
     <updated>2024-06-02T10:59:46Z</updated>
     <link href="../../Oscar%20Beltran%20de%20Otalora/Tierra%20de%20furtivos%20%281555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Beltran%20de%20Otalora/Tierra%20de%20furtivos%20%281555%29/Tierra%20de%20furtivos%20-%20Oscar%20Beltran%20de%20Otalora.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="490 KB" />
+    <link href="../../Oscar%20Beltran%20de%20Otalora/Tierra%20de%20furtivos%20%281555%29/Tierra%20de%20furtivos%20-%20Oscar%20Beltran%20de%20Otalora.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="490 KB" />
     <author>
       <name>Oscar Beltrán de Otálora</name>
       <uri>../authors_1/authors_1133_Page_1.xml</uri>
@@ -616,7 +616,7 @@
     <summary>Cuando la joven Tatiana se entera de que una amiga suya ha muerto calcinada empieza a investigar por su cuenta el caso, que lleva el oficial de la Ertzaintza Josu Aguirre. Este, inmerso en las disputas internas del cuerpo heredadas de los años de la ...</summary>
     <link href="../book_1/book_1555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../allbooks/allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

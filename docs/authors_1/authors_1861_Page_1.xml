@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Jasso</title>
+  <id>Calibre2opds:authors:1861</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1861_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Jasso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>La casa de los cien escalones</title>
+    <id>calibre:book:2845</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../David%20Jasso/La%20casa%20de%20los%20cien%20escalones%20%282845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Jasso/La%20casa%20de%20los%20cien%20escalones%20%282845%29/La%20casa%20de%20los%20cien%20escalones%20-%20David%20Jasso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>David Jasso</name>
+      <uri>../authors_1/authors_1861_Page_1.xml</uri>
+    </author>
+    <published>2024-10-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Obscura editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>David Jasso, el maestro del terror psicológico, vuelve con fuerza con su novela de terror más intensaCuando un escritor venido a menos empieza a intercambiar emails con otra escritora aficionada, esta le habla de los problemas personales que la tiene...</summary>
+    <link href="../book_2/book_2845.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

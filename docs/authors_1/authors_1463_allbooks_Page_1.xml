@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Herman Melville</title>
+  <title>All books by Herman Melville</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1463_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Herman Melville" />
+  <link href="./authors_1463_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Herman Melville" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="./authors_1463_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Herman Melville" />
   <entry>
     <title>Bartleby, el escribiente</title>
     <id>calibre:book:2272</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Herman%20Melville/Bartleby%2C%20el%20escribiente%20%282272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Bartleby%2C%20el%20escribiente%20%282272%29/Bartleby%2C%20el%20escribiente%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="112 KB" />
+    <link href="../../Herman%20Melville/Bartleby%2C%20el%20escribiente%20%282272%29/Bartleby%2C%20el%20escribiente%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="112 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:2460</id>
     <updated>2024-09-09T10:34:36Z</updated>
     <link href="../../Herman%20Melville/Bartleby%2C%20the%20Scrivener_%20A%20Story%20of%20%282460%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Bartleby%2C%20the%20Scrivener_%20A%20Story%20of%20%282460%29/Bartleby%2C%20the%20Scrivener_%20A%20Stor%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="107 KB" />
+    <link href="../../Herman%20Melville/Bartleby%2C%20the%20Scrivener_%20A%20Story%20of%20%282460%29/Bartleby%2C%20the%20Scrivener_%20A%20Stor%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="107 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:2417</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/Las%20encantadas%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="164 KB" />
+    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/Las%20encantadas%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="164 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -77,7 +77,7 @@
     <id>calibre:book:2035</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -93,7 +93,7 @@
     <id>calibre:book:2483</id>
     <updated>2024-09-09T10:34:40Z</updated>
     <link href="../../Herman%20Melville/Pierre%3B%20or%20The%20Ambiguities%20%282483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Pierre%3B%20or%20The%20Ambiguities%20%282483%29/Pierre%3B%20or%20The%20Ambiguities%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="453 KB" />
+    <link href="../../Herman%20Melville/Pierre%3B%20or%20The%20Ambiguities%20%282483%29/Pierre%3B%20or%20The%20Ambiguities%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:2420</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/Pierre%20o%20las%20ambiguedades%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="532 KB" />
+    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/Pierre%20o%20las%20ambiguedades%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="532 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>

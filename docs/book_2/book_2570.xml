@@ -6,11 +6,11 @@
   <link href="./book_2570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El niño que perdió la guerra" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/El%20nino%20que%20perdio%20la%20guerra%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+  <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/El%20nino%20que%20perdio%20la%20guerra%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
   <author>
     <name>Julia Navarro</name>
     <uri>../authors_0/authors_267_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Un niño. Dos países. Dos ideologías.</p>
@@ -76,5 +76,5 @@
       libertad</p>
     </div>
   </content>
-  <link href="../authors_0/authors_267_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Julia Navarro" />
+  <link href="../authors_0/authors_267_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Julia Navarro" />
 </entry>

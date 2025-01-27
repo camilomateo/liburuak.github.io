@@ -6,16 +6,16 @@
   <link href="./book_1399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La princesa de hielo (edición 10.º Aniversario)" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../authors_0/authors_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Camilla Läckberg" />
   <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/La%20princesa%20de%20hielo%20%28edicion%201%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/La%20princesa%20de%20hielo%20%28edicion%201%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Camilla Läckberg</name>
     <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -31,18 +31,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Fjällbacka serie
+      Book 1 in the Fjällbacka series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Policial, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Edición Especial con 60 páginas extra: entrevista
     y fotos de la autora, consejos para escribir novela negra,
@@ -72,6 +72,6 @@
     Para celebrarlo, presentamos esta edición conmemorativa
     del 10.º aniversario.</p>
   </content>
-  <link href="../series_0/series_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Fjällbacka serie" />
-  <link href="../authors_0/authors_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Camilla Läckberg" />
+  <link href="../series_0/series_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 1 in the Fjällbacka series" />
+  <link href="../authors_0/authors_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Camilla Läckberg" />
 </entry>

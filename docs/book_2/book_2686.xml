@@ -6,11 +6,11 @@
   <link href="./book_2686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La heredera del mar" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="969 KB" />
+  <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="969 KB" />
   <author>
     <name>Juan Francisco Ferrándiz</name>
     <uri>../authors_1/authors_1765_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Histórico, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">1348. La Corona de Aragón vive una de sus épocas
     más convulsas. Una enfermedad terrible y desconocida llega
@@ -51,5 +51,5 @@
     heroína inolvidable que surcará el Mediterráneo
     en busca de la forma de salvar a su familia.</p>
   </content>
-  <link href="../authors_1/authors_1765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Juan Francisco Ferrándiz" />
+  <link href="../authors_1/authors_1765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Juan Francisco Ferrándiz" />
 </entry>

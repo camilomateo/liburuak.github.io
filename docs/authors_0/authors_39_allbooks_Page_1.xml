@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Almudena Grandes</title>
+  <title>All books by Almudena Grandes</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_39_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Almudena Grandes" />
+  <link href="./authors_39_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Almudena Grandes" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="./authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Almudena Grandes" />
   <entry>
     <title>Los besos en el pan</title>
     <id>calibre:book:51</id>
     <updated>2023-01-17T10:49:48Z</updated>
     <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/Los%20besos%20en%20el%20pan%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="476 KB" />
+    <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/Los%20besos%20en%20el%20pan%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:990</id>
     <updated>2023-08-23T02:48:26Z</updated>
     <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/Las%20edades%20de%20Lulu%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/Las%20edades%20de%20Lulu%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:52</id>
     <updated>2023-01-17T10:50:20Z</updated>
     <link href="../../Almudena%20Grandes/Los%20pacientes%20del%20doctor%20Garcia_%20Epi%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Los%20pacientes%20del%20doctor%20Garcia_%20Epi%20%2852%29/Los%20pacientes%20del%20doctor%20Garcia%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="783 KB" />
+    <link href="../../Almudena%20Grandes/Los%20pacientes%20del%20doctor%20Garcia_%20Epi%20%2852%29/Los%20pacientes%20del%20doctor%20Garcia%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="783 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:53</id>
     <updated>2023-01-17T10:50:56Z</updated>
     <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/Todo%20va%20a%20mejorar%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1004 KB" />
+    <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/Todo%20va%20a%20mejorar%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1004 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -92,7 +92,7 @@
     <id>calibre:book:50</id>
     <updated>2023-01-17T10:48:50Z</updated>
     <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/Las%20tres%20bodas%20de%20Manolita%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/Las%20tres%20bodas%20de%20Manolita%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>

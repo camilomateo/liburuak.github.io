@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por D</title>
+  <title>Books starting with D</title>
   <id>Calibre2opds:allbooks:D</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,37 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por D" />
+  <link href="./allbooks_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with D" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por D" />
-  <link href="../allbooks/allbooks_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 6)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with D" />
+  <link href="../allbooks/allbooks_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 6)" />
+  <entry>
+    <title>Desatado</title>
+    <id>calibre:book:1896</id>
+    <updated>2024-09-03T09:33:56Z</updated>
+    <link href="../../Karl%20Hill/Desatado%20%281896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karl%20Hill/Desatado%20%281896%29/Desatado%20-%20Karl%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
+    <author>
+      <name>Karl Hill</name>
+      <uri>../authors_1/authors_1352_Page_1.xml</uri>
+    </author>
+    <published>2024-08-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bloodhound Books</dcterms:publisher>
+    <category term="Action &amp; Adventure" />
+    <category term="Lang:es" />
+    <category term="Adam Black" />
+    <summary>Adam Black [1]: En el primer capítulo de esta serie de suspenso y crimen, un ex capitán del SAS sobrevive a un ataque violento y acaba en el punto de mira de un gángster peligroso de Glasgow. Adam Black, abogado y ex capitán del SAS, fue atacado mien...</summary>
+    <link href="../book_1/book_1896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Descampados</title>
     <id>calibre:book:1463</id>
     <updated>2024-04-30T04:46:09Z</updated>
     <link href="../../Manuel%20Calderon/Descampados%20%281463%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Calderon/Descampados%20%281463%29/Descampados%20-%20Manuel%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <link href="../../Manuel%20Calderon/Descampados%20%281463%29/Descampados%20-%20Manuel%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
       <name>Manuel Calderón</name>
       <uri>../authors_1/authors_1070_Page_1.xml</uri>
@@ -36,7 +55,7 @@
     <id>calibre:book:1149</id>
     <updated>2024-01-18T03:42:43Z</updated>
     <link href="../../Herve%20le%20Corre/Descenso%20a%20la%20noche%20%281149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herve%20le%20Corre/Descenso%20a%20la%20noche%20%281149%29/Descenso%20a%20la%20noche%20-%20Herve%20le%20Corre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+    <link href="../../Herve%20le%20Corre/Descenso%20a%20la%20noche%20%281149%29/Descenso%20a%20la%20noche%20-%20Herve%20le%20Corre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="556 KB" />
     <author>
       <name>Hervé le Corre</name>
       <uri>../authors_0/authors_838_Page_1.xml</uri>
@@ -53,7 +72,7 @@
     <id>calibre:book:196</id>
     <updated>2023-01-26T07:16:22Z</updated>
     <link href="../../Lara%20Smirnov/Demasiados%20bombones%20para%20el%20embajad%20%28196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lara%20Smirnov/Demasiados%20bombones%20para%20el%20embajad%20%28196%29/Demasiados%20bombones%20para%20el%20emb%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <link href="../../Lara%20Smirnov/Demasiados%20bombones%20para%20el%20embajad%20%28196%29/Demasiados%20bombones%20para%20el%20emb%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="684 KB" />
     <author>
       <name>Lara Smirnov</name>
       <uri>../authors_0/authors_123_Page_1.xml</uri>
@@ -73,7 +92,7 @@
     <id>calibre:book:181</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Ana%20Forner/Descubriendonos%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Forner/Descubriendonos%20%28181%29/Descubriendonos%20-%20Ana%20Forner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1004 KB" />
+    <link href="../../Ana%20Forner/Descubriendonos%20%28181%29/Descubriendonos%20-%20Ana%20Forner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1004 KB" />
     <author>
       <name>Ana Forner</name>
       <uri>../authors_0/authors_119_Page_1.xml</uri>
@@ -92,7 +111,7 @@
     <id>calibre:book:1157</id>
     <updated>2024-01-25T08:39:50Z</updated>
     <link href="../../Bernardo%20Atxaga/Desde%20el%20otro%20lado%20%281157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bernardo%20Atxaga/Desde%20el%20otro%20lado%20%281157%29/Desde%20el%20otro%20lado%20-%20Bernardo%20Atxaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <link href="../../Bernardo%20Atxaga/Desde%20el%20otro%20lado%20%281157%29/Desde%20el%20otro%20lado%20-%20Bernardo%20Atxaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
     <author>
       <name>Bernardo Atxaga</name>
       <uri>../authors_0/authors_844_Page_1.xml</uri>
@@ -109,7 +128,7 @@
     <id>calibre:book:2620</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/Desde%20que%20existe%20el%20amor%20-%20Javier%20Pagalday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/Desde%20que%20existe%20el%20amor%20-%20Javier%20Pagalday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Javier Pagalday</name>
       <uri>../authors_1/authors_1722_Page_1.xml</uri>
@@ -126,7 +145,7 @@
     <id>calibre:book:1112</id>
     <updated>2024-01-08T09:16:14Z</updated>
     <link href="../../Douglas%20E.%20Noll/Desescalar_%20Como%20calmar%20a%20una%20perso%20%281112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Douglas%20E.%20Noll/Desescalar_%20Como%20calmar%20a%20una%20perso%20%281112%29/Desescalar_%20Como%20calmar%20a%20una%20p%20-%20Douglas%20E.%20Noll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="758 KB" />
+    <link href="../../Douglas%20E.%20Noll/Desescalar_%20Como%20calmar%20a%20una%20perso%20%281112%29/Desescalar_%20Como%20calmar%20a%20una%20p%20-%20Douglas%20E.%20Noll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="758 KB" />
     <author>
       <name>Douglas E. Noll</name>
       <uri>../authors_0/authors_816_Page_1.xml</uri>
@@ -143,7 +162,7 @@
     <id>calibre:book:2670</id>
     <updated>2024-10-22T08:04:36Z</updated>
     <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/Desfibrilador%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/Desfibrilador%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
     <author>
       <name>Gilraen Eärfalas</name>
       <uri>../authors_1/authors_1755_Page_1.xml</uri>
@@ -161,7 +180,7 @@
     <id>calibre:book:2149</id>
     <updated>2024-09-06T02:21:23Z</updated>
     <link href="../../Gabriela%20Mistral/Desolacion%2C%20Ternura%2C%20Tala%20y%20Lagar%20%282149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Mistral/Desolacion%2C%20Ternura%2C%20Tala%20y%20Lagar%20%282149%29/Desolacion%2C%20Ternura%2C%20Tala%20y%20Lag%20-%20Gabriela%20Mistral.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="229 KB" />
+    <link href="../../Gabriela%20Mistral/Desolacion%2C%20Ternura%2C%20Tala%20y%20Lagar%20%282149%29/Desolacion%2C%20Ternura%2C%20Tala%20y%20Lag%20-%20Gabriela%20Mistral.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="229 KB" />
     <author>
       <name>Gabriela Mistral</name>
       <uri>../authors_1/authors_1525_Page_1.xml</uri>
@@ -180,7 +199,7 @@
     <id>calibre:book:379</id>
     <updated>2023-03-06T03:52:52Z</updated>
     <link href="../../Dorrego%20Funes%2C%20Luis/Despierta%20tu%20poder%20de%20seduccion%20%28379%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dorrego%20Funes%2C%20Luis/Despierta%20tu%20poder%20de%20seduccion%20%28379%29/Despierta%20tu%20poder%20de%20seduccion%20-%20Dorrego%20Funes%2C%20Luis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <link href="../../Dorrego%20Funes%2C%20Luis/Despierta%20tu%20poder%20de%20seduccion%20%28379%29/Despierta%20tu%20poder%20de%20seduccion%20-%20Dorrego%20Funes%2C%20Luis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
     <author>
       <name>Dorrego Funes, Luis</name>
       <uri>../authors_0/authors_272_Page_1.xml</uri>
@@ -197,7 +216,7 @@
     <id>calibre:book:1585</id>
     <updated>2024-06-02T10:59:54Z</updated>
     <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/Despiertame%20cuando%20acabe%20septie%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
+    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/Despiertame%20cuando%20acabe%20septie%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
     <author>
       <name>Mónica Rouanet</name>
       <uri>../authors_1/authors_1154_Page_1.xml</uri>
@@ -216,7 +235,7 @@
     <id>calibre:book:1505</id>
     <updated>2024-05-10T08:43:28Z</updated>
     <link href="../../Karin%20Slaughter/Despues%20de%20esa%20noche%20%281505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karin%20Slaughter/Despues%20de%20esa%20noche%20%281505%29/Despues%20de%20esa%20noche%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Karin%20Slaughter/Despues%20de%20esa%20noche%20%281505%29/Despues%20de%20esa%20noche%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Karin Slaughter</name>
       <uri>../authors_0/authors_581_Page_1.xml</uri>
@@ -230,7 +249,7 @@
     <id>calibre:book:1517</id>
     <updated>2024-05-22T06:46:47Z</updated>
     <link href="../../Paco%20Gomez%20Escribano/Despues%20de%20la%20derrota%20%281517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paco%20Gomez%20Escribano/Despues%20de%20la%20derrota%20%281517%29/Despues%20de%20la%20derrota%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Paco%20Gomez%20Escribano/Despues%20de%20la%20derrota%20%281517%29/Despues%20de%20la%20derrota%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Paco Gómez Escribano</name>
       <uri>../authors_0/authors_403_Page_1.xml</uri>
@@ -247,7 +266,7 @@
     <id>calibre:book:1344</id>
     <updated>2024-03-21T01:00:33Z</updated>
     <link href="../../Jojo%20Moyes/Despues%20de%20ti%20%281344%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jojo%20Moyes/Despues%20de%20ti%20%281344%29/Despues%20de%20ti%20-%20Jojo%20Moyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <link href="../../Jojo%20Moyes/Despues%20de%20ti%20%281344%29/Despues%20de%20ti%20-%20Jojo%20Moyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="553 KB" />
     <author>
       <name>Jojo Moyes</name>
       <uri>../authors_0/authors_984_Page_1.xml</uri>
@@ -267,7 +286,7 @@
     <id>calibre:book:1129</id>
     <updated>2024-01-08T09:16:17Z</updated>
     <link href="../../Sarah%20Pinborough/Detras%20de%20sus%20ojos%20%281129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Pinborough/Detras%20de%20sus%20ojos%20%281129%29/Detras%20de%20sus%20ojos%20-%20Sarah%20Pinborough.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Sarah%20Pinborough/Detras%20de%20sus%20ojos%20%281129%29/Detras%20de%20sus%20ojos%20-%20Sarah%20Pinborough.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Sarah Pinborough</name>
       <uri>../authors_0/authors_828_Page_1.xml</uri>
@@ -284,7 +303,7 @@
     <id>calibre:book:326</id>
     <updated>2023-02-16T07:13:42Z</updated>
     <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/Deudas%20del%20frio%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/Deudas%20del%20frio%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
     <author>
       <name>Susana Rodríguez Lezaun</name>
       <uri>../authors_0/authors_230_Page_1.xml</uri>
@@ -302,7 +321,7 @@
     <id>calibre:book:736</id>
     <updated>2023-05-17T02:00:02Z</updated>
     <link href="../../Ole%20Thorstensen/Diario%20de%20un%20carpintero%20%28736%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ole%20Thorstensen/Diario%20de%20un%20carpintero%20%28736%29/Diario%20de%20un%20carpintero%20-%20Ole%20Thorstensen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Ole%20Thorstensen/Diario%20de%20un%20carpintero%20%28736%29/Diario%20de%20un%20carpintero%20-%20Ole%20Thorstensen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Ole Thorstensen</name>
       <uri>../authors_0/authors_550_Page_1.xml</uri>
@@ -320,7 +339,7 @@
     <id>calibre:book:1977</id>
     <updated>2024-09-05T06:10:29Z</updated>
     <link href="../../Fiodor%20Dostoyevski/Diario%20de%20un%20escritor%20%281977%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/Diario%20de%20un%20escritor%20%281977%29/Diario%20de%20un%20escritor%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <link href="../../Fiodor%20Dostoyevski/Diario%20de%20un%20escritor%20%281977%29/Diario%20de%20un%20escritor%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -339,7 +358,7 @@
     <id>calibre:book:2265</id>
     <updated>2024-09-09T10:33:56Z</updated>
     <link href="../../Nikolai%20Gogol/Diario%20de%20un%20loco%20%282265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nikolai%20Gogol/Diario%20de%20un%20loco%20%282265%29/Diario%20de%20un%20loco%20-%20Nikolai%20Gogol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="93 KB" />
+    <link href="../../Nikolai%20Gogol/Diario%20de%20un%20loco%20%282265%29/Diario%20de%20un%20loco%20-%20Nikolai%20Gogol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="93 KB" />
     <author>
       <name>Nikolái Gógol</name>
       <uri>../authors_1/authors_1589_Page_1.xml</uri>
@@ -357,7 +376,7 @@
     <id>calibre:book:2292</id>
     <updated>2024-09-09T10:34:01Z</updated>
     <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/Diario%20de%20un%20seductor%20-%20Soren%20Kierkegaard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="166 KB" />
+    <link href="../../Soren%20Kierkegaard/Diario%20de%20un%20seductor%20%282292%29/Diario%20de%20un%20seductor%20-%20Soren%20Kierkegaard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="166 KB" />
     <author>
       <name>Sören Kierkegaard</name>
       <uri>../authors_1/authors_1601_Page_1.xml</uri>
@@ -377,7 +396,7 @@
     <id>calibre:book:2641</id>
     <updated>2024-10-21T04:01:16Z</updated>
     <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Laura Demaría</name>
       <uri>../authors_1/authors_1736_Page_1.xml</uri>
@@ -396,7 +415,7 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <id>calibre:book:1701</id>
     <updated>2024-08-06T10:52:10Z</updated>
     <link href="../../Ines%20Garland/Diario%20de%20una%20mudanza%20%281701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Garland/Diario%20de%20una%20mudanza%20%281701%29/Diario%20de%20una%20mudanza%20-%20Ines%20Garland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="380 KB" />
+    <link href="../../Ines%20Garland/Diario%20de%20una%20mudanza%20%281701%29/Diario%20de%20una%20mudanza%20-%20Ines%20Garland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
     <author>
       <name>Inés Garland</name>
       <uri>../authors_1/authors_1217_Page_1.xml</uri>
@@ -413,7 +432,7 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <id>calibre:book:594</id>
     <updated>2023-05-02T01:40:20Z</updated>
     <link href="../../Fito%20Paez/Diario%20de%20viaje%20%28594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fito%20Paez/Diario%20de%20viaje%20%28594%29/Diario%20de%20viaje%20-%20Fito%20Paez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="25 MB" />
+    <link href="../../Fito%20Paez/Diario%20de%20viaje%20%28594%29/Diario%20de%20viaje%20-%20Fito%20Paez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="25 MB" />
     <author>
       <name>Fito Páez</name>
       <uri>../authors_0/authors_11_Page_1.xml</uri>
@@ -431,7 +450,7 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <id>calibre:book:1915</id>
     <updated>2024-09-05T06:00:42Z</updated>
     <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/Diccionario%20Filosofico%20Vol%201%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="181 KB" />
+    <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/Diccionario%20Filosofico%20Vol%201%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="181 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -443,24 +462,6 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [14]:</summary>
     <link href="../book_1/book_1915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Diccionario de la lengua nahuatl o mexican</title>
-    <id>calibre:book:1916</id>
-    <updated>2024-09-05T06:00:43Z</updated>
-    <link href="../../Remi%20Simeon/Diccionario%20de%20la%20lengua%20nahuatl%20o%20%281916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Remi%20Simeon/Diccionario%20de%20la%20lengua%20nahuatl%20o%20%281916%29/Diccionario%20de%20la%20lengua%20nahuat%20-%20Remi%20Simeon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
-    <author>
-      <name>Rémi Simeón</name>
-      <uri>../authors_1/authors_1367_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [263]:</summary>
-    <link href="../book_1/book_1916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 6)" />
   <link href="../allbooks/allbooks_D_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (6 of 6)" />

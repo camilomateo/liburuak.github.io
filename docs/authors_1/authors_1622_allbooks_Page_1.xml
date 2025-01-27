@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de León Tolstoi</title>
+  <title>All books by León Tolstoi</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1622_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de León Tolstoi" />
+  <link href="./authors_1622_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by León Tolstoi" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="./authors_1622_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="León Tolstoi" />
   <entry>
     <title>La camisa del hombre feliz</title>
     <id>calibre:book:2337</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Leon%20Tolstoi/La%20camisa%20del%20hombre%20feliz%20%282337%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leon%20Tolstoi/La%20camisa%20del%20hombre%20feliz%20%282337%29/La%20camisa%20del%20hombre%20feliz%20-%20Leon%20Tolstoi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="45 KB" />
+    <link href="../../Leon%20Tolstoi/La%20camisa%20del%20hombre%20feliz%20%282337%29/La%20camisa%20del%20hombre%20feliz%20-%20Leon%20Tolstoi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="45 KB" />
     <author>
       <name>León Tolstoi</name>
       <uri>../authors_1/authors_1622_Page_1.xml</uri>

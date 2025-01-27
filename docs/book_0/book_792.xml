@@ -6,13 +6,13 @@
   <link href="./book_792.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cosecharás tempestades" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../authors_0/authors_589_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Donna Leon" />
   <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/Cosecharas%20tempestades%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="629 KB" />
+  <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/Cosecharas%20tempestades%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="629 KB" />
   <author>
     <name>Donna Leon</name>
     <uri>../authors_0/authors_589_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 32 en la Comisario Brunetti serie
+      Book 32 in the Comisario Brunetti series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>En este nuevo caso, un crimen reciente transportará
@@ -72,6 +72,6 @@
       veces pueden conducir a una revelación.</p>
     </div>
   </content>
-  <link href="../series_0/series_98_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 32 en la Comisario Brunetti serie" />
-  <link href="../authors_0/authors_589_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Donna Leon" />
+  <link href="../series_0/series_98_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 32 in the Comisario Brunetti series" />
+  <link href="../authors_0/authors_589_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Donna Leon" />
 </entry>

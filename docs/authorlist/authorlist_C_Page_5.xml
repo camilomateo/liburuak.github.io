@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Autores que empiezan por C</title>
+  <title>Authors starting with C</title>
   <id>Calibre2opds:authorlist:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,15 +8,23 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Autores que empiezan por C" />
+  <link href="./authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="./authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="./authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="./authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="./authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 8)" />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="./authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="./authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="./authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 8)" />
+  <entry>
+    <title>Richard Chizmar</title>
+    <id>Calibre2opds:authors:781</id>
+    <content type="text">La caja de botones de Gwendy</content>
+    <link href="../authors_0/authors_781_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
   <entry>
     <title>Noam Chomsky</title>
     <id>Calibre2opds:authors:1082</id>
@@ -36,7 +44,7 @@
   <entry>
     <title>Sam Christer</title>
     <id>Calibre2opds:authors:22</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -52,7 +60,7 @@
   <entry>
     <title>Antón Chéjov</title>
     <id>Calibre2opds:authors:1626</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_1/authors_1626_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -92,7 +100,7 @@
   <entry>
     <title>Elizabeth Clapés</title>
     <id>Calibre2opds:authors:542</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_542_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -102,6 +110,14 @@
     <id>Calibre2opds:authors:363</id>
     <content type="text">París éramos nosotros</content>
     <link href="../authors_0/authors_363_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Amanda Clark</title>
+    <id>Calibre2opds:authors:1865</id>
+    <content type="text">Cuando baje la marea</content>
+    <link href="../authors_1/authors_1865_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -132,7 +148,7 @@
   <entry>
     <title>Nick Clausen</title>
     <id>Calibre2opds:authors:1243</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_1/authors_1243_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -196,24 +212,8 @@
   <entry>
     <title>Luis Cocat</title>
     <id>Calibre2opds:authors:1499</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1499_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Jane Cockram</title>
-    <id>Calibre2opds:authors:793</id>
-    <content type="text">La casa de las novias</content>
-    <link href="../authors_0/authors_793_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Julie Mae Cohen</title>
-    <id>Calibre2opds:authors:1258</id>
-    <content type="text">Una chica mala</content>
-    <link href="../authors_1/authors_1258_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

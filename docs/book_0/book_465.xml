@@ -6,14 +6,14 @@
   <link href="./book_465.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mírame y bésame" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../authors_0/authors_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Megan Maxwell" />
   <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/Mirame%20y%20besame%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="694 KB" />
+  <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/Mirame%20y%20besame%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="694 KB" />
   <author>
     <name>Megan Maxwell</name>
     <uri>../authors_0/authors_90_Page_1.xml</uri>
@@ -26,18 +26,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 8 en la Las guerreras Maxwell serie
+      Book 8 in the Las guerreras Maxwell series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <h3>
@@ -123,5 +123,5 @@
       @megan__maxwell Twitter: @MeganMaxwell</p>
     </div>
   </content>
-  <link href="../authors_0/authors_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Megan Maxwell" />
+  <link href="../authors_0/authors_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Megan Maxwell" />
 </entry>

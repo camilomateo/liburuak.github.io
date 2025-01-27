@@ -6,12 +6,12 @@
   <link href="./book_1412.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La raíz del mal" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="../authors_1/authors_1034_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Håkan Nesser" />
   <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/La%20raiz%20del%20mal%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="673 KB" />
+  <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/La%20raiz%20del%20mal%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="673 KB" />
   <author>
     <name>Håkan Nesser</name>
     <uri>../authors_1/authors_1034_Page_1.xml</uri>
@@ -24,18 +24,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 2 en la Inspector Barbarotti serie
+      Book 2 in the Inspector Barbarotti series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p align="justify">El segundo caso del inspector Barbarotti.
@@ -58,6 +58,6 @@
       sus cartas macabras.</p>
     </div>
   </content>
-  <link href="../series_0/series_148_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Inspector Barbarotti serie" />
-  <link href="../authors_1/authors_1034_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Håkan Nesser" />
+  <link href="../series_0/series_148_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 2 in the Inspector Barbarotti series" />
+  <link href="../authors_1/authors_1034_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Håkan Nesser" />
 </entry>

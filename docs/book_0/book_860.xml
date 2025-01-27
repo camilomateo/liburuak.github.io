@@ -6,13 +6,13 @@
   <link href="./book_860.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Unas galletas de muerte" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
-  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../authors_0/authors_645_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Joanne Fluke" />
   <link href="../../Joanne%20Fluke/Unas%20galletas%20de%20muerte%20%28860%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Joanne%20Fluke/Unas%20galletas%20de%20muerte%20%28860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Joanne%20Fluke/Unas%20galletas%20de%20muerte%20%28860%29/Unas%20galletas%20de%20muerte%20-%20Joanne%20Fluke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="667 KB" />
+  <link href="../../Joanne%20Fluke/Unas%20galletas%20de%20muerte%20%28860%29/Unas%20galletas%20de%20muerte%20-%20Joanne%20Fluke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="667 KB" />
   <author>
     <name>Joanne Fluke</name>
     <uri>../authors_0/authors_645_Page_1.xml</uri>
@@ -27,18 +27,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Hannah Swensen serie
+      Book 1 in the Hannah Swensen series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Hannah está ocupada intentado esquivar los intentos de
     su madre por casarla mientras dirige la panadería más
@@ -53,5 +53,5 @@
     pelirroja repostera de Joanne Fluke, cuyas galletas de jengibre
     son tan ácidas como sus réplicas.</p>
   </content>
-  <link href="../authors_0/authors_645_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Joanne Fluke" />
+  <link href="../authors_0/authors_645_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Joanne Fluke" />
 </entry>

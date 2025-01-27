@@ -6,12 +6,12 @@
   <link href="./book_2201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La aldea perdida" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <link href="../authors_1/authors_1556_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Armando Palacio Valdés" />
   <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/La%20aldea%20perdida%20-%20Armando%20Palacio%20Valdes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="313 KB" />
+  <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/La%20aldea%20perdida%20-%20Armando%20Palacio%20Valdes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="313 KB" />
   <author>
     <name>Armando Palacio Valdés</name>
     <uri>../authors_1/authors_1556_Page_1.xml</uri>
@@ -24,17 +24,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 9 en la Biblioteca PruébaT serie
+      Book 9 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 9 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1556_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Armando Palacio Valdés" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 9 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1556_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Armando Palacio Valdés" />
 </entry>

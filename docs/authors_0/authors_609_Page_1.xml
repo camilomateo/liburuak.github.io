@@ -11,12 +11,12 @@
   <link href="./authors_609_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hisashi Kashiwai" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <entry>
-    <title>Todos los libros de Hisashi Kashiwai</title>
+    <title>All books by Hisashi Kashiwai</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice de un solo</content>
+    <content type="text">Alphabetical index of the single book - very useful indeed ;)</content>
     <link href="../authors_0/authors_609_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -24,7 +24,7 @@
   <entry>
     <title>Series: La taberna Kamogawa</title>
     <id>Calibre2opds:authors:609series:100</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_609_series_100_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

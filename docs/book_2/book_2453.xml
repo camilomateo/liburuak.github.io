@@ -6,14 +6,14 @@
   <link href="./book_2453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Man in the Iron Mask" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../authors_1/authors_1490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alexandre Dumas" />
   <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+  <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
   <author>
     <name>Alexandre Dumas</name>
     <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -26,17 +26,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 319 en la Biblioteca PruébaT serie
+      Book 319 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:en
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 319 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alexandre Dumas" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 319 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alexandre Dumas" />
 </entry>

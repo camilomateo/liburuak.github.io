@@ -6,13 +6,13 @@
   <link href="./book_533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Entre los muertos" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mikel Santiago" />
   <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/Entre%20los%20muertos%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+  <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/Entre%20los%20muertos%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
   <author>
     <name>Mikel Santiago</name>
     <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 3 en la Trilogía de Illumbe serie
+      Book 3 in the Trilogía de Illumbe series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px">
@@ -61,6 +61,6 @@
       </p>
     </div>
   </content>
-  <link href="../series_0/series_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Trilogía de Illumbe serie" />
-  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mikel Santiago" />
+  <link href="../series_0/series_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 3 in the Trilogía de Illumbe series" />
+  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mikel Santiago" />
 </entry>

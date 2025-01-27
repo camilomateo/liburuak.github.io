@@ -11,12 +11,12 @@
   <link href="./authors_1524_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Amado Nervo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <entry>
-    <title>Todos los libros de Amado Nervo</title>
+    <title>All books by Amado Nervo</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_1/authors_1524_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
     <id>calibre:book:2146</id>
     <updated>2024-09-06T02:21:23Z</updated>
     <link href="../../Amado%20Nervo/La%20amada%20inmovil%20%282146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amado%20Nervo/La%20amada%20inmovil%20%282146%29/La%20amada%20inmovil%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <link href="../../Amado%20Nervo/La%20amada%20inmovil%20%282146%29/La%20amada%20inmovil%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="127 KB" />
     <author>
       <name>Amado Nervo</name>
       <uri>../authors_1/authors_1524_Page_1.xml</uri>
@@ -50,7 +50,7 @@
     <id>calibre:book:2235</id>
     <updated>2024-09-06T02:21:50Z</updated>
     <link href="../../Amado%20Nervo/Poemas%20%282235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amado%20Nervo/Poemas%20%282235%29/Poemas%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <link href="../../Amado%20Nervo/Poemas%20%282235%29/Poemas%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
     <author>
       <name>Amado Nervo</name>
       <uri>../authors_1/authors_1524_Page_1.xml</uri>

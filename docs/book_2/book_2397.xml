@@ -6,12 +6,12 @@
   <link href="./book_2397.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ulises" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../authors_0/authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="James Joyce" />
   <link href="../../James%20Joyce/Ulises%20%282397%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../James%20Joyce/Ulises%20%282397%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../James%20Joyce/Ulises%20%282397%29/Ulises%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="932 KB" />
+  <link href="../../James%20Joyce/Ulises%20%282397%29/Ulises%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="932 KB" />
   <author>
     <name>James Joyce</name>
     <uri>../authors_0/authors_50_Page_1.xml</uri>
@@ -25,17 +25,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 218 en la Biblioteca PruébaT serie
+      Book 218 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Otros, Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 218 en la Biblioteca PruébaT serie" />
-  <link href="../authors_0/authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Joyce" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 218 in the Biblioteca PruébaT series" />
+  <link href="../authors_0/authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James Joyce" />
 </entry>

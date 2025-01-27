@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por P</title>
+  <title>Books starting with P</title>
   <id>Calibre2opds:allbooks:P</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,51 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="./allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por P" />
-  <link href="../allbooks/allbooks_P_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
+  <link href="../allbooks/allbooks_P_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 8)" />
+  <entry>
+    <title>La pareja perfecta</title>
+    <id>calibre:book:1679</id>
+    <updated>2024-07-22T06:21:12Z</updated>
+    <link href="../../Elin%20Hilderbrand/La%20pareja%20perfecta%20%281679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elin%20Hilderbrand/La%20pareja%20perfecta%20%281679%29/La%20pareja%20perfecta%20-%20Elin%20Hilderbrand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="473 KB" />
+    <author>
+      <name>Elin Hilderbrand</name>
+      <uri>../authors_1/authors_1204_Page_1.xml</uri>
+    </author>
+    <published>2024-07-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Elin Hilderbrand, la autora cuyos libros han alcanzado continuamente la lista de más vendidos de The New York Times , nos regala una adictiva novela perfecta para el verano. Una boda por todo lo alto. Una pareja ideal. A veces, el amor de la familia ...</summary>
+    <link href="../book_1/book_1679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los parientes ricos</title>
+    <id>calibre:book:2114</id>
+    <updated>2024-09-06T02:21:17Z</updated>
+    <link href="../../Rafel%20Delgado/Los%20parientes%20ricos%20%282114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rafel%20Delgado/Los%20parientes%20ricos%20%282114%29/Los%20parientes%20ricos%20-%20Rafel%20Delgado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
+    <author>
+      <name>Rafel Delgado</name>
+      <uri>../authors_1/authors_1502_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Lo pasado no es un sueño</title>
     <id>calibre:book:611</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Theodor%20Kallifatides/Lo%20pasado%20no%20es%20un%20sueno%20%28611%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Theodor%20Kallifatides/Lo%20pasado%20no%20es%20un%20sueno%20%28611%29/Lo%20pasado%20no%20es%20un%20sueno%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Theodor%20Kallifatides/Lo%20pasado%20no%20es%20un%20sueno%20%28611%29/Lo%20pasado%20no%20es%20un%20sueno%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Theodor Kallifatides</name>
       <uri>../authors_0/authors_453_Page_1.xml</uri>
@@ -36,7 +69,7 @@
     <id>calibre:book:1980</id>
     <updated>2024-09-05T06:10:29Z</updated>
     <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/Un%20paseo%20invernal%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/Un%20paseo%20invernal%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="86 KB" />
     <author>
       <name>Henry David Thoreau</name>
       <uri>../authors_1/authors_1418_Page_1.xml</uri>
@@ -57,7 +90,7 @@
     <id>calibre:book:2116</id>
     <updated>2024-09-06T02:21:18Z</updated>
     <link href="../../Roque%20Barcia/Un%20paseo%20por%20Paris%2C%20retratos%20al%20nat%20%282116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roque%20Barcia/Un%20paseo%20por%20Paris%2C%20retratos%20al%20nat%20%282116%29/Un%20paseo%20por%20Paris%2C%20retratos%20al%20-%20Roque%20Barcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="368 KB" />
+    <link href="../../Roque%20Barcia/Un%20paseo%20por%20Paris%2C%20retratos%20al%20nat%20%282116%29/Un%20paseo%20por%20Paris%2C%20retratos%20al%20-%20Roque%20Barcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="368 KB" />
     <author>
       <name>Roque Barcia</name>
       <uri>../authors_1/authors_1503_Page_1.xml</uri>
@@ -82,7 +115,7 @@
     <id>calibre:book:509</id>
     <updated>2023-04-01T02:02:04Z</updated>
     <link href="../../Alexandra%20Nizhelskaya/El%20paso%20a%20paso%20de%20la%20ley%20de%20la%20atra%20%28509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandra%20Nizhelskaya/El%20paso%20a%20paso%20de%20la%20ley%20de%20la%20atra%20%28509%29/El%20paso%20a%20paso%20de%20la%20ley%20de%20la%20-%20Alexandra%20Nizhelskaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Alexandra%20Nizhelskaya/El%20paso%20a%20paso%20de%20la%20ley%20de%20la%20atra%20%28509%29/El%20paso%20a%20paso%20de%20la%20ley%20de%20la%20-%20Alexandra%20Nizhelskaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Alexandra Nizhelskaya</name>
       <uri>../authors_0/authors_376_Page_1.xml</uri>
@@ -99,7 +132,7 @@
     <id>calibre:book:2436</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/La%20patrona%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="170 KB" />
+    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/La%20patrona%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="170 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -119,7 +152,7 @@
     <id>calibre:book:2720</id>
     <updated>2024-11-26T04:32:48Z</updated>
     <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/Una%20paz%20cruel%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
+    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/Una%20paz%20cruel%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="326 KB" />
     <author>
       <name>Theodor Kallifatides</name>
       <uri>../authors_0/authors_453_Page_1.xml</uri>
@@ -136,7 +169,7 @@
     <id>calibre:book:2363</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../H.%20G.%20Wells/El%20pais%20de%20los%20ciegos%20%282363%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20G.%20Wells/El%20pais%20de%20los%20ciegos%20%282363%29/El%20pais%20de%20los%20ciegos%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <link href="../../H.%20G.%20Wells/El%20pais%20de%20los%20ciegos%20%282363%29/El%20pais%20de%20los%20ciegos%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="75 KB" />
     <author>
       <name>H. G. Wells</name>
       <uri>../authors_1/authors_1619_Page_1.xml</uri>
@@ -154,7 +187,7 @@
     <id>calibre:book:2734</id>
     <updated>2024-12-11T08:34:17Z</updated>
     <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
     <author>
       <name>Celia Santos</name>
       <uri>../authors_1/authors_1789_Page_1.xml</uri>
@@ -171,7 +204,7 @@
     <id>calibre:book:4</id>
     <updated>2023-01-17T09:13:58Z</updated>
     <link href="../../Asa%20Larsson/Los%20pecados%20de%20nuestros%20padres%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Asa%20Larsson/Los%20pecados%20de%20nuestros%20padres%20%284%29/Los%20pecados%20de%20nuestros%20padres%20-%20Asa%20Larsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Asa%20Larsson/Los%20pecados%20de%20nuestros%20padres%20%284%29/Los%20pecados%20de%20nuestros%20padres%20-%20Asa%20Larsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Åsa Larsson</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -188,7 +221,7 @@
     <id>calibre:book:495</id>
     <updated>2023-04-01T02:01:58Z</updated>
     <link href="../../Jeffrey%20Archer/Los%20pecados%20del%20padre%20%28495%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeffrey%20Archer/Los%20pecados%20del%20padre%20%28495%29/Los%20pecados%20del%20padre%20-%20Jeffrey%20Archer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <link href="../../Jeffrey%20Archer/Los%20pecados%20del%20padre%20%28495%29/Los%20pecados%20del%20padre%20-%20Jeffrey%20Archer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="553 KB" />
     <author>
       <name>Jeffrey Archer</name>
       <uri>../authors_0/authors_366_Page_1.xml</uri>
@@ -208,7 +241,7 @@
     <id>calibre:book:2383</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
     <author>
       <name>Goethe</name>
       <uri>../authors_1/authors_1598_Page_1.xml</uri>
@@ -229,7 +262,7 @@
     <id>calibre:book:682</id>
     <updated>2023-05-15T05:51:38Z</updated>
     <link href="../../Ferran%20Cases/El%20pequeno%20gran%20libro%20de%20la%20ansieda%20%28682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ferran%20Cases/El%20pequeno%20gran%20libro%20de%20la%20ansieda%20%28682%29/El%20pequeno%20gran%20libro%20de%20la%20ans%20-%20Ferran%20Cases.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <link href="../../Ferran%20Cases/El%20pequeno%20gran%20libro%20de%20la%20ansieda%20%28682%29/El%20pequeno%20gran%20libro%20de%20la%20ans%20-%20Ferran%20Cases.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
     <author>
       <name>Ferran Cases</name>
       <uri>../authors_0/authors_506_Page_1.xml</uri>
@@ -247,7 +280,7 @@
     <id>calibre:book:675</id>
     <updated>2023-05-17T01:18:22Z</updated>
     <link href="../../Javier%20G.%20Recuenco/El%20pequeno%20libro%20de%20la%20filosofia%20es%20%28675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20G.%20Recuenco/El%20pequeno%20libro%20de%20la%20filosofia%20es%20%28675%29/El%20pequeno%20libro%20de%20la%20filosofi%20-%20Javier%20G.%20Recuenco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <link href="../../Javier%20G.%20Recuenco/El%20pequeno%20libro%20de%20la%20filosofia%20es%20%28675%29/El%20pequeno%20libro%20de%20la%20filosofi%20-%20Javier%20G.%20Recuenco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
     <author>
       <name>Javier G. Recuenco</name>
       <uri>../authors_0/authors_502_Page_1.xml</uri>
@@ -265,7 +298,7 @@
     <id>calibre:book:1247</id>
     <updated>2024-02-23T09:41:59Z</updated>
     <link href="../../Eduardo%20Calixto/El%20perfecto%20cerebro%20imperfecto%20%281247%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eduardo%20Calixto/El%20perfecto%20cerebro%20imperfecto%20%281247%29/El%20perfecto%20cerebro%20imperfecto%20-%20Eduardo%20Calixto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <link href="../../Eduardo%20Calixto/El%20perfecto%20cerebro%20imperfecto%20%281247%29/El%20perfecto%20cerebro%20imperfecto%20-%20Eduardo%20Calixto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="526 KB" />
     <author>
       <name>Eduardo Calixto</name>
       <uri>../authors_0/authors_41_Page_1.xml</uri>
@@ -283,7 +316,7 @@
     <id>calibre:book:2745</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/Un%20perro%20de%20caracter%20-%20Sandor%20Marai.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="240 KB" />
+    <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/Un%20perro%20de%20caracter%20-%20Sandor%20Marai.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="240 KB" />
     <author>
       <name>Sandor Marai</name>
       <uri>../authors_1/authors_1796_Page_1.xml</uri>
@@ -300,7 +333,7 @@
     <id>calibre:book:1044</id>
     <updated>2023-10-20T01:12:33Z</updated>
     <link href="../../Bodo%20Schafer/Un%20perro%20llamado%20Dinero%20%281044%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bodo%20Schafer/Un%20perro%20llamado%20Dinero%20%281044%29/Un%20perro%20llamado%20Dinero%20-%20Bodo%20Schafer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="458 KB" />
+    <link href="../../Bodo%20Schafer/Un%20perro%20llamado%20Dinero%20%281044%29/Un%20perro%20llamado%20Dinero%20-%20Bodo%20Schafer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="458 KB" />
     <author>
       <name>Bodo Schäfer</name>
       <uri>../authors_0/authors_767_Page_1.xml</uri>
@@ -317,7 +350,7 @@
     <id>calibre:book:887</id>
     <updated>2023-06-23T01:09:40Z</updated>
     <link href="../../Alejandro%20Palomas/Un%20perro%20%28887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandro%20Palomas/Un%20perro%20%28887%29/Un%20perro%20-%20Alejandro%20Palomas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="630 KB" />
+    <link href="../../Alejandro%20Palomas/Un%20perro%20%28887%29/Un%20perro%20-%20Alejandro%20Palomas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="630 KB" />
     <author>
       <name>Alejandro Palomas</name>
       <uri>../authors_0/authors_664_Page_1.xml</uri>
@@ -336,7 +369,7 @@
     <id>calibre:book:2567</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/Los%20perros%20ladran%20-%20Truman%20Capote.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="334 KB" />
+    <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/Los%20perros%20ladran%20-%20Truman%20Capote.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="334 KB" />
     <author>
       <name>Truman Capote</name>
       <uri>../authors_1/authors_1691_Page_1.xml</uri>
@@ -353,7 +386,7 @@
     <id>calibre:book:2429</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Esquilo/Los%20persas%20%282429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="74 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -372,7 +405,7 @@
     <id>calibre:book:932</id>
     <updated>2023-07-04T02:12:30Z</updated>
     <link href="../../David%20Toscana/El%20peso%20de%20vivir%20en%20la%20Tierra%20%28932%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Toscana/El%20peso%20de%20vivir%20en%20la%20Tierra%20%28932%29/El%20peso%20de%20vivir%20en%20la%20Tierra%20-%20David%20Toscana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../David%20Toscana/El%20peso%20de%20vivir%20en%20la%20Tierra%20%28932%29/El%20peso%20de%20vivir%20en%20la%20Tierra%20-%20David%20Toscana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>David Toscana</name>
       <uri>../authors_0/authors_700_Page_1.xml</uri>
@@ -389,7 +422,7 @@
     <id>calibre:book:593</id>
     <updated>2023-05-02T01:40:20Z</updated>
     <link href="../../Shion%20Miura/El%20pez%20en%20la%20Luna%20%28593%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shion%20Miura/El%20pez%20en%20la%20Luna%20%28593%29/El%20pez%20en%20la%20Luna%20-%20Shion%20Miura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="930 KB" />
+    <link href="../../Shion%20Miura/El%20pez%20en%20la%20Luna%20%28593%29/El%20pez%20en%20la%20Luna%20-%20Shion%20Miura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="930 KB" />
     <author>
       <name>Shion Miura</name>
       <uri>../authors_0/authors_442_Page_1.xml</uri>
@@ -408,7 +441,7 @@
     <id>calibre:book:1419</id>
     <updated>2024-04-09T11:16:19Z</updated>
     <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/El%20peon%20en%20el%20tablero%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="478 KB" />
+    <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/El%20peon%20en%20el%20tablero%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="478 KB" />
     <author>
       <name>Irène Némirovsky</name>
       <uri>../authors_1/authors_1037_Page_1.xml</uri>
@@ -425,7 +458,7 @@
     <id>calibre:book:8</id>
     <updated>2023-01-17T10:03:36Z</updated>
     <link href="../../Arturo%20Perez-Reverte/La%20piel%20del%20tambor%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arturo%20Perez-Reverte/La%20piel%20del%20tambor%20%288%29/La%20piel%20del%20tambor%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Arturo%20Perez-Reverte/La%20piel%20del%20tambor%20%288%29/La%20piel%20del%20tambor%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Arturo Pérez-Reverte</name>
       <uri>../authors_0/authors_1_Page_1.xml</uri>
@@ -439,40 +472,6 @@
     <category term="Lang:es" />
     <summary>Un pirata informático que se infiltra en el Vaticano. Una iglesia barroca, en Sevilla, que mata para defenderse. Tres pintorescos malvados que aspiran a mantener viva la copla española. Una bella aristócrata andaluza. Un apuesto sacerdote-agente espe...</summary>
     <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Una pieza de más</title>
-    <id>calibre:book:906</id>
-    <updated>2023-06-26T05:25:22Z</updated>
-    <link href="../../Reyes%20Martinez/Una%20pieza%20de%20mas%20%28906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Martinez/Una%20pieza%20de%20mas%20%28906%29/Una%20pieza%20de%20mas%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
-    <author>
-      <name>Reyes Martínez</name>
-      <uri>../authors_0/authors_679_Page_1.xml</uri>
-    </author>
-    <published>2023-05-03T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un asesino en serie. Una autopsia desconcertante. Y una pieza que no acaba de encajar. Un thriller inmersivo. Una trama adictiva. Un rompecabezas que te obsesionará. El cadáver de un joven aparece en una fábrica abandonada del centro de Madrid. La ví...</summary>
-    <link href="../book_0/book_906.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los pilares de la Tierra (Edición conmemorativa del 25º aniversario)</title>
-    <id>calibre:book:970</id>
-    <updated>2023-08-16T05:29:02Z</updated>
-    <link href="../../Ken%20Follett/Los%20pilares%20de%20la%20Tierra%20%28Edicion%20c%20%28970%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ken%20Follett/Los%20pilares%20de%20la%20Tierra%20%28Edicion%20c%20%28970%29/Los%20pilares%20de%20la%20Tierra%20%28Edici%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
-    <author>
-      <name>Ken Follett</name>
-      <uri>../authors_0/authors_425_Page_1.xml</uri>
-    </author>
-    <published>2010-05-25T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Los pilares de la Tierra es la obra maestra de Ken Follett y constituye una excepcional evocación de una época de violentas pasiones.El gran maestro de la narrativa de acción y suspense nos transporta a la Edad Media, a un fascinante mundo de reyes,...</summary>
-    <link href="../book_0/book_970.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 8)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

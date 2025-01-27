@@ -6,12 +6,12 @@
   <link href="./book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El blanco círculo del miedo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
-  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
   <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/El%20blanco%20circulo%20del%20miedo%20-%20Rafael%20Escuredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+  <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/El%20blanco%20circulo%20del%20miedo%20-%20Rafael%20Escuredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="590 KB" />
   <author>
     <name>Rafael Escuredo</name>
     <uri>../authors_0/authors_26_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">El cruel y brutal asesinato de Claudia Morante trae de
     cabeza al inspector Sobrado y sus companeros de brigada
@@ -46,5 +46,5 @@
     el Dam, el bar de copas donde Ignacio y Claudia solían
     acudir en sus noches de juerga.</p>
   </content>
-  <link href="../authors_0/authors_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rafael Escuredo" />
+  <link href="../authors_0/authors_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rafael Escuredo" />
 </entry>

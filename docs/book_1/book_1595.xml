@@ -6,11 +6,11 @@
   <link href="./book_1595.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Voces del 11-M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../../Victor%20Sampedro/Voces%20del%2011-M%20%281595%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Victor%20Sampedro/Voces%20del%2011-M%20%281595%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Victor%20Sampedro/Voces%20del%2011-M%20%281595%29/Voces%20del%2011-M%20-%20Victor%20Sampedro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="560 KB" />
+  <link href="../../Victor%20Sampedro/Voces%20del%2011-M%20%281595%29/Voces%20del%2011-M%20-%20Victor%20Sampedro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="560 KB" />
   <author>
     <name>Víctor Sampedro</name>
     <uri>../authors_1/authors_1161_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">«Arrastraban su mala suerte y recibieron una mala
     muerte en una de las peores masacres terroristas de todos los
@@ -49,5 +49,5 @@
     convivencia y a reivindicar la memoria democrática, que
     fueron heridas de gravedad en marzo de 2004.»</p>
   </content>
-  <link href="../authors_1/authors_1161_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Víctor Sampedro" />
+  <link href="../authors_1/authors_1161_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Víctor Sampedro" />
 </entry>

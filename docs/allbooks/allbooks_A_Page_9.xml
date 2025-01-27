@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 of 10)" />
+  <entry>
+    <title>El asesinato de Platón</title>
+    <id>calibre:book:905</id>
+    <updated>2023-06-26T05:25:20Z</updated>
+    <link href="../../Marcos%20Chicot/El%20asesinato%20de%20Platon%20%28905%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcos%20Chicot/El%20asesinato%20de%20Platon%20%28905%29/El%20asesinato%20de%20Platon%20-%20Marcos%20Chicot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Marcos Chicot</name>
+      <uri>../authors_0/authors_678_Page_1.xml</uri>
+    </author>
+    <published>2020-10-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Histórica" />
+    <category term="Lang:es" />
+    <summary>El autor de El asesinato de Sócrates regresa con una extraordinaria novela sobre Platón, el filósofo más influyente de la historia occidental. Altea, una de las más brillantes discípulas de Platón, no sabe que su vida y la del bebé que espera se encu...</summary>
+    <link href="../book_0/book_905.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El asesino de Google Maps</title>
     <id>calibre:book:1867</id>
     <updated>2024-09-02T04:27:39Z</updated>
     <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/El%20asesino%20de%20Google%20Maps%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="189 KB" />
+    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/El%20asesino%20de%20Google%20Maps%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="189 KB" />
     <author>
       <name>Juan Herranz</name>
       <uri>../authors_1/authors_1338_Page_1.xml</uri>
@@ -36,7 +53,7 @@
     <id>calibre:book:1147</id>
     <updated>2024-01-16T06:00:20Z</updated>
     <link href="../../Anders%20de%20La%20Motte/El%20asesino%20de%20la%20montana%20%281147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anders%20de%20La%20Motte/El%20asesino%20de%20la%20montana%20%281147%29/El%20asesino%20de%20la%20montana%20-%20Anders%20de%20La%20Motte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Anders%20de%20La%20Motte/El%20asesino%20de%20la%20montana%20%281147%29/El%20asesino%20de%20la%20montana%20-%20Anders%20de%20La%20Motte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Anders de La Motte</name>
       <uri>../authors_0/authors_836_Page_1.xml</uri>
@@ -54,7 +71,7 @@
     <id>calibre:book:1685</id>
     <updated>2024-07-29T11:15:45Z</updated>
     <link href="../../J.%20M.%20Guelbenzu/El%20asesino%20desconsolado%20%281685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20M.%20Guelbenzu/El%20asesino%20desconsolado%20%281685%29/El%20asesino%20desconsolado%20-%20J.%20M.%20Guelbenzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="362 KB" />
+    <link href="../../J.%20M.%20Guelbenzu/El%20asesino%20desconsolado%20%281685%29/El%20asesino%20desconsolado%20-%20J.%20M.%20Guelbenzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="362 KB" />
     <author>
       <name>J. M. Guelbenzu</name>
       <uri>../authors_1/authors_1137_Page_1.xml</uri>
@@ -72,7 +89,7 @@
     <id>calibre:book:832</id>
     <updated>2023-06-09T01:41:42Z</updated>
     <link href="../../Ana%20Lena%20Rivera/Un%20asesino%20en%20tu%20sombra%20%28832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Lena%20Rivera/Un%20asesino%20en%20tu%20sombra%20%28832%29/Un%20asesino%20en%20tu%20sombra%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <link href="../../Ana%20Lena%20Rivera/Un%20asesino%20en%20tu%20sombra%20%28832%29/Un%20asesino%20en%20tu%20sombra%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
     <author>
       <name>Ana Lena Rivera</name>
       <uri>../authors_0/authors_354_Page_1.xml</uri>
@@ -90,7 +107,7 @@
     <id>calibre:book:1669</id>
     <updated>2024-07-17T11:51:01Z</updated>
     <link href="../../Freida%20McFadden/La%20asistenta%20te%20vigila%20%281669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/La%20asistenta%20te%20vigila%20%281669%29/La%20asistenta%20te%20vigila%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Freida%20McFadden/La%20asistenta%20te%20vigila%20%281669%29/La%20asistenta%20te%20vigila%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Freida McFadden</name>
       <uri>../authors_1/authors_1108_Page_1.xml</uri>
@@ -108,7 +125,7 @@
     <id>calibre:book:2665</id>
     <updated>2024-10-22T00:28:26Z</updated>
     <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="435 KB" />
     <author>
       <name>Freida McFadden</name>
       <uri>../authors_1/authors_1108_Page_1.xml</uri>
@@ -129,7 +146,7 @@
     <id>calibre:book:917</id>
     <updated>2023-07-04T02:12:04Z</updated>
     <link href="../../Juana%20Cortes%20Amunarriz/Los%20ausentes%20%28917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juana%20Cortes%20Amunarriz/Los%20ausentes%20%28917%29/Los%20ausentes%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <link href="../../Juana%20Cortes%20Amunarriz/Los%20ausentes%20%28917%29/Los%20ausentes%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
     <author>
       <name>Juana Cortés Amunarriz</name>
       <uri>../authors_0/authors_687_Page_1.xml</uri>
@@ -146,7 +163,7 @@
     <id>calibre:book:2419</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/La%20aventura%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="476 KB" />
+    <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/La%20aventura%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Joseph Conrad</name>
       <uri>../authors_1/authors_1592_Page_1.xml</uri>
@@ -169,7 +186,7 @@
     <id>calibre:book:2359</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Mark%20Twain/Las%20aventuras%20de%20Huckleberry%20Finn%20%282359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Twain/Las%20aventuras%20de%20Huckleberry%20Finn%20%282359%29/Las%20aventuras%20de%20Huckleberry%20Fi%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="328 KB" />
+    <link href="../../Mark%20Twain/Las%20aventuras%20de%20Huckleberry%20Finn%20%282359%29/Las%20aventuras%20de%20Huckleberry%20Fi%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="328 KB" />
     <author>
       <name>Mark Twain</name>
       <uri>../authors_1/authors_1488_Page_1.xml</uri>
@@ -187,7 +204,7 @@
     <id>calibre:book:2100</id>
     <updated>2024-09-06T02:09:22Z</updated>
     <link href="../../Carlo%20Collodi/Las%20aventuras%20de%20Pinocho%20%282100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlo%20Collodi/Las%20aventuras%20de%20Pinocho%20%282100%29/Las%20aventuras%20de%20Pinocho%20-%20Carlo%20Collodi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="167 KB" />
+    <link href="../../Carlo%20Collodi/Las%20aventuras%20de%20Pinocho%20%282100%29/Las%20aventuras%20de%20Pinocho%20-%20Carlo%20Collodi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="167 KB" />
     <author>
       <name>Carlo Collodi</name>
       <uri>../authors_1/authors_1494_Page_1.xml</uri>
@@ -205,7 +222,7 @@
     <id>calibre:book:2331</id>
     <updated>2024-09-09T10:34:09Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/Las%20aventuras%20de%20Sherlock%20Holme%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="301 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/Las%20aventuras%20de%20Sherlock%20Holme%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="301 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -225,7 +242,7 @@
     <id>calibre:book:2250</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Mark%20Twain/Las%20aventuras%20de%20Tom%20Sawyer%20%282250%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Twain/Las%20aventuras%20de%20Tom%20Sawyer%20%282250%29/Las%20aventuras%20de%20Tom%20Sawyer%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="259 KB" />
+    <link href="../../Mark%20Twain/Las%20aventuras%20de%20Tom%20Sawyer%20%282250%29/Las%20aventuras%20de%20Tom%20Sawyer%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="259 KB" />
     <author>
       <name>Mark Twain</name>
       <uri>../authors_1/authors_1488_Page_1.xml</uri>
@@ -241,7 +258,7 @@
     <id>calibre:book:2053</id>
     <updated>2024-09-06T02:09:04Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/Las%20aventuras%20de%20un%20cadaver%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/Las%20aventuras%20de%20un%20cadaver%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -260,7 +277,7 @@
     <id>calibre:book:521</id>
     <updated>2023-04-05T00:40:04Z</updated>
     <link href="../../Santiago%20Roncagliolo/El%20ano%20en%20que%20nacio%20el%20demonio%20%28521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santiago%20Roncagliolo/El%20ano%20en%20que%20nacio%20el%20demonio%20%28521%29/El%20ano%20en%20que%20nacio%20el%20demonio%20-%20Santiago%20Roncagliolo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Santiago%20Roncagliolo/El%20ano%20en%20que%20nacio%20el%20demonio%20%28521%29/El%20ano%20en%20que%20nacio%20el%20demonio%20-%20Santiago%20Roncagliolo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Santiago Roncagliolo</name>
       <uri>../authors_0/authors_386_Page_1.xml</uri>
@@ -277,7 +294,7 @@
     <id>calibre:book:296</id>
     <updated>2023-02-10T03:54:52Z</updated>
     <link href="../../Alvaro%20Arbina/Los%20anos%20del%20silencio%20%28296%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvaro%20Arbina/Los%20anos%20del%20silencio%20%28296%29/Los%20anos%20del%20silencio%20-%20Alvaro%20Arbina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="700 KB" />
+    <link href="../../Alvaro%20Arbina/Los%20anos%20del%20silencio%20%28296%29/Los%20anos%20del%20silencio%20-%20Alvaro%20Arbina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="700 KB" />
     <author>
       <name>Álvaro Arbina</name>
       <uri>../authors_0/authors_204_Page_1.xml</uri>
@@ -294,7 +311,7 @@
     <id>calibre:book:2137</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Ramon%20del%20Valle-Inclan/Aguila%20de%20blason%20%282137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ramon%20del%20Valle-Inclan/Aguila%20de%20blason%20%282137%29/Aguila%20de%20blason%20-%20Ramon%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="164 KB" />
+    <link href="../../Ramon%20del%20Valle-Inclan/Aguila%20de%20blason%20%282137%29/Aguila%20de%20blason%20-%20Ramon%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="164 KB" />
     <author>
       <name>Ramón del Valle-Inclán</name>
       <uri>../authors_1/authors_1516_Page_1.xml</uri>
@@ -310,7 +327,7 @@
     <id>calibre:book:929</id>
     <updated>2023-07-04T02:12:24Z</updated>
     <link href="../../Pauline%20Gedge/Aguilas%20y%20cuervos%20%28929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pauline%20Gedge/Aguilas%20y%20cuervos%20%28929%29/Aguilas%20y%20cuervos%20-%20Pauline%20Gedge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="984 KB" />
+    <link href="../../Pauline%20Gedge/Aguilas%20y%20cuervos%20%28929%29/Aguilas%20y%20cuervos%20-%20Pauline%20Gedge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="984 KB" />
     <author>
       <name>Pauline Gedge</name>
       <uri>../authors_0/authors_697_Page_1.xml</uri>
@@ -327,7 +344,7 @@
     <id>calibre:book:1918</id>
     <updated>2024-09-05T06:00:43Z</updated>
     <link href="../../Yakov%20Perelman/Algebra%20recreativa%20%281918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yakov%20Perelman/Algebra%20recreativa%20%281918%29/Algebra%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="964 KB" />
+    <link href="../../Yakov%20Perelman/Algebra%20recreativa%20%281918%29/Algebra%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="964 KB" />
     <author>
       <name>Yákov Perelmán</name>
       <uri>../authors_1/authors_1364_Page_1.xml</uri>
@@ -347,7 +364,7 @@
     <id>calibre:book:2796</id>
     <updated>2025-01-09T08:28:28Z</updated>
     <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/Ambar%20-%20Nicolas%20Ferraro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="361 KB" />
+    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/Ambar%20-%20Nicolas%20Ferraro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="361 KB" />
     <author>
       <name>Nicolás Ferraro</name>
       <uri>../authors_1/authors_1830_Page_1.xml</uri>
@@ -364,7 +381,7 @@
     <id>calibre:book:1140</id>
     <updated>2024-01-08T09:16:20Z</updated>
     <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/El%20Angel%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/El%20Angel%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="620 KB" />
     <author>
       <name>Sandrone Dazieri</name>
       <uri>../authors_0/authors_683_Page_1.xml</uri>
@@ -382,7 +399,7 @@
     <id>calibre:book:1105</id>
     <updated>2024-01-08T09:16:12Z</updated>
     <link href="../../Dan%20Brown/Angeles%20y%20demonios%20%281105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dan%20Brown/Angeles%20y%20demonios%20%281105%29/Angeles%20y%20demonios%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Dan%20Brown/Angeles%20y%20demonios%20%281105%29/Angeles%20y%20demonios%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Dan Brown</name>
       <uri>../authors_0/authors_809_Page_1.xml</uri>
@@ -400,7 +417,7 @@
     <id>calibre:book:2428</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Sofocles/Ayax%20%282428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -419,7 +436,7 @@
     <id>calibre:book:2410</id>
     <updated>2024-09-09T10:34:25Z</updated>
     <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/El%20angel%20azul%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="213 KB" />
+    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/El%20angel%20azul%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="213 KB" />
     <author>
       <name>Heinrich Mann</name>
       <uri>../authors_1/authors_1641_Page_1.xml</uri>
@@ -438,7 +455,7 @@
     <id>calibre:book:489</id>
     <updated>2023-04-01T02:01:56Z</updated>
     <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/El%20angel%20de%20la%20ciudad%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/El%20angel%20de%20la%20ciudad%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="553 KB" />
     <author>
       <name>Eva García Sáenz de Urturi</name>
       <uri>../authors_0/authors_362_Page_1.xml</uri>
@@ -450,23 +467,6 @@
     <category term="Kraken" />
     <summary>Kraken [2]: En una Venecia rodeada de misterio, el inspector Kraken se enfrenta a la encrucijada más compleja de su vida: resolver el pasado o apostar por el futuro.Un espléndido y decadente palazzo arde en una pequeña isla veneciana donde se celebra...</summary>
     <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El ángel de la muerte</title>
-    <id>calibre:book:39</id>
-    <updated>2023-01-17T10:23:16Z</updated>
-    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/El%20angel%20de%20la%20muerte%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
-    <author>
-      <name>Mario Escobar</name>
-      <uri>../authors_0/authors_31_Page_1.xml</uri>
-    </author>
-    <published>2022-12-07T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <category term="Crímenes de Madrid" />
-    <summary>Crímenes de Madrid [4]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
-    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

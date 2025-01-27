@@ -6,12 +6,12 @@
   <link href="./book_899.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Fiebre de verano" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
-  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
   <link href="../../Kate%20Riordan/Fiebre%20de%20verano%20%28899%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Kate%20Riordan/Fiebre%20de%20verano%20%28899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Kate%20Riordan/Fiebre%20de%20verano%20%28899%29/Fiebre%20de%20verano%20-%20Kate%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+  <link href="../../Kate%20Riordan/Fiebre%20de%20verano%20%28899%29/Fiebre%20de%20verano%20-%20Kate%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
   <author>
     <name>Kate Riordan</name>
     <uri>../authors_0/authors_674_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-weight: bold">UN CALUROSO VERANO EN ITALIA.
@@ -137,5 +137,5 @@
       <p>--Este texto se refiere a la edición paperback.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_674_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Kate Riordan" />
+  <link href="../authors_0/authors_674_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Kate Riordan" />
 </entry>

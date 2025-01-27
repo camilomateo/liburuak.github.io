@@ -11,14 +11,14 @@
   <link href="./authors_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Colleen Hoover" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <entry>
-    <title>Todos los libros de Colleen Hoover</title>
+    <title>All books by Colleen Hoover</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 5 libros</content>
+    <content type="text">Alphabetical index of the 5 books</content>
     <link href="../authors_0/authors_6_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -36,7 +36,7 @@
     <id>calibre:book:2748</id>
     <updated>2024-12-18T08:33:29Z</updated>
     <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="662 KB" />
+    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="662 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:2580</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:640</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Colleen%20Hoover/Verity.%20La%20sombra%20de%20un%20engano%20%28640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Verity.%20La%20sombra%20de%20un%20engano%20%28640%29/Verity.%20La%20sombra%20de%20un%20engano%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <link href="../../Colleen%20Hoover/Verity.%20La%20sombra%20de%20un%20engano%20%28640%29/Verity.%20La%20sombra%20de%20un%20engano%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="677 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -93,7 +93,7 @@
     <id>calibre:book:7</id>
     <updated>2023-01-17T10:02:38Z</updated>
     <link href="../../Colleen%20Hoover/Volver%20a%20empezar%20%28It%20Starts%20with%20Us%29%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Volver%20a%20empezar%20%28It%20Starts%20with%20Us%29%20%287%29/Volver%20a%20empezar%20%28It%20Starts%20wit%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Colleen%20Hoover/Volver%20a%20empezar%20%28It%20Starts%20with%20Us%29%20%287%29/Volver%20a%20empezar%20%28It%20Starts%20wit%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>

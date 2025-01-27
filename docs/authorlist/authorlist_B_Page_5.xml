@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Autores que empiezan por B</title>
+  <title>Authors starting with B</title>
   <id>Calibre2opds:authorlist:B</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,26 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Autores que empiezan por B" />
+  <link href="./authorlist_B_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with B" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="./authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="./authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="./authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="./authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="./authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="./authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="./authorlist_B_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <entry>
+    <title>Anne Brontë</title>
+    <id>Calibre2opds:authors:1617</id>
+    <content type="text">Agnes Grey</content>
+    <link href="../authors_1/authors_1617_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
   <entry>
     <title>Emily Brontë</title>
     <id>Calibre2opds:authors:1584</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1584_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -35,7 +43,7 @@
   <entry>
     <title>L. Leslie Brooke</title>
     <id>Calibre2opds:authors:1479</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1479_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -67,7 +75,7 @@
   <entry>
     <title>Dan Brown</title>
     <id>Calibre2opds:authors:809</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_809_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -99,7 +107,7 @@
   <entry>
     <title>Robert Bryndza</title>
     <id>Calibre2opds:authors:69</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_69_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -107,7 +115,7 @@
   <entry>
     <title>Nicolás Buckley</title>
     <id>Calibre2opds:authors:1271</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1271_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -123,7 +131,7 @@
   <entry>
     <title>Mijaíl Bulgákov</title>
     <id>Calibre2opds:authors:1647</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_1/authors_1647_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -131,7 +139,7 @@
   <entry>
     <title>Rafael Tarradas Bultó</title>
     <id>Calibre2opds:authors:357</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_357_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -163,7 +171,7 @@
   <entry>
     <title>Jessie Burton</title>
     <id>Calibre2opds:authors:635</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_635_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -171,7 +179,7 @@
   <entry>
     <title>Carlos María de Bustamante</title>
     <id>Calibre2opds:authors:1432</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1432_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

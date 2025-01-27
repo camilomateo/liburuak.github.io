@@ -6,14 +6,14 @@
   <link href="./book_322.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los seres huecos" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <link href="../authors_0/authors_228_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Chuck Hogan" />
   <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/Los%20seres%20huecos%20-%20Guillermo%20del%20Toro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="792 KB" />
+  <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/Los%20seres%20huecos%20-%20Guillermo%20del%20Toro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="792 KB" />
   <author>
     <name>Guillermo del Toro</name>
     <uri>../authors_0/authors_227_Page_1.xml</uri>
@@ -30,18 +30,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Las cintas de Blackwood serie
+      Book 1 in the Las cintas de Blackwood series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'">
@@ -90,6 +90,6 @@
       </p>
     </div>
   </content>
-  <link href="../authors_0/authors_227_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Guillermo del Toro" />
-  <link href="../authors_0/authors_228_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Chuck Hogan" />
+  <link href="../authors_0/authors_227_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Guillermo del Toro" />
+  <link href="../authors_0/authors_228_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Chuck Hogan" />
 </entry>

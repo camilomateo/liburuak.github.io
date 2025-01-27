@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Juan Gómez-Jurado</title>
+  <title>All books by Juan Gómez-Jurado</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_55_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Juan Gómez-Jurado" />
+  <link href="./authors_55_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Juan Gómez-Jurado" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="./authors_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan Gómez-Jurado" />
   <entry>
     <title>Contrato con Dios</title>
     <id>calibre:book:676</id>
     <updated>2023-05-15T05:51:30Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -42,7 +42,7 @@
     <id>calibre:book:974</id>
     <updated>2023-08-16T05:29:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/El%20emblema%20del%20traidor%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/El%20emblema%20del%20traidor%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="551 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -61,7 +61,7 @@
     <id>calibre:book:522</id>
     <updated>2023-04-05T00:40:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -80,7 +80,7 @@
     <id>calibre:book:636</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/La%20leyenda%20del%20ladron%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="736 KB" />
+    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/La%20leyenda%20del%20ladron%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="736 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -97,7 +97,7 @@
     <id>calibre:book:331</id>
     <updated>2023-02-16T07:17:46Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/Loba%20negra%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="622 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/Loba%20negra%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="622 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -117,7 +117,7 @@
     <id>calibre:book:535</id>
     <updated>2023-04-05T00:40:16Z</updated>
     <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="848 KB" />
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="848 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -135,7 +135,7 @@
     <id>calibre:book:539</id>
     <updated>2023-04-06T09:50:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/Rey%20blanco%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="610 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/Rey%20blanco%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="610 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -153,7 +153,7 @@
     <id>calibre:book:78</id>
     <updated>2023-01-18T00:02:46Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/Todo%20arde%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/Todo%20arde%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -170,7 +170,7 @@
     <id>calibre:book:2703</id>
     <updated>2024-11-07T00:45:05Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -188,7 +188,7 @@
     <id>calibre:book:1047</id>
     <updated>2023-11-01T07:30:37Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/Todo%20vuelve%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/Todo%20vuelve%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="794 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>

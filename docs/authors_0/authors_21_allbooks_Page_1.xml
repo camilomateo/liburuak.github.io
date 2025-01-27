@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de John Grisham</title>
+  <title>All books by John Grisham</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_21_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de John Grisham" />
+  <link href="./authors_21_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by John Grisham" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="./authors_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="John Grisham" />
   <entry>
     <title>Los adversarios</title>
     <id>calibre:book:873</id>
     <updated>2023-06-19T05:31:28Z</updated>
     <link href="../../John%20Grisham/Los%20adversarios%20%28873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Los%20adversarios%20%28873%29/Los%20adversarios%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="598 KB" />
+    <link href="../../John%20Grisham/Los%20adversarios%20%28873%29/Los%20adversarios%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="598 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -39,7 +39,7 @@
     <id>calibre:book:1009</id>
     <updated>2023-08-27T03:30:32Z</updated>
     <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/Ajuste%20de%20cuentas%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/Ajuste%20de%20cuentas%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="671 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:814</id>
     <updated>2023-06-06T08:14:18Z</updated>
     <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/El%20caso%20Fitzgerald%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/El%20caso%20Fitzgerald%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:503</id>
     <updated>2023-04-01T02:02:00Z</updated>
     <link href="../../John%20Grisham/Los%20guardianes%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Los%20guardianes%20%28503%29/Los%20guardianes%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <link href="../../John%20Grisham/Los%20guardianes%20%28503%29/Los%20guardianes%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="671 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:1535</id>
     <updated>2024-06-02T10:59:41Z</updated>
     <link href="../../John%20Grisham/El%20intercambio%20%281535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/El%20intercambio%20%281535%29/El%20intercambio%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="627 KB" />
+    <link href="../../John%20Grisham/El%20intercambio%20%281535%29/El%20intercambio%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="627 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -110,7 +110,7 @@ El protagonista del icónico thrillerLA TAPADERAregresa en una novela aún más 
     <id>calibre:book:24</id>
     <updated>2023-01-17T10:15:02Z</updated>
     <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -127,7 +127,7 @@ El protagonista del icónico thrillerLA TAPADERAregresa en una novela aún más 
     <id>calibre:book:794</id>
     <updated>2023-05-31T01:04:26Z</updated>
     <link href="../../John%20Grisham/El%20manuscrito%20%28794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/El%20manuscrito%20%28794%29/El%20manuscrito%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../John%20Grisham/El%20manuscrito%20%28794%29/El%20manuscrito%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -144,7 +144,7 @@ El protagonista del icónico thrillerLA TAPADERAregresa en una novela aún más 
     <id>calibre:book:771</id>
     <updated>2023-05-25T00:54:24Z</updated>
     <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/Tiempo%20de%20perdon%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="834 KB" />
+    <link href="../../John%20Grisham/Tiempo%20de%20perdon%20%28771%29/Tiempo%20de%20perdon%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="834 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>

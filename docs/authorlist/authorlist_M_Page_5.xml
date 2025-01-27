@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Autores que empiezan por M</title>
+  <title>Authors starting with M</title>
   <id>Calibre2opds:authorlist:M</id>
   <author>
     <name>David Pierron</name>
@@ -8,15 +8,23 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Autores que empiezan por M" />
+  <link href="./authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="./authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="./authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="./authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="./authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 8)" />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="./authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="./authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="./authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 8)" />
+  <entry>
+    <title>Clémence Michallon</title>
+    <id>Calibre2opds:authors:922</id>
+    <content type="text">La inquilina silenciosa</content>
+    <link href="../authors_0/authors_922_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
   <entry>
     <title>Jacopo De Michelis</title>
     <id>Calibre2opds:authors:460</id>
@@ -44,7 +52,7 @@
   <entry>
     <title>Mikecrack</title>
     <id>Calibre2opds:authors:786</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_786_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -52,7 +60,7 @@
   <entry>
     <title>Javier Milei</title>
     <id>Calibre2opds:authors:1025</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1025_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -76,7 +84,7 @@
   <entry>
     <title>Juan José Millás</title>
     <id>Calibre2opds:authors:461</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_461_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -92,7 +100,7 @@
   <entry>
     <title>Alan Alexander Milne</title>
     <id>Calibre2opds:authors:1476</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_1/authors_1476_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -108,7 +116,7 @@
   <entry>
     <title>John Milton</title>
     <id>Calibre2opds:authors:1632</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1632_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -116,7 +124,7 @@
   <entry>
     <title>Joel Minden</title>
     <id>Calibre2opds:authors:598</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_598_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -124,7 +132,7 @@
   <entry>
     <title>Bernard Minier</title>
     <id>Calibre2opds:authors:18</id>
-    <content type="text">4 libros</content>
+    <content type="text">4 books</content>
     <link href="../authors_0/authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -156,7 +164,7 @@
   <entry>
     <title>Gabriela Mistral</title>
     <id>Calibre2opds:authors:1525</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1525_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -188,7 +196,7 @@
   <entry>
     <title>Carmen Mola</title>
     <id>Calibre2opds:authors:68</id>
-    <content type="text">5 libros</content>
+    <content type="text">5 books</content>
     <link href="../authors_0/authors_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -206,14 +214,6 @@
     <id>Calibre2opds:authors:1313</id>
     <content type="text">El silencio de la guerra</content>
     <link href="../authors_1/authors_1313_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Esteban Moneo</title>
-    <id>Calibre2opds:authors:888</id>
-    <content type="text">El balcón del olvido</content>
-    <link href="../authors_0/authors_888_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

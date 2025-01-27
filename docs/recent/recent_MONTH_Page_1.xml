@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Mes anterior</title>
+  <title>Previous month</title>
   <id>Calibre2opds:recent:MONTH</id>
   <author>
     <name>David Pierron</name>
@@ -8,16 +8,318 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mes anterior" />
+  <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous month" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
-    <title>De hombre en hombre [31 de diciembre de 2024]</title>
+    <title>Ámbar [January 9, 2025]</title>
+    <id>calibre:book:2796</id>
+    <updated>2025-01-09T08:28:28Z</updated>
+    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/Ambar%20-%20Nicolas%20Ferraro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="361 KB" />
+    <author>
+      <name>Nicolás Ferraro</name>
+      <uri>../authors_1/authors_1830_Page_1.xml</uri>
+    </author>
+    <published>2024-09-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PREMIO DASHIELL HAMMETT 2022 A LA MEJOR NOVELA NEGRAUn thriller violento y conmovedor escrito con la rabia y el lirismo de un poeta urbano.Ámbar tiene quince años y, como cualquier adolescente, preferiría comprar ropa, teñirse el pelo de rosa y tonte...</summary>
+    <link href="../book_2/book_2796.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contra el dolor [January 9, 2025]</title>
+    <id>calibre:book:2795</id>
+    <updated>2025-01-09T08:28:27Z</updated>
+    <link href="../../Empar%20Fernandez/Contra%20el%20dolor%20%282795%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Empar%20Fernandez/Contra%20el%20dolor%20%282795%29/Contra%20el%20dolor%20-%20Empar%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
+    <author>
+      <name>Empar Fernández</name>
+      <uri>../authors_1/authors_1198_Page_1.xml</uri>
+    </author>
+    <published>2024-09-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Eunate</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Daniela Ventura es una mujer racional que no cree en señales; sin embargo, cuando al poner el pie en la calle encuentra una paloma muerta frente a su portal, tiene un mal presentimiento. Y no se equivoca. Al llegar a la consulta médica en la que trab...</summary>
+    <link href="../book_2/book_2795.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Almas de piedra [January 9, 2025]</title>
+    <id>calibre:book:2793</id>
+    <updated>2025-01-09T08:28:25Z</updated>
+    <link href="../../Lloyd%20Devereux%20Richards/Almas%20de%20piedra%20%282793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lloyd%20Devereux%20Richards/Almas%20de%20piedra%20%282793%29/Almas%20de%20piedra%20-%20Lloyd%20Devereux%20Richards.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="370 KB" />
+    <author>
+      <name>Lloyd Devereux Richards</name>
+      <uri>../authors_1/authors_1828_Page_1.xml</uri>
+    </author>
+    <published>2024-09-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El suspense de El silencio de los corderos. La apasionante investigación policial de Mentes criminales. Un asesino en serie a la altura de El Cuarto Mono.Christine Prusik es la jefa de la unidad forense del FBI en Chicago y se encuentra con un mister...</summary>
+    <link href="../book_2/book_2793.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dispuesto a matar [January 9, 2025]</title>
+    <id>calibre:book:2794</id>
+    <updated>2025-01-09T08:28:26Z</updated>
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/Dispuesto%20a%20matar%20-%20Kelley%20Roos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="250 KB" />
+    <author>
+      <name>Kelley Roos</name>
+      <uri>../authors_1/authors_1829_Page_1.xml</uri>
+    </author>
+    <published>1940-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jeff y Haila Troy" />
+    <summary>Jeff y Haila Troy [1]: Es la noche de estreno de una obra de teatro en la que actúa Haila Troy. La coprotagonista y compañera de cuarto de Haila, Carol Blanton, de repente enferma de laringitis y no puede actuar. Su suplente, una chica con la pasión ...</summary>
+    <link href="../book_2/book_2794.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Biltriu [January 9, 2025]</title>
+    <id>calibre:book:2792</id>
+    <updated>2025-01-09T08:28:25Z</updated>
+    <link href="../../Pablo%20Silva/Biltriu%20%282792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Silva/Biltriu%20%282792%29/Biltriu%20-%20Pablo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="266 KB" />
+    <author>
+      <name>Pablo Silva</name>
+      <uri>../authors_1/authors_1827_Page_1.xml</uri>
+    </author>
+    <published>2024-01-10T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CALIGRAMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando se encuentran los restos
+ de la joven Marisa Cota diecisiete años después de su desaparición, la apacible
+ aldea asturiana de Piñera queda inmersa en una vorágine de oscuros secretos del
+ pasado.</summary>
+    <link href="../book_2/book_2792.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Asesinato en Cannes [January 9, 2025]</title>
+    <id>calibre:book:2791</id>
+    <updated>2025-01-09T08:22:46Z</updated>
+    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/Asesinato%20en%20Cannes%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="649 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-11-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nova Illice Media Pub</dcterms:publisher>
+    <category term="Policial" />
+    <category term="suspense" />
+    <category term="Lang:es" />
+    <category term="Detective Maldonado" />
+    <summary>Detective Maldonado [9]: Cuando el detective privado Maldonado acepta un caso en el glamoroso Festival de Cannes, pronto descubre que bajo las luces deslumbrantes y las alfombras rojas, se ocultan secretos tan oscuros como mortales. La muerte de un f...</summary>
+    <link href="../book_2/book_2791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La chica cuervo. Los rostros de Victoria Bergman [January 9, 2025]</title>
+    <id>calibre:book:2790</id>
+    <updated>2025-01-09T08:21:55Z</updated>
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/La%20chica%20cuervo.%20Los%20rostros%20de%20-%20Erik%20Axl%20Sund.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
+    <author>
+      <name>Erik Axl Sund</name>
+      <uri>../authors_1/authors_1826_Page_1.xml</uri>
+    </author>
+    <published>2024-11-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La edición omnibus del best seller internacional más oscuro de los últimos años: el psychothriller que lo empezó todo. Ahora, también en serie de TV. «Oscura, poderosa, desasosegante, terrorífica». The Times «Novela negra sueca llevada a su máxima y ...</summary>
+    <link href="../book_2/book_2790.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ajuste de cuentas [January 9, 2025]</title>
+    <id>calibre:book:2786</id>
+    <updated>2025-01-09T08:19:02Z</updated>
+    <link href="../../Miguel%20Angel%20Cienfuegos/Ajuste%20de%20cuentas%20%282786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Angel%20Cienfuegos/Ajuste%20de%20cuentas%20%282786%29/Ajuste%20de%20cuentas%20-%20Miguel%20Angel%20Cienfuegos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="384 KB" />
+    <author>
+      <name>Miguel Ángel Cienfuegos</name>
+      <uri>../authors_1/authors_1823_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pepa Sastre</name>
+      <uri>../authors_1/authors_1824_Page_1.xml</uri>
+    </author>
+    <published>2024-06-19T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Edhasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La noticia hace saltar todas las alarmas: tras haber cumplido una parte de la pena, un conocido etarra ha sido asesinado de un disparo en la frente. Es el primero en caer, pero pronto le siguen más…La reacción es inmediata, y la Guardia Civil envía a...</summary>
+    <link href="../book_2/book_2786.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La pareja perfecta [January 9, 2025]</title>
+    <id>calibre:book:2788</id>
+    <updated>2025-01-09T08:19:02Z</updated>
+    <link href="../../Jackie%20Kabler/La%20pareja%20perfecta%20%282788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jackie%20Kabler/La%20pareja%20perfecta%20%282788%29/La%20pareja%20perfecta%20-%20Jackie%20Kabler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
+    <author>
+      <name>Jackie Kabler</name>
+      <uri>../authors_1/authors_1825_Page_1.xml</uri>
+    </author>
+    <published>2024-09-20T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿O la mentira perfecta? UNA MUJER DESESPERADA, UN MARIDO DESAPARECIDO… ¿A QUIÉN CREERÍAS?Tras un largo viaje de negocios, Gemma está deseando lanzarse a los brazos de su marido, Danny, y disfrutar de un merecido descanso. Pero en casa le espera una d...</summary>
+    <link href="../book_2/book_2788.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pronunciaré sus nombres [January 9, 2025]</title>
+    <id>calibre:book:2784</id>
+    <updated>2025-01-09T08:18:54Z</updated>
+    <link href="../../Tamara%20Trottner/Pronunciare%20sus%20nombres%20%282784%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tamara%20Trottner/Pronunciare%20sus%20nombres%20%282784%29/Pronunciare%20sus%20nombres%20-%20Tamara%20Trottner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Tamara Trottner</name>
+      <uri>../authors_1/authors_1822_Page_1.xml</uri>
+    </author>
+    <published>2024-11-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>A través de una mirada tierna y aguda, asistimos al rescate del futuro en medio de una catástrofe humana y cruzamos el océano Atlántico para acompañar a los Trachtenberg y los Wolloch en su combate contra la muerte y el olvido.</summary>
+    <link href="../book_2/book_2784.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El acuerdo prematrimonial [January 9, 2025]</title>
+    <id>calibre:book:2780</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Arianne%20Richmonde/El%20acuerdo%20prematrimonial%20%282780%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arianne%20Richmonde/El%20acuerdo%20prematrimonial%20%282780%29/El%20acuerdo%20prematrimonial%20-%20Arianne%20Richmonde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="391 KB" />
+    <author>
+      <name>Arianne Richmonde</name>
+      <uri>../authors_1/authors_1818_Page_1.xml</uri>
+    </author>
+    <published>2024-11-22T00:10:03Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ella firmó. Ahora debe pagar el precio...Miro a los ojos de mi nuevo marido y sonrío. Es el día de nuestra boda y me siento como la mujer más afortunada del mundo. Lucas es perfecto. Me trae el desayuno a la cama por la mañana, ramos de flores por la...</summary>
+    <link href="../book_2/book_2780.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gambuesa [January 9, 2025]</title>
+    <id>calibre:book:2779</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../C.%20J.%20Nieto/Gambuesa%20%282779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../C.%20J.%20Nieto/Gambuesa%20%282779%29/Gambuesa%20-%20C.%20J.%20Nieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="834 KB" />
+    <author>
+      <name>C. J. Nieto</name>
+      <uri>../authors_1/authors_1817_Page_1.xml</uri>
+    </author>
+    <published>2024-11-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En Gambuesa todos sus protagonistas han perdido o perderán algo mientras basculan entre la casualidad y la causalidad. Jorge es un inspector de trabajo que se esconde de sí mismo en una isla. Una inspección lo lleva hasta la finca ganadera de Perico,...</summary>
+    <link href="../book_2/book_2779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La luz que nos guía [January 9, 2025]</title>
+    <id>calibre:book:2777</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/La%20luz%20que%20nos%20guia%20-%20Alvaro%20Otero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="902 KB" />
+    <author>
+      <name>Álvaro Otero</name>
+      <uri>../authors_1/authors_1815_Page_1.xml</uri>
+    </author>
+    <published>2024-09-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Por más sorprendente que parezca, todo lo que se cuenta en La luz que nos guía ocurrió de verdad. Basada en hechos reales, la acción arranca en el verano de 1932, cuando cinco amigos que viven en un pueblo de España, y que coquetean con el comunismo ...</summary>
+    <link href="../book_2/book_2777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Payaso [January 9, 2025]</title>
+    <id>calibre:book:2778</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Luis%20Maura/Payaso%20%282778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Maura/Payaso%20%282778%29/Payaso%20-%20Luis%20Maura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="287 KB" />
+    <author>
+      <name>Luis Maura</name>
+      <uri>../authors_1/authors_1816_Page_1.xml</uri>
+    </author>
+    <published>2024-11-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Dos Bigotes</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Miki es un actor disfrazado de payaso que huye de la policía en un centro comercial. Acumula castings fallidos y fracasos amorosos, mientras malvive en una diminuta buhardilla. Lo que nadie sabe es que Miki esconde en su nevera un terrible secreto qu...</summary>
+    <link href="../book_2/book_2778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Plomo en las alas [January 9, 2025]</title>
+    <id>calibre:book:2781</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
+    <author>
+      <name>Francisco José Jurado</name>
+      <uri>../authors_1/authors_1819_Page_1.xml</uri>
+    </author>
+    <published>2024-11-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Unos restos humanos aparecen semienterrados en un polígono industrial de Córdoba. Una chica, de eso no cabe duda, porque lo que encuentran es el bajo abdomen, la zona púbica y los muslos. Mujer, caucásica, probablemente menor de edad, dictamina el an...</summary>
+    <link href="../book_2/book_2781.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las tres muertes de Sarah Colbert [January 9, 2025]</title>
+    <id>calibre:book:2783</id>
+    <updated>2025-01-09T08:18:54Z</updated>
+    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/Las%20tres%20muertes%20de%20Sarah%20Colbe%20-%20Arantxa%20Rufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="937 KB" />
+    <author>
+      <name>Arantxa Rufo</name>
+      <uri>../authors_1/authors_1821_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL RELEVO DEL THRILLER ESPAÑOL«El personaje que cualquier escritor de novela negra querría escribir.» ROBERTO SANTIAGO«Arantxa Rufo es la sangre fresca del thriller español.» CÉSAR PÉREZ GELLIDA«Philip Marlowe y Sarah Colbert tendrían mucho que decir...</summary>
+    <link href="../book_2/book_2783.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El vacío en el que flotas [January 9, 2025]</title>
+    <id>calibre:book:2782</id>
+    <updated>2025-01-09T08:18:53Z</updated>
+    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/El%20vacio%20en%20el%20que%20flotas%20-%20Jorge%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
+    <author>
+      <name>Jorge Franco</name>
+      <uri>../authors_1/authors_1820_Page_1.xml</uri>
+    </author>
+    <published>2023-08-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>"Él, que había caminado media vida en el puro filo de una navaja, identificó ya en su niño la irremediable vocación al extravío".La explosión de una bomba y la desaparición de un niño trenzarán de manera ineludible el drama de los protagonistas de El...</summary>
+    <link href="../book_2/book_2782.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De hombre en hombre [December 31, 2024]</title>
     <id>calibre:book:2773</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Olive%20Schreiner/De%20hombre%20en%20hombre%20%282773%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Olive%20Schreiner/De%20hombre%20en%20hombre%20%282773%29/De%20hombre%20en%20hombre%20-%20Olive%20Schreiner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="442 KB" />
+    <link href="../../Olive%20Schreiner/De%20hombre%20en%20hombre%20%282773%29/De%20hombre%20en%20hombre%20-%20Olive%20Schreiner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
     <author>
       <name>Olive Schreiner</name>
       <uri>../authors_1/authors_1813_Page_1.xml</uri>
@@ -30,11 +332,11 @@
     <link href="../book_2/book_2773.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La hija de la novicia [31 de diciembre de 2024]</title>
+    <title>La hija de la novicia [December 31, 2024]</title>
     <id>calibre:book:2771</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/La%20hija%20de%20la%20novicia%20-%20Elena%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="412 KB" />
+    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/La%20hija%20de%20la%20novicia%20-%20Elena%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
     <author>
       <name>Elena Álvarez</name>
       <uri>../authors_1/authors_1811_Page_1.xml</uri>
@@ -47,11 +349,11 @@
     <link href="../book_2/book_2771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>James [31 de diciembre de 2024]</title>
+    <title>James [December 31, 2024]</title>
     <id>calibre:book:2774</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Percival%20Everett/James%20%282774%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Percival%20Everett/James%20%282774%29/James%20-%20Percival%20Everett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="633 KB" />
+    <link href="../../Percival%20Everett/James%20%282774%29/James%20-%20Percival%20Everett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="633 KB" />
     <author>
       <name>Percival Everett</name>
       <uri>../authors_1/authors_1167_Page_1.xml</uri>
@@ -66,11 +368,11 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <link href="../book_2/book_2774.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>¿Qué pasó con Nina? [31 de diciembre de 2024]</title>
+    <title>¿Qué pasó con Nina? [December 31, 2024]</title>
     <id>calibre:book:2772</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Dervla%20McTiernan/_Que%20paso%20con%20Nina_%20%282772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dervla%20McTiernan/_Que%20paso%20con%20Nina_%20%282772%29/_Que%20paso%20con%20Nina_%20-%20Dervla%20McTiernan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="446 KB" />
+    <link href="../../Dervla%20McTiernan/_Que%20paso%20con%20Nina_%20%282772%29/_Que%20paso%20con%20Nina_%20-%20Dervla%20McTiernan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="446 KB" />
     <author>
       <name>Dervla McTiernan</name>
       <uri>../authors_1/authors_1812_Page_1.xml</uri>
@@ -83,11 +385,11 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <link href="../book_2/book_2772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El camino [31 de diciembre de 2024]</title>
+    <title>El camino [December 31, 2024]</title>
     <id>calibre:book:2770</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/El%20camino%20-%20Anya%20Niewierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="866 KB" />
+    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/El%20camino%20-%20Anya%20Niewierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="866 KB" />
     <author>
       <name>Anya Niewierra</name>
       <uri>../authors_1/authors_1810_Page_1.xml</uri>
@@ -100,11 +402,11 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <link href="../book_2/book_2770.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Gabrielle y la Bestia [31 de diciembre de 2024]</title>
+    <title>Gabrielle y la Bestia [December 31, 2024]</title>
     <id>calibre:book:2769</id>
     <updated>2024-12-31T08:29:17Z</updated>
     <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/Gabrielle%20y%20la%20Bestia%20-%20Gabriela%20Margall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="407 KB" />
+    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/Gabrielle%20y%20la%20Bestia%20-%20Gabriela%20Margall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="407 KB" />
     <author>
       <name>Gabriela Margall</name>
       <uri>../authors_1/authors_1809_Page_1.xml</uri>
@@ -117,11 +419,11 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <link href="../book_2/book_2769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La gata lo vio todo. Un misterio felino [31 de diciembre de 2024]</title>
+    <title>La gata lo vio todo. Un misterio felino [December 31, 2024]</title>
     <id>calibre:book:2768</id>
     <updated>2024-12-31T08:29:17Z</updated>
     <link href="../../Dolores%20Hitchens/La%20gata%20lo%20vio%20todo.%20Un%20misterio%20fe%20%282768%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Hitchens/La%20gata%20lo%20vio%20todo.%20Un%20misterio%20fe%20%282768%29/La%20gata%20lo%20vio%20todo.%20Un%20misteri%20-%20Dolores%20Hitchens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="752 KB" />
+    <link href="../../Dolores%20Hitchens/La%20gata%20lo%20vio%20todo.%20Un%20misterio%20fe%20%282768%29/La%20gata%20lo%20vio%20todo.%20Un%20misteri%20-%20Dolores%20Hitchens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
     <author>
       <name>Dolores Hitchens</name>
       <uri>../authors_1/authors_1808_Page_1.xml</uri>
@@ -134,11 +436,11 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <link href="../book_2/book_2768.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El ayuno [29 de diciembre de 2024]</title>
+    <title>El ayuno [December 29, 2024]</title>
     <id>calibre:book:2767</id>
     <updated>2024-12-29T11:37:16Z</updated>
     <link href="../../John%20Oakes/El%20ayuno%20%282767%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/El%20ayuno%20-%20John%20Oakes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
+    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/El%20ayuno%20-%20John%20Oakes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
     <author>
       <name>John Oakes</name>
       <uri>../authors_1/authors_1807_Page_1.xml</uri>
@@ -154,163 +456,5 @@ Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el l
     <category term="Lang:ar" />
     <summary>a sea por motivos espirituales, políticos o de salud, el ayuno supone un cambio drástico en nuestra rutina. Basándose en una amplísima investigación, John Oakes nos describe las diferentes facetas de este acto de privación. Entrevista a médicos, líde...</summary>
     <link href="../book_2/book_2767.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La muerte no existe [29 de diciembre de 2024]</title>
-    <id>calibre:book:2766</id>
-    <updated>2024-12-29T11:37:15Z</updated>
-    <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/La%20muerte%20no%20existe%20-%20Stephane%20Allix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="385 KB" />
-    <author>
-      <name>Stéphane Allix</name>
-      <uri>../authors_1/authors_1806_Page_1.xml</uri>
-    </author>
-    <published>2024-08-19T02:03:58Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿QUÉ OCURRE CUANDO MORIMOS?
-¿QUÉ PASA CON NUESTRA CONSCIENCIA?
-¿SOBREVIVE A LA MUERTE CEREBRAL?
-Estas inquietantes preguntas son las que Stéphane Allix se planteó tras la muerte de su hermano. Desde ese momento, utilizó todas sus habilidades y su ins...</summary>
-    <link href="../book_2/book_2766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando el odio nos domine [29 de diciembre de 2024]</title>
-    <id>calibre:book:2764</id>
-    <updated>2024-12-29T11:30:04Z</updated>
-    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/Cuando%20el%20odio%20nos%20domine%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="312 KB" />
-    <author>
-      <name>Marcos Nieto Pallarés</name>
-      <uri>../authors_0/authors_359_Page_1.xml</uri>
-    </author>
-    <published>2024-12-19T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>MADRID, 2023. El cuerpo desnudo de una mujer aparece rodeado de velas, con su alianza y una orquídea encima del pecho. La inspectora Nausica Yuste, agente de la Unidad Central de Delincuencia Especializada y Violenta, se persona en el lugar de los he...</summary>
-    <link href="../book_2/book_2764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La loba fiel [29 de diciembre de 2024]</title>
-    <id>calibre:book:2765</id>
-    <updated>2024-12-29T11:30:04Z</updated>
-    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Max Ibarrola</name>
-      <uri>../authors_0/authors_338_Page_1.xml</uri>
-    </author>
-    <published>2024-04-09T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Click Ediciones</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela de suspense en estado puro Arizona, verano de mil novecientos noventa y seis. En un rancho situado en medio del desierto, una empleada de la máxima confianza se lleva, sin mediar explicación, al nieto de un multimillonario. Años más tarde,...</summary>
-    <link href="../book_2/book_2765.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>María de Magdala [29 de diciembre de 2024]</title>
-    <id>calibre:book:2763</id>
-    <updated>2024-12-29T11:30:04Z</updated>
-    <link href="../../Maria%20Teresa%20Alvarez/Maria%20de%20Magdala%20%282763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Teresa%20Alvarez/Maria%20de%20Magdala%20%282763%29/Maria%20de%20Magdala%20-%20Maria%20Teresa%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
-    <author>
-      <name>María Teresa Álvarez</name>
-      <uri>../authors_1/authors_1805_Page_1.xml</uri>
-    </author>
-    <published>2024-09-05T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La escritora María Teresa Álvarez dedica esta nueva novela a la figura histórica de María Magdalena. Y da las claves de quién era, cómo se unió a los seguidores de Jesús y por qué este la eligió (a ella y a otras mujeres) como una de las personas a l...</summary>
-    <link href="../book_2/book_2763.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los dos Beune [22 de diciembre de 2024]</title>
-    <id>calibre:book:2758</id>
-    <updated>2024-12-22T11:36:55Z</updated>
-    <link href="../../Pierre%20Michon/Los%20dos%20Beune%20%282758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Michon/Los%20dos%20Beune%20%282758%29/Los%20dos%20Beune%20-%20Pierre%20Michon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="158 KB" />
-    <author>
-      <name>Pierre Michon</name>
-      <uri>../authors_1/authors_1803_Page_1.xml</uri>
-    </author>
-    <published>2024-10-17T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Michon narra la lucha inútil frente al empuje de la carne, y sigue el camino de una doble fijación: una, el deseo ardiente del protagonista; la otra, su propia fascinación como autor por representar ese anhelo. Empujado por un estilo sensual y tangib...</summary>
-    <link href="../book_2/book_2758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La hora azul [22 de diciembre de 2024]</title>
-    <id>calibre:book:2755</id>
-    <updated>2024-12-22T11:36:55Z</updated>
-    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/La%20hora%20azul%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="521 KB" />
-    <author>
-      <name>Paula Hawkins</name>
-      <uri>../authors_0/authors_43_Page_1.xml</uri>
-    </author>
-    <published>2024-10-16T02:29:28Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Cuando la Tate Modern descubre que el hueso utilizado en una de las esculturas más famosas de la célebre y ya fallecida artista Vanessa Chapman es humano y no pertenece a un animal, como se creía, todas las miradas se centran en ella y en la misterio...</summary>
-    <link href="../book_2/book_2755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Luna [22 de diciembre de 2024]</title>
-    <id>calibre:book:2757</id>
-    <updated>2024-12-22T11:36:55Z</updated>
-    <link href="../../Carlos%20Bassas%20Del%20Rey/Luna%20%282757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Bassas%20Del%20Rey/Luna%20%282757%29/Luna%20-%20Carlos%20Bassas%20Del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="945 KB" />
-    <author>
-      <name>Carlos Bassas Del Rey</name>
-      <uri>../authors_1/authors_1268_Page_1.xml</uri>
-    </author>
-    <published>2024-11-10T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Luna es la historia de tres mujeres. Es la historia de Luna, también la de Sara y la de Adoración, nieta, madre, abuela, abocadas a convivir en la misma casa llena de silencios, colmada de olvidos y habitada por una presencia del pasado, la del padre...</summary>
-    <link href="../book_2/book_2757.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Verano en rojo [22 de diciembre de 2024]</title>
-    <id>calibre:book:2756</id>
-    <updated>2024-12-22T11:36:55Z</updated>
-    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/Verano%20en%20rojo%20-%20Berna%20Gonzalez%20Harbour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
-    <author>
-      <name>Berna González Harbour</name>
-      <uri>../authors_1/authors_1802_Page_1.xml</uri>
-    </author>
-    <published>2012-01-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Comisaria María Ruiz" />
-    <summary>Comisaria María Ruiz [1]: Madrid, verano de 2010. Corren los días del Mundial de fútbol y, mientras los ojos de todos están puestos en los tortuosos avances del equipo de España en Sudáfrica, la comisaria María Ruiz se enfrenta a un tenebroso crimen:...</summary>
-    <link href="../book_2/book_2756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Tinta y ceniza [22 de diciembre de 2024]</title>
-    <id>calibre:book:2754</id>
-    <updated>2024-12-22T11:36:55Z</updated>
-    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
-    <author>
-      <name>Andrea Tomé</name>
-      <uri>../authors_1/authors_1801_Page_1.xml</uri>
-    </author>
-    <published>2024-11-07T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La guerra parecía una amenaza lejana, pero pronto se convirtió en una realidad que teñiría sus vidas de miedo, dolor y esperanza.En el Londres de 1938 las noticias del conflicto bélico iniciado por Alemania son, para los jóvenes británicos, un simple...</summary>
-    <link href="../book_2/book_2754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

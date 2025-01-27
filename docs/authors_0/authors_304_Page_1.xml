@@ -11,12 +11,12 @@
   <link href="./authors_304_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan Eslava Galán" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <entry>
-    <title>Todos los libros de Juan Eslava Galán</title>
+    <title>All books by Juan Eslava Galán</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 5 libros</content>
+    <content type="text">Alphabetical index of the 5 books</content>
     <link href="../authors_0/authors_304_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -24,7 +24,7 @@
   <entry>
     <title>Series: La Historia contada para escépticos</title>
     <id>Calibre2opds:authors:304series:189</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_304_series_189_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
     <id>calibre:book:414</id>
     <updated>2023-03-14T04:30:30Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:2594</id>
     <updated>2024-09-17T00:25:56Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:2568</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="33 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="33 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -86,7 +86,7 @@
     <id>calibre:book:1750</id>
     <updated>2024-08-26T10:56:07Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/Misterioso%20asesinato%20en%20casa%20de%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/Misterioso%20asesinato%20en%20casa%20de%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>

@@ -6,11 +6,11 @@
   <link href="./book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La mitad del mundo que fue de España" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/La%20mitad%20del%20mundo%20que%20fue%20de%20E%20-%20Ramon%20Tamames.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="28 MB" />
+  <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/La%20mitad%20del%20mundo%20que%20fue%20de%20E%20-%20Ramon%20Tamames.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="28 MB" />
   <author>
     <name>Ramón Tamames</name>
     <uri>../authors_0/authors_87_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">
       En otro tiempo España estuvo al frente de las naciones,
@@ -71,5 +71,5 @@
     hegemonía de riesgo planetario, sino a un mundo multipolar
     en busca de la paz perpetua.</p>
   </content>
-  <link href="../authors_0/authors_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ramón Tamames" />
+  <link href="../authors_0/authors_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ramón Tamames" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Voltaire</title>
+  <title>All books by Voltaire</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1366_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Voltaire" />
+  <link href="./authors_1366_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Voltaire" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
-  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
-  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <link href="./authors_1366_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Voltaire" />
   <entry>
     <title>Candide</title>
     <id>calibre:book:2461</id>
     <updated>2024-09-09T10:34:36Z</updated>
     <link href="../../Voltaire/Candide%20%282461%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Candide%20%282461%29/Candide%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <link href="../../Voltaire/Candide%20%282461%29/Candide%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="156 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -39,7 +39,7 @@
     <id>calibre:book:2273</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/Candido%20o%20el%20optimismo%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="162 KB" />
+    <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/Candido%20o%20el%20optimismo%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="162 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -57,7 +57,7 @@
     <id>calibre:book:1915</id>
     <updated>2024-09-05T06:00:42Z</updated>
     <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/Diccionario%20Filosofico%20Vol%201%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="181 KB" />
+    <link href="../../Voltaire/Diccionario%20Filosofico%20Vol%201%20%281915%29/Diccionario%20Filosofico%20Vol%201%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="181 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:2537</id>
     <updated>2024-09-09T10:34:52Z</updated>
     <link href="../../Voltaire/Letters%20on%20England%20%282537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="159 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>

@@ -6,11 +6,11 @@
   <link href="./book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El médico de Tesalia" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
   <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/El%20medico%20de%20Tesalia%20-%20Anne%20Zouroudi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+  <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/El%20medico%20de%20Tesalia%20-%20Anne%20Zouroudi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
   <author>
     <name>Anne Zouroudi</name>
     <uri>../authors_0/authors_36_Page_1.xml</uri>
@@ -25,14 +25,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Policial, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Chrissa Kaliga lanza con furia su ramo de guirnaldas contra
     las olas que rompen bajo sus pies. En casa, sus sobrinas y sus
@@ -46,5 +46,5 @@
     intrigas del ex alcalde del pueblo mientras oscuros rumores
     llenan la boca de sus habitantes.</p>
   </content>
-  <link href="../authors_0/authors_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Anne Zouroudi" />
+  <link href="../authors_0/authors_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Anne Zouroudi" />
 </entry>

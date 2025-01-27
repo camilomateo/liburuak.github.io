@@ -6,11 +6,12 @@
   <link href="./book_1039.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La cirujana" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../authorlist/authorlist_W_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
   <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/La%20cirujana%20-%20Leslie%20Wolfe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+  <link href="../../Leslie%20Wolfe/La%20cirujana%20%281039%29/La%20cirujana%20-%20Leslie%20Wolfe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
   <author>
     <name>Leslie Wolfe</name>
     <uri>../authors_0/authors_765_Page_1.xml</uri>
@@ -22,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="" class="description">
       <span>
@@ -72,5 +73,5 @@
       </span>
     </p>
   </content>
-  <link href="../authors_0/authors_765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Leslie Wolfe" />
+  <link href="../authors_0/authors_765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Leslie Wolfe" />
 </entry>

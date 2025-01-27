@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por H</title>
+  <title>Books starting with H</title>
   <id>Calibre2opds:allbooks:H</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por H" />
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with H" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
     <title>Hacia el pantano</title>
     <id>calibre:book:1855</id>
     <updated>2024-09-02T04:27:35Z</updated>
     <link href="../../Gerardo%20Laveaga/Hacia%20el%20pantano%20%281855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gerardo%20Laveaga/Hacia%20el%20pantano%20%281855%29/Hacia%20el%20pantano%20-%20Gerardo%20Laveaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="458 KB" />
+    <link href="../../Gerardo%20Laveaga/Hacia%20el%20pantano%20%281855%29/Hacia%20el%20pantano%20-%20Gerardo%20Laveaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="458 KB" />
     <author>
       <name>Gerardo Laveaga</name>
       <uri>../authors_1/authors_1327_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:380</id>
     <updated>2023-03-04T02:11:46Z</updated>
     <link href="../../Anne%20Applebaum/Hambruna%20roja%20%28380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Applebaum/Hambruna%20roja%20%28380%29/Hambruna%20roja%20-%20Anne%20Applebaum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Anne%20Applebaum/Hambruna%20roja%20%28380%29/Hambruna%20roja%20-%20Anne%20Applebaum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Anne Applebaum</name>
       <uri>../authors_0/authors_273_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:2275</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../William%20Shakespeare/Hamlet%20%282275%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Hamlet%20%282275%29/Hamlet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="135 KB" />
+    <link href="../../William%20Shakespeare/Hamlet%20%282275%29/Hamlet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="135 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:2464</id>
     <updated>2024-09-09T10:34:36Z</updated>
     <link href="../../William%20Shakespeare/Hamlet%2C%20Prince%20of%20Denmark%20%282464%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Hamlet%2C%20Prince%20of%20Denmark%20%282464%29/Hamlet%2C%20Prince%20of%20Denmark%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <link href="../../William%20Shakespeare/Hamlet%2C%20Prince%20of%20Denmark%20%282464%29/Hamlet%2C%20Prince%20of%20Denmark%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="137 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -84,11 +84,28 @@
     <link href="../book_2/book_2464.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Han cantado bingo</title>
+    <id>calibre:book:2828</id>
+    <updated>2025-01-23T02:00:54Z</updated>
+    <link href="../../Lana%20Corujo/Han%20cantado%20bingo%20%282828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lana%20Corujo/Han%20cantado%20bingo%20%282828%29/Han%20cantado%20bingo%20-%20Lana%20Corujo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="663 KB" />
+    <author>
+      <name>Lana Corujo</name>
+      <uri>../authors_1/authors_1851_Page_1.xml</uri>
+    </author>
+    <published>2024-11-27T01:14:56Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL DEBUT NARRATIVO DE UNA POETA E ILUSTRADORA: DOS HERMANAS UNIDAS POR UN JUEGO, UN VOLCÁN Y UNA TRAGEDIA «Una yincana por el cielo estrellado de la infancia. Qué inteligente y lúcida es Lana Corujo», Luna Miguel · «Leer este libro me dio fiebre. Me ...</summary>
+    <link href="../book_2/book_2828.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Hansel y Gretel</title>
     <id>calibre:book:168</id>
     <updated>2023-01-23T07:49:14Z</updated>
     <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/Hansel%20y%20Gretel%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/Hansel%20y%20Gretel%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Hermanos Grimm</name>
       <uri>../authors_0/authors_109_Page_1.xml</uri>
@@ -105,7 +122,7 @@
     <id>calibre:book:1828</id>
     <updated>2024-08-28T00:55:06Z</updated>
     <link href="../../Inma%20Rubiales/Hasta%20que%20nos%20quedemos%20sin%20estrella%20%281828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Inma%20Rubiales/Hasta%20que%20nos%20quedemos%20sin%20estrella%20%281828%29/Hasta%20que%20nos%20quedemos%20sin%20estr%20-%20Inma%20Rubiales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <link href="../../Inma%20Rubiales/Hasta%20que%20nos%20quedemos%20sin%20estrella%20%281828%29/Hasta%20que%20nos%20quedemos%20sin%20estr%20-%20Inma%20Rubiales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="582 KB" />
     <author>
       <name>Inma Rubiales</name>
       <uri>../authors_0/authors_256_Page_1.xml</uri>
@@ -122,7 +139,7 @@
     <id>calibre:book:726</id>
     <updated>2023-05-17T01:11:08Z</updated>
     <link href="../../Elizabeth%20Clapes/Hasta%20que%20te%20caigas%20bien%20%28726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elizabeth%20Clapes/Hasta%20que%20te%20caigas%20bien%20%28726%29/Hasta%20que%20te%20caigas%20bien%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="727 KB" />
+    <link href="../../Elizabeth%20Clapes/Hasta%20que%20te%20caigas%20bien%20%28726%29/Hasta%20que%20te%20caigas%20bien%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
     <author>
       <name>Elizabeth Clapés</name>
       <uri>../authors_0/authors_542_Page_1.xml</uri>
@@ -140,7 +157,7 @@
     <id>calibre:book:372</id>
     <updated>2023-03-03T08:31:26Z</updated>
     <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -157,7 +174,7 @@
     <id>calibre:book:2459</id>
     <updated>2024-09-09T10:34:35Z</updated>
     <link href="../../Joseph%20Conrad/Heart%20of%20Darkness%20%282459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/Heart%20of%20Darkness%20%282459%29/Heart%20of%20Darkness%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <link href="../../Joseph%20Conrad/Heart%20of%20Darkness%20%282459%29/Heart%20of%20Darkness%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="139 KB" />
     <author>
       <name>Joseph Conrad</name>
       <uri>../authors_1/authors_1592_Page_1.xml</uri>
@@ -175,7 +192,7 @@
     <id>calibre:book:466</id>
     <updated>2023-03-24T09:44:12Z</updated>
     <link href="../../Mieko%20Kawakami/Heaven%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mieko%20Kawakami/Heaven%20%28466%29/Heaven%20-%20Mieko%20Kawakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="534 KB" />
+    <link href="../../Mieko%20Kawakami/Heaven%20%28466%29/Heaven%20-%20Mieko%20Kawakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="534 KB" />
     <author>
       <name>Mieko Kawakami</name>
       <uri>../authors_0/authors_349_Page_1.xml</uri>
@@ -192,7 +209,7 @@
     <id>calibre:book:456</id>
     <updated>2023-03-23T11:00:44Z</updated>
     <link href="../../Tracy%20Wolff/Hechizo%20%28456%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tracy%20Wolff/Hechizo%20%28456%29/Hechizo%20-%20Tracy%20Wolff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="798 KB" />
+    <link href="../../Tracy%20Wolff/Hechizo%20%28456%29/Hechizo%20-%20Tracy%20Wolff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="798 KB" />
     <author>
       <name>Tracy Wolff</name>
       <uri>../authors_0/authors_341_Page_1.xml</uri>
@@ -210,7 +227,7 @@
     <id>calibre:book:167</id>
     <updated>2023-01-23T07:48:34Z</updated>
     <link href="../../Johanna%20Spyri/Heidi%20%28167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Johanna%20Spyri/Heidi%20%28167%29/Heidi%20-%20Johanna%20Spyri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Johanna%20Spyri/Heidi%20%28167%29/Heidi%20-%20Johanna%20Spyri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Johanna Spyri</name>
       <uri>../authors_0/authors_108_Page_1.xml</uri>
@@ -227,7 +244,7 @@
     <id>calibre:book:2813</id>
     <updated>2025-01-20T11:21:16Z</updated>
     <link href="../../Jesus%20Gallego/Herencia%20%282813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jesus%20Gallego/Herencia%20%282813%29/Herencia%20-%20Jesus%20Gallego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <link href="../../Jesus%20Gallego/Herencia%20%282813%29/Herencia%20-%20Jesus%20Gallego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="507 KB" />
     <author>
       <name>Jesús Gallego</name>
       <uri>../authors_1/authors_1841_Page_1.xml</uri>
@@ -244,7 +261,7 @@
     <id>calibre:book:1732</id>
     <updated>2024-08-08T04:59:24Z</updated>
     <link href="../../Gillian%20Flynn/Heridas%20abiertas%20%281732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gillian%20Flynn/Heridas%20abiertas%20%281732%29/Heridas%20abiertas%20-%20Gillian%20Flynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="410 KB" />
+    <link href="../../Gillian%20Flynn/Heridas%20abiertas%20%281732%29/Heridas%20abiertas%20-%20Gillian%20Flynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="410 KB" />
     <author>
       <name>Gillian Flynn</name>
       <uri>../authors_0/authors_858_Page_1.xml</uri>
@@ -261,7 +278,7 @@
     <id>calibre:book:1125</id>
     <updated>2024-01-08T09:16:16Z</updated>
     <link href="../../Bernard%20Minier/Hermanas%20%281125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bernard%20Minier/Hermanas%20%281125%29/Hermanas%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="666 KB" />
+    <link href="../../Bernard%20Minier/Hermanas%20%281125%29/Hermanas%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="666 KB" />
     <author>
       <name>Bernard Minier</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -278,7 +295,7 @@
     <id>calibre:book:2049</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../Grimm/Hermano%20y%20hermana%20%282049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Grimm/Hermano%20y%20hermana%20%282049%29/Hermano%20y%20hermana%20-%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="56 KB" />
+    <link href="../../Grimm/Hermano%20y%20hermana%20%282049%29/Hermano%20y%20hermana%20-%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="56 KB" />
     <author>
       <name>Grimm</name>
       <uri>../authors_1/authors_1460_Page_1.xml</uri>
@@ -296,7 +313,7 @@
     <id>calibre:book:941</id>
     <updated>2023-07-07T01:51:24Z</updated>
     <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/Hermon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="928 KB" />
+    <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/Hermon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="928 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -314,7 +331,7 @@
     <id>calibre:book:768</id>
     <updated>2023-05-25T00:54:22Z</updated>
     <link href="../../Haizea%20Lopez/Hija%20de%20la%20lluvia%20%28768%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Haizea%20Lopez/Hija%20de%20la%20lluvia%20%28768%29/Hija%20de%20la%20lluvia%20-%20Haizea%20Lopez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="800 KB" />
+    <link href="../../Haizea%20Lopez/Hija%20de%20la%20lluvia%20%28768%29/Hija%20de%20la%20lluvia%20-%20Haizea%20Lopez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="800 KB" />
     <author>
       <name>Haizea López</name>
       <uri>../authors_0/authors_574_Page_1.xml</uri>
@@ -331,7 +348,7 @@
     <id>calibre:book:1029</id>
     <updated>2023-10-20T10:25:39Z</updated>
     <link href="../../Ilaria%20Tuti/Hija%20de%20las%20cenizas%20%281029%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ilaria%20Tuti/Hija%20de%20las%20cenizas%20%281029%29/Hija%20de%20las%20cenizas%20-%20Ilaria%20Tuti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Ilaria%20Tuti/Hija%20de%20las%20cenizas%20%281029%29/Hija%20de%20las%20cenizas%20-%20Ilaria%20Tuti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Ilaria Tuti</name>
       <uri>../authors_0/authors_759_Page_1.xml</uri>
@@ -348,7 +365,7 @@
     <id>calibre:book:1036</id>
     <updated>2023-10-20T01:12:30Z</updated>
     <link href="../../Mi-Ae%20Seo/Hija%20unica%20%281036%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mi-Ae%20Seo/Hija%20unica%20%281036%29/Hija%20unica%20-%20Mi-Ae%20Seo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Mi-Ae%20Seo/Hija%20unica%20%281036%29/Hija%20unica%20-%20Mi-Ae%20Seo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Mi-Ae Seo</name>
       <uri>../authors_0/authors_764_Page_1.xml</uri>
@@ -365,7 +382,7 @@
     <id>calibre:book:285</id>
     <updated>2023-02-06T07:44:00Z</updated>
     <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/Hijos%20de%20la%20fabula%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="615 KB" />
+    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/Hijos%20de%20la%20fabula%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="615 KB" />
     <author>
       <name>Fernando Aramburu</name>
       <uri>../authors_0/authors_192_Page_1.xml</uri>
@@ -382,7 +399,7 @@
     <id>calibre:book:698</id>
     <updated>2023-05-17T01:10:08Z</updated>
     <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/Hilos%20de%20sangre%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/Hilos%20de%20sangre%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
     <author>
       <name>Angela Marsons</name>
       <uri>../authors_0/authors_520_Page_1.xml</uri>
@@ -403,7 +420,7 @@
     <id>calibre:book:2617</id>
     <updated>2024-09-20T02:10:29Z</updated>
     <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/Hilos%20rotos%20-%20Jon%20Igual%20Brun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="436 KB" />
+    <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/Hilos%20rotos%20-%20Jon%20Igual%20Brun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="436 KB" />
     <author>
       <name>Jon Igual Brun</name>
       <uri>../authors_1/authors_1719_Page_1.xml</uri>
@@ -420,7 +437,7 @@
     <id>calibre:book:2596</id>
     <updated>2024-09-12T03:39:22Z</updated>
     <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/Historia%20absurda%20de%20Cataluna%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/Historia%20absurda%20de%20Cataluna%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
     <author>
       <name>Ad Absurdum</name>
       <uri>../authors_1/authors_1699_Page_1.xml</uri>
@@ -431,23 +448,6 @@
     <category term="Lang:es" />
     <summary>Cataluña se ha convertido en uno de los temas más candentes de los últimos años. ¿A qué se debe esto?¿Han hecho su propia Torre Eiffel con castellers?¿Han declarado la guerra a  Corea del Norte?¿O ha ocurrido alguna otra cosa?En este libro los chicos...</summary>
     <link href="../book_2/book_2596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Historia absurda de España</title>
-    <id>calibre:book:2583</id>
-    <updated>2024-09-12T03:39:17Z</updated>
-    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/Historia%20absurda%20de%20Espana%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Ad Absurdum</name>
-      <uri>../authors_1/authors_1699_Page_1.xml</uri>
-    </author>
-    <published>2017-04-03T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Es un consuelo ver como una nueva generación de historiadores nos cuenta la Historia con humor y sin rollos para que los demás la disfrutemos. Un fantástico libro»Nieves Concostrina, autora de Menudas historias de la Historia «Si te interesa la hist...</summary>
-    <link href="../book_2/book_2583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

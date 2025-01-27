@@ -6,12 +6,12 @@
   <link href="./book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El amor tiene muchos nombres" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
-  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <link href="../../Olivia%20Knight/El%20amor%20tiene%20muchos%20nombres%20%28192%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Olivia%20Knight/El%20amor%20tiene%20muchos%20nombres%20%28192%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Olivia%20Knight/El%20amor%20tiene%20muchos%20nombres%20%28192%29/El%20amor%20tiene%20muchos%20nombres%20-%20Olivia%20Knight.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="612 KB" />
+  <link href="../../Olivia%20Knight/El%20amor%20tiene%20muchos%20nombres%20%28192%29/El%20amor%20tiene%20muchos%20nombres%20-%20Olivia%20Knight.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="612 KB" />
   <author>
     <name>Olivia Knight</name>
     <uri>../authors_0/authors_124_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Erótica, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="" id="iframeContent" dir="auto">
       <p>«Las relaciones son mediocres. Los rollos de una
@@ -52,5 +52,5 @@
       <p>G.  »</p>
     </div>
   </content>
-  <link href="../authors_0/authors_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Olivia Knight" />
+  <link href="../authors_0/authors_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Olivia Knight" />
 </entry>

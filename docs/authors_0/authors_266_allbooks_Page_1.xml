@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Jo Nesbø</title>
+  <title>All books by Jo Nesbø</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_266_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Jo Nesbø" />
+  <link href="./authors_266_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Jo Nesbø" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="./authors_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jo Nesbø" />
   <entry>
     <title>Cucarachas</title>
     <id>calibre:book:1042</id>
     <updated>2023-10-20T01:12:32Z</updated>
     <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/Cucarachas%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/Cucarachas%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1032</id>
     <updated>2023-10-20T01:12:29Z</updated>
     <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:372</id>
     <updated>2023-03-03T08:31:26Z</updated>
     <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:1731</id>
     <updated>2024-08-08T04:59:24Z</updated>
     <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -92,7 +92,7 @@
     <id>calibre:book:1043</id>
     <updated>2023-10-20T01:12:33Z</updated>
     <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/El%20murcielago%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <link href="../../Jo%20Nesbo/El%20murcielago%20%281043%29/El%20murcielago%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -110,7 +110,7 @@
     <id>calibre:book:1038</id>
     <updated>2023-10-20T01:12:31Z</updated>
     <link href="../../Jo%20Nesbo/Petirrojo%20%281038%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Petirrojo%20%281038%29/Petirrojo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <link href="../../Jo%20Nesbo/Petirrojo%20%281038%29/Petirrojo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -131,7 +131,7 @@
     <id>calibre:book:1703</id>
     <updated>2024-08-06T10:52:11Z</updated>
     <link href="../../Jo%20Nesbo/Sol%20de%20sangre%20%281703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Sol%20de%20sangre%20%281703%29/Sol%20de%20sangre%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="429 KB" />
+    <link href="../../Jo%20Nesbo/Sol%20de%20sangre%20%281703%29/Sol%20de%20sangre%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>

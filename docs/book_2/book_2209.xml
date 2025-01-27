@@ -6,11 +6,11 @@
   <link href="./book_2209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El Palacio del Sol" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../../Ruben%20Dario/El%20Palacio%20del%20Sol%20%282209%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Ruben%20Dario/El%20Palacio%20del%20Sol%20%282209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Ruben%20Dario/El%20Palacio%20del%20Sol%20%282209%29/El%20Palacio%20del%20Sol%20-%20Ruben%20Dario.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+  <link href="../../Ruben%20Dario/El%20Palacio%20del%20Sol%20%282209%29/El%20Palacio%20del%20Sol%20-%20Ruben%20Dario.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="86 KB" />
   <author>
     <name>Rubén Darío</name>
     <uri>../authors_1/authors_1517_Page_1.xml</uri>
@@ -22,12 +22,12 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
   </content>
-  <link href="../authors_1/authors_1517_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rubén Darío" />
+  <link href="../authors_1/authors_1517_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rubén Darío" />
 </entry>

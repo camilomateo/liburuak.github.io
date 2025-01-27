@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por Q</title>
+  <title>Books starting with Q</title>
   <id>Calibre2opds:allbooks:Q</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,34 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_Q_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por Q" />
+  <link href="./allbooks_Q_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Q" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por Q" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with Q" />
+  <entry>
+    <title>El querido hermano</title>
+    <id>calibre:book:798</id>
+    <updated>2023-05-31T01:04:30Z</updated>
+    <link href="../../Joaquin%20Perez%20Azaustre/El%20querido%20hermano%20%28798%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joaquin%20Perez%20Azaustre/El%20querido%20hermano%20%28798%29/El%20querido%20hermano%20-%20Joaquin%20Perez%20Azaustre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
+    <author>
+      <name>Joaquín Pérez Azaústre</name>
+      <uri>../authors_0/authors_594_Page_1.xml</uri>
+    </author>
+    <published>2023-05-18T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La mañana del sábado 25 de febrero de 1939, en Burgos, Manuel Machado recibe la noticia de que su hermano Antonio acaba de morir. Al día siguiente, Manuel y su mujer, Eulalia Cáceres, reciben las condolencias de sus amigos en la pensión Filomena, don...</summary>
+    <link href="../book_0/book_798.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La quinta víctima</title>
     <id>calibre:book:727</id>
     <updated>2023-05-17T01:11:10Z</updated>
     <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/La%20quinta%20victima%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20D.%20Barker/La%20quinta%20victima%20%28727%29/La%20quinta%20victima%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. D. Barker</name>
       <uri>../authors_0/authors_166_Page_1.xml</uri>
@@ -36,7 +53,7 @@
     <id>calibre:book:2819</id>
     <updated>2025-01-20T11:21:18Z</updated>
     <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/El%20quinto%20testigo%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/El%20quinto%20testigo%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -53,7 +70,7 @@
     <id>calibre:book:585</id>
     <updated>2023-04-28T01:16:54Z</updated>
     <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/La%20quimica%20del%20odio%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <link href="../../Carme%20Chaparro/La%20quimica%20del%20odio%20%28585%29/La%20quimica%20del%20odio%20-%20Carme%20Chaparro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
     <author>
       <name>Carme Chaparro</name>
       <uri>../authors_0/authors_418_Page_1.xml</uri>
@@ -71,7 +88,7 @@
     <id>calibre:book:1002</id>
     <updated>2023-08-27T03:12:58Z</updated>
     <link href="../../Stephenie%20Meyer/La%20quimica%20%281002%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephenie%20Meyer/La%20quimica%20%281002%29/La%20quimica%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <link href="../../Stephenie%20Meyer/La%20quimica%20%281002%29/La%20quimica%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="580 KB" />
     <author>
       <name>Stephenie Meyer</name>
       <uri>../authors_0/authors_742_Page_1.xml</uri>

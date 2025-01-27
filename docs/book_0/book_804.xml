@@ -6,11 +6,11 @@
   <link href="./book_804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Querido cerebro, ¿qué coño quieres de mí?" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por @" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with @" />
   <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/Querido%20cerebro%2C%20_que%20cono%20quie%20-%20Lorena%20Gascon%20%40lapsicologajaput.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+  <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/Querido%20cerebro%2C%20_que%20cono%20quie%20-%20Lorena%20Gascon%20%40lapsicologajaput.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="552 KB" />
   <author>
     <name>Lorena Gascón @lapsicologajaputa</name>
     <uri>../authors_0/authors_599_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Auo, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="" aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;">
       <p>
@@ -81,5 +81,5 @@
       </p>
     </div>
   </content>
-  <link href="../authors_0/authors_599_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Lorena Gascón @lapsicologajaputa" />
+  <link href="../authors_0/authors_599_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lorena Gascón @lapsicologajaputa" />
 </entry>

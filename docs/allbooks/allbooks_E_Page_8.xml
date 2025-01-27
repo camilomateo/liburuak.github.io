@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,34 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <entry>
+    <title>La estrella de ébano</title>
+    <id>calibre:book:870</id>
+    <updated>2023-06-19T05:31:24Z</updated>
+    <link href="../../Francisco%20Toledo%20Lobo/La%20estrella%20de%20ebano%20%28870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francisco%20Toledo%20Lobo/La%20estrella%20de%20ebano%20%28870%29/La%20estrella%20de%20ebano%20-%20Francisco%20Toledo%20Lobo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
+    <author>
+      <name>Francisco Toledo Lobo</name>
+      <uri>../authors_0/authors_654_Page_1.xml</uri>
+    </author>
+    <published>2023-06-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La tragedia migratoria del Mediterráneo en una emotiva novela. Un relato impactante sobre la dignidad, la valentía y el poder de la amistad. UNA MUJER LUCHADORA Y VALEROSA Airam siempre consigue lo que se propone. Su ambición y talento la han convert...</summary>
+    <link href="../book_0/book_870.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La estrella del diablo</title>
     <id>calibre:book:1032</id>
     <updated>2023-10-20T01:12:29Z</updated>
     <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -39,7 +56,7 @@
     <id>calibre:book:1464</id>
     <updated>2024-04-30T04:46:09Z</updated>
     <link href="../../Yukio%20Mishima/La%20estrella%20mas%20hermosa%20%281464%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yukio%20Mishima/La%20estrella%20mas%20hermosa%20%281464%29/La%20estrella%20mas%20hermosa%20-%20Yukio%20Mishima.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="429 KB" />
+    <link href="../../Yukio%20Mishima/La%20estrella%20mas%20hermosa%20%281464%29/La%20estrella%20mas%20hermosa%20-%20Yukio%20Mishima.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
     <author>
       <name>Yukio Mishima</name>
       <uri>../authors_1/authors_1071_Page_1.xml</uri>
@@ -56,7 +73,7 @@
     <id>calibre:book:2013</id>
     <updated>2024-09-06T01:57:45Z</updated>
     <link href="../../Jose%20de%20Espronceda/El%20estudiante%20de%20Salamanca%20%282013%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20de%20Espronceda/El%20estudiante%20de%20Salamanca%20%282013%29/El%20estudiante%20de%20Salamanca%20-%20Jose%20de%20Espronceda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <link href="../../Jose%20de%20Espronceda/El%20estudiante%20de%20Salamanca%20%282013%29/El%20estudiante%20de%20Salamanca%20-%20Jose%20de%20Espronceda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="120 KB" />
     <author>
       <name>José de Espronceda</name>
       <uri>../authors_1/authors_1444_Page_1.xml</uri>
@@ -74,7 +91,7 @@
     <id>calibre:book:1256</id>
     <updated>2024-02-24T07:41:12Z</updated>
     <link href="../../John%20Katzenbach/El%20estudiante%20%281256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Katzenbach/El%20estudiante%20%281256%29/El%20estudiante%20-%20John%20Katzenbach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../John%20Katzenbach/El%20estudiante%20%281256%29/El%20estudiante%20-%20John%20Katzenbach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>John Katzenbach</name>
       <uri>../authors_0/authors_917_Page_1.xml</uri>
@@ -91,7 +108,7 @@
     <id>calibre:book:2343</id>
     <updated>2024-09-09T10:34:11Z</updated>
     <link href="../../Esquilo/Las%20eumenides%20%282343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="79 KB" />
+    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="79 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -109,7 +126,7 @@
     <id>calibre:book:778</id>
     <updated>2023-05-25T01:32:58Z</updated>
     <link href="../../John%20Preston/La%20excavacion%20%28778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Preston/La%20excavacion%20%28778%29/La%20excavacion%20-%20John%20Preston.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="694 KB" />
+    <link href="../../John%20Preston/La%20excavacion%20%28778%29/La%20excavacion%20-%20John%20Preston.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="694 KB" />
     <author>
       <name>John Preston</name>
       <uri>../authors_0/authors_580_Page_1.xml</uri>
@@ -126,7 +143,7 @@
     <id>calibre:book:1754</id>
     <updated>2024-08-26T10:56:08Z</updated>
     <link href="../../Neil%20Blackmore/El%20excitante%20senor%20Lavelle%20%281754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Neil%20Blackmore/El%20excitante%20senor%20Lavelle%20%281754%29/El%20excitante%20senor%20Lavelle%20-%20Neil%20Blackmore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="802 KB" />
+    <link href="../../Neil%20Blackmore/El%20excitante%20senor%20Lavelle%20%281754%29/El%20excitante%20senor%20Lavelle%20-%20Neil%20Blackmore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="802 KB" />
     <author>
       <name>Neil Blackmore</name>
       <uri>../authors_1/authors_1255_Page_1.xml</uri>
@@ -143,7 +160,7 @@
     <id>calibre:book:1984</id>
     <updated>2024-09-05T06:10:30Z</updated>
     <link href="../../Victor%20Hugo/El%20exilio%20%281984%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/El%20exilio%20%281984%29/El%20exilio%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <link href="../../Victor%20Hugo/El%20exilio%20%281984%29/El%20exilio%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="87 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -163,7 +180,7 @@
     <id>calibre:book:1658</id>
     <updated>2024-07-07T03:32:36Z</updated>
     <link href="../../Seicho%20Matsumoto/El%20expreso%20de%20Tokio%20%281658%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Seicho%20Matsumoto/El%20expreso%20de%20Tokio%20%281658%29/El%20expreso%20de%20Tokio%20-%20Seicho%20Matsumoto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Seicho%20Matsumoto/El%20expreso%20de%20Tokio%20%281658%29/El%20expreso%20de%20Tokio%20-%20Seicho%20Matsumoto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Seicho Matsumoto</name>
       <uri>../authors_1/authors_1194_Page_1.xml</uri>
@@ -181,7 +198,7 @@
     <id>calibre:book:757</id>
     <updated>2023-05-22T05:06:58Z</updated>
     <link href="../../Julia%20Franck/La%20extrana%20soy%20yo%20%28757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julia%20Franck/La%20extrana%20soy%20yo%20%28757%29/La%20extrana%20soy%20yo%20-%20Julia%20Franck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="554 KB" />
+    <link href="../../Julia%20Franck/La%20extrana%20soy%20yo%20%28757%29/La%20extrana%20soy%20yo%20-%20Julia%20Franck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
     <author>
       <name>Julia Franck</name>
       <uri>../authors_0/authors_566_Page_1.xml</uri>
@@ -198,7 +215,7 @@
     <id>calibre:book:2243</id>
     <updated>2024-09-09T10:33:51Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/El%20extrano%20caso%20del%20doctor%20Jeky%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/El%20extrano%20caso%20del%20doctor%20Jeky%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="156 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -214,7 +231,7 @@
     <id>calibre:book:876</id>
     <updated>2023-06-20T04:46:24Z</updated>
     <link href="../../Shari%20Lapena/Un%20extrano%20en%20casa%20%28876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shari%20Lapena/Un%20extrano%20en%20casa%20%28876%29/Un%20extrano%20en%20casa%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Shari%20Lapena/Un%20extrano%20en%20casa%20%28876%29/Un%20extrano%20en%20casa%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Shari Lapena</name>
       <uri>../authors_0/authors_500_Page_1.xml</uri>
@@ -231,7 +248,7 @@
     <id>calibre:book:1631</id>
     <updated>2024-06-22T02:04:40Z</updated>
     <link href="../../Roxanne%20Bouchard/Eramos%20la%20sal%20del%20mar%20%281631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roxanne%20Bouchard/Eramos%20la%20sal%20del%20mar%20%281631%29/Eramos%20la%20sal%20del%20mar%20-%20Roxanne%20Bouchard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="899 KB" />
+    <link href="../../Roxanne%20Bouchard/Eramos%20la%20sal%20del%20mar%20%281631%29/Eramos%20la%20sal%20del%20mar%20-%20Roxanne%20Bouchard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="899 KB" />
     <author>
       <name>Roxanne Bouchard</name>
       <uri>../authors_1/authors_1177_Page_1.xml</uri>
@@ -248,7 +265,7 @@
     <id>calibre:book:1893</id>
     <updated>2024-09-03T09:33:54Z</updated>
     <link href="../../Fernando%20Ariel%20Nicollier/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20hac%20%281893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Ariel%20Nicollier/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20hac%20%281893%29/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20-%20Fernando%20Ariel%20Nicollier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="952 KB" />
+    <link href="../../Fernando%20Ariel%20Nicollier/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20hac%20%281893%29/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20-%20Fernando%20Ariel%20Nicollier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="952 KB" />
     <author>
       <name>Fernando Ariel Nicollier</name>
       <uri>../authors_1/authors_1349_Page_1.xml</uri>

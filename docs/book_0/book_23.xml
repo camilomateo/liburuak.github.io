@@ -6,12 +6,12 @@
   <link href="./book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Doble crimen en Finisterre" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../authors_0/authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Carlos Laredo" />
   <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/Doble%20crimen%20en%20Finisterre%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+  <link href="../../Carlos%20Laredo/Doble%20crimen%20en%20Finisterre%20%2823%29/Doble%20crimen%20en%20Finisterre%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
   <author>
     <name>Carlos Laredo</name>
     <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 8 en la El cabo Holmes serie
+      Book 8 in the El cabo Holmes series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Misterio, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Descubre por qué llaman Holmes a un guardia civil de
@@ -60,6 +60,6 @@
       interés e intensidad.</p>
     </div>
   </content>
-  <link href="../series_0/series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 8 en la El cabo Holmes serie" />
-  <link href="../authors_0/authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Carlos Laredo" />
+  <link href="../series_0/series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 8 in the El cabo Holmes series" />
+  <link href="../authors_0/authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Carlos Laredo" />
 </entry>

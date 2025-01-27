@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 8)" />
   <entry>
     <title>Eclipse</title>
     <id>calibre:book:627</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/Eclipse%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="633 KB" />
+    <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/Eclipse%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="633 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:1966</id>
     <updated>2024-09-05T06:10:27Z</updated>
     <link href="../../Max%20Weber/Economia%20y%20sociedad%20%281966%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Max%20Weber/Economia%20y%20sociedad%20%281966%29/Economia%20y%20sociedad%20-%20Max%20Weber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="130 KB" />
+    <link href="../../Max%20Weber/Economia%20y%20sociedad%20%281966%29/Economia%20y%20sociedad%20-%20Max%20Weber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="130 KB" />
     <author>
       <name>Max Weber</name>
       <uri>../authors_1/authors_1408_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:2340</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/Edipo%20en%20Colono%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/Edipo%20en%20Colono%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="113 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:2242</id>
     <updated>2024-09-09T10:33:51Z</updated>
     <link href="../../Sofocles/Edipo%20rey%20%282242%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Edipo%20rey%20%282242%29/Edipo%20rey%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="95 KB" />
+    <link href="../../Sofocles/Edipo%20rey%20%282242%29/Edipo%20rey%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="95 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:2540</id>
     <updated>2024-09-09T10:34:52Z</updated>
     <link href="../../Christopher%20Marlowe/Edward%20the%20Second%20%282540%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christopher%20Marlowe/Edward%20the%20Second%20%282540%29/Edward%20the%20Second%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="104 KB" />
+    <link href="../../Christopher%20Marlowe/Edward%20the%20Second%20%282540%29/Edward%20the%20Second%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="104 KB" />
     <author>
       <name>Christopher Marlowe</name>
       <uri>../authors_1/authors_1667_Page_1.xml</uri>
@@ -119,7 +119,7 @@
     <id>calibre:book:1307</id>
     <updated>2024-03-21T00:44:04Z</updated>
     <link href="../../Jose%20Soto%20Chica/Egilona%2C%20reina%20de%20Hispania%20%281307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Soto%20Chica/Egilona%2C%20reina%20de%20Hispania%20%281307%29/Egilona%2C%20reina%20de%20Hispania%20-%20Jose%20Soto%20Chica.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="900 KB" />
+    <link href="../../Jose%20Soto%20Chica/Egilona%2C%20reina%20de%20Hispania%20%281307%29/Egilona%2C%20reina%20de%20Hispania%20-%20Jose%20Soto%20Chica.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="900 KB" />
     <author>
       <name>José Soto Chica</name>
       <uri>../authors_0/authors_949_Page_1.xml</uri>
@@ -136,7 +136,7 @@
     <id>calibre:book:1945</id>
     <updated>2024-09-05T06:03:59Z</updated>
     <link href="../../Ignacio%20de%20Loyola/Ejercicios%20espirituales%20%281945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20de%20Loyola/Ejercicios%20espirituales%20%281945%29/Ejercicios%20espirituales%20-%20Ignacio%20de%20Loyola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="136 KB" />
+    <link href="../../Ignacio%20de%20Loyola/Ejercicios%20espirituales%20%281945%29/Ejercicios%20espirituales%20-%20Ignacio%20de%20Loyola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="136 KB" />
     <author>
       <name>Ignacio de Loyola</name>
       <uri>../authors_1/authors_1390_Page_1.xml</uri>
@@ -154,7 +154,7 @@
     <id>calibre:book:134</id>
     <updated>2023-01-18T06:09:34Z</updated>
     <link href="../../Karl%20Marx/El%20Capital%20%283-tomos%29%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karl%20Marx/El%20Capital%20%283-tomos%29%20%28134%29/El%20Capital%20%283-tomos%29%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Karl%20Marx/El%20Capital%20%283-tomos%29%20%28134%29/El%20Capital%20%283-tomos%29%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Karl Marx</name>
       <uri>../authors_0/authors_83_Page_1.xml</uri>
@@ -170,7 +170,7 @@
     <id>calibre:book:388</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Aki%20Shimazaki/El%20Corazon%20De%20Yamato%20%28388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aki%20Shimazaki/El%20Corazon%20De%20Yamato%20%28388%29/El%20Corazon%20De%20Yamato%20-%20Aki%20Shimazaki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Aki%20Shimazaki/El%20Corazon%20De%20Yamato%20%28388%29/El%20Corazon%20De%20Yamato%20-%20Aki%20Shimazaki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Aki Shimazaki</name>
       <uri>../authors_0/authors_281_Page_1.xml</uri>
@@ -187,7 +187,7 @@
     <id>calibre:book:231</id>
     <updated>2023-01-27T00:04:04Z</updated>
     <link href="../../Matteo%20Nucci/El%20abismo%20de%20Eros_%20seduccion%20%28231%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Matteo%20Nucci/El%20abismo%20de%20Eros_%20seduccion%20%28231%29/El%20abismo%20de%20Eros_%20seduccion%20-%20Matteo%20Nucci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Matteo%20Nucci/El%20abismo%20de%20Eros_%20seduccion%20%28231%29/El%20abismo%20de%20Eros_%20seduccion%20-%20Matteo%20Nucci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Matteo Nucci</name>
       <uri>../authors_0/authors_158_Page_1.xml</uri>
@@ -204,7 +204,7 @@
     <id>calibre:book:1598</id>
     <updated>2024-06-02T10:59:57Z</updated>
     <link href="../../Benjamin%20Prado/El%20anillo%20del%20general%20%281598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Prado/El%20anillo%20del%20general%20%281598%29/El%20anillo%20del%20general%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="481 KB" />
+    <link href="../../Benjamin%20Prado/El%20anillo%20del%20general%20%281598%29/El%20anillo%20del%20general%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="481 KB" />
     <author>
       <name>Benjamín Prado</name>
       <uri>../authors_0/authors_459_Page_1.xml</uri>
@@ -222,7 +222,7 @@
     <id>calibre:book:2315</id>
     <updated>2024-09-09T10:34:05Z</updated>
     <link href="../../D.%20H.%20Lawrence/El%20arco%20iris%20%282315%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../D.%20H.%20Lawrence/El%20arco%20iris%20%282315%29/El%20arco%20iris%20-%20D.%20H.%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="491 KB" />
+    <link href="../../D.%20H.%20Lawrence/El%20arco%20iris%20%282315%29/El%20arco%20iris%20-%20D.%20H.%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="491 KB" />
     <author>
       <name>D. H. Lawrence</name>
       <uri>../authors_1/authors_1612_Page_1.xml</uri>
@@ -240,7 +240,7 @@
     <id>calibre:book:2767</id>
     <updated>2024-12-29T11:37:16Z</updated>
     <link href="../../John%20Oakes/El%20ayuno%20%282767%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/El%20ayuno%20-%20John%20Oakes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
+    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/El%20ayuno%20-%20John%20Oakes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
     <author>
       <name>John Oakes</name>
       <uri>../authors_1/authors_1807_Page_1.xml</uri>
@@ -262,7 +262,7 @@
     <id>calibre:book:1222</id>
     <updated>2024-02-20T04:09:07Z</updated>
     <link href="../../Esteban%20Moneo/El%20balcon%20del%20olvido%20%281222%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esteban%20Moneo/El%20balcon%20del%20olvido%20%281222%29/El%20balcon%20del%20olvido%20-%20Esteban%20Moneo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="713 KB" />
+    <link href="../../Esteban%20Moneo/El%20balcon%20del%20olvido%20%281222%29/El%20balcon%20del%20olvido%20-%20Esteban%20Moneo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="713 KB" />
     <author>
       <name>Esteban Moneo</name>
       <uri>../authors_0/authors_888_Page_1.xml</uri>
@@ -279,7 +279,7 @@
     <id>calibre:book:284</id>
     <updated>2023-02-06T07:44:00Z</updated>
     <link href="../../Anna%20Ihren/El%20baron%20del%20arenque%20%28284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anna%20Ihren/El%20baron%20del%20arenque%20%28284%29/El%20baron%20del%20arenque%20-%20Anna%20Ihren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <link href="../../Anna%20Ihren/El%20baron%20del%20arenque%20%28284%29/El%20baron%20del%20arenque%20-%20Anna%20Ihren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
       <name>Anna Ihrén</name>
       <uri>../authors_0/authors_191_Page_1.xml</uri>
@@ -297,7 +297,7 @@
     <id>calibre:book:1851</id>
     <updated>2024-09-02T04:27:34Z</updated>
     <link href="../../Nacho%20Abad/El%20candidato%20%281851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nacho%20Abad/El%20candidato%20%281851%29/El%20candidato%20-%20Nacho%20Abad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <link href="../../Nacho%20Abad/El%20candidato%20%281851%29/El%20candidato%20-%20Nacho%20Abad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="373 KB" />
     <author>
       <name>Nacho Abad</name>
       <uri>../authors_1/authors_1324_Page_1.xml</uri>
@@ -314,7 +314,7 @@
     <id>calibre:book:1926</id>
     <updated>2024-09-05T06:03:55Z</updated>
     <link href="../../Samuel%20Smiles/El%20caracter%20%281926%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Samuel%20Smiles/El%20caracter%20%281926%29/El%20caracter%20-%20Samuel%20Smiles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="104 KB" />
+    <link href="../../Samuel%20Smiles/El%20caracter%20%281926%29/El%20caracter%20-%20Samuel%20Smiles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="104 KB" />
     <author>
       <name>Samuel Smiles</name>
       <uri>../authors_1/authors_1373_Page_1.xml</uri>
@@ -332,7 +332,7 @@
     <id>calibre:book:1599</id>
     <updated>2024-06-02T10:59:58Z</updated>
     <link href="../../Sabina%20Urraca/El%20celo%20%281599%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sabina%20Urraca/El%20celo%20%281599%29/El%20celo%20-%20Sabina%20Urraca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="501 KB" />
+    <link href="../../Sabina%20Urraca/El%20celo%20%281599%29/El%20celo%20-%20Sabina%20Urraca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="501 KB" />
     <author>
       <name>Sabina Urraca</name>
       <uri>../authors_1/authors_1163_Page_1.xml</uri>
@@ -349,7 +349,7 @@
     <id>calibre:book:1809</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Linwood%20Barclay/El%20choque%20%281809%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Linwood%20Barclay/El%20choque%20%281809%29/El%20choque%20-%20Linwood%20Barclay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="716 KB" />
+    <link href="../../Linwood%20Barclay/El%20choque%20%281809%29/El%20choque%20-%20Linwood%20Barclay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="716 KB" />
     <author>
       <name>Linwood Barclay</name>
       <uri>../authors_1/authors_1297_Page_1.xml</uri>
@@ -366,7 +366,7 @@
     <id>calibre:book:1695</id>
     <updated>2024-07-29T11:15:47Z</updated>
     <link href="../../Richard%20Powers/El%20clamor%20de%20los%20bosques%20%281695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Powers/El%20clamor%20de%20los%20bosques%20%281695%29/El%20clamor%20de%20los%20bosques%20-%20Richard%20Powers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Richard%20Powers/El%20clamor%20de%20los%20bosques%20%281695%29/El%20clamor%20de%20los%20bosques%20-%20Richard%20Powers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Richard Powers</name>
       <uri>../authors_1/authors_1213_Page_1.xml</uri>
@@ -383,7 +383,7 @@
     <id>calibre:book:1434</id>
     <updated>2024-04-20T05:13:30Z</updated>
     <link href="../../Cristian%20Perfumo/El%20coleccionista%20de%20flechas%20%281434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristian%20Perfumo/El%20coleccionista%20de%20flechas%20%281434%29/El%20coleccionista%20de%20flechas%20-%20Cristian%20Perfumo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="415 KB" />
+    <link href="../../Cristian%20Perfumo/El%20coleccionista%20de%20flechas%20%281434%29/El%20coleccionista%20de%20flechas%20-%20Cristian%20Perfumo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="415 KB" />
     <author>
       <name>Cristian Perfumo</name>
       <uri>../authors_0/authors_56_Page_1.xml</uri>
@@ -404,7 +404,7 @@
     <id>calibre:book:237</id>
     <updated>2023-02-02T00:04:18Z</updated>
     <link href="../../Jacky%20Durand/El%20cuaderno%20de%20las%20recetas%20perdidas%20%28237%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jacky%20Durand/El%20cuaderno%20de%20las%20recetas%20perdidas%20%28237%29/El%20cuaderno%20de%20las%20recetas%20perd%20-%20Jacky%20Durand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="575 KB" />
+    <link href="../../Jacky%20Durand/El%20cuaderno%20de%20las%20recetas%20perdidas%20%28237%29/El%20cuaderno%20de%20las%20recetas%20perd%20-%20Jacky%20Durand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="575 KB" />
     <author>
       <name>Jacky Durand</name>
       <uri>../authors_0/authors_163_Page_1.xml</uri>
@@ -421,7 +421,7 @@
     <id>calibre:book:1833</id>
     <updated>2024-08-30T02:04:05Z</updated>
     <link href="../../Ariel%20Magnus/El%20desafortunado%20%281833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Magnus/El%20desafortunado%20%281833%29/El%20desafortunado%20-%20Ariel%20Magnus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Ariel%20Magnus/El%20desafortunado%20%281833%29/El%20desafortunado%20-%20Ariel%20Magnus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Ariel Magnus</name>
       <uri>../authors_1/authors_1310_Page_1.xml</uri>
@@ -438,7 +438,7 @@
     <id>calibre:book:2578</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="376 KB" />
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
     <author>
       <name>Paola Calasanz</name>
       <uri>../authors_1/authors_1696_Page_1.xml</uri>
@@ -455,7 +455,7 @@
     <id>calibre:book:1282</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Esteban%20Gonzalez%20Pons/El%20escano%20de%20Satanas%20%281282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esteban%20Gonzalez%20Pons/El%20escano%20de%20Satanas%20%281282%29/El%20escano%20de%20Satanas%20-%20Esteban%20Gonzalez%20Pons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="845 KB" />
+    <link href="../../Esteban%20Gonzalez%20Pons/El%20escano%20de%20Satanas%20%281282%29/El%20escano%20de%20Satanas%20-%20Esteban%20Gonzalez%20Pons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="845 KB" />
     <author>
       <name>Esteban González Pons</name>
       <uri>../authors_0/authors_933_Page_1.xml</uri>

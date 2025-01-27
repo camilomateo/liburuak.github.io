@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de James Patterson</title>
+  <title>All books by James Patterson</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_167_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de James Patterson" />
+  <link href="./authors_167_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by James Patterson" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="James Patterson" />
   <entry>
     <title>Los crímenes de la carretera</title>
     <id>calibre:book:240</id>
     <updated>2023-02-02T08:52:48Z</updated>
     <link href="../../J.%20D.%20Barker/Los%20crimenes%20de%20la%20carretera%20%28240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20D.%20Barker/Los%20crimenes%20de%20la%20carretera%20%28240%29/Los%20crimenes%20de%20la%20carretera%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="876 KB" />
+    <link href="../../J.%20D.%20Barker/Los%20crimenes%20de%20la%20carretera%20%28240%29/Los%20crimenes%20de%20la%20carretera%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="876 KB" />
     <author>
       <name>J. D. Barker</name>
       <uri>../authors_0/authors_166_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:1402</id>
     <updated>2024-04-08T02:46:19Z</updated>
     <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
     <author>
       <name>James Patterson</name>
       <uri>../authors_0/authors_167_Page_1.xml</uri>

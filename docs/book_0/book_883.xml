@@ -6,12 +6,12 @@
   <link href="./book_883.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ve y pon un centinela" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/Ve%20y%20pon%20un%20centinela%20-%20Harper%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+  <link href="../../Harper%20Lee/Ve%20y%20pon%20un%20centinela%20%28883%29/Ve%20y%20pon%20un%20centinela%20-%20Harper%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
   <author>
     <name>Harper Lee</name>
     <uri>../authors_0/authors_662_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Harper Lee trae una nueva novela emblemática ambientada
     dos décadas después de la historia de la obra maestra
@@ -61,5 +61,5 @@
     complemento esencial que añade profundidad, contexto y
     nuevo significado al clásico estadounidense.</p>
   </content>
-  <link href="../authors_0/authors_662_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Harper Lee" />
+  <link href="../authors_0/authors_662_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Harper Lee" />
 </entry>

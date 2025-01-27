@@ -6,11 +6,11 @@
   <link href="./book_2111.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tres Comedias Modernas / en un acto y en prosa" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
   <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/Tres%20Comedias%20Modernas%20_%20en%20un%20-%20Mariano%20Barranco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+  <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/Tres%20Comedias%20Modernas%20_%20en%20un%20-%20Mariano%20Barranco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
   <author>
     <name>Mariano Barranco</name>
     <uri>../authors_1/authors_1498_Page_1.xml</uri>
@@ -37,15 +37,15 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Comedies, Spanish, Drama, Lang:es
     </p>
   </content>
-  <link href="../authors_1/authors_1498_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mariano Barranco" />
-  <link href="../authors_1/authors_1499_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Luis Cocat" />
-  <link href="../authors_1/authors_1500_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Heliodoro Criado y Baca" />
-  <link href="../authors_1/authors_1501_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Miguel Ramos Carrión" />
+  <link href="../authors_1/authors_1498_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mariano Barranco" />
+  <link href="../authors_1/authors_1499_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Luis Cocat" />
+  <link href="../authors_1/authors_1500_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Heliodoro Criado y Baca" />
+  <link href="../authors_1/authors_1501_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Miguel Ramos Carrión" />
 </entry>

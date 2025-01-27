@@ -6,14 +6,14 @@
   <link href="./book_2440.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El caballero de Harmental" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../authors_1/authors_1593_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alejandro Dumas" />
   <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/El%20caballero%20de%20Harmental%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+  <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/El%20caballero%20de%20Harmental%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="263 KB" />
   <author>
     <name>Alejandro Dumas</name>
     <uri>../authors_1/authors_1593_Page_1.xml</uri>
@@ -28,17 +28,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 13 en la Biblioteca PruébaT serie
+      Book 13 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Aventuras, Histórico, Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 13 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1593_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alejandro Dumas" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 13 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1593_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alejandro Dumas" />
 </entry>

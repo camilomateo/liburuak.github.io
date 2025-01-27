@@ -6,12 +6,12 @@
   <link href="./book_623.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La familia Medeiros" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="../../Julia%20Lopes%20de%20Almeida/La%20familia%20Medeiros%20%28623%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Julia%20Lopes%20de%20Almeida/La%20familia%20Medeiros%20%28623%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Julia%20Lopes%20de%20Almeida/La%20familia%20Medeiros%20%28623%29/La%20familia%20Medeiros%20-%20Julia%20Lopes%20de%20Almeida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="607 KB" />
+  <link href="../../Julia%20Lopes%20de%20Almeida/La%20familia%20Medeiros%20%28623%29/La%20familia%20Medeiros%20-%20Julia%20Lopes%20de%20Almeida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="607 KB" />
   <author>
     <name>Júlia Lopes de Almeida</name>
     <uri>../authors_0/authors_464_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Un patriarca acostumbrado a dominarlo todo, un mundo
@@ -52,5 +52,5 @@
       pedirles su opinión.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_464_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Júlia Lopes de Almeida" />
+  <link href="../authors_0/authors_464_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Júlia Lopes de Almeida" />
 </entry>

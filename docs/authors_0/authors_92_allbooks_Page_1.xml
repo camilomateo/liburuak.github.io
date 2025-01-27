@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Sarah Lark</title>
+  <title>All books by Sarah Lark</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_92_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Sarah Lark" />
+  <link href="./authors_92_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Sarah Lark" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="./authors_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sarah Lark" />
   <entry>
     <title>A la sombra del árbol kauri</title>
     <id>calibre:book:444</id>
     <updated>2023-03-23T11:00:40Z</updated>
     <link href="../../Sarah%20Lark/A%20la%20sombra%20del%20arbol%20kauri%20%28444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Lark/A%20la%20sombra%20del%20arbol%20kauri%20%28444%29/A%20la%20sombra%20del%20arbol%20kauri%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="762 KB" />
+    <link href="../../Sarah%20Lark/A%20la%20sombra%20del%20arbol%20kauri%20%28444%29/A%20la%20sombra%20del%20arbol%20kauri%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="762 KB" />
     <author>
       <name>Sarah Lark</name>
       <uri>../authors_0/authors_92_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:1902</id>
     <updated>2024-09-03T09:33:59Z</updated>
     <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/Alli%20donde%20nace%20el%20dia%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="790 KB" />
+    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/Alli%20donde%20nace%20el%20dia%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="790 KB" />
     <author>
       <name>Sarah Lark</name>
       <uri>../authors_0/authors_92_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:145</id>
     <updated>2023-01-19T08:55:20Z</updated>
     <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/La%20estrella%20de%20la%20Isla%20Norte%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="644 KB" />
+    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/La%20estrella%20de%20la%20Isla%20Norte%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="644 KB" />
     <author>
       <name>Sarah Lark</name>
       <uri>../authors_0/authors_92_Page_1.xml</uri>

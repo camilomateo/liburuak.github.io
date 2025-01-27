@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Luis David Pérez</title>
+  <title>All books by Luis David Pérez</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_475_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Luis David Pérez" />
+  <link href="./authors_475_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Luis David Pérez" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_475_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Luis David Pérez" />
   <entry>
     <title>El ladrón de barro</title>
     <id>calibre:book:1423</id>
     <updated>2024-04-09T11:16:20Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/El%20ladron%20de%20barro%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/El%20ladron%20de%20barro%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:2591</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -57,7 +57,7 @@
     <id>calibre:book:641</id>
     <updated>2023-05-04T11:35:08Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/El%20ladron%20de%20miedos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/El%20ladron%20de%20miedos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="523 KB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>

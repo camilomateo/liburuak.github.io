@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
-  <link href="../allbooks/allbooks_A_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <link href="../allbooks/allbooks_A_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 10)" />
   <entry>
     <title>Antonio</title>
     <id>calibre:book:1752</id>
     <updated>2024-08-26T10:56:07Z</updated>
     <link href="../../Beatriz%20Bracher/Antonio%20%281752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatriz%20Bracher/Antonio%20%281752%29/Antonio%20-%20Beatriz%20Bracher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="248 KB" />
+    <link href="../../Beatriz%20Bracher/Antonio%20%281752%29/Antonio%20-%20Beatriz%20Bracher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="248 KB" />
     <author>
       <name>Beatriz Bracher</name>
       <uri>../authors_1/authors_1253_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:2430</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/Antonio%20y%20Cleopatra%20-%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="131 KB" />
+    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/Antonio%20y%20Cleopatra%20-%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="131 KB" />
     <author>
       <name>Shakespeare</name>
       <uri>../authors_1/authors_1645_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:2341</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Sofocles/Antigona%20%282341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Antigona%20%282341%29/Antigona%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <link href="../../Sofocles/Antigona%20%282341%29/Antigona%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="98 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -76,7 +76,7 @@
     <id>calibre:book:1096</id>
     <updated>2023-12-12T08:34:17Z</updated>
     <link href="../../Munoz%20Iturrieta%2C%20Pablo/Apaga%20el%20celular%20y%20enciende%20tu%20cere%20%281096%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Munoz%20Iturrieta%2C%20Pablo/Apaga%20el%20celular%20y%20enciende%20tu%20cere%20%281096%29/Apaga%20el%20celular%20y%20enciende%20tu%20-%20Munoz%20Iturrieta%2C%20Pablo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Munoz%20Iturrieta%2C%20Pablo/Apaga%20el%20celular%20y%20enciende%20tu%20cere%20%281096%29/Apaga%20el%20celular%20y%20enciende%20tu%20-%20Munoz%20Iturrieta%2C%20Pablo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Muñoz Iturrieta, Pablo</name>
       <uri>../authors_0/authors_799_Page_1.xml</uri>
@@ -93,7 +93,7 @@
     <id>calibre:book:1971</id>
     <updated>2024-09-05T06:10:28Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/Apologia%20del%20ocio%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/Apologia%20del%20ocio%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="62 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -107,11 +107,28 @@
     <link href="../book_1/book_1971.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Apreciada señora Christie</title>
+    <id>calibre:book:2851</id>
+    <updated>2025-01-27T00:40:28Z</updated>
+    <link href="../../Nuria%20Pradas%20Andreu/Apreciada%20senora%20Christie%20%282851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nuria%20Pradas%20Andreu/Apreciada%20senora%20Christie%20%282851%29/Apreciada%20senora%20Christie%20-%20Nuria%20Pradas%20Andreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="459 KB" />
+    <author>
+      <name>Núria Pradas Andreu</name>
+      <uri>../authors_1/authors_1867_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un cozy crime cautivador que rinde homenaje a la gran maestra del misterio, Agatha Christie. Tras la Segunda Guerra Mundial, Emma Marbury hereda la librería de su tía Pennelope Brent en Dartmouth, Devon. Mientras intenta reconstruir su vida, se verá ...</summary>
+    <link href="../book_2/book_2851.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Aprende a desayunar</title>
     <id>calibre:book:210</id>
     <updated>2023-01-27T10:32:28Z</updated>
     <link href="../../Raquel%20Bernacer%20Martinez/Aprende%20a%20desayunar%20%28210%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raquel%20Bernacer%20Martinez/Aprende%20a%20desayunar%20%28210%29/Aprende%20a%20desayunar%20-%20Raquel%20Bernacer%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../Raquel%20Bernacer%20Martinez/Aprende%20a%20desayunar%20%28210%29/Aprende%20a%20desayunar%20-%20Raquel%20Bernacer%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>Raquel Bernácer Martínez</name>
       <uri>../authors_0/authors_137_Page_1.xml</uri>
@@ -128,7 +145,7 @@
     <id>calibre:book:385</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/Aprender%20a%20volar%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+    <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/Aprender%20a%20volar%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="647 KB" />
     <author>
       <name>Alberto García-Salido</name>
       <uri>../authors_0/authors_277_Page_1.xml</uri>
@@ -145,7 +162,7 @@
     <id>calibre:book:206</id>
     <updated>2023-01-26T07:27:04Z</updated>
     <link href="../../Francisco%20Alcaide%20Hernandez/Aprendiendo%20de%20los%20mejores%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Alcaide%20Hernandez/Aprendiendo%20de%20los%20mejores%20%28206%29/Aprendiendo%20de%20los%20mejores%20-%20Francisco%20Alcaide%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <link href="../../Francisco%20Alcaide%20Hernandez/Aprendiendo%20de%20los%20mejores%20%28206%29/Aprendiendo%20de%20los%20mejores%20-%20Francisco%20Alcaide%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="648 KB" />
     <author>
       <name>Francisco Alcaide Hernández</name>
       <uri>../authors_0/authors_133_Page_1.xml</uri>
@@ -165,7 +182,7 @@
     <id>calibre:book:1590</id>
     <updated>2024-06-02T10:59:55Z</updated>
     <link href="../../Pilar%20Lopez%20Avila/Aprendo%20a%20leer%20con%20las%20letras%20diver%20%281590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pilar%20Lopez%20Avila/Aprendo%20a%20leer%20con%20las%20letras%20diver%20%281590%29/Aprendo%20a%20leer%20con%20las%20letras%20d%20-%20Pilar%20Lopez%20Avila.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="20 MB" />
+    <link href="../../Pilar%20Lopez%20Avila/Aprendo%20a%20leer%20con%20las%20letras%20diver%20%281590%29/Aprendo%20a%20leer%20con%20las%20letras%20d%20-%20Pilar%20Lopez%20Avila.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="20 MB" />
     <author>
       <name>Pilar López Ávila</name>
       <uri>../authors_1/authors_1157_Page_1.xml</uri>
@@ -182,7 +199,7 @@
     <id>calibre:book:2028</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Angel%20de%20Campo/Apuntes%20sobre%20Perico%20Vera%20y%20otros%20c%20%282028%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angel%20de%20Campo/Apuntes%20sobre%20Perico%20Vera%20y%20otros%20c%20%282028%29/Apuntes%20sobre%20Perico%20Vera%20y%20otr%20-%20Angel%20de%20Campo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="170 KB" />
+    <link href="../../Angel%20de%20Campo/Apuntes%20sobre%20Perico%20Vera%20y%20otros%20c%20%282028%29/Apuntes%20sobre%20Perico%20Vera%20y%20otr%20-%20Angel%20de%20Campo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="170 KB" />
     <author>
       <name>Ángel de Campo</name>
       <uri>../authors_1/authors_1458_Page_1.xml</uri>
@@ -200,7 +217,7 @@
     <id>calibre:book:507</id>
     <updated>2023-04-01T02:02:02Z</updated>
     <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Aquitania%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Aquitania%20%28507%29/Aquitania%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="584 KB" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Aquitania%20%28507%29/Aquitania%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="584 KB" />
     <author>
       <name>Eva García Saénz de Urturi</name>
       <uri>../authors_0/authors_375_Page_1.xml</uri>
@@ -217,7 +234,7 @@
     <id>calibre:book:1178</id>
     <updated>2024-01-30T06:17:57Z</updated>
     <link href="../../Shari%20Lapena/Aqui%20todos%20mienten%20%281178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shari%20Lapena/Aqui%20todos%20mienten%20%281178%29/Aqui%20todos%20mienten%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <link href="../../Shari%20Lapena/Aqui%20todos%20mienten%20%281178%29/Aqui%20todos%20mienten%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="543 KB" />
     <author>
       <name>Shari Lapena</name>
       <uri>../authors_0/authors_500_Page_1.xml</uri>
@@ -234,7 +251,7 @@
     <id>calibre:book:1116</id>
     <updated>2024-01-08T09:16:14Z</updated>
     <link href="../../Andrea%20Hartung/Archivo%20criminal%20%281116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Hartung/Archivo%20criminal%20%281116%29/Archivo%20criminal%20-%20Andrea%20Hartung.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="706 KB" />
+    <link href="../../Andrea%20Hartung/Archivo%20criminal%20%281116%29/Archivo%20criminal%20-%20Andrea%20Hartung.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="706 KB" />
     <author>
       <name>Andrea Hartung</name>
       <uri>../authors_0/authors_819_Page_1.xml</uri>
@@ -253,7 +270,7 @@
     <id>calibre:book:94</id>
     <updated>2023-01-18T00:09:28Z</updated>
     <link href="../../Malin%20Persson%20Giolito/Arenas%20movedizas%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Malin%20Persson%20Giolito/Arenas%20movedizas%20%2894%29/Arenas%20movedizas%20-%20Malin%20Persson%20Giolito.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <link href="../../Malin%20Persson%20Giolito/Arenas%20movedizas%20%2894%29/Arenas%20movedizas%20-%20Malin%20Persson%20Giolito.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
     <author>
       <name>Malin Persson Giolito</name>
       <uri>../authors_0/authors_65_Page_1.xml</uri>
@@ -270,7 +287,7 @@
     <id>calibre:book:1958</id>
     <updated>2024-09-05T06:10:25Z</updated>
     <link href="../../Jose%20Enrique%20Rodo/Ariel%20%281958%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Enrique%20Rodo/Ariel%20%281958%29/Ariel%20-%20Jose%20Enrique%20Rodo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../Jose%20Enrique%20Rodo/Ariel%20%281958%29/Ariel%20-%20Jose%20Enrique%20Rodo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>José Enrique Rodó</name>
       <uri>../authors_1/authors_1401_Page_1.xml</uri>
@@ -288,7 +305,7 @@
     <id>calibre:book:1920</id>
     <updated>2024-09-05T06:00:43Z</updated>
     <link href="../../Yakov%20Perelman/Aritmetica%20recreativa%20%281920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yakov%20Perelman/Aritmetica%20recreativa%20%281920%29/Aritmetica%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Yakov%20Perelman/Aritmetica%20recreativa%20%281920%29/Aritmetica%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Yákov Perelmán</name>
       <uri>../authors_1/authors_1364_Page_1.xml</uri>
@@ -308,7 +325,7 @@
     <id>calibre:book:232</id>
     <updated>2023-01-27T00:04:06Z</updated>
     <link href="../../Harold%20McGee/Aromas%20del%20mundo%20%28232%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Harold%20McGee/Aromas%20del%20mundo%20%28232%29/Aromas%20del%20mundo%20-%20Harold%20McGee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Harold%20McGee/Aromas%20del%20mundo%20%28232%29/Aromas%20del%20mundo%20-%20Harold%20McGee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Harold McGee</name>
       <uri>../authors_0/authors_159_Page_1.xml</uri>
@@ -325,7 +342,7 @@
     <id>calibre:book:2083</id>
     <updated>2024-09-06T02:09:09Z</updated>
     <link href="../../Jules%20Verne/Around%20the%20World%20in%20Eighty%20Days%20%282083%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jules%20Verne/Around%20the%20World%20in%20Eighty%20Days%20%282083%29/Around%20the%20World%20in%20Eighty%20Days%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="238 KB" />
+    <link href="../../Jules%20Verne/Around%20the%20World%20in%20Eighty%20Days%20%282083%29/Around%20the%20World%20in%20Eighty%20Days%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="238 KB" />
     <author>
       <name>Jules Verne</name>
       <uri>../authors_1/authors_1487_Page_1.xml</uri>
@@ -349,7 +366,7 @@
     <id>calibre:book:2109</id>
     <updated>2024-09-06T02:21:17Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/Arroz%20y%20tartana%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/Arroz%20y%20tartana%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -367,7 +384,7 @@
     <id>calibre:book:273</id>
     <updated>2023-02-03T08:39:18Z</updated>
     <link href="../../Rafael%20Santandreu/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20%28273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Santandreu/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20%28273%29/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="381 KB" />
+    <link href="../../Rafael%20Santandreu/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20%28273%29/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="381 KB" />
     <author>
       <name>Rafael Santandreu</name>
       <uri>../authors_0/authors_185_Page_1.xml</uri>
@@ -385,7 +402,7 @@
     <id>calibre:book:2344</id>
     <updated>2024-09-09T10:34:11Z</updated>
     <link href="../../Ovidio/Arte%20de%20amar%20%282344%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ovidio/Arte%20de%20amar%20%282344%29/Arte%20de%20amar%20-%20Ovidio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="105 KB" />
+    <link href="../../Ovidio/Arte%20de%20amar%20%282344%29/Arte%20de%20amar%20-%20Ovidio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="105 KB" />
     <author>
       <name>Ovidio</name>
       <uri>../authors_1/authors_1624_Page_1.xml</uri>
@@ -403,7 +420,7 @@
     <id>calibre:book:1940</id>
     <updated>2024-09-05T06:03:58Z</updated>
     <link href="../../Baltasar%20Gracian/El%20Arte%20de%20la%20Prudencia%20%281940%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Baltasar%20Gracian/El%20Arte%20de%20la%20Prudencia%20%281940%29/El%20Arte%20de%20la%20Prudencia%20-%20Baltasar%20Gracian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <link href="../../Baltasar%20Gracian/El%20Arte%20de%20la%20Prudencia%20%281940%29/El%20Arte%20de%20la%20Prudencia%20-%20Baltasar%20Gracian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
     <author>
       <name>Baltasar Gracián</name>
       <uri>../authors_1/authors_1377_Page_1.xml</uri>
@@ -421,7 +438,7 @@
     <id>calibre:book:1033</id>
     <updated>2023-10-20T01:12:29Z</updated>
     <link href="../../Mariano%20Sigman/Artificial%20%281033%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mariano%20Sigman/Artificial%20%281033%29/Artificial%20-%20Mariano%20Sigman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <link href="../../Mariano%20Sigman/Artificial%20%281033%29/Artificial%20-%20Mariano%20Sigman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
     <author>
       <name>Mariano Sigman</name>
       <uri>../authors_0/authors_762_Page_1.xml</uri>
@@ -438,7 +455,7 @@
     <id>calibre:book:1372</id>
     <updated>2024-04-03T00:30:02Z</updated>
     <link href="../../Rafael%20Chirbes/Asentir%20o%20desestabilizar%20%281372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Chirbes/Asentir%20o%20desestabilizar%20%281372%29/Asentir%20o%20desestabilizar%20-%20Rafael%20Chirbes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Rafael%20Chirbes/Asentir%20o%20desestabilizar%20%281372%29/Asentir%20o%20desestabilizar%20-%20Rafael%20Chirbes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rafael Chirbes</name>
       <uri>../authors_1/authors_1007_Page_1.xml</uri>
@@ -450,26 +467,6 @@
     <category term="Maestrale" />
     <summary>Maestrale [1]:  Asentir o desestabilizar reúne por primera vez los trabajos de crítica literaria y opinión que Chirbes escribió para publicaciones como Ozono, Saida, Reseña o La Calle entre 1975 y 1980. Una recopilación que recoge desde reseñas y art...</summary>
     <link href="../book_1/book_1372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Asesinato en Cannes</title>
-    <id>calibre:book:2791</id>
-    <updated>2025-01-09T08:22:46Z</updated>
-    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/Asesinato%20en%20Cannes%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2024-11-13T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Nova Illice Media Pub</dcterms:publisher>
-    <category term="Policial" />
-    <category term="suspense" />
-    <category term="Lang:es" />
-    <category term="Detective Maldonado" />
-    <summary>Detective Maldonado [9]: Cuando el detective privado Maldonado acepta un caso en el glamoroso Festival de Cannes, pronto descubre que bajo las luces deslumbrantes y las alfombras rojas, se ocultan secretos tan oscuros como mortales. La muerte de un f...</summary>
-    <link href="../book_2/book_2791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

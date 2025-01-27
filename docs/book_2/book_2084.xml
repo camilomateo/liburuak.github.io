@@ -6,13 +6,13 @@
   <link href="./book_2084.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Adventures of Huckleberry Finn" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
-  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../authors_1/authors_1488_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mark Twain" />
   <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/Adventures%20of%20Huckleberry%20Finn%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+  <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/Adventures%20of%20Huckleberry%20Finn%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
   <author>
     <name>Mark Twain</name>
     <uri>../authors_1/authors_1488_Page_1.xml</uri>
@@ -47,17 +47,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 292 en la Biblioteca PruébaT serie
+      Book 292 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Humorous, Stories, Bildungsromans, Boys, --, Fiction, Male, friendship, Adventure, Missouri, Race, relations, Runaway, Children, Finn, Huckleberry, (Fictitious, character), Fugitive, slaves, Mississippi, River, Lang:en
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 292 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1488_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mark Twain" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 292 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1488_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mark Twain" />
 </entry>

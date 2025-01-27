@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de René Descartes</title>
+  <title>All books by René Descartes</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_46_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de René Descartes" />
+  <link href="./authors_46_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by René Descartes" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="./authors_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="René Descartes" />
   <entry>
     <title>100 Clásicos de la Literatura Universal: Vol.1</title>
     <id>calibre:book:70</id>
     <updated>2023-01-17T11:52:38Z</updated>
     <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/100%20Clasicos%20de%20la%20Literatura%20U%20-%20John%20William%20Polidori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="16 MB" />
+    <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/100%20Clasicos%20de%20la%20Literatura%20U%20-%20John%20William%20Polidori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="16 MB" />
     <author>
       <name>John William Polidori</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -60,7 +60,7 @@
     <id>calibre:book:1974</id>
     <updated>2024-09-05T06:10:28Z</updated>
     <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/Tratado%20del%20hombre%20-%20Rene%20Descartes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="971 KB" />
+    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/Tratado%20del%20hombre%20-%20Rene%20Descartes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="971 KB" />
     <author>
       <name>René Descartes</name>
       <uri>../authors_0/authors_46_Page_1.xml</uri>

@@ -6,11 +6,11 @@
   <link href="./book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El mejor del mundo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+  <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
   <author>
     <name>Juan Tallón</name>
     <uri>../authors_1/authors_1684_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-weight: bold">¿Nuestra vida está
@@ -70,5 +70,5 @@
       falta.</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1684_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Juan Tallón" />
+  <link href="../authors_1/authors_1684_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Juan Tallón" />
 </entry>

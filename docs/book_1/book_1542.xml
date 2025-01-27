@@ -6,11 +6,11 @@
   <link href="./book_1542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Kafka al completo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../../Nicolas%20Mahler/Kafka%20al%20completo%20%281542%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Nicolas%20Mahler/Kafka%20al%20completo%20%281542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Nicolas%20Mahler/Kafka%20al%20completo%20%281542%29/Kafka%20al%20completo%20-%20Nicolas%20Mahler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+  <link href="../../Nicolas%20Mahler/Kafka%20al%20completo%20%281542%29/Kafka%20al%20completo%20-%20Nicolas%20Mahler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
   <author>
     <name>Nicolas Mahler</name>
     <uri>../authors_1/authors_1123_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">«¿Sabías que una vez fui dibujante?»,
     escribió, mitad irónico, mitad orgulloso, Franz Kafka
@@ -47,5 +47,5 @@
     luchas, dudas y bloqueos de uno de los más destacados
     novelistas de la literatura universal.</p>
   </content>
-  <link href="../authors_1/authors_1123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Nicolas Mahler" />
+  <link href="../authors_1/authors_1123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Nicolas Mahler" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
-  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
+  <entry>
+    <title>La elección</title>
+    <id>calibre:book:382</id>
+    <updated>2023-03-04T02:11:48Z</updated>
+    <link href="../../Alissa%20Bronte/La%20eleccion%20%28382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alissa%20Bronte/La%20eleccion%20%28382%29/La%20eleccion%20-%20Alissa%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
+    <author>
+      <name>Alissa Brontë</name>
+      <uri>../authors_0/authors_275_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La Elección es un selecto local del que muy poca gente habla. Toda mujer que desea satisfacer sus deseos más oscuros y profundos acude allí con la esperanza de ser la elegida. Durante una noche, un misterioso hombre proporciona a esa mujer un gran pl...</summary>
+    <link href="../book_0/book_382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El emblema del traidor</title>
     <id>calibre:book:974</id>
     <updated>2023-08-16T05:29:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/El%20emblema%20del%20traidor%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/El%20emblema%20del%20traidor%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="551 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -38,7 +55,7 @@
     <id>calibre:book:2142</id>
     <updated>2024-09-06T02:21:22Z</updated>
     <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Los%20empenos%20de%20una%20casa%20%282142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Los%20empenos%20de%20una%20casa%20%282142%29/Los%20empenos%20de%20una%20casa%20-%20Sor%20Juana%20Ines%20de%20la%20Cruz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="68 KB" />
+    <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Los%20empenos%20de%20una%20casa%20%282142%29/Los%20empenos%20de%20una%20casa%20-%20Sor%20Juana%20Ines%20de%20la%20Cruz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="68 KB" />
     <author>
       <name>Sor Juana Inés de la Cruz</name>
       <uri>../authors_1/authors_1520_Page_1.xml</uri>
@@ -54,7 +71,7 @@
     <id>calibre:book:2417</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/Las%20encantadas%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="164 KB" />
+    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/Las%20encantadas%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="164 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -73,7 +90,7 @@
     <id>calibre:book:246</id>
     <updated>2023-02-02T08:58:30Z</updated>
     <link href="../../Pedro%20Banos/La%20encrucijada%20mundial%20%28246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Banos/La%20encrucijada%20mundial%20%28246%29/La%20encrucijada%20mundial%20-%20Pedro%20Banos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Pedro%20Banos/La%20encrucijada%20mundial%20%28246%29/La%20encrucijada%20mundial%20-%20Pedro%20Banos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pedro Baños</name>
       <uri>../authors_0/authors_174_Page_1.xml</uri>
@@ -90,7 +107,7 @@
     <id>calibre:book:719</id>
     <updated>2023-05-17T01:10:54Z</updated>
     <link href="../../Francisco%20Gonzalez%20Crussi/La%20enfermedad%20del%20amor%20%28719%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Gonzalez%20Crussi/La%20enfermedad%20del%20amor%20%28719%29/La%20enfermedad%20del%20amor%20-%20Francisco%20Gonzalez%20Crussi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <link href="../../Francisco%20Gonzalez%20Crussi/La%20enfermedad%20del%20amor%20%28719%29/La%20enfermedad%20del%20amor%20-%20Francisco%20Gonzalez%20Crussi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
     <author>
       <name>Francisco González Crussí</name>
       <uri>../authors_0/authors_536_Page_1.xml</uri>
@@ -110,7 +127,7 @@
     <id>calibre:book:314</id>
     <updated>2023-02-16T08:33:16Z</updated>
     <link href="../../Anna%20Stuart/La%20enfermera%20de%20Auschwithz%20%28314%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anna%20Stuart/La%20enfermera%20de%20Auschwithz%20%28314%29/La%20enfermera%20de%20Auschwithz%20-%20Anna%20Stuart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <link href="../../Anna%20Stuart/La%20enfermera%20de%20Auschwithz%20%28314%29/La%20enfermera%20de%20Auschwithz%20-%20Anna%20Stuart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
     <author>
       <name>Anna Stuart</name>
       <uri>../authors_0/authors_220_Page_1.xml</uri>
@@ -127,7 +144,7 @@
     <id>calibre:book:49</id>
     <updated>2023-01-17T10:27:38Z</updated>
     <link href="../../Charlotte%20Link/El%20engano%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="657 KB" />
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="657 KB" />
     <author>
       <name>Charlotte Link</name>
       <uri>../authors_0/authors_38_Page_1.xml</uri>
@@ -147,7 +164,7 @@
     <id>calibre:book:1529</id>
     <updated>2024-06-02T10:59:39Z</updated>
     <link href="../../Dann%20McDorman/El%20enigma%20de%20West%20Heart%20%281529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dann%20McDorman/El%20enigma%20de%20West%20Heart%20%281529%29/El%20enigma%20de%20West%20Heart%20-%20Dann%20McDorman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="651 KB" />
+    <link href="../../Dann%20McDorman/El%20enigma%20de%20West%20Heart%20%281529%29/El%20enigma%20de%20West%20Heart%20-%20Dann%20McDorman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="651 KB" />
     <author>
       <name>Dann McDorman</name>
       <uri>../authors_1/authors_1112_Page_1.xml</uri>
@@ -164,7 +181,7 @@
     <id>calibre:book:706</id>
     <updated>2023-05-17T01:10:24Z</updated>
     <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/El%20enigma%20de%20la%20habitacion%20622%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="734 KB" />
+    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/El%20enigma%20de%20la%20habitacion%20622%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="734 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -181,7 +198,7 @@
     <id>calibre:book:1469</id>
     <updated>2024-04-30T04:46:10Z</updated>
     <link href="../../Jose%20Gil%20Romero/El%20enjambre%20%281469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Gil%20Romero/El%20enjambre%20%281469%29/El%20enjambre%20-%20Jose%20Gil%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <link href="../../Jose%20Gil%20Romero/El%20enjambre%20%281469%29/El%20enjambre%20-%20Jose%20Gil%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="566 KB" />
     <author>
       <name>Jose Gil Romero</name>
       <uri>../authors_1/authors_1075_Page_1.xml</uri>
@@ -196,7 +213,7 @@
     <id>calibre:book:1806</id>
     <updated>2024-08-27T09:07:34Z</updated>
     <link href="../../Hiromi%20Shinya/La%20enzima%20prodigiosa%202%20%281806%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hiromi%20Shinya/La%20enzima%20prodigiosa%202%20%281806%29/La%20enzima%20prodigiosa%202%20-%20Hiromi%20Shinya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="389 KB" />
+    <link href="../../Hiromi%20Shinya/La%20enzima%20prodigiosa%202%20%281806%29/La%20enzima%20prodigiosa%202%20-%20Hiromi%20Shinya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="389 KB" />
     <author>
       <name>Hiromi Shinya</name>
       <uri>../authors_1/authors_1295_Page_1.xml</uri>
@@ -214,7 +231,7 @@
     <id>calibre:book:2730</id>
     <updated>2024-12-11T08:23:56Z</updated>
     <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Eric Hobsbawm</name>
       <uri>../authors_1/authors_1785_Page_1.xml</uri>
@@ -234,7 +251,7 @@
     <id>calibre:book:1511</id>
     <updated>2024-05-22T06:46:45Z</updated>
     <link href="../../Carmen%20Conde/La%20escritora%20%28Spanish%20Edition%29%20%281511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Conde/La%20escritora%20%28Spanish%20Edition%29%20%281511%29/La%20escritora%20%28Spanish%20Edition%29%20-%20Carmen%20Conde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="427 KB" />
+    <link href="../../Carmen%20Conde/La%20escritora%20%28Spanish%20Edition%29%20%281511%29/La%20escritora%20%28Spanish%20Edition%29%20-%20Carmen%20Conde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="427 KB" />
     <author>
       <name>Carmen Conde</name>
       <uri>../authors_1/authors_1102_Page_1.xml</uri>
@@ -250,7 +267,7 @@
     <id>calibre:book:530</id>
     <updated>2023-04-05T00:40:12Z</updated>
     <link href="../../Laurie%20Colwin/Una%20escritora%20en%20la%20cocina%20%28530%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laurie%20Colwin/Una%20escritora%20en%20la%20cocina%20%28530%29/Una%20escritora%20en%20la%20cocina%20-%20Laurie%20Colwin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <link href="../../Laurie%20Colwin/Una%20escritora%20en%20la%20cocina%20%28530%29/Una%20escritora%20en%20la%20cocina%20-%20Laurie%20Colwin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
     <author>
       <name>Laurie Colwin</name>
       <uri>../authors_0/authors_393_Page_1.xml</uri>
@@ -267,7 +284,7 @@
     <id>calibre:book:2376</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/La%20esfinge%20de%20los%20hielos%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="358 KB" />
+    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/La%20esfinge%20de%20los%20hielos%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="358 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -287,7 +304,7 @@
     <id>calibre:book:386</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Lola%20Pons%20Rodriguez/El%20espanol%20es%20un%20mundo%20%28386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lola%20Pons%20Rodriguez/El%20espanol%20es%20un%20mundo%20%28386%29/El%20espanol%20es%20un%20mundo%20-%20Lola%20Pons%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="619 KB" />
+    <link href="../../Lola%20Pons%20Rodriguez/El%20espanol%20es%20un%20mundo%20%28386%29/El%20espanol%20es%20un%20mundo%20-%20Lola%20Pons%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="619 KB" />
     <author>
       <name>Lola Pons Rodríguez</name>
       <uri>../authors_0/authors_157_Page_1.xml</uri>
@@ -304,7 +321,7 @@
     <id>calibre:book:1395</id>
     <updated>2024-04-08T02:35:07Z</updated>
     <link href="../../Camilla%20Lackberg/El%20espejismo%20%281395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/El%20espejismo%20%281395%29/El%20espejismo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="539 KB" />
+    <link href="../../Camilla%20Lackberg/El%20espejismo%20%281395%29/El%20espejismo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="539 KB" />
     <author>
       <name>Camilla Läckberg</name>
       <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -326,7 +343,7 @@
     <id>calibre:book:2815</id>
     <updated>2025-01-20T11:21:17Z</updated>
     <link href="../../Michael%20Connelly/La%20espera%20%282815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/La%20espera%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="431 KB" />
+    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/La%20espera%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="431 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -343,7 +360,7 @@
     <id>calibre:book:9</id>
     <updated>2023-01-17T10:04:06Z</updated>
     <link href="../../Madison%20Davis/La%20esposa%20reacia%20del%20duque%20marcado%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Madison%20Davis/La%20esposa%20reacia%20del%20duque%20marcado%20%289%29/La%20esposa%20reacia%20del%20duque%20marc%20-%20Madison%20Davis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Madison%20Davis/La%20esposa%20reacia%20del%20duque%20marcado%20%289%29/La%20esposa%20reacia%20del%20duque%20marc%20-%20Madison%20Davis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Madison Davis</name>
       <uri>../authors_0/authors_7_Page_1.xml</uri>
@@ -360,7 +377,7 @@
     <id>calibre:book:885</id>
     <updated>2023-06-23T01:09:36Z</updated>
     <link href="../../Ernesto%20Villar/Los%20espias%20de%20Suarez%20%28885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ernesto%20Villar/Los%20espias%20de%20Suarez%20%28885%29/Los%20espias%20de%20Suarez%20-%20Ernesto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ernesto%20Villar/Los%20espias%20de%20Suarez%20%28885%29/Los%20espias%20de%20Suarez%20-%20Ernesto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ernesto Villar</name>
       <uri>../authors_0/authors_663_Page_1.xml</uri>
@@ -377,7 +394,7 @@
     <id>calibre:book:262</id>
     <updated>2023-02-02T09:06:36Z</updated>
     <link href="../../Mads%20Peder%20Nordbo/El%20espiritu%20del%20hielo%20%28262%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mads%20Peder%20Nordbo/El%20espiritu%20del%20hielo%20%28262%29/El%20espiritu%20del%20hielo%20-%20Mads%20Peder%20Nordbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="533 KB" />
+    <link href="../../Mads%20Peder%20Nordbo/El%20espiritu%20del%20hielo%20%28262%29/El%20espiritu%20del%20hielo%20-%20Mads%20Peder%20Nordbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="533 KB" />
     <author>
       <name>Mads Peder Nordbo</name>
       <uri>../authors_0/authors_179_Page_1.xml</uri>
@@ -394,7 +411,7 @@
     <id>calibre:book:619</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Jacopo%20De%20Michelis/La%20estacion%20%28619%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jacopo%20De%20Michelis/La%20estacion%20%28619%29/La%20estacion%20-%20Jacopo%20De%20Michelis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="859 KB" />
+    <link href="../../Jacopo%20De%20Michelis/La%20estacion%20%28619%29/La%20estacion%20-%20Jacopo%20De%20Michelis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="859 KB" />
     <author>
       <name>Jacopo De Michelis</name>
       <uri>../authors_0/authors_460_Page_1.xml</uri>
@@ -411,7 +428,7 @@
     <id>calibre:book:1204</id>
     <updated>2024-02-06T06:13:12Z</updated>
     <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/El%20estilo%20de%20los%20elementos%20-%20Rodrigo%20Fresan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/El%20estilo%20de%20los%20elementos%20-%20Rodrigo%20Fresan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rodrigo Fresán</name>
       <uri>../authors_0/authors_874_Page_1.xml</uri>
@@ -426,7 +443,7 @@
     <id>calibre:book:145</id>
     <updated>2023-01-19T08:55:20Z</updated>
     <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/La%20estrella%20de%20la%20Isla%20Norte%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="644 KB" />
+    <link href="../../Sarah%20Lark/La%20estrella%20de%20la%20Isla%20Norte%20%28145%29/La%20estrella%20de%20la%20Isla%20Norte%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="644 KB" />
     <author>
       <name>Sarah Lark</name>
       <uri>../authors_0/authors_92_Page_1.xml</uri>
@@ -437,23 +454,6 @@
     <category term="Lang:es" />
     <summary>Vuelve la Sarah Lark más auténtica con una fascinante historia de amor y traición, desesperación y coraje ambientada en Nueva Zelanda en la Primera Guerra Mundial. Hannover, 1910. Lo que surge entre la hija del banquero judío Mia y el joven oficial J...</summary>
     <link href="../book_0/book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La estrella de ébano</title>
-    <id>calibre:book:870</id>
-    <updated>2023-06-19T05:31:24Z</updated>
-    <link href="../../Francisco%20Toledo%20Lobo/La%20estrella%20de%20ebano%20%28870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Toledo%20Lobo/La%20estrella%20de%20ebano%20%28870%29/La%20estrella%20de%20ebano%20-%20Francisco%20Toledo%20Lobo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
-    <author>
-      <name>Francisco Toledo Lobo</name>
-      <uri>../authors_0/authors_654_Page_1.xml</uri>
-    </author>
-    <published>2023-06-07T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La tragedia migratoria del Mediterráneo en una emotiva novela. Un relato impactante sobre la dignidad, la valentía y el poder de la amistad. UNA MUJER LUCHADORA Y VALEROSA Airam siempre consigue lo que se propone. Su ambición y talento la han convert...</summary>
-    <link href="../book_0/book_870.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 8)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

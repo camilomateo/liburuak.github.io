@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Irène Némirovsky</title>
+  <title>All books by Irène Némirovsky</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1037_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Irène Némirovsky" />
+  <link href="./authors_1037_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Irène Némirovsky" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
-  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
+  <link href="../authorlist/authorlist_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="./authors_1037_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Irène Némirovsky" />
   <entry>
     <title>El baile</title>
     <id>calibre:book:2299</id>
     <updated>2024-09-09T10:34:02Z</updated>
     <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/El%20baile%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="83 KB" />
+    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/El%20baile%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="83 KB" />
     <author>
       <name>Irène Némirovsky</name>
       <uri>../authors_1/authors_1037_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:1419</id>
     <updated>2024-04-09T11:16:19Z</updated>
     <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/El%20peon%20en%20el%20tablero%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="478 KB" />
+    <link href="../../Irene%20Nemirovsky/El%20peon%20en%20el%20tablero%20%281419%29/El%20peon%20en%20el%20tablero%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="478 KB" />
     <author>
       <name>Irène Némirovsky</name>
       <uri>../authors_1/authors_1037_Page_1.xml</uri>

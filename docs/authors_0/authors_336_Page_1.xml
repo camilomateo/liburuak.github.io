@@ -11,12 +11,12 @@
   <link href="./authors_336_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sarah Pearse" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <entry>
-    <title>Todos los libros de Sarah Pearse</title>
+    <title>All books by Sarah Pearse</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 2 libros</content>
+    <content type="text">Alphabetical index of the 2 books</content>
     <link href="../authors_0/authors_336_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
     <id>calibre:book:1297</id>
     <updated>2024-03-15T09:02:28Z</updated>
     <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/El%20sanatorio%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="676 KB" />
+    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/El%20sanatorio%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="676 KB" />
     <author>
       <name>Sarah Pearse</name>
       <uri>../authors_0/authors_336_Page_1.xml</uri>

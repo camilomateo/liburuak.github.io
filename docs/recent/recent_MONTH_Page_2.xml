@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Mes anterior</title>
+  <title>Previous month</title>
   <id>Calibre2opds:recent:MONTH</id>
   <author>
     <name>David Pierron</name>
@@ -8,45 +8,80 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mes anterior" />
+  <link href="./recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous month" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Mes anterior" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous month" />
   <entry>
-    <title>Salvavidas para madres autónomas [18 de diciembre de 2024]</title>
-    <id>calibre:book:2743</id>
-    <updated>2024-12-18T08:33:28Z</updated>
-    <link href="../../Diana%20Luz%20Vazquez/Salvavidas%20para%20madres%20autonomas%20%282743%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Diana%20Luz%20Vazquez/Salvavidas%20para%20madres%20autonomas%20%282743%29/Salvavidas%20para%20madres%20autonoma%20-%20Diana%20Luz%20Vazquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <title>La muerte no existe [December 29, 2024]</title>
+    <id>calibre:book:2766</id>
+    <updated>2024-12-29T11:37:15Z</updated>
+    <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/La%20muerte%20no%20existe%20-%20Stephane%20Allix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="385 KB" />
     <author>
-      <name>Diana Luz Vázquez</name>
-      <uri>../authors_1/authors_1795_Page_1.xml</uri>
+      <name>Stéphane Allix</name>
+      <uri>../authors_1/authors_1806_Page_1.xml</uri>
     </author>
-    <published>2024-09-13T06:00:00Z</published>
+    <published>2024-08-19T02:03:58Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>¿Yo elegí mal al papá de mi hije, es mi culpa? ¿Qué hago con el sentimiento de abandono? ¿Cómo manejo la relación entre mi niñe y su papá deudor? ¿Él tiene derecho a verle si no aporta para su manutención?...¿Qué hago el Día del Padre? ¿Cómo le hago ...</summary>
-    <link href="../book_2/book_2743.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿QUÉ OCURRE CUANDO MORIMOS?
+¿QUÉ PASA CON NUESTRA CONSCIENCIA?
+¿SOBREVIVE A LA MUERTE CEREBRAL?
+Estas inquietantes preguntas son las que Stéphane Allix se planteó tras la muerte de su hermano. Desde ese momento, utilizó todas sus habilidades y su ins...</summary>
+    <link href="../book_2/book_2766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las vías de la muerte [18 de diciembre de 2024]</title>
-    <id>calibre:book:2742</id>
-    <updated>2024-12-18T08:33:28Z</updated>
-    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/Las%20vias%20de%20la%20muerte%20-%20Tim%20Weaver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="958 KB" />
+    <title>Cuando el odio nos domine [December 29, 2024]</title>
+    <id>calibre:book:2764</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/Cuando%20el%20odio%20nos%20domine%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
     <author>
-      <name>Tim Weaver</name>
-      <uri>../authors_1/authors_1794_Page_1.xml</uri>
+      <name>Marcos Nieto Pallarés</name>
+      <uri>../authors_0/authors_359_Page_1.xml</uri>
     </author>
-    <published>2024-12-03T11:00:00Z</published>
+    <published>2024-12-19T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Jentas</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="David Raker" />
-    <summary>David Raker [2]: ¿Dónde está Megan? La adolescente de diecisiete años Megan Carver ha desaparecido. No parecía el tipo de persona que se escaparía de casa: era una estudiante de excelentes calificaciones, provenía de un hogar feliz y rara vez se metí...</summary>
-    <link href="../book_2/book_2742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>MADRID, 2023. El cuerpo desnudo de una mujer aparece rodeado de velas, con su alianza y una orquídea encima del pecho. La inspectora Nausica Yuste, agente de la Unidad Central de Delincuencia Especializada y Violenta, se persona en el lugar de los he...</summary>
+    <link href="../book_2/book_2764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La loba fiel [December 29, 2024]</title>
+    <id>calibre:book:2765</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Max Ibarrola</name>
+      <uri>../authors_0/authors_338_Page_1.xml</uri>
+    </author>
+    <published>2024-04-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela de suspense en estado puro Arizona, verano de mil novecientos noventa y seis. En un rancho situado en medio del desierto, una empleada de la máxima confianza se lleva, sin mediar explicación, al nieto de un multimillonario. Años más tarde,...</summary>
+    <link href="../book_2/book_2765.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>María de Magdala [December 29, 2024]</title>
+    <id>calibre:book:2763</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Maria%20Teresa%20Alvarez/Maria%20de%20Magdala%20%282763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Teresa%20Alvarez/Maria%20de%20Magdala%20%282763%29/Maria%20de%20Magdala%20-%20Maria%20Teresa%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="326 KB" />
+    <author>
+      <name>María Teresa Álvarez</name>
+      <uri>../authors_1/authors_1805_Page_1.xml</uri>
+    </author>
+    <published>2024-09-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La escritora María Teresa Álvarez dedica esta nueva novela a la figura histórica de María Magdalena. Y da las claves de quién era, cómo se unió a los seguidores de Jesús y por qué este la eligió (a ella y a otras mujeres) como una de las personas a l...</summary>
+    <link href="../book_2/book_2763.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
 </feed>

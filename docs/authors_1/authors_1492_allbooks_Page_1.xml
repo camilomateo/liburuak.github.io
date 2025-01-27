@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Lovecraft</title>
+  <title>All books by Lovecraft</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1492_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Lovecraft" />
+  <link href="./authors_1492_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Lovecraft" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="./authors_1492_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lovecraft" />
   <entry>
     <title>El alquimista</title>
     <id>calibre:book:2094</id>
     <updated>2024-09-06T02:09:12Z</updated>
     <link href="../../Lovecraft/El%20alquimista%20%282094%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lovecraft/El%20alquimista%20%282094%29/El%20alquimista%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="68 KB" />
+    <link href="../../Lovecraft/El%20alquimista%20%282094%29/El%20alquimista%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="68 KB" />
     <author>
       <name>Lovecraft</name>
       <uri>../authors_1/authors_1492_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:2097</id>
     <updated>2024-09-06T02:09:13Z</updated>
     <link href="../../Lovecraft/El%20caos%20reptante%20%282097%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lovecraft/El%20caos%20reptante%20%282097%29/El%20caos%20reptante%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="53 KB" />
+    <link href="../../Lovecraft/El%20caos%20reptante%20%282097%29/El%20caos%20reptante%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="53 KB" />
     <author>
       <name>Lovecraft</name>
       <uri>../authors_1/authors_1492_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:2098</id>
     <updated>2024-09-06T02:09:13Z</updated>
     <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/Misterioso%20barco%20a%20la%20deriva%20re%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="67 KB" />
+    <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/Misterioso%20barco%20a%20la%20deriva%20re%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="67 KB" />
     <author>
       <name>Lovecraft</name>
       <uri>../authors_1/authors_1492_Page_1.xml</uri>

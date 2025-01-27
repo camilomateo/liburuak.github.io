@@ -6,12 +6,12 @@
   <link href="./book_1402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Segunda oportunidad" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="../authors_0/authors_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="James Patterson" />
   <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+  <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
   <author>
     <name>James Patterson</name>
     <uri>../authors_0/authors_167_Page_1.xml</uri>
@@ -24,18 +24,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 2 en la El club de las mujeres contra el crimen serie
+      Book 2 in the El club de las mujeres contra el crimen series
     </p>
     <p>
       <strong>Rating:</strong>
       ****
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:ca
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>La ciudad de San Francisco está
@@ -56,5 +56,5 @@
       despiadado.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Patterson" />
+  <link href="../authors_0/authors_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James Patterson" />
 </entry>

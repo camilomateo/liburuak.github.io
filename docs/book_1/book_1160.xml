@@ -6,11 +6,11 @@
   <link href="./book_1160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El sufrimiento de las cigarras" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/El%20sufrimiento%20de%20las%20cigarras%20-%20Maria%20Jesus%20Perez%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+  <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/El%20sufrimiento%20de%20las%20cigarras%20-%20Maria%20Jesus%20Perez%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
   <author>
     <name>María Jesús Pérez Navarro</name>
     <uri>../authors_0/authors_846_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <div id="bookDescription_feature_div" class="celwidget" data-feature-name="bookDescription" data-csa-c-type="widget" data-csa-c-content-id="bookDescription" data-csa-c-slot-id="bookDescription_feature_div" data-csa-c-asin="" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="z4270m-7xzb36-pz80tm-cinypc" data-cel-widget="bookDescription_feature_div">
@@ -83,5 +83,5 @@
       </div>
     </div>
   </content>
-  <link href="../authors_0/authors_846_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de María Jesús Pérez Navarro" />
+  <link href="../authors_0/authors_846_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by María Jesús Pérez Navarro" />
 </entry>

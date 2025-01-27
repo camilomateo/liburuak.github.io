@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
-  <link href="../allbooks/allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <link href="../allbooks/allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 8)" />
   <entry>
     <title>Tierra de invierno</title>
     <id>calibre:book:1775</id>
     <updated>2024-09-09T10:39:54Z</updated>
     <link href="../../Kim%20Faber/Tierra%20de%20invierno%20%281775%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kim%20Faber/Tierra%20de%20invierno%20%281775%29/Tierra%20de%20invierno%20-%20Kim%20Faber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Kim%20Faber/Tierra%20de%20invierno%20%281775%29/Tierra%20de%20invierno%20-%20Kim%20Faber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Kim Faber</name>
       <uri>../authors_1/authors_1275_Page_1.xml</uri>
@@ -36,11 +36,28 @@
     <link href="../book_1/book_1775.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Tierra feroz</title>
+    <id>calibre:book:2841</id>
+    <updated>2025-01-26T11:50:54Z</updated>
+    <link href="../../Jota%20Quijorna/Tierra%20feroz%20%282841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jota%20Quijorna/Tierra%20feroz%20%282841%29/Tierra%20feroz%20-%20Jota%20Quijorna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="675 KB" />
+    <author>
+      <name>Jota Quijorna</name>
+      <uri>../authors_1/authors_1858_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela inquietante y adictiva; una nueva voz turbadora en el thriller español. La oscuridad de un alma herida es el hogar de todo mal. Frente a un siniestro caserón de piedra, anclado en medio de la cuenca minera asturiana, se detiene un coche de...</summary>
+    <link href="../book_2/book_2841.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Tierra inestable</title>
     <id>calibre:book:392</id>
     <updated>2023-03-09T00:08:54Z</updated>
     <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/Tierra%20inestable%20-%20Claire%20Fuller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/Tierra%20inestable%20-%20Claire%20Fuller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
     <author>
       <name>Claire Fuller</name>
       <uri>../authors_0/authors_285_Page_1.xml</uri>
@@ -58,7 +75,7 @@
     <id>calibre:book:1719</id>
     <updated>2024-08-08T04:59:22Z</updated>
     <link href="../../Amanda%20Teillery%20Delattre/Tierra%20materna%20%281719%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amanda%20Teillery%20Delattre/Tierra%20materna%20%281719%29/Tierra%20materna%20-%20Amanda%20Teillery%20Delattre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="167 KB" />
+    <link href="../../Amanda%20Teillery%20Delattre/Tierra%20materna%20%281719%29/Tierra%20materna%20-%20Amanda%20Teillery%20Delattre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="167 KB" />
     <author>
       <name>Amanda Teillery Delattre</name>
       <uri>../authors_1/authors_1230_Page_1.xml</uri>
@@ -75,7 +92,7 @@
     <id>calibre:book:1676</id>
     <updated>2024-07-22T06:21:11Z</updated>
     <link href="../../Toni%20Hill/Tigres%20de%20cristal%20%281676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Toni%20Hill/Tigres%20de%20cristal%20%281676%29/Tigres%20de%20cristal%20-%20Toni%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="698 KB" />
+    <link href="../../Toni%20Hill/Tigres%20de%20cristal%20%281676%29/Tigres%20de%20cristal%20-%20Toni%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="698 KB" />
     <author>
       <name>Toni Hill</name>
       <uri>../authors_0/authors_605_Page_1.xml</uri>
@@ -92,7 +109,7 @@
     <id>calibre:book:2754</id>
     <updated>2024-12-22T11:36:55Z</updated>
     <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
+    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="672 KB" />
     <author>
       <name>Andrea Tomé</name>
       <uri>../authors_1/authors_1801_Page_1.xml</uri>
@@ -109,7 +126,7 @@
     <id>calibre:book:1218</id>
     <updated>2024-02-20T04:09:06Z</updated>
     <link href="../../Benito%20Olmo/Tinta%20y%20fuego%20%281218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Olmo/Tinta%20y%20fuego%20%281218%29/Tinta%20y%20fuego%20-%20Benito%20Olmo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="883 KB" />
+    <link href="../../Benito%20Olmo/Tinta%20y%20fuego%20%281218%29/Tinta%20y%20fuego%20-%20Benito%20Olmo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="883 KB" />
     <author>
       <name>Benito Olmo</name>
       <uri>../authors_0/authors_884_Page_1.xml</uri>
@@ -126,7 +143,7 @@
     <id>calibre:book:2017</id>
     <updated>2024-09-06T01:57:46Z</updated>
     <link href="../../Ramon%20Maria%20del%20Valle-Inclan/Tirano%20Banderas%20%282017%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ramon%20Maria%20del%20Valle-Inclan/Tirano%20Banderas%20%282017%29/Tirano%20Banderas%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="198 KB" />
+    <link href="../../Ramon%20Maria%20del%20Valle-Inclan/Tirano%20Banderas%20%282017%29/Tirano%20Banderas%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="198 KB" />
     <author>
       <name>Ramón María del Valle-Inclán</name>
       <uri>../authors_1/authors_1448_Page_1.xml</uri>
@@ -144,7 +161,7 @@
     <id>calibre:book:708</id>
     <updated>2023-05-17T01:10:30Z</updated>
     <link href="../../John%20Boyne/Todas%20las%20piezas%20rotas%20%28708%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Boyne/Todas%20las%20piezas%20rotas%20%28708%29/Todas%20las%20piezas%20rotas%20-%20John%20Boyne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../John%20Boyne/Todas%20las%20piezas%20rotas%20%28708%29/Todas%20las%20piezas%20rotas%20-%20John%20Boyne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>John Boyne</name>
       <uri>../authors_0/authors_528_Page_1.xml</uri>
@@ -161,7 +178,7 @@
     <id>calibre:book:2629</id>
     <updated>2024-10-16T09:57:39Z</updated>
     <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/Todas%20las%20ventanas%20-%20Barbara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="392 KB" />
+    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/Todas%20las%20ventanas%20-%20Barbara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="392 KB" />
     <author>
       <name>Bárbara Sánchez</name>
       <uri>../authors_1/authors_1725_Page_1.xml</uri>
@@ -178,7 +195,7 @@
     <id>calibre:book:78</id>
     <updated>2023-01-18T00:02:46Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/Todo%20arde%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20arde%20%2878%29/Todo%20arde%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -195,7 +212,7 @@
     <id>calibre:book:2576</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/Todo%20el%20bien%20y%20todo%20el%20mal%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="791 KB" />
+    <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/Todo%20el%20bien%20y%20todo%20el%20mal%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="791 KB" />
     <author>
       <name>Care Santos</name>
       <uri>../authors_0/authors_257_Page_1.xml</uri>
@@ -212,7 +229,7 @@
     <id>calibre:book:1763</id>
     <updated>2024-08-26T10:56:09Z</updated>
     <link href="../../Seth%20Stephens-Davidowitz/Todo%20el%20mundo%20miente%20%281763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Seth%20Stephens-Davidowitz/Todo%20el%20mundo%20miente%20%281763%29/Todo%20el%20mundo%20miente%20-%20Seth%20Stephens-Davidowitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Seth%20Stephens-Davidowitz/Todo%20el%20mundo%20miente%20%281763%29/Todo%20el%20mundo%20miente%20-%20Seth%20Stephens-Davidowitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Seth Stephens-Davidowitz</name>
       <uri>../authors_1/authors_1263_Page_1.xml</uri>
@@ -229,7 +246,7 @@
     <id>calibre:book:672</id>
     <updated>2023-05-15T05:51:26Z</updated>
     <link href="../../Kate%20Brook/Todo%20el%20mundo%20quiere%20a%20Alfie%20%28672%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kate%20Brook/Todo%20el%20mundo%20quiere%20a%20Alfie%20%28672%29/Todo%20el%20mundo%20quiere%20a%20Alfie%20-%20Kate%20Brook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+    <link href="../../Kate%20Brook/Todo%20el%20mundo%20quiere%20a%20Alfie%20%28672%29/Todo%20el%20mundo%20quiere%20a%20Alfie%20-%20Kate%20Brook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="556 KB" />
     <author>
       <name>Kate Brook</name>
       <uri>../authors_0/authors_499_Page_1.xml</uri>
@@ -246,7 +263,7 @@
     <id>calibre:book:595</id>
     <updated>2023-05-02T01:40:20Z</updated>
     <link href="../../Irene%20Junquera/Todo%20el%20tiempo%20que%20nos%20queda%20%28595%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Irene%20Junquera/Todo%20el%20tiempo%20que%20nos%20queda%20%28595%29/Todo%20el%20tiempo%20que%20nos%20queda%20-%20Irene%20Junquera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="679 KB" />
+    <link href="../../Irene%20Junquera/Todo%20el%20tiempo%20que%20nos%20queda%20%28595%29/Todo%20el%20tiempo%20que%20nos%20queda%20-%20Irene%20Junquera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="679 KB" />
     <author>
       <name>Irene Junquera</name>
       <uri>../authors_0/authors_443_Page_1.xml</uri>
@@ -263,7 +280,7 @@
     <id>calibre:book:1982</id>
     <updated>2024-09-05T06:10:30Z</updated>
     <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/Todo%20lo%20bueno%20es%20libre%20y%20salvaj%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="181 KB" />
+    <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/Todo%20lo%20bueno%20es%20libre%20y%20salvaj%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="181 KB" />
     <author>
       <name>Henry David Thoreau</name>
       <uri>../authors_1/authors_1418_Page_1.xml</uri>
@@ -282,7 +299,7 @@
     <id>calibre:book:340</id>
     <updated>2023-02-21T01:18:08Z</updated>
     <link href="../../Maria%20Jose%20Navia/Todo%20lo%20que%20aprendimos%20de%20las%20pelic%20%28340%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Jose%20Navia/Todo%20lo%20que%20aprendimos%20de%20las%20pelic%20%28340%29/Todo%20lo%20que%20aprendimos%20de%20las%20p%20-%20Maria%20Jose%20Navia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="544 KB" />
+    <link href="../../Maria%20Jose%20Navia/Todo%20lo%20que%20aprendimos%20de%20las%20pelic%20%28340%29/Todo%20lo%20que%20aprendimos%20de%20las%20p%20-%20Maria%20Jose%20Navia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="544 KB" />
     <author>
       <name>María José Navia</name>
       <uri>../authors_0/authors_237_Page_1.xml</uri>
@@ -299,7 +316,7 @@
     <id>calibre:book:567</id>
     <updated>2023-04-17T01:30:24Z</updated>
     <link href="../../Javier%20Castillo/Todo%20lo%20que%20sucedio%20con%20Miranda%20Huf%20%28567%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Castillo/Todo%20lo%20que%20sucedio%20con%20Miranda%20Huf%20%28567%29/Todo%20lo%20que%20sucedio%20con%20Miranda%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="567 KB" />
+    <link href="../../Javier%20Castillo/Todo%20lo%20que%20sucedio%20con%20Miranda%20Huf%20%28567%29/Todo%20lo%20que%20sucedio%20con%20Miranda%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="567 KB" />
     <author>
       <name>Javier Castillo</name>
       <uri>../authors_0/authors_165_Page_1.xml</uri>
@@ -316,7 +333,7 @@
     <id>calibre:book:1863</id>
     <updated>2024-09-02T04:27:38Z</updated>
     <link href="../../Dolly%20Alderton/Todo%20lo%20que%20se%20sobre%20el%20amor%20%281863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolly%20Alderton/Todo%20lo%20que%20se%20sobre%20el%20amor%20%281863%29/Todo%20lo%20que%20se%20sobre%20el%20amor%20-%20Dolly%20Alderton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="405 KB" />
+    <link href="../../Dolly%20Alderton/Todo%20lo%20que%20se%20sobre%20el%20amor%20%281863%29/Todo%20lo%20que%20se%20sobre%20el%20amor%20-%20Dolly%20Alderton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="405 KB" />
     <author>
       <name>Dolly Alderton</name>
       <uri>../authors_1/authors_1335_Page_1.xml</uri>
@@ -333,7 +350,7 @@
     <id>calibre:book:2703</id>
     <updated>2024-11-07T00:45:05Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -351,7 +368,7 @@
     <id>calibre:book:11</id>
     <updated>2024-02-05T06:06:52Z</updated>
     <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/Todo%20saldra%20bien_.%20a%20veces%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="17 MB" />
+    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/Todo%20saldra%20bien_.%20a%20veces%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="17 MB" />
     <author>
       <name>René Merino</name>
       <uri>../authors_0/authors_9_Page_1.xml</uri>
@@ -369,7 +386,7 @@
     <id>calibre:book:2650</id>
     <updated>2024-10-22T07:50:36Z</updated>
     <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/Todo%20sobre%20Stephen%20King%20-%20Ariel%20Bosi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/Todo%20sobre%20Stephen%20King%20-%20Ariel%20Bosi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Ariel Bosi</name>
       <uri>../authors_1/authors_1743_Page_1.xml</uri>
@@ -389,7 +406,7 @@
     <id>calibre:book:1085</id>
     <updated>2023-12-12T08:20:57Z</updated>
     <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/Todo%20tiene%20su%20precio%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+    <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/Todo%20tiene%20su%20precio%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="647 KB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -407,7 +424,7 @@
     <id>calibre:book:53</id>
     <updated>2023-01-17T10:50:56Z</updated>
     <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/Todo%20va%20a%20mejorar%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1004 KB" />
+    <link href="../../Almudena%20Grandes/Todo%20va%20a%20mejorar%20%2853%29/Todo%20va%20a%20mejorar%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1004 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -424,7 +441,7 @@
     <id>calibre:book:1047</id>
     <updated>2023-11-01T07:30:37Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/Todo%20vuelve%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20vuelve%20%281047%29/Todo%20vuelve%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="794 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -440,24 +457,7 @@ No es tarea fácil.
 Las otras son cuatro, son más fuertes y ella -una figura acorralada en el patio de la cárcel- nunca ha sabido defenderse dema...</summary>
     <link href="../book_1/book_1047.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Todos aquellos mares</title>
-    <id>calibre:book:2585</id>
-    <updated>2024-09-12T03:39:18Z</updated>
-    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/Todos%20aquellos%20mares%20-%20Laia%20Aguilar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="241 KB" />
-    <author>
-      <name>Laia Aguilar</name>
-      <uri>../authors_1/authors_1701_Page_1.xml</uri>
-    </author>
-    <published>2024-08-27T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Tres generaciones de mujeres marcadas por un pasado común en la isla de Formentera. Greta, marcada por la desaparición de Julieta, su hermana pequeña, vuelve a Formentera para cuidar a su querida abuela Matilde, el pilar de la familia, que mantiene v...</summary>
-    <link href="../book_2/book_2585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

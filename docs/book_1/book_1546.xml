@@ -6,11 +6,11 @@
   <link href="./book_1546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los secretos de la mente millonaria" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
   <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/Los%20secretos%20de%20la%20mente%20millon%20-%20T.%20Harv%20Eker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="305 KB" />
+  <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/Los%20secretos%20de%20la%20mente%20millon%20-%20T.%20Harv%20Eker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="305 KB" />
   <author>
     <name>T. Harv Eker</name>
     <uri>../authors_1/authors_1128_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Divulgación, Autoayuda, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Todos tenemos un patrón personal del dinero arraigado
     en nuestro subconsciente, y es este patrón, más que
@@ -47,5 +47,5 @@
     al éxito económico de una forma natural y
     automática. ¡Los resultados te sorprenderán!</p>
   </content>
-  <link href="../authors_1/authors_1128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de T. Harv Eker" />
+  <link href="../authors_1/authors_1128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by T. Harv Eker" />
 </entry>

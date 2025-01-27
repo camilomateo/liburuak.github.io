@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por 8</title>
+  <title>Books starting with 8</title>
   <id>Calibre2opds:allbooks:8</id>
   <author>
     <name>David Pierron</name>
@@ -8,16 +8,16 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por 8" />
+  <link href="./allbooks_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 8" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
     <title>83 segundos</title>
     <id>calibre:book:900</id>
     <updated>2023-06-26T05:25:12Z</updated>
     <link href="../../Cesar%20G.%20Anton/83%20segundos%20%28900%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cesar%20G.%20Anton/83%20segundos%20%28900%29/83%20segundos%20-%20Cesar%20G.%20Anton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <link href="../../Cesar%20G.%20Anton/83%20segundos%20%28900%29/83%20segundos%20-%20Cesar%20G.%20Anton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
     <author>
       <name>César G. Antón</name>
       <uri>../authors_0/authors_675_Page_1.xml</uri>

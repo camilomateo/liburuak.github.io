@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por 5</title>
+  <title>Books starting with 5</title>
   <id>Calibre2opds:allbooks:5</id>
   <author>
     <name>David Pierron</name>
@@ -8,16 +8,16 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por 5" />
+  <link href="./allbooks_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 5" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
     <title>5 consejos para potenciar la inteligencia</title>
     <id>calibre:book:1242</id>
     <updated>2024-02-23T09:41:58Z</updated>
     <link href="../../Enrique%20Rojas/5%20consejos%20para%20potenciar%20la%20inteli%20%281242%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Enrique%20Rojas/5%20consejos%20para%20potenciar%20la%20inteli%20%281242%29/5%20consejos%20para%20potenciar%20la%20in%20-%20Enrique%20Rojas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../Enrique%20Rojas/5%20consejos%20para%20potenciar%20la%20inteli%20%281242%29/5%20consejos%20para%20potenciar%20la%20in%20-%20Enrique%20Rojas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>Enrique Rojas</name>
       <uri>../authors_0/authors_905_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:729</id>
     <updated>2023-05-17T01:23:24Z</updated>
     <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/555%20joyas%20de%20la%20sabiduria_%20La%20f%20-%20Jose%20Ramon%20Ayllon%20Vega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="779 KB" />
+    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/555%20joyas%20de%20la%20sabiduria_%20La%20f%20-%20Jose%20Ramon%20Ayllon%20Vega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="779 KB" />
     <author>
       <name>José Ramón Ayllón Vega</name>
       <uri>../authors_0/authors_544_Page_1.xml</uri>

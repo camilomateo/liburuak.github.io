@@ -6,11 +6,11 @@
   <link href="./book_964.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La guía práctica para ser feliz" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
   <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/La%20guia%20practica%20para%20ser%20feliz%20-%20Elan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+  <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/La%20guia%20practica%20para%20ser%20feliz%20-%20Elan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
   <author>
     <name>Elán</name>
     <uri>../authors_0/authors_718_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">
       <b>La fórmula para la felicidad no existe ni viene en
@@ -43,5 +43,5 @@
     carcajada. y en ese sentido, puede que sí nos acerque un
     poquito a la felicidad.</p>
   </content>
-  <link href="../authors_0/authors_718_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Elán" />
+  <link href="../authors_0/authors_718_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Elán" />
 </entry>

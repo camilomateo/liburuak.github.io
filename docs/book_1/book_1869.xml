@@ -6,11 +6,11 @@
   <link href="./book_1869.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El sexo y el fracaso del absoluto" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
   <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/El%20sexo%20y%20el%20fracaso%20del%20absolu%20-%20Slavoj%20Zizek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="740 KB" />
+  <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/El%20sexo%20y%20el%20fracaso%20del%20absolu%20-%20Slavoj%20Zizek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="740 KB" />
   <author>
     <name>Slavoj Žižek</name>
     <uri>../authors_1/authors_1340_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px">
@@ -49,5 +49,5 @@
       </p>
     </div>
   </content>
-  <link href="../authors_1/authors_1340_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Slavoj Žižek" />
+  <link href="../authors_1/authors_1340_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Slavoj Žižek" />
 </entry>

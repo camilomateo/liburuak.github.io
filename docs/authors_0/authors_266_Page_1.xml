@@ -11,12 +11,12 @@
   <link href="./authors_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jo Nesbø" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <entry>
-    <title>Todos los libros de Jo Nesbø</title>
+    <title>All books by Jo Nesbø</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 7 libros</content>
+    <content type="text">Alphabetical index of the 7 books</content>
     <link href="../authors_0/authors_266_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -24,7 +24,7 @@
   <entry>
     <title>Series: Harry Hole</title>
     <id>Calibre2opds:authors:266series:126</id>
-    <content type="text">3 libros</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_266_series_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -50,7 +50,7 @@
     <id>calibre:book:372</id>
     <updated>2023-03-03T08:31:26Z</updated>
     <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Jo%20Nesbo/Headhunters%20%28372%29/Headhunters%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -67,7 +67,7 @@
     <id>calibre:book:1731</id>
     <updated>2024-08-08T04:59:24Z</updated>
     <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>

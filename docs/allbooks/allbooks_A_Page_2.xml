@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
-  <link href="../allbooks/allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <link href="../allbooks/allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 10)" />
   <entry>
     <title>Adicta a un gilipollas</title>
     <id>calibre:book:363</id>
     <updated>2023-02-27T01:47:48Z</updated>
     <link href="../../Lara%20Ferreiro/Adicta%20a%20un%20gilipollas%20%28363%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lara%20Ferreiro/Adicta%20a%20un%20gilipollas%20%28363%29/Adicta%20a%20un%20gilipollas%20-%20Lara%20Ferreiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Lara%20Ferreiro/Adicta%20a%20un%20gilipollas%20%28363%29/Adicta%20a%20un%20gilipollas%20-%20Lara%20Ferreiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Lara Ferreiro</name>
       <uri>../authors_0/authors_258_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:2675</id>
     <updated>2024-10-22T08:08:33Z</updated>
     <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/Adios%20a%20la%20inflamacion%20-%20Sandra%20Monino%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/Adios%20a%20la%20inflamacion%20-%20Sandra%20Monino%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Sandra Moñino Costa</name>
       <uri>../authors_1/authors_1759_Page_1.xml</uri>
@@ -57,7 +57,7 @@
     <id>calibre:book:2582</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="314 KB" />
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="314 KB" />
     <author>
       <name>Xavier Sardà</name>
       <uri>../authors_1/authors_1698_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:1698</id>
     <updated>2024-07-29T11:16:59Z</updated>
     <link href="../../DBR%20Publishing/Adoptando%20ChatGPT%20%281698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../DBR%20Publishing/Adoptando%20ChatGPT%20%281698%29/Adoptando%20ChatGPT%20-%20DBR%20Publishing.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="485 KB" />
+    <link href="../../DBR%20Publishing/Adoptando%20ChatGPT%20%281698%29/Adoptando%20ChatGPT%20-%20DBR%20Publishing.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="485 KB" />
     <author>
       <name>DBR Publishing</name>
       <uri>../authors_1/authors_1215_Page_1.xml</uri>
@@ -91,7 +91,7 @@
     <id>calibre:book:2084</id>
     <updated>2024-09-06T02:09:09Z</updated>
     <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/Adventures%20of%20Huckleberry%20Finn%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+    <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/Adventures%20of%20Huckleberry%20Finn%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
     <author>
       <name>Mark Twain</name>
       <uri>../authors_1/authors_1488_Page_1.xml</uri>
@@ -131,7 +131,7 @@
     <id>calibre:book:2074</id>
     <updated>2024-09-06T02:09:08Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%282074%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%282074%29/The%20Adventures%20of%20Sherlock%20Holm%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="278 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%282074%29/The%20Adventures%20of%20Sherlock%20Holm%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="278 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -163,7 +163,7 @@
     <id>calibre:book:2122</id>
     <updated>2024-09-06T02:21:19Z</updated>
     <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="236 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>
@@ -191,7 +191,7 @@
     <id>calibre:book:1722</id>
     <updated>2024-08-08T04:59:22Z</updated>
     <link href="../../Fatima%20Casaseca/Afectos%20secundarios%20%281722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fatima%20Casaseca/Afectos%20secundarios%20%281722%29/Afectos%20secundarios%20-%20Fatima%20Casaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="397 KB" />
+    <link href="../../Fatima%20Casaseca/Afectos%20secundarios%20%281722%29/Afectos%20secundarios%20-%20Fatima%20Casaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="397 KB" />
     <author>
       <name>Fátima Casaseca</name>
       <uri>../authors_1/authors_1233_Page_1.xml</uri>
@@ -208,7 +208,7 @@
     <id>calibre:book:1967</id>
     <updated>2024-09-05T06:10:27Z</updated>
     <link href="../../Hipocrates/Aforismos%20y%20sentencias%20%281967%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hipocrates/Aforismos%20y%20sentencias%20%281967%29/Aforismos%20y%20sentencias%20-%20Hipocrates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <link href="../../Hipocrates/Aforismos%20y%20sentencias%20%281967%29/Aforismos%20y%20sentencias%20-%20Hipocrates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
     <author>
       <name>Hipócrates</name>
       <uri>../authors_1/authors_1409_Page_1.xml</uri>
@@ -226,7 +226,7 @@
     <id>calibre:book:2339</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Esquilo/Agamenon%20%282339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Agamenon%20%282339%29/Agamenon%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <link href="../../Esquilo/Agamenon%20%282339%29/Agamenon%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="100 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -244,7 +244,7 @@
     <id>calibre:book:573</id>
     <updated>2023-04-23T10:20:42Z</updated>
     <link href="../../M.C.%20Beaton/Agatha%20Raisin%20y%20la%20boda%20sangrienta%20%28573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../M.C.%20Beaton/Agatha%20Raisin%20y%20la%20boda%20sangrienta%20%28573%29/Agatha%20Raisin%20y%20la%20boda%20sangrie%20-%20M.C.%20Beaton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="510 KB" />
+    <link href="../../M.C.%20Beaton/Agatha%20Raisin%20y%20la%20boda%20sangrienta%20%28573%29/Agatha%20Raisin%20y%20la%20boda%20sangrie%20-%20M.C.%20Beaton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="510 KB" />
     <author>
       <name>M.C. Beaton</name>
       <uri>../authors_0/authors_426_Page_1.xml</uri>
@@ -262,7 +262,7 @@
     <id>calibre:book:2321</id>
     <updated>2024-09-09T10:34:07Z</updated>
     <link href="../../Anne%20Bronte/Agnes%20Grey%20%282321%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Bronte/Agnes%20Grey%20%282321%29/Agnes%20Grey%20-%20Anne%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="245 KB" />
+    <link href="../../Anne%20Bronte/Agnes%20Grey%20%282321%29/Agnes%20Grey%20-%20Anne%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="245 KB" />
     <author>
       <name>Anne Brontë</name>
       <uri>../authors_1/authors_1617_Page_1.xml</uri>
@@ -280,7 +280,7 @@
     <id>calibre:book:1677</id>
     <updated>2024-07-22T06:21:11Z</updated>
     <link href="../../Luis%20Roso/Aguacero%20%281677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Roso/Aguacero%20%281677%29/Aguacero%20-%20Luis%20Roso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="405 KB" />
+    <link href="../../Luis%20Roso/Aguacero%20%281677%29/Aguacero%20-%20Luis%20Roso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="405 KB" />
     <author>
       <name>Luis Roso</name>
       <uri>../authors_1/authors_1138_Page_1.xml</uri>
@@ -297,7 +297,7 @@
     <id>calibre:book:1478</id>
     <updated>2024-04-30T05:13:17Z</updated>
     <link href="../../Ivan%20S.%20Turguenev/Aguas%20de%20primavera%20%281478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ivan%20S.%20Turguenev/Aguas%20de%20primavera%20%281478%29/Aguas%20de%20primavera%20-%20Ivan%20S.%20Turguenev.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ivan%20S.%20Turguenev/Aguas%20de%20primavera%20%281478%29/Aguas%20de%20primavera%20-%20Ivan%20S.%20Turguenev.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Iván S. Turguénev</name>
       <uri>../authors_1/authors_1081_Page_1.xml</uri>
@@ -312,7 +312,7 @@
     <id>calibre:book:734</id>
     <updated>2023-05-17T01:59:58Z</updated>
     <link href="../../Curro%20Canete/Ahora%20te%20toca%20ser%20feliz%20%28734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Curro%20Canete/Ahora%20te%20toca%20ser%20feliz%20%28734%29/Ahora%20te%20toca%20ser%20feliz%20-%20Curro%20Canete.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="773 KB" />
+    <link href="../../Curro%20Canete/Ahora%20te%20toca%20ser%20feliz%20%28734%29/Ahora%20te%20toca%20ser%20feliz%20-%20Curro%20Canete.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="773 KB" />
     <author>
       <name>Curro Cañete</name>
       <uri>../authors_0/authors_549_Page_1.xml</uri>
@@ -330,7 +330,7 @@
     <id>calibre:book:2636</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
       <name>Anne Jacobs</name>
       <uri>../authors_0/authors_194_Page_1.xml</uri>
@@ -349,7 +349,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:2786</id>
     <updated>2025-01-09T08:19:02Z</updated>
     <link href="../../Miguel%20Angel%20Cienfuegos/Ajuste%20de%20cuentas%20%282786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Angel%20Cienfuegos/Ajuste%20de%20cuentas%20%282786%29/Ajuste%20de%20cuentas%20-%20Miguel%20Angel%20Cienfuegos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="384 KB" />
+    <link href="../../Miguel%20Angel%20Cienfuegos/Ajuste%20de%20cuentas%20%282786%29/Ajuste%20de%20cuentas%20-%20Miguel%20Angel%20Cienfuegos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="384 KB" />
     <author>
       <name>Miguel Ángel Cienfuegos</name>
       <uri>../authors_1/authors_1823_Page_1.xml</uri>
@@ -370,7 +370,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1009</id>
     <updated>2023-08-27T03:30:32Z</updated>
     <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/Ajuste%20de%20cuentas%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <link href="../../John%20Grisham/Ajuste%20de%20cuentas%20%281009%29/Ajuste%20de%20cuentas%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="671 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -387,7 +387,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1048</id>
     <updated>2023-11-01T07:27:30Z</updated>
     <link href="../../Mario%20Mendoza/Akelarre%20%281048%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Mendoza/Akelarre%20%281048%29/Akelarre%20-%20Mario%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Mario%20Mendoza/Akelarre%20%281048%29/Akelarre%20-%20Mario%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Mario Mendoza</name>
       <uri>../authors_0/authors_768_Page_1.xml</uri>
@@ -404,7 +404,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1656</id>
     <updated>2024-07-07T03:32:36Z</updated>
     <link href="../../Jay%20McInerney/Al%20caer%20la%20luz%20%281656%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jay%20McInerney/Al%20caer%20la%20luz%20%281656%29/Al%20caer%20la%20luz%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <link href="../../Jay%20McInerney/Al%20caer%20la%20luz%20%281656%29/Al%20caer%20la%20luz%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
     <author>
       <name>Jay McInerney</name>
       <uri>../authors_1/authors_1192_Page_1.xml</uri>
@@ -422,7 +422,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:2135</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Teodoro%20Guerrero/Al%20calor%20del%20hogar_%20impresiones%20y%20c%20%282135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Teodoro%20Guerrero/Al%20calor%20del%20hogar_%20impresiones%20y%20c%20%282135%29/Al%20calor%20del%20hogar_%20impresiones%20-%20Teodoro%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="168 KB" />
+    <link href="../../Teodoro%20Guerrero/Al%20calor%20del%20hogar_%20impresiones%20y%20c%20%282135%29/Al%20calor%20del%20hogar_%20impresiones%20-%20Teodoro%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="168 KB" />
     <author>
       <name>Teodoro Guerrero</name>
       <uri>../authors_1/authors_1515_Page_1.xml</uri>
@@ -438,7 +438,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1680</id>
     <updated>2024-07-22T06:30:41Z</updated>
     <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Carlos Laredo</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -458,7 +458,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1380</id>
     <updated>2024-04-03T00:30:04Z</updated>
     <link href="../../Marc%20Betriu/Al%20otro%20lado%20%281380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marc%20Betriu/Al%20otro%20lado%20%281380%29/Al%20otro%20lado%20-%20Marc%20Betriu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="605 KB" />
+    <link href="../../Marc%20Betriu/Al%20otro%20lado%20%281380%29/Al%20otro%20lado%20-%20Marc%20Betriu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="605 KB" />
     <author>
       <name>Marc Betriu</name>
       <uri>../authors_1/authors_1013_Page_1.xml</uri>
@@ -475,7 +475,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1838</id>
     <updated>2024-08-30T02:08:02Z</updated>
     <link href="../../Pedro%20Santamaria/Al%20servicio%20del%20imperio%20%281838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Santamaria/Al%20servicio%20del%20imperio%20%281838%29/Al%20servicio%20del%20imperio%20-%20Pedro%20Santamaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Pedro%20Santamaria/Al%20servicio%20del%20imperio%20%281838%29/Al%20servicio%20del%20imperio%20-%20Pedro%20Santamaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pedro Santamaría</name>
       <uri>../authors_1/authors_1315_Page_1.xml</uri>
@@ -492,7 +492,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:1769</id>
     <updated>2024-08-26T10:56:11Z</updated>
     <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/Al%20sur%20de%20la%20razon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="23 MB" />
+    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/Al%20sur%20de%20la%20razon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="23 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>

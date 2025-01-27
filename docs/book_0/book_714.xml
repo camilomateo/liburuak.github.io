@@ -6,12 +6,12 @@
   <link href="./book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Una hormiga en París" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
-  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/Una%20hormiga%20en%20Paris%20-%20Marc%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+  <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/Una%20hormiga%20en%20Paris%20-%20Marc%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
   <author>
     <name>Marc Vidal</name>
     <uri>../authors_0/authors_532_Page_1.xml</uri>
@@ -27,14 +27,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Ciencias sociales, Autoayuda, Divulgación, memorias, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Luchar por los sueños propios es la receta más
@@ -52,5 +52,5 @@
       grandes lecciones sobre la vida y la empresa.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_532_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Marc Vidal" />
+  <link href="../authors_0/authors_532_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Marc Vidal" />
 </entry>

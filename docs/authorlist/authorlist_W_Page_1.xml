@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Autores que empiezan por W</title>
+  <title>Authors starting with W</title>
   <id>Calibre2opds:authorlist:W</id>
   <author>
     <name>David Pierron</name>
@@ -8,11 +8,11 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Autores que empiezan por W" />
+  <link href="./authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with W" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_W_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
     <title>Tríona Walsh</title>
     <id>Calibre2opds:authors:919</id>
@@ -24,7 +24,7 @@
   <entry>
     <title>K. L. Walther</title>
     <id>Calibre2opds:authors:583</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_583_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -48,7 +48,7 @@
   <entry>
     <title>Tim Weaver</title>
     <id>Calibre2opds:authors:1794</id>
-    <content type="text">Las vías de la muerte</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1794_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -80,7 +80,7 @@
   <entry>
     <title>H. G. Wells</title>
     <id>Calibre2opds:authors:1619</id>
-    <content type="text">4 libros</content>
+    <content type="text">4 books</content>
     <link href="../authors_1/authors_1619_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -98,6 +98,14 @@
     <id>Calibre2opds:authors:1631</id>
     <content type="text">La edad de la inocencia</content>
     <link href="../authors_1/authors_1631_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chris Whitaker</title>
+    <id>Calibre2opds:authors:1850</id>
+    <content type="text">1 book</content>
+    <link href="../authors_1/authors_1850_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -128,7 +136,7 @@
   <entry>
     <title>Jordi Wild</title>
     <id>Calibre2opds:authors:152</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -136,7 +144,7 @@
   <entry>
     <title>Oscar Wilde</title>
     <id>Calibre2opds:authors:110</id>
-    <content type="text">9 libros</content>
+    <content type="text">9 books</content>
     <link href="../authors_0/authors_110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -160,7 +168,7 @@
   <entry>
     <title>Florence White Williams</title>
     <id>Calibre2opds:authors:1480</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_1/authors_1480_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -168,7 +176,7 @@
   <entry>
     <title>Valentine Williams</title>
     <id>Calibre2opds:authors:680</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_680_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -176,7 +184,7 @@
   <entry>
     <title>Johann Joachim Winckelmann</title>
     <id>Calibre2opds:authors:149</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_149_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -184,7 +192,7 @@
   <entry>
     <title>Edwin Winkels</title>
     <id>Calibre2opds:authors:993</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_993_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -192,7 +200,7 @@
   <entry>
     <title>Don Winslow</title>
     <id>Calibre2opds:authors:842</id>
-    <content type="text">4 libros</content>
+    <content type="text">4 books</content>
     <link href="../authors_0/authors_842_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:authors:845</id>
     <content type="text">Una venganza imperfecta</content>
     <link href="../authors_0/authors_845_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Leslie Wolfe</title>
-    <id>Calibre2opds:authors:765</id>
-    <content type="text">2 libros</content>
-    <link href="../authors_0/authors_765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

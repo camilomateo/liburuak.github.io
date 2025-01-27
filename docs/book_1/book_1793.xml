@@ -6,12 +6,12 @@
   <link href="./book_1793.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La historia secreta. AMLO y el Cártel de Sinaloa" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/La%20historia%20secreta.%20AMLO%20y%20el%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Anabel%20Hernandez/La%20historia%20secreta.%20AMLO%20y%20el%20Cart%20%281793%29/La%20historia%20secreta.%20AMLO%20y%20el%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Anabel Hernández</name>
     <uri>../authors_1/authors_1020_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Narcos, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p> </p>
@@ -80,5 +80,5 @@
       <p>Anabel Hernández</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1020_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Anabel Hernández" />
+  <link href="../authors_1/authors_1020_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Anabel Hernández" />
 </entry>

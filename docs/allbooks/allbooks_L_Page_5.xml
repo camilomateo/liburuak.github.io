@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por L</title>
+  <title>Books starting with L</title>
   <id>Calibre2opds:allbooks:L</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por L" />
+  <link href="./allbooks_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with L" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por L" />
-  <link href="../allbooks/allbooks_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
+  <link href="../allbooks/allbooks_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 7)" />
   <entry>
     <title>La ladrona de libros</title>
     <id>calibre:book:536</id>
     <updated>2023-04-05T00:40:18Z</updated>
     <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/La%20ladrona%20de%20libros%20-%20Markus%20Zusak.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/La%20ladrona%20de%20libros%20-%20Markus%20Zusak.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Markus Zusak</name>
       <uri>../authors_0/authors_396_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:1423</id>
     <updated>2024-04-09T11:16:20Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/El%20ladron%20de%20barro%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20barro%20%281423%29/El%20ladron%20de%20barro%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:2591</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:641</id>
     <updated>2023-05-04T11:35:08Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/El%20ladron%20de%20miedos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20miedos%20%28641%29/El%20ladron%20de%20miedos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="523 KB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -92,7 +92,7 @@
     <id>calibre:book:15</id>
     <updated>2023-01-17T10:10:34Z</updated>
     <link href="../../Ibon%20Martin/El%20ladron%20de%20rostros%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ibon%20Martin/El%20ladron%20de%20rostros%20%2815%29/El%20ladron%20de%20rostros%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="618 KB" />
+    <link href="../../Ibon%20Martin/El%20ladron%20de%20rostros%20%2815%29/El%20ladron%20de%20rostros%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="618 KB" />
     <author>
       <name>Ibon Martín</name>
       <uri>../authors_0/authors_13_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:565</id>
     <updated>2023-04-17T01:30:22Z</updated>
     <link href="../../Maria%20Soto/El%20ladron%20de%20veranos%20%28565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Soto/El%20ladron%20de%20veranos%20%28565%29/El%20ladron%20de%20veranos%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Maria%20Soto/El%20ladron%20de%20veranos%20%28565%29/El%20ladron%20de%20veranos%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>María Soto</name>
       <uri>../authors_0/authors_419_Page_1.xml</uri>
@@ -126,7 +126,7 @@
     <id>calibre:book:588</id>
     <updated>2023-04-28T02:02:34Z</updated>
     <link href="../../Pep%20Coll/La%20larga%20siesta%20de%20Dios%20%28588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pep%20Coll/La%20larga%20siesta%20de%20Dios%20%28588%29/La%20larga%20siesta%20de%20Dios%20-%20Pep%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <link href="../../Pep%20Coll/La%20larga%20siesta%20de%20Dios%20%28588%29/La%20larga%20siesta%20de%20Dios%20-%20Pep%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
       <name>Pep Coll</name>
       <uri>../authors_0/authors_437_Page_1.xml</uri>
@@ -143,7 +143,7 @@
     <id>calibre:book:1405</id>
     <updated>2024-04-08T04:38:20Z</updated>
     <link href="../../Louise%20Penny/El%20largo%20camino%20a%20casa%20%281405%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Louise%20Penny/El%20largo%20camino%20a%20casa%20%281405%29/El%20largo%20camino%20a%20casa%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <link href="../../Louise%20Penny/El%20largo%20camino%20a%20casa%20%281405%29/El%20largo%20camino%20a%20casa%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
     <author>
       <name>Louise Penny</name>
       <uri>../authors_0/authors_330_Page_1.xml</uri>
@@ -160,7 +160,7 @@
     <id>calibre:book:74</id>
     <updated>2023-01-21T01:46:46Z</updated>
     <link href="../../Sam%20Christer/El%20legado%20de%20Stonehenge%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sam%20Christer/El%20legado%20de%20Stonehenge%20%2874%29/El%20legado%20de%20Stonehenge%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="604 KB" />
+    <link href="../../Sam%20Christer/El%20legado%20de%20Stonehenge%20%2874%29/El%20legado%20de%20Stonehenge%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="604 KB" />
     <author>
       <name>Sam Christer</name>
       <uri>../authors_0/authors_22_Page_1.xml</uri>
@@ -177,7 +177,7 @@
     <id>calibre:book:1492</id>
     <updated>2024-05-03T02:01:59Z</updated>
     <link href="../../Alberto%20Meneses/El%20legado%20del%20mal%20%281492%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Meneses/El%20legado%20del%20mal%20%281492%29/El%20legado%20del%20mal%20-%20Alberto%20Meneses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Alberto%20Meneses/El%20legado%20del%20mal%20%281492%29/El%20legado%20del%20mal%20-%20Alberto%20Meneses.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Alberto Meneses</name>
       <uri>../authors_0/authors_496_Page_1.xml</uri>
@@ -195,7 +195,7 @@
     <id>calibre:book:230</id>
     <updated>2023-01-27T00:04:04Z</updated>
     <link href="../../Lola%20Pons%20Rodriguez/Una%20lengua%20muy%20muy%20larga%20%28230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lola%20Pons%20Rodriguez/Una%20lengua%20muy%20muy%20larga%20%28230%29/Una%20lengua%20muy%20muy%20larga%20-%20Lola%20Pons%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="838 KB" />
+    <link href="../../Lola%20Pons%20Rodriguez/Una%20lengua%20muy%20muy%20larga%20%28230%29/Una%20lengua%20muy%20muy%20larga%20-%20Lola%20Pons%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="838 KB" />
     <author>
       <name>Lola Pons Rodríguez</name>
       <uri>../authors_0/authors_157_Page_1.xml</uri>
@@ -212,7 +212,7 @@
     <id>calibre:book:1870</id>
     <updated>2024-09-02T04:41:14Z</updated>
     <link href="../../Salvador%20Gutierrez%20Solis/El%20lenguaje%20de%20las%20mareas%20%281870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Salvador%20Gutierrez%20Solis/El%20lenguaje%20de%20las%20mareas%20%281870%29/El%20lenguaje%20de%20las%20mareas%20-%20Salvador%20Gutierrez%20Solis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="587 KB" />
+    <link href="../../Salvador%20Gutierrez%20Solis/El%20lenguaje%20de%20las%20mareas%20%281870%29/El%20lenguaje%20de%20las%20mareas%20-%20Salvador%20Gutierrez%20Solis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="587 KB" />
     <author>
       <name>Salvador Gutiérrez Solís</name>
       <uri>../authors_0/authors_812_Page_1.xml</uri>
@@ -229,7 +229,7 @@
     <id>calibre:book:534</id>
     <updated>2023-04-05T00:40:16Z</updated>
     <link href="../../Alfonso%20del%20Rio/El%20lenguaje%20oculto%20de%20los%20libros%20%28534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alfonso%20del%20Rio/El%20lenguaje%20oculto%20de%20los%20libros%20%28534%29/El%20lenguaje%20oculto%20de%20los%20libro%20-%20Alfonso%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="657 KB" />
+    <link href="../../Alfonso%20del%20Rio/El%20lenguaje%20oculto%20de%20los%20libros%20%28534%29/El%20lenguaje%20oculto%20de%20los%20libro%20-%20Alfonso%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="657 KB" />
     <author>
       <name>Alfonso del Río</name>
       <uri>../authors_0/authors_395_Page_1.xml</uri>
@@ -246,7 +246,7 @@
     <id>calibre:book:2278</id>
     <updated>2024-09-09T10:33:58Z</updated>
     <link href="../../Nathaniel%20Hawthorne/La%20letra%20escarlata%20%282278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nathaniel%20Hawthorne/La%20letra%20escarlata%20%282278%29/La%20letra%20escarlata%20-%20Nathaniel%20Hawthorne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="248 KB" />
+    <link href="../../Nathaniel%20Hawthorne/La%20letra%20escarlata%20%282278%29/La%20letra%20escarlata%20-%20Nathaniel%20Hawthorne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="248 KB" />
     <author>
       <name>Nathaniel Hawthorne</name>
       <uri>../authors_1/authors_1596_Page_1.xml</uri>
@@ -264,7 +264,7 @@
     <id>calibre:book:2612</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/La%20letra%20herida%20-%20Sergio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="448 KB" />
+    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/La%20letra%20herida%20-%20Sergio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="448 KB" />
     <author>
       <name>Sergio Hernández</name>
       <uri>../authors_1/authors_1716_Page_1.xml</uri>
@@ -281,7 +281,7 @@
     <id>calibre:book:542</id>
     <updated>2023-04-06T09:50:06Z</updated>
     <link href="../../Chufo%20Llorens/La%20ley%20de%20los%20justos%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Chufo%20Llorens/La%20ley%20de%20los%20justos%20%28542%29/La%20ley%20de%20los%20justos%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Chufo%20Llorens/La%20ley%20de%20los%20justos%20%28542%29/La%20ley%20de%20los%20justos%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Chufo Lloréns</name>
       <uri>../authors_0/authors_389_Page_1.xml</uri>
@@ -298,7 +298,7 @@
     <id>calibre:book:949</id>
     <updated>2023-07-14T09:48:44Z</updated>
     <link href="../../Gemma%20Ventura/La%20ley%20del%20invierno%20%28949%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gemma%20Ventura/La%20ley%20del%20invierno%20%28949%29/La%20ley%20del%20invierno%20-%20Gemma%20Ventura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="669 KB" />
+    <link href="../../Gemma%20Ventura/La%20ley%20del%20invierno%20%28949%29/La%20ley%20del%20invierno%20-%20Gemma%20Ventura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="669 KB" />
     <author>
       <name>Gemma Ventura</name>
       <uri>../authors_0/authors_711_Page_1.xml</uri>
@@ -315,7 +315,7 @@
     <id>calibre:book:406</id>
     <updated>2023-03-13T09:24:34Z</updated>
     <link href="../../Carlos%20Augusto%20Casas/La%20ley%20del%20padre%20%28406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Augusto%20Casas/La%20ley%20del%20padre%20%28406%29/La%20ley%20del%20padre%20-%20Carlos%20Augusto%20Casas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="547 KB" />
+    <link href="../../Carlos%20Augusto%20Casas/La%20ley%20del%20padre%20%28406%29/La%20ley%20del%20padre%20-%20Carlos%20Augusto%20Casas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="547 KB" />
     <author>
       <name>Carlos Augusto Casas</name>
       <uri>../authors_0/authors_297_Page_1.xml</uri>
@@ -332,7 +332,7 @@
     <id>calibre:book:2403</id>
     <updated>2024-09-09T10:34:24Z</updated>
     <link href="../../Washington%20Irving/La%20leyenda%20de%20Sleepy%20Hollow%20y%20otros%20%282403%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Washington%20Irving/La%20leyenda%20de%20Sleepy%20Hollow%20y%20otros%20%282403%29/La%20leyenda%20de%20Sleepy%20Hollow%20y%20o%20-%20Washington%20Irving.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="268 KB" />
+    <link href="../../Washington%20Irving/La%20leyenda%20de%20Sleepy%20Hollow%20y%20otros%20%282403%29/La%20leyenda%20de%20Sleepy%20Hollow%20y%20o%20-%20Washington%20Irving.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="268 KB" />
     <author>
       <name>Washington Irving</name>
       <uri>../authors_1/authors_1483_Page_1.xml</uri>
@@ -351,7 +351,7 @@
     <id>calibre:book:636</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/La%20leyenda%20del%20ladron%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="736 KB" />
+    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/La%20leyenda%20del%20ladron%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="736 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -368,7 +368,7 @@
     <id>calibre:book:790</id>
     <updated>2023-05-31T01:04:22Z</updated>
     <link href="../../Barbara%20Gil/La%20leyenda%20del%20volcan%20%28790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Barbara%20Gil/La%20leyenda%20del%20volcan%20%28790%29/La%20leyenda%20del%20volcan%20-%20Barbara%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <link href="../../Barbara%20Gil/La%20leyenda%20del%20volcan%20%28790%29/La%20leyenda%20del%20volcan%20-%20Barbara%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="572 KB" />
     <author>
       <name>Bárbara Gil</name>
       <uri>../authors_0/authors_588_Page_1.xml</uri>
@@ -385,7 +385,7 @@
     <id>calibre:book:613</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Alba%20Donati/La%20libreria%20en%20la%20colina%20%28613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alba%20Donati/La%20libreria%20en%20la%20colina%20%28613%29/La%20libreria%20en%20la%20colina%20-%20Alba%20Donati.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <link href="../../Alba%20Donati/La%20libreria%20en%20la%20colina%20%28613%29/La%20libreria%20en%20la%20colina%20-%20Alba%20Donati.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
     <author>
       <name>Alba Donati</name>
       <uri>../authors_0/authors_454_Page_1.xml</uri>
@@ -402,7 +402,7 @@
     <id>calibre:book:2616</id>
     <updated>2024-09-20T02:10:29Z</updated>
     <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/La%20libreria%20perdida%20-%20Evie%20Woods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/La%20libreria%20perdida%20-%20Evie%20Woods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
     <author>
       <name>Evie Woods</name>
       <uri>../authors_1/authors_1718_Page_1.xml</uri>
@@ -419,7 +419,7 @@
     <id>calibre:book:173</id>
     <updated>2023-01-23T07:52:02Z</updated>
     <link href="../../Rudyard%20Kipling/El%20libro%20de%20la%20selva%20%28173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rudyard%20Kipling/El%20libro%20de%20la%20selva%20%28173%29/El%20libro%20de%20la%20selva%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Rudyard%20Kipling/El%20libro%20de%20la%20selva%20%28173%29/El%20libro%20de%20la%20selva%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rudyard Kipling</name>
       <uri>../authors_0/authors_112_Page_1.xml</uri>
@@ -436,7 +436,7 @@
     <id>calibre:book:1170</id>
     <updated>2024-01-25T08:51:59Z</updated>
     <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
     <author>
       <name>John Banville</name>
       <uri>../authors_0/authors_261_Page_1.xml</uri>

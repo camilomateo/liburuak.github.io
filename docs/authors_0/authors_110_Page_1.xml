@@ -11,12 +11,12 @@
   <link href="./authors_110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Oscar Wilde" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por W" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
   <entry>
-    <title>Todos los libros de Oscar Wilde</title>
+    <title>All books by Oscar Wilde</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 9 libros</content>
+    <content type="text">Alphabetical index of the 9 books</content>
     <link href="../authors_0/authors_110_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -24,7 +24,7 @@
   <entry>
     <title>Series: Biblioteca PruébaT</title>
     <id>Calibre2opds:authors:110series:225</id>
-    <content type="text">7 libros</content>
+    <content type="text">7 books</content>
     <link href="../authors_0/authors_110_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
     <id>calibre:book:169</id>
     <updated>2023-01-23T07:49:42Z</updated>
     <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/El%20nino%20estrella%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/El%20nino%20estrella%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>
@@ -51,7 +51,7 @@
     <id>calibre:book:2246</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/El%20retrato%20de%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/El%20retrato%20de%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>

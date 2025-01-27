@@ -11,12 +11,12 @@
   <link href="./authors_80_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mari Jungstedt" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <entry>
-    <title>Todos los libros de Mari Jungstedt</title>
+    <title>All books by Mari Jungstedt</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 5 libros</content>
+    <content type="text">Alphabetical index of the 5 books</content>
     <link href="../authors_0/authors_80_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -40,7 +40,7 @@
   <entry>
     <title>Series: Málaga</title>
     <id>Calibre2opds:authors:80series:153</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_80_series_153_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -58,7 +58,7 @@
     <id>calibre:book:2698</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="463 KB" />
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="463 KB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>

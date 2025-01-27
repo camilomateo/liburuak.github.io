@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
-  <link href="../allbooks/allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <link href="../allbooks/allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 8)" />
+  <entry>
+    <title>Espía accidental</title>
+    <id>calibre:book:1098</id>
+    <updated>2023-12-28T03:38:22Z</updated>
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/Espia%20accidental%20-%20Jorge%20Dezcallar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
+    <author>
+      <name>Jorge Dezcallar</name>
+      <uri>../authors_0/authors_800_Page_1.xml</uri>
+    </author>
+    <published>2021-09-15T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Asís está de vuelta en Damasco, la ciudad que le vio nacer, tras varios años pagando sus errores de juventud en la Legión Extranjera. Un agente del CNI le ha hecho una tentadora propuesta para trabajar con los servicios de inteligencia españoles, y e...</summary>
+    <link href="../book_1/book_1098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Espía de Dios</title>
     <id>calibre:book:522</id>
     <updated>2023-04-05T00:40:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -38,7 +55,7 @@
     <id>calibre:book:2530</id>
     <updated>2024-09-09T10:34:49Z</updated>
     <link href="../../Ralph%20Waldo%20Emerson/Essays%20by%20Ralph%20Waldo%20Emerson%20%282530%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ralph%20Waldo%20Emerson/Essays%20by%20Ralph%20Waldo%20Emerson%20%282530%29/Essays%20by%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="238 KB" />
+    <link href="../../Ralph%20Waldo%20Emerson/Essays%20by%20Ralph%20Waldo%20Emerson%20%282530%29/Essays%20by%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="238 KB" />
     <author>
       <name>Ralph Waldo Emerson</name>
       <uri>../authors_1/authors_1671_Page_1.xml</uri>
@@ -55,7 +72,7 @@
     <id>calibre:book:1991</id>
     <updated>2024-09-05T06:10:32Z</updated>
     <link href="../../Michel%20de%20Montaigne/Essays%20of%20Michel%20de%20Montaigne%20%281991%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michel%20de%20Montaigne/Essays%20of%20Michel%20de%20Montaigne%20%281991%29/Essays%20of%20Michel%20de%20Montaigne%20-%20Michel%20de%20Montaigne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Michel%20de%20Montaigne/Essays%20of%20Michel%20de%20Montaigne%20%281991%29/Essays%20of%20Michel%20de%20Montaigne%20-%20Michel%20de%20Montaigne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Michel de Montaigne</name>
       <uri>../authors_1/authors_1397_Page_1.xml</uri>
@@ -73,7 +90,7 @@
     <id>calibre:book:221</id>
     <updated>2023-01-27T11:59:16Z</updated>
     <link href="../../Luis%20Rojas%20Marcos/Estar%20bien%20aqui%20y%20ahora%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Rojas%20Marcos/Estar%20bien%20aqui%20y%20ahora%20%28221%29/Estar%20bien%20aqui%20y%20ahora%20-%20Luis%20Rojas%20Marcos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <link href="../../Luis%20Rojas%20Marcos/Estar%20bien%20aqui%20y%20ahora%20%28221%29/Estar%20bien%20aqui%20y%20ahora%20-%20Luis%20Rojas%20Marcos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
     <author>
       <name>Luis Rojas Marcos</name>
       <uri>../authors_0/authors_148_Page_1.xml</uri>
@@ -91,7 +108,7 @@
     <id>calibre:book:694</id>
     <updated>2023-05-16T02:02:38Z</updated>
     <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/Este%20dolor%20no%20es%20mio%20-%20Mark%20Wolynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="690 KB" />
+    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/Este%20dolor%20no%20es%20mio%20-%20Mark%20Wolynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="690 KB" />
     <author>
       <name>Mark Wolynn</name>
       <uri>../authors_0/authors_518_Page_1.xml</uri>
@@ -109,7 +126,7 @@
     <id>calibre:book:2692</id>
     <updated>2024-10-26T00:29:48Z</updated>
     <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/Estirpe%20de%20sangre%20-%20Sandra%20Aza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/Estirpe%20de%20sangre%20-%20Sandra%20Aza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Sandra Aza</name>
       <uri>../authors_1/authors_1767_Page_1.xml</uri>
@@ -127,7 +144,7 @@
     <id>calibre:book:976</id>
     <updated>2023-08-16T05:29:08Z</updated>
     <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/Estrella%20del%20desierto%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/Estrella%20del%20desierto%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="546 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -145,7 +162,7 @@
     <id>calibre:book:1184</id>
     <updated>2024-02-01T09:59:07Z</updated>
     <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/Estrena%20optimismo%20-%20Patricia%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/Estrena%20optimismo%20-%20Patricia%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Patricia Ramírez</name>
       <uri>../authors_0/authors_862_Page_1.xml</uri>
@@ -163,7 +180,7 @@
     <id>calibre:book:2329</id>
     <updated>2024-09-09T10:34:08Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/Estudio%20en%20escarlata%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="172 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/Estudio%20en%20escarlata%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -182,7 +199,7 @@
     <id>calibre:book:46</id>
     <updated>2023-01-17T10:26:34Z</updated>
     <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/Eva%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/Eva%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="649 KB" />
     <author>
       <name>Arturo Pérez-Reverte</name>
       <uri>../authors_0/authors_1_Page_1.xml</uri>
@@ -200,7 +217,7 @@
     <id>calibre:book:411</id>
     <updated>2023-03-13T09:46:54Z</updated>
     <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/Evasion%20-%20Benjamin%20Whitmer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/Evasion%20-%20Benjamin%20Whitmer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Benjamin Whitmer</name>
       <uri>../authors_0/authors_301_Page_1.xml</uri>
@@ -217,7 +234,7 @@
     <id>calibre:book:2026</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/Evolucion%20politica%20del%20pueblo%20m%20-%20Justo%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="222 KB" />
+    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/Evolucion%20politica%20del%20pueblo%20m%20-%20Justo%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="222 KB" />
     <author>
       <name>Justo Sierra</name>
       <uri>../authors_1/authors_1456_Page_1.xml</uri>
@@ -235,7 +252,7 @@
     <id>calibre:book:2186</id>
     <updated>2024-09-06T02:21:31Z</updated>
     <link href="../../Lucio%20V.%20Mansilla/Una%20Excursion%20a%20los%20Indios%20Ranquele%20%282186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucio%20V.%20Mansilla/Una%20Excursion%20a%20los%20Indios%20Ranquele%20%282186%29/Una%20Excursion%20a%20los%20Indios%20Ranq%20-%20Lucio%20V.%20Mansilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="300 KB" />
+    <link href="../../Lucio%20V.%20Mansilla/Una%20Excursion%20a%20los%20Indios%20Ranquele%20%282186%29/Una%20Excursion%20a%20los%20Indios%20Ranq%20-%20Lucio%20V.%20Mansilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="300 KB" />
     <author>
       <name>Lucio V. Mansilla</name>
       <uri>../authors_1/authors_1548_Page_1.xml</uri>
@@ -260,7 +277,7 @@
     <id>calibre:book:1826</id>
     <updated>2024-08-28T00:55:06Z</updated>
     <link href="../../Kate%20Atkinson/Expedientes%20%281826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kate%20Atkinson/Expedientes%20%281826%29/Expedientes%20-%20Kate%20Atkinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="419 KB" />
+    <link href="../../Kate%20Atkinson/Expedientes%20%281826%29/Expedientes%20-%20Kate%20Atkinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="419 KB" />
     <author>
       <name>Kate Atkinson</name>
       <uri>../authors_1/authors_1305_Page_1.xml</uri>
@@ -280,7 +297,7 @@
     <id>calibre:book:304</id>
     <updated>2023-02-14T09:08:50Z</updated>
     <link href="../../Guillermo%20Arriaga/Extranas%20%28304%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guillermo%20Arriaga/Extranas%20%28304%29/Extranas%20-%20Guillermo%20Arriaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Guillermo%20Arriaga/Extranas%20%28304%29/Extranas%20-%20Guillermo%20Arriaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Guillermo Arriaga</name>
       <uri>../authors_0/authors_212_Page_1.xml</uri>
@@ -297,7 +314,7 @@
     <id>calibre:book:75</id>
     <updated>2023-01-18T00:02:44Z</updated>
     <link href="../../Alexander%20Rhode/El%20Extrano%20Caso%20de%20Conrad%20Jones%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexander%20Rhode/El%20Extrano%20Caso%20de%20Conrad%20Jones%20%2875%29/El%20Extrano%20Caso%20de%20Conrad%20Jones%20-%20Alexander%20Rhode.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="743 KB" />
+    <link href="../../Alexander%20Rhode/El%20Extrano%20Caso%20de%20Conrad%20Jones%20%2875%29/El%20Extrano%20Caso%20de%20Conrad%20Jones%20-%20Alexander%20Rhode.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="743 KB" />
     <author>
       <name>Alexander Rhode</name>
       <uri>../authors_0/authors_52_Page_1.xml</uri>
@@ -313,7 +330,7 @@
     <id>calibre:book:1853</id>
     <updated>2024-09-02T04:27:35Z</updated>
     <link href="../../Mara%20Costa/El%20eco%20de%20las%20Antillas%20%281853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mara%20Costa/El%20eco%20de%20las%20Antillas%20%281853%29/El%20eco%20de%20las%20Antillas%20-%20Mara%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="971 KB" />
+    <link href="../../Mara%20Costa/El%20eco%20de%20las%20Antillas%20%281853%29/El%20eco%20de%20las%20Antillas%20-%20Mara%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="971 KB" />
     <author>
       <name>Mara Costa</name>
       <uri>../authors_1/authors_1325_Page_1.xml</uri>
@@ -330,7 +347,7 @@
     <id>calibre:book:968</id>
     <updated>2023-08-16T05:29:00Z</updated>
     <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/El%20eco%20negro%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/El%20eco%20negro%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="794 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -348,7 +365,7 @@
     <id>calibre:book:2355</id>
     <updated>2024-09-09T10:34:14Z</updated>
     <link href="../../Edith%20Wharton/La%20edad%20de%20la%20inocencia%20%282355%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edith%20Wharton/La%20edad%20de%20la%20inocencia%20%282355%29/La%20edad%20de%20la%20inocencia%20-%20Edith%20Wharton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="331 KB" />
+    <link href="../../Edith%20Wharton/La%20edad%20de%20la%20inocencia%20%282355%29/La%20edad%20de%20la%20inocencia%20-%20Edith%20Wharton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="331 KB" />
     <author>
       <name>Edith Wharton</name>
       <uri>../authors_1/authors_1631_Page_1.xml</uri>
@@ -366,7 +383,7 @@
     <id>calibre:book:299</id>
     <updated>2023-02-13T08:25:36Z</updated>
     <link href="../../Whitney%20Scharer/La%20edad%20de%20la%20luz%20%28299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Whitney%20Scharer/La%20edad%20de%20la%20luz%20%28299%29/La%20edad%20de%20la%20luz%20-%20Whitney%20Scharer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <link href="../../Whitney%20Scharer/La%20edad%20de%20la%20luz%20%28299%29/La%20edad%20de%20la%20luz%20-%20Whitney%20Scharer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="594 KB" />
     <author>
       <name>Whitney Scharer</name>
       <uri>../authors_0/authors_207_Page_1.xml</uri>
@@ -383,7 +400,7 @@
     <id>calibre:book:990</id>
     <updated>2023-08-23T02:48:26Z</updated>
     <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/Las%20edades%20de%20Lulu%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <link href="../../Almudena%20Grandes/Las%20edades%20de%20Lulu%20%28990%29/Las%20edades%20de%20Lulu%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -403,7 +420,7 @@
     <id>calibre:book:908</id>
     <updated>2023-06-26T05:25:26Z</updated>
     <link href="../../Jordan%20Harper/La%20educacion%20de%20Polly%20McClusky%20%28908%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordan%20Harper/La%20educacion%20de%20Polly%20McClusky%20%28908%29/La%20educacion%20de%20Polly%20McClusky%20-%20Jordan%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="539 KB" />
+    <link href="../../Jordan%20Harper/La%20educacion%20de%20Polly%20McClusky%20%28908%29/La%20educacion%20de%20Polly%20McClusky%20-%20Jordan%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="539 KB" />
     <author>
       <name>Jordan Harper</name>
       <uri>../authors_0/authors_681_Page_1.xml</uri>
@@ -420,7 +437,7 @@
     <id>calibre:book:2385</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/La%20educacion%20sentimental%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="438 KB" />
+    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/La%20educacion%20sentimental%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="438 KB" />
     <author>
       <name>Gustave Flaubert</name>
       <uri>../authors_1/authors_1365_Page_1.xml</uri>
@@ -439,7 +456,7 @@
     <id>calibre:book:1664</id>
     <updated>2024-07-07T03:32:37Z</updated>
     <link href="../../Roberto%20Martinez%20Guzman/El%20ego%20de%20los%20tontos%20%281664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Martinez%20Guzman/El%20ego%20de%20los%20tontos%20%281664%29/El%20ego%20de%20los%20tontos%20-%20Roberto%20Martinez%20Guzman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="307 KB" />
+    <link href="../../Roberto%20Martinez%20Guzman/El%20ego%20de%20los%20tontos%20%281664%29/El%20ego%20de%20los%20tontos%20-%20Roberto%20Martinez%20Guzman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="307 KB" />
     <author>
       <name>Roberto Martínez Guzmán</name>
       <uri>../authors_0/authors_513_Page_1.xml</uri>
@@ -449,23 +466,6 @@
     <category term="Lang:es" />
     <summary>¿Cuánta destrucción puede generar un monstruo que viene a visitarte en la oscuridad de la noche?Cuando cuatro personas inocentes son tiroteadas una noche de primavera en distintos lugares de la tranquila ciudad de Vigo, el expolicía Lucas Acevedo se ...</summary>
     <link href="../book_1/book_1664.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La elección</title>
-    <id>calibre:book:382</id>
-    <updated>2023-03-04T02:11:48Z</updated>
-    <link href="../../Alissa%20Bronte/La%20eleccion%20%28382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alissa%20Bronte/La%20eleccion%20%28382%29/La%20eleccion%20-%20Alissa%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
-    <author>
-      <name>Alissa Brontë</name>
-      <uri>../authors_0/authors_275_Page_1.xml</uri>
-    </author>
-    <published>2016-04-04T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Zafiro Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La Elección es un selecto local del que muy poca gente habla. Toda mujer que desea satisfacer sus deseos más oscuros y profundos acude allí con la esperanza de ser la elegida. Durante una noche, un misterioso hombre proporciona a esa mujer un gran pl...</summary>
-    <link href="../book_0/book_382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 8)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

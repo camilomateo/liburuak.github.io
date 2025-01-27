@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,69 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
-  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 8)" />
+  <entry>
+    <title>Trilogía El Club de los Incomprendidos</title>
+    <id>calibre:book:1255</id>
+    <updated>2024-02-24T07:41:12Z</updated>
+    <link href="../../Blue%20Jeans/Trilogia%20El%20Club%20de%20los%20Incomprendi%20%281255%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blue%20Jeans/Trilogia%20El%20Club%20de%20los%20Incomprendi%20%281255%29/Trilogia%20El%20Club%20de%20los%20Incompr%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2012-04-20T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Únete al fenómeno Blue Jeans, el autor español de novela juvenil romántica más importante de los últimos años con más de medio millón de lectores. ¡Descúbrelo!Valeria, Raúl, María, Bruno, Ester y Eli formaron El Club de los Incomprendidos para apoya...</summary>
+    <link href="../book_1/book_1255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía La novia gitana</title>
+    <id>calibre:book:1136</id>
+    <updated>2024-01-08T09:16:18Z</updated>
+    <link href="../../Carmen%20Mola/Trilogia%20La%20novia%20gitana%20%281136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Mola/Trilogia%20La%20novia%20gitana%20%281136%29/Trilogia%20La%20novia%20gitana%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carmen Mola</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2020-10-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA SERIE DE NOVELA NEGRA MÁS EXTREMA Y EXITOSA DE LOS ÚLTIMOS AÑOS MÁS DE 600.000 LECTORES «¿La Elena Ferrante española? Carmen Mola irrumpe con fuerza en el panorama de la novela negra.»Juan Carlos Galindo, El País Ensalzada unánimemente por la crít...</summary>
+    <link href="../book_1/book_1136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía Montgomery</title>
+    <id>calibre:book:1169</id>
+    <updated>2024-01-25T08:51:59Z</updated>
+    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/Trilogia%20Montgomery%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="842 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2020-02-03T09:04:30Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En un único volumen dos novelas inéditas del Premio Príncipe de Asturias de las Letrasjunto a El libro de las pruebas. «Una gran obra en la que cada suave momento detona en voz bajapara mostrar un mortífero destello interior.»Don  DeLillo Esta trilog...</summary>
+    <link href="../book_1/book_1169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Trilogía Nacidos de la bruma (Mistborn)</title>
     <id>calibre:book:200</id>
     <updated>2023-01-26T07:21:02Z</updated>
     <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/Trilogia%20Nacidos%20de%20la%20bruma%20%28M%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/Trilogia%20Nacidos%20de%20la%20bruma%20%28M%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Brandon Sanderson</name>
       <uri>../authors_0/authors_126_Page_1.xml</uri>
@@ -38,7 +89,7 @@
     <id>calibre:book:1276</id>
     <updated>2024-03-07T06:32:14Z</updated>
     <link href="../../Carlos%20Ruiz%20Zafon/La%20Trilogia%20de%20la%20Niebla%20%281276%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Ruiz%20Zafon/La%20Trilogia%20de%20la%20Niebla%20%281276%29/La%20Trilogia%20de%20la%20Niebla%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Trilogia%20de%20la%20Niebla%20%281276%29/La%20Trilogia%20de%20la%20Niebla%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Carlos Ruiz Zafón</name>
       <uri>../authors_0/authors_897_Page_1.xml</uri>
@@ -55,7 +106,7 @@
     <id>calibre:book:769</id>
     <updated>2023-05-25T00:54:22Z</updated>
     <link href="../../Jennifer%20Chiaverini/Trincheras%20de%20cable%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jennifer%20Chiaverini/Trincheras%20de%20cable%20%28769%29/Trincheras%20de%20cable%20-%20Jennifer%20Chiaverini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="997 KB" />
+    <link href="../../Jennifer%20Chiaverini/Trincheras%20de%20cable%20%28769%29/Trincheras%20de%20cable%20-%20Jennifer%20Chiaverini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="997 KB" />
     <author>
       <name>Jennifer Chiaverini</name>
       <uri>../authors_0/authors_575_Page_1.xml</uri>
@@ -74,7 +125,7 @@
     <id>calibre:book:580</id>
     <updated>2023-04-28T01:16:50Z</updated>
     <link href="../../Francisco%20Castano/Tu%20mejor%20version%20como%20padre%20%28580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Castano/Tu%20mejor%20version%20como%20padre%20%28580%29/Tu%20mejor%20version%20como%20padre%20-%20Francisco%20Castano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="731 KB" />
+    <link href="../../Francisco%20Castano/Tu%20mejor%20version%20como%20padre%20%28580%29/Tu%20mejor%20version%20como%20padre%20-%20Francisco%20Castano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="731 KB" />
     <author>
       <name>Francisco Castaño</name>
       <uri>../authors_0/authors_433_Page_1.xml</uri>
@@ -92,7 +143,7 @@
     <id>calibre:book:872</id>
     <updated>2023-06-19T05:31:26Z</updated>
     <link href="../../John%20Connolly/Tumbas%20sin%20nombre%20%28872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Connolly/Tumbas%20sin%20nombre%20%28872%29/Tumbas%20sin%20nombre%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../John%20Connolly/Tumbas%20sin%20nombre%20%28872%29/Tumbas%20sin%20nombre%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>John Connolly</name>
       <uri>../authors_0/authors_28_Page_1.xml</uri>
@@ -109,7 +160,7 @@
     <id>calibre:book:1543</id>
     <updated>2024-06-02T10:59:42Z</updated>
     <link href="../../Carlos%20Hernandez%20Pezzi/Turismo_%20_truco%20o%20trato_%20%281543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Hernandez%20Pezzi/Turismo_%20_truco%20o%20trato_%20%281543%29/Turismo_%20_truco%20o%20trato_%20-%20Carlos%20Hernandez%20Pezzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Carlos%20Hernandez%20Pezzi/Turismo_%20_truco%20o%20trato_%20%281543%29/Turismo_%20_truco%20o%20trato_%20-%20Carlos%20Hernandez%20Pezzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Carlos Hernandez Pezzi</name>
       <uri>../authors_1/authors_1124_Page_1.xml</uri>
@@ -131,7 +182,7 @@
     <id>calibre:book:1278</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Robin%20Cook/Turno%20de%20noche%20%281278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robin%20Cook/Turno%20de%20noche%20%281278%29/Turno%20de%20noche%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="722 KB" />
+    <link href="../../Robin%20Cook/Turno%20de%20noche%20%281278%29/Turno%20de%20noche%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="722 KB" />
     <author>
       <name>Robin Cook</name>
       <uri>../authors_0/authors_73_Page_1.xml</uri>
@@ -149,7 +200,7 @@
     <id>calibre:book:820</id>
     <updated>2023-06-06T08:14:24Z</updated>
     <link href="../../Tomas%20Navarro/Tus%20lineas%20rojas%20%28820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tomas%20Navarro/Tus%20lineas%20rojas%20%28820%29/Tus%20lineas%20rojas%20-%20Tomas%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <link href="../../Tomas%20Navarro/Tus%20lineas%20rojas%20%28820%29/Tus%20lineas%20rojas%20-%20Tomas%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
     <author>
       <name>Tomás Navarro</name>
       <uri>../authors_0/authors_611_Page_1.xml</uri>
@@ -167,7 +218,7 @@
     <id>calibre:book:892</id>
     <updated>2023-06-23T01:09:48Z</updated>
     <link href="../../Wayne%20W.%20Dyer/Tus%20zonas%20magicas%20%28892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Wayne%20W.%20Dyer/Tus%20zonas%20magicas%20%28892%29/Tus%20zonas%20magicas%20-%20Wayne%20W.%20Dyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Wayne%20W.%20Dyer/Tus%20zonas%20magicas%20%28892%29/Tus%20zonas%20magicas%20-%20Wayne%20W.%20Dyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Wayne W. Dyer</name>
       <uri>../authors_0/authors_668_Page_1.xml</uri>
@@ -184,7 +235,7 @@
     <id>calibre:book:455</id>
     <updated>2023-03-23T11:00:44Z</updated>
     <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/Tutankamon_%20Faraon%20nacido%20para%20-%20Edgar%20Ochoa%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/Tutankamon_%20Faraon%20nacido%20para%20-%20Edgar%20Ochoa%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Edgar Ochoa García</name>
       <uri>../authors_0/authors_340_Page_1.xml</uri>
@@ -201,7 +252,7 @@
     <id>calibre:book:2082</id>
     <updated>2024-09-06T02:09:09Z</updated>
     <link href="../../Jules%20Verne/Twenty%20Thousand%20Leagues%20under%20the%20S%20%282082%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jules%20Verne/Twenty%20Thousand%20Leagues%20under%20the%20S%20%282082%29/Twenty%20Thousand%20Leagues%20under%20t%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="350 KB" />
+    <link href="../../Jules%20Verne/Twenty%20Thousand%20Leagues%20under%20the%20S%20%282082%29/Twenty%20Thousand%20Leagues%20under%20t%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="350 KB" />
     <author>
       <name>Jules Verne</name>
       <uri>../authors_1/authors_1487_Page_1.xml</uri>
@@ -223,11 +274,28 @@
     <link href="../book_2/book_2082.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Twisted</title>
+    <id>calibre:book:2850</id>
+    <updated>2025-01-27T00:40:28Z</updated>
+    <link href="../../Emily%20McIntire/Twisted%20%282850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emily%20McIntire/Twisted%20%282850%29/Twisted%20-%20Emily%20McIntire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="536 KB" />
+    <author>
+      <name>Emily McIntire</name>
+      <uri>../authors_1/authors_1866_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Regresa al oscuro y romántico mundo de EmilyMcIntire conTwisted, unretelling erótico deAladín donde el villano consigue su final feliz.Para él, ella es un diamante en bruto. Para ella, él es su peor pesadilla.Yasmin Karam, hija de uno de los hombres ...</summary>
+    <link href="../book_2/book_2850.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Two bad blue eyes</title>
     <id>calibre:book:2502</id>
     <updated>2024-09-09T10:34:44Z</updated>
     <link href="../../Rita/Two%20bad%20blue%20eyes%20%282502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rita/Two%20bad%20blue%20eyes%20%282502%29/Two%20bad%20blue%20eyes%20-%20Rita.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Rita/Two%20bad%20blue%20eyes%20%282502%29/Two%20bad%20blue%20eyes%20-%20Rita.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Rita</name>
       <uri>../authors_1/authors_1659_Page_1.xml</uri>
@@ -244,7 +312,7 @@
     <id>calibre:book:2219</id>
     <updated>2024-09-06T02:21:37Z</updated>
     <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/La%20Tia%20Tula%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="154 KB" />
+    <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/La%20Tia%20Tula%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="154 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -260,7 +328,7 @@
     <id>calibre:book:1403</id>
     <updated>2024-04-08T02:46:19Z</updated>
     <link href="../../Manuel%20Marlasca/Tu%20bailas%20y%20yo%20disparo%20%281403%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Marlasca/Tu%20bailas%20y%20yo%20disparo%20%281403%29/Tu%20bailas%20y%20yo%20disparo%20-%20Manuel%20Marlasca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Manuel%20Marlasca/Tu%20bailas%20y%20yo%20disparo%20%281403%29/Tu%20bailas%20y%20yo%20disparo%20-%20Manuel%20Marlasca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Manuel Marlasca</name>
       <uri>../authors_1/authors_1028_Page_1.xml</uri>
@@ -278,7 +346,7 @@
     <id>calibre:book:875</id>
     <updated>2023-06-20T04:46:24Z</updated>
     <link href="../../Maria%20Esclapez/Tu%20eres%20tu%20lugar%20seguro%20%28875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Esclapez/Tu%20eres%20tu%20lugar%20seguro%20%28875%29/Tu%20eres%20tu%20lugar%20seguro%20-%20Maria%20Esclapez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Maria%20Esclapez/Tu%20eres%20tu%20lugar%20seguro%20%28875%29/Tu%20eres%20tu%20lugar%20seguro%20-%20Maria%20Esclapez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>María Esclapez</name>
       <uri>../authors_0/authors_657_Page_1.xml</uri>
@@ -296,7 +364,7 @@
     <id>calibre:book:359</id>
     <updated>2023-02-24T09:48:14Z</updated>
     <link href="../../Beatriz%20Rico/Tu%20quedate%20conmigo_.%20yo%20me%20encargo%20%28359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatriz%20Rico/Tu%20quedate%20conmigo_.%20yo%20me%20encargo%20%28359%29/Tu%20quedate%20conmigo_.%20yo%20me%20enca%20-%20Beatriz%20Rico.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <link href="../../Beatriz%20Rico/Tu%20quedate%20conmigo_.%20yo%20me%20encargo%20%28359%29/Tu%20quedate%20conmigo_.%20yo%20me%20enca%20-%20Beatriz%20Rico.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="663 KB" />
     <author>
       <name>Beatriz Rico</name>
       <uri>../authors_0/authors_254_Page_1.xml</uri>
@@ -313,7 +381,7 @@
     <id>calibre:book:1283</id>
     <updated>2024-03-10T09:24:51Z</updated>
     <link href="../../Alexandra%20Kleeman/Tu%20tambien%20puedes%20tener%20un%20cuerpo%20c%20%281283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandra%20Kleeman/Tu%20tambien%20puedes%20tener%20un%20cuerpo%20c%20%281283%29/Tu%20tambien%20puedes%20tener%20un%20cuer%20-%20Alexandra%20Kleeman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="432 KB" />
+    <link href="../../Alexandra%20Kleeman/Tu%20tambien%20puedes%20tener%20un%20cuerpo%20c%20%281283%29/Tu%20tambien%20puedes%20tener%20un%20cuer%20-%20Alexandra%20Kleeman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="432 KB" />
     <author>
       <name>Alexandra Kleeman</name>
       <uri>../authors_0/authors_934_Page_1.xml</uri>
@@ -330,7 +398,7 @@
     <id>calibre:book:947</id>
     <updated>2023-07-14T09:48:42Z</updated>
     <link href="../../Lorenzo%20G.%20Acebedo/La%20taberna%20de%20Silos%20%28947%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20G.%20Acebedo/La%20taberna%20de%20Silos%20%28947%29/La%20taberna%20de%20Silos%20-%20Lorenzo%20G.%20Acebedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+    <link href="../../Lorenzo%20G.%20Acebedo/La%20taberna%20de%20Silos%20%28947%29/La%20taberna%20de%20Silos%20-%20Lorenzo%20G.%20Acebedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="590 KB" />
     <author>
       <name>Lorenzo G. Acebedo</name>
       <uri>../authors_0/authors_709_Page_1.xml</uri>
@@ -347,7 +415,7 @@
     <id>calibre:book:369</id>
     <updated>2023-03-03T08:31:24Z</updated>
     <link href="../../Luis%20Zueco/El%20tablero%20de%20la%20reina%20%28369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Zueco/El%20tablero%20de%20la%20reina%20%28369%29/El%20tablero%20de%20la%20reina%20-%20Luis%20Zueco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="778 KB" />
+    <link href="../../Luis%20Zueco/El%20tablero%20de%20la%20reina%20%28369%29/El%20tablero%20de%20la%20reina%20-%20Luis%20Zueco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="778 KB" />
     <author>
       <name>Luis Zueco</name>
       <uri>../authors_0/authors_264_Page_1.xml</uri>
@@ -364,7 +432,7 @@
     <id>calibre:book:1683</id>
     <updated>2024-07-29T11:15:45Z</updated>
     <link href="../../Vaclav%20Smil/El%20tamano%20de%20las%20cosas%20%281683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vaclav%20Smil/El%20tamano%20de%20las%20cosas%20%281683%29/El%20tamano%20de%20las%20cosas%20-%20Vaclav%20Smil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Vaclav%20Smil/El%20tamano%20de%20las%20cosas%20%281683%29/El%20tamano%20de%20las%20cosas%20-%20Vaclav%20Smil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Vaclav Smil</name>
       <uri>../authors_0/authors_142_Page_1.xml</uri>
@@ -381,7 +449,7 @@
     <id>calibre:book:2395</id>
     <updated>2024-09-09T10:34:22Z</updated>
     <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/El%20tapiz%20amarillo%20-%20Charlotte%20Perkins%20Gilman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/El%20tapiz%20amarillo%20-%20Charlotte%20Perkins%20Gilman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="62 KB" />
     <author>
       <name>Charlotte Perkins Gilman</name>
       <uri>../authors_1/authors_1636_Page_1.xml</uri>
@@ -397,80 +465,7 @@
     <summary>Biblioteca PruébaT [216]:</summary>
     <link href="../book_2/book_2395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La tempestad</title>
-    <id>calibre:book:2358</id>
-    <updated>2024-09-09T10:34:14Z</updated>
-    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
-    <author>
-      <name>William Shakespeare</name>
-      <uri>../authors_1/authors_1585_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Clásico" />
-    <category term="Teatro" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [147]:</summary>
-    <link href="../book_2/book_2358.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La temporada de los niños perdidos</title>
-    <id>calibre:book:1554</id>
-    <updated>2024-06-02T10:59:45Z</updated>
-    <link href="../../Dot%20Hutchison/La%20temporada%20de%20los%20ninos%20perdidos%20%281554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dot%20Hutchison/La%20temporada%20de%20los%20ninos%20perdidos%20%281554%29/La%20temporada%20de%20los%20ninos%20perdi%20-%20Dot%20Hutchison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="699 KB" />
-    <author>
-      <name>Dot Hutchison</name>
-      <uri>../authors_0/authors_97_Page_1.xml</uri>
-    </author>
-    <published>2021-04-09T07:02:50Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta - México</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una niña perdida muy cerca del cuartel general del FBI se convertirá en el inesperado vínculo que puede resolver una terrible tragedia del pasado.Brooklyn Mercer, de ocho años, fue vista por última vez cuando regresaba de la escuela y desde entonces...</summary>
-    <link href="../book_1/book_1554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La teoría de los sentimientos morales</title>
-    <id>calibre:book:1972</id>
-    <updated>2024-09-05T06:10:28Z</updated>
-    <link href="../../Adam%20Smith/La%20teoria%20de%20los%20sentimientos%20moral%20%281972%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adam%20Smith/La%20teoria%20de%20los%20sentimientos%20moral%20%281972%29/La%20teoria%20de%20los%20sentimientos%20m%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="129 KB" />
-    <author>
-      <name>Adam Smith</name>
-      <uri>../authors_1/authors_1414_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Filosofía" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [167]:</summary>
-    <link href="../book_1/book_1972.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El tercer hombre</title>
-    <id>calibre:book:316</id>
-    <updated>2023-02-16T08:39:02Z</updated>
-    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/El%20tercer%20hombre%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="628 KB" />
-    <author>
-      <name>Robert Dugoni</name>
-      <uri>../authors_0/authors_222_Page_1.xml</uri>
-    </author>
-    <published>2022-12-19T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Charles Jenkins" />
-    <summary>Charles Jenkins [3]: La misión es nueva y los enemigos también, pero el objetivo es el mismo de siempre: sobrevivir. Cuando el agente Charles Jenkins se decide por fin a dar carpetazo a los juegos de espías, dos infiltradas en la Administración rusa ...</summary>
-    <link href="../book_0/book_316.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

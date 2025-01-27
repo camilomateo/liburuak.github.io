@@ -11,33 +11,33 @@
   <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="LIBURUAK" />
   <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <entry>
-    <title>Autores</title>
+    <title>Authors</title>
     <id>Calibre2opds:authorlist</id>
-    <content type="text">Indice alfabético de 1.827</content>
+    <content type="text">Alphabetical index of the 1.848 authors</content>
     <link href="./authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
-    <title>Series:</title>
+    <title>Series</title>
     <id>Calibre2opds::serieslist</id>
-    <content type="text">Indice alfabético de 242</content>
+    <content type="text">Alphabetical index of the 244 series</content>
     <link href="./serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
-    <title>Añadidos recientemente</title>
+    <title>Recent additions</title>
     <id>Calibre2opds:recent</id>
-    <content type="text">500 libros más recientes</content>
+    <content type="text">500 most recent books</content>
     <link href="./recent/recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
-    <title>Todos los libros</title>
+    <title>All books</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 2.657 libros</content>
+    <content type="text">Alphabetical index of the 2.684 books</content>
     <link href="./allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

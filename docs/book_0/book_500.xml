@@ -6,12 +6,12 @@
   <link href="./book_500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La secta" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../authors_0/authors_370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Henrik Fexeux" />
   <link href="../../Camilla%20Lackberg/La%20secta%20%28500%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Camilla%20Lackberg/La%20secta%20%28500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Camilla%20Lackberg/La%20secta%20%28500%29/La%20secta%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="780 KB" />
+  <link href="../../Camilla%20Lackberg/La%20secta%20%28500%29/La%20secta%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="780 KB" />
   <author>
     <name>Camilla Läckberg</name>
     <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -28,18 +28,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 2 en la Mina Dabiri y Vincent Walder serie
+      Book 2 in the Mina Dabiri y Vincent Walder series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">La investigadora Mina Dabiri y sus compañeros del
     departamento de Homicidios de la policía de Estocolmo
@@ -62,7 +62,7 @@
     sombra que esconde su alma, la coraza que ambos se han
     construido empieza, finalmente, a desmoronarse.</p>
   </content>
-  <link href="../series_0/series_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Mina Dabiri y Vincent Walder serie" />
-  <link href="../authors_0/authors_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Camilla Läckberg" />
-  <link href="../authors_0/authors_370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Henrik Fexeux" />
+  <link href="../series_0/series_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 2 in the Mina Dabiri y Vincent Walder series" />
+  <link href="../authors_0/authors_369_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Camilla Läckberg" />
+  <link href="../authors_0/authors_370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Henrik Fexeux" />
 </entry>

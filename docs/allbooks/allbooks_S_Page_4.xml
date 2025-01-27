@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por S</title>
+  <title>Books starting with S</title>
   <id>Calibre2opds:allbooks:S</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="./allbooks_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por S" />
-  <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
+  <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 8)" />
+  <entry>
+    <title>Solas</title>
+    <id>calibre:book:268</id>
+    <updated>2023-02-03T08:30:20Z</updated>
+    <link href="../../Javier%20Diez%20Carmona/Solas%20%28268%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Diez%20Carmona/Solas%20%28268%29/Solas%20-%20Javier%20Diez%20Carmona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
+    <author>
+      <name>Javier Díez Carmona</name>
+      <uri>../authors_0/authors_181_Page_1.xml</uri>
+    </author>
+    <published>2023-01-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después de Justicia, Javier Díez Carmona regresa con un thriller ambientado en el País Vasco más aislado y salvaje.Una historia de secretos, desapariciones y depravación.Agurtzane Loizaga, profesora de la universidad de Bilbao, se mudó hace poco con ...</summary>
+    <link href="../book_0/book_268.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Soldados de fortuna</title>
     <id>calibre:book:242</id>
     <updated>2023-02-02T08:58:30Z</updated>
     <link href="../../Miguel%20del%20Rey/Soldados%20de%20fortuna%20%28242%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20del%20Rey/Soldados%20de%20fortuna%20%28242%29/Soldados%20de%20fortuna%20-%20Miguel%20del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Miguel%20del%20Rey/Soldados%20de%20fortuna%20%28242%29/Soldados%20de%20fortuna%20-%20Miguel%20del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Miguel del Rey</name>
       <uri>../authors_0/authors_169_Page_1.xml</uri>
@@ -40,7 +57,7 @@
     <id>calibre:book:518</id>
     <updated>2023-04-05T00:40:02Z</updated>
     <link href="../../Mircea%20Cartarescu/Solenoide%20%28518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mircea%20Cartarescu/Solenoide%20%28518%29/Solenoide%20-%20Mircea%20Cartarescu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="841 KB" />
+    <link href="../../Mircea%20Cartarescu/Solenoide%20%28518%29/Solenoide%20-%20Mircea%20Cartarescu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="841 KB" />
     <author>
       <name>Mircea Cărtărescu</name>
       <uri>../authors_0/authors_383_Page_1.xml</uri>
@@ -57,7 +74,7 @@
     <id>calibre:book:620</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/Solo%20humo%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/Solo%20humo%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="684 KB" />
     <author>
       <name>Juan José Millás</name>
       <uri>../authors_0/authors_461_Page_1.xml</uri>
@@ -74,7 +91,7 @@
     <id>calibre:book:1312</id>
     <updated>2024-03-21T00:44:04Z</updated>
     <link href="../../Colin%20Niel/Solo%20las%20bestias%20%281312%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colin%20Niel/Solo%20las%20bestias%20%281312%29/Solo%20las%20bestias%20-%20Colin%20Niel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="759 KB" />
+    <link href="../../Colin%20Niel/Solo%20las%20bestias%20%281312%29/Solo%20las%20bestias%20-%20Colin%20Niel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="759 KB" />
     <author>
       <name>Colin Niel</name>
       <uri>../authors_0/authors_954_Page_1.xml</uri>
@@ -91,7 +108,7 @@
     <id>calibre:book:2729</id>
     <updated>2024-12-11T08:23:56Z</updated>
     <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
     <author>
       <name>Txemi Parra</name>
       <uri>../authors_1/authors_1784_Page_1.xml</uri>
@@ -108,7 +125,7 @@
     <id>calibre:book:1274</id>
     <updated>2024-03-07T06:32:14Z</updated>
     <link href="../../Carlos%20Ruiz%20Zafon/La%20Sombra%20del%20Viento%20%281274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Ruiz%20Zafon/La%20Sombra%20del%20Viento%20%281274%29/La%20Sombra%20del%20Viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Sombra%20del%20Viento%20%281274%29/La%20Sombra%20del%20Viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Carlos Ruiz Zafón</name>
       <uri>../authors_0/authors_897_Page_1.xml</uri>
@@ -125,7 +142,7 @@
     <id>calibre:book:2688</id>
     <updated>2024-10-25T00:02:42Z</updated>
     <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="812 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -142,7 +159,7 @@
     <id>calibre:book:1844</id>
     <updated>2024-08-30T02:18:33Z</updated>
     <link href="../../Ariel%20Zorion/Sombras%20%281844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Zorion/Sombras%20%281844%29/Sombras%20-%20Ariel%20Zorion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ariel%20Zorion/Sombras%20%281844%29/Sombras%20-%20Ariel%20Zorion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ariel Zorion</name>
       <uri>../authors_1/authors_1119_Page_1.xml</uri>
@@ -159,7 +176,7 @@
     <id>calibre:book:157</id>
     <updated>2023-01-23T06:20:04Z</updated>
     <link href="../../Cristina%20Prada/Somos%20invencibles%20%28157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristina%20Prada/Somos%20invencibles%20%28157%29/Somos%20invencibles%20-%20Cristina%20Prada.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Cristina%20Prada/Somos%20invencibles%20%28157%29/Somos%20invencibles%20-%20Cristina%20Prada.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Cristina Prada</name>
       <uri>../authors_0/authors_101_Page_1.xml</uri>
@@ -176,7 +193,7 @@
     <id>calibre:book:193</id>
     <updated>2023-01-26T07:27:24Z</updated>
     <link href="../../Silvia%20Garcia%20Ruiz/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20%28193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Garcia%20Ruiz/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20%28193%29/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Silvia%20Garcia%20Ruiz/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20%28193%29/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Silvia García Ruiz</name>
       <uri>../authors_0/authors_114_Page_1.xml</uri>
@@ -194,7 +211,7 @@
     <id>calibre:book:2811</id>
     <updated>2025-01-20T11:21:16Z</updated>
     <link href="../../Maria%20Reig/Sono%20un%20violin%20en%20Paris%20%282811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Reig/Sono%20un%20violin%20en%20Paris%20%282811%29/Sono%20un%20violin%20en%20Paris%20-%20Maria%20Reig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="924 KB" />
+    <link href="../../Maria%20Reig/Sono%20un%20violin%20en%20Paris%20%282811%29/Sono%20un%20violin%20en%20Paris%20-%20Maria%20Reig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="924 KB" />
     <author>
       <name>María Reig</name>
       <uri>../authors_1/authors_1839_Page_1.xml</uri>
@@ -211,7 +228,7 @@
     <id>calibre:book:1697</id>
     <updated>2024-07-29T11:15:47Z</updated>
     <link href="../../Jorge%20Caneda/Sospecha%20Sin%20Limite%20%281697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Caneda/Sospecha%20Sin%20Limite%20%281697%29/Sospecha%20Sin%20Limite%20-%20Jorge%20Caneda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="333 KB" />
+    <link href="../../Jorge%20Caneda/Sospecha%20Sin%20Limite%20%281697%29/Sospecha%20Sin%20Limite%20-%20Jorge%20Caneda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="333 KB" />
     <author>
       <name>Jorge Caneda</name>
       <uri>../authors_1/authors_1214_Page_1.xml</uri>
@@ -227,7 +244,7 @@
     <id>calibre:book:689</id>
     <updated>2023-05-16T08:56:28Z</updated>
     <link href="../../Nuria%20Coll/Soy%20como%20como%20%28689%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nuria%20Coll/Soy%20como%20como%20%28689%29/Soy%20como%20como%20-%20Nuria%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <link href="../../Nuria%20Coll/Soy%20como%20como%20%28689%29/Soy%20como%20como%20-%20Nuria%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
     <author>
       <name>Núria Coll</name>
       <uri>../authors_0/authors_514_Page_1.xml</uri>
@@ -244,7 +261,7 @@
     <id>calibre:book:1563</id>
     <updated>2024-06-02T10:59:48Z</updated>
     <link href="../../Kim%20Hye-jin/Soy%20toda%20oidos%20%281563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kim%20Hye-jin/Soy%20toda%20oidos%20%281563%29/Soy%20toda%20oidos%20-%20Kim%20Hye-jin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <link href="../../Kim%20Hye-jin/Soy%20toda%20oidos%20%281563%29/Soy%20toda%20oidos%20-%20Kim%20Hye-jin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="193 KB" />
     <author>
       <name>Kim Hye-jin</name>
       <uri>../authors_1/authors_1142_Page_1.xml</uri>
@@ -261,7 +278,7 @@
     <id>calibre:book:336</id>
     <updated>2023-02-20T10:02:18Z</updated>
     <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/Soy%20un%20gato%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/Soy%20un%20gato%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="613 KB" />
     <author>
       <name>Natsume Soseki</name>
       <uri>../authors_0/authors_236_Page_1.xml</uri>
@@ -278,7 +295,7 @@
     <id>calibre:book:1493</id>
     <updated>2024-05-03T02:01:59Z</updated>
     <link href="../../Brenda%20Lozano/Sonar%20como%20suenan%20los%20arboles%20%281493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brenda%20Lozano/Sonar%20como%20suenan%20los%20arboles%20%281493%29/Sonar%20como%20suenan%20los%20arboles%20-%20Brenda%20Lozano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="772 KB" />
+    <link href="../../Brenda%20Lozano/Sonar%20como%20suenan%20los%20arboles%20%281493%29/Sonar%20como%20suenan%20los%20arboles%20-%20Brenda%20Lozano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="772 KB" />
     <author>
       <name>Brenda Lozano</name>
       <uri>../authors_1/authors_1091_Page_1.xml</uri>
@@ -295,7 +312,7 @@
     <id>calibre:book:2651</id>
     <updated>2024-10-22T07:50:36Z</updated>
     <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Adolfo Pérez Agustí</name>
       <uri>../authors_1/authors_1744_Page_1.xml</uri>
@@ -316,7 +333,7 @@
     <id>calibre:book:1066</id>
     <updated>2023-11-05T04:16:30Z</updated>
     <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Walter Isaacson</name>
       <uri>../authors_0/authors_779_Page_1.xml</uri>
@@ -336,7 +353,7 @@
     <id>calibre:book:2646</id>
     <updated>2024-10-21T04:27:28Z</updated>
     <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="789 KB" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="789 KB" />
     <author>
       <name>Michael Moritz</name>
       <uri>../authors_1/authors_1740_Page_1.xml</uri>
@@ -356,7 +373,7 @@
     <id>calibre:book:2645</id>
     <updated>2024-10-26T00:32:32Z</updated>
     <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="252 KB" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="252 KB" />
     <author>
       <name>Walter Isaacson</name>
       <uri>../authors_0/authors_779_Page_1.xml</uri>
@@ -376,7 +393,7 @@
     <id>calibre:book:2062</id>
     <updated>2024-09-06T02:09:06Z</updated>
     <link href="../../L.%20Leslie%20Brooke/The%20Story%20of%20the%20Three%20Little%20Pigs%20%282062%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../L.%20Leslie%20Brooke/The%20Story%20of%20the%20Three%20Little%20Pigs%20%282062%29/The%20Story%20of%20the%20Three%20Little%20P%20-%20L.%20Leslie%20Brooke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <link href="../../L.%20Leslie%20Brooke/The%20Story%20of%20the%20Three%20Little%20Pigs%20%282062%29/The%20Story%20of%20the%20Three%20Little%20P%20-%20L.%20Leslie%20Brooke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
     <author>
       <name>L. Leslie Brooke</name>
       <uri>../authors_1/authors_1479_Page_1.xml</uri>
@@ -396,7 +413,7 @@
     <id>calibre:book:2078</id>
     <updated>2024-09-06T02:09:08Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="145 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="145 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -428,7 +445,7 @@
     <id>calibre:book:2059</id>
     <updated>2024-09-06T02:09:05Z</updated>
     <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/Struwwelpeterv2%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/Struwwelpeterv2%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Rogelio Guerrero</name>
       <uri>../authors_1/authors_1478_Page_1.xml</uri>
@@ -443,7 +460,7 @@
     <id>calibre:book:315</id>
     <updated>2023-02-16T08:39:02Z</updated>
     <link href="../../Andrea%20Mara/Su%20peor%20pesadilla%20%28315%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Mara/Su%20peor%20pesadilla%20%28315%29/Su%20peor%20pesadilla%20-%20Andrea%20Mara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="678 KB" />
+    <link href="../../Andrea%20Mara/Su%20peor%20pesadilla%20%28315%29/Su%20peor%20pesadilla%20-%20Andrea%20Mara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="678 KB" />
     <author>
       <name>Andrea Mara</name>
       <uri>../authors_0/authors_221_Page_1.xml</uri>
@@ -454,24 +471,6 @@
     <category term="Lang:es" />
     <summary>Fue a buscar a su hijo, pero él nunca estuvo allí UN NIÑO DESAPARECIDO.CUATRO MUJERES SOSPECHOSAS.UNA COMUNIDAD LLENA DE SECRETOS.¿QUIÉN TIENE REALMENTE LA CULPA?Marissa llega a la dirección exacta, a la hora acordada, a recoger a su hijo Milo. Es la...</summary>
     <link href="../book_0/book_315.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Su última reverencia</title>
-    <id>calibre:book:2334</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/Su%20ultima%20reverencia%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="208 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [124]:</summary>
-    <link href="../book_2/book_2334.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 8)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

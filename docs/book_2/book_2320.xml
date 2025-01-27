@@ -6,12 +6,12 @@
   <link href="./book_2320.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Manhattan Transfer" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="../authors_1/authors_1616_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="John Dos Passos" />
   <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/Manhattan%20Transfer%20-%20John%20Dos%20Passos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="388 KB" />
+  <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/Manhattan%20Transfer%20-%20John%20Dos%20Passos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="388 KB" />
   <author>
     <name>John Dos Passos</name>
     <uri>../authors_1/authors_1616_Page_1.xml</uri>
@@ -24,17 +24,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 75 en la Biblioteca PruébaT serie
+      Book 75 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 75 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1616_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de John Dos Passos" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 75 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1616_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by John Dos Passos" />
 </entry>

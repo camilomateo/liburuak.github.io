@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
-  <link href="../allbooks/allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <link href="../allbooks/allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
   <entry>
     <title>El túnel</title>
     <id>calibre:book:1733</id>
     <updated>2024-08-08T04:59:25Z</updated>
     <link href="../../Abraham%20B.%20Yehoshua/El%20tunel%20%281733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Abraham%20B.%20Yehoshua/El%20tunel%20%281733%29/El%20tunel%20-%20Abraham%20B.%20Yehoshua.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="416 KB" />
+    <link href="../../Abraham%20B.%20Yehoshua/El%20tunel%20%281733%29/El%20tunel%20-%20Abraham%20B.%20Yehoshua.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="416 KB" />
     <author>
       <name>Abraham B. Yehoshúa</name>
       <uri>../authors_1/authors_1240_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:629</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Monica%20Carrillo/El%20viento%20nos%20llevara%20%28629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Carrillo/El%20viento%20nos%20llevara%20%28629%29/El%20viento%20nos%20llevara%20-%20Monica%20Carrillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="571 KB" />
+    <link href="../../Monica%20Carrillo/El%20viento%20nos%20llevara%20%28629%29/El%20viento%20nos%20llevara%20-%20Monica%20Carrillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="571 KB" />
     <author>
       <name>Mónica Carrillo</name>
       <uri>../authors_0/authors_467_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:614</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Abel%20Quentin/El%20visionario%20%28614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Abel%20Quentin/El%20visionario%20%28614%29/El%20visionario%20-%20Abel%20Quentin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <link href="../../Abel%20Quentin/El%20visionario%20%28614%29/El%20visionario%20-%20Abel%20Quentin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
     <author>
       <name>Abel Quentin</name>
       <uri>../authors_0/authors_455_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:795</id>
     <updated>2023-05-31T01:04:26Z</updated>
     <link href="../../Alexandre%20Escriva/El%20ultimo%20caso%20de%20William%20Parker%20%28795%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Escriva/El%20ultimo%20caso%20de%20William%20Parker%20%28795%29/El%20ultimo%20caso%20de%20William%20Parke%20-%20Alexandre%20Escriva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <link href="../../Alexandre%20Escriva/El%20ultimo%20caso%20de%20William%20Parker%20%28795%29/El%20ultimo%20caso%20de%20William%20Parke%20-%20Alexandre%20Escriva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
     <author>
       <name>Alexandre Escrivà</name>
       <uri>../authors_0/authors_591_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:1519</id>
     <updated>2024-05-22T06:46:47Z</updated>
     <link href="../../Paola%20Boutellier/El%20ultimo%20giro%20%281519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paola%20Boutellier/El%20ultimo%20giro%20%281519%29/El%20ultimo%20giro%20-%20Paola%20Boutellier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="437 KB" />
+    <link href="../../Paola%20Boutellier/El%20ultimo%20giro%20%281519%29/El%20ultimo%20giro%20-%20Paola%20Boutellier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="437 KB" />
     <author>
       <name>Paola Boutellier</name>
       <uri>../authors_1/authors_1106_Page_1.xml</uri>
@@ -104,7 +104,7 @@
     <id>calibre:book:1746</id>
     <updated>2024-08-26T10:56:06Z</updated>
     <link href="../../Sebastian%20Fitzek/El%20ultimo%20regalo%20%281746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sebastian%20Fitzek/El%20ultimo%20regalo%20%281746%29/El%20ultimo%20regalo%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="466 KB" />
+    <link href="../../Sebastian%20Fitzek/El%20ultimo%20regalo%20%281746%29/El%20ultimo%20regalo%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="466 KB" />
     <author>
       <name>Sebastian Fitzek</name>
       <uri>../authors_1/authors_1251_Page_1.xml</uri>
@@ -121,7 +121,7 @@
     <id>calibre:book:2427</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Sofocles/Electra%20%282427%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Electra%20%282427%29/Electra%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="92 KB" />
+    <link href="../../Sofocles/Electra%20%282427%29/Electra%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="92 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -140,7 +140,7 @@
     <id>calibre:book:2553</id>
     <updated>2024-09-09T10:35:07Z</updated>
     <link href="../../Sophocles/Electra%20%282553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sophocles/Electra%20%282553%29/Electra%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="91 KB" />
+    <link href="../../Sophocles/Electra%20%282553%29/Electra%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
     <author>
       <name>Sophocles</name>
       <uri>../authors_1/authors_1649_Page_1.xml</uri>
@@ -156,7 +156,7 @@
     <id>calibre:book:1580</id>
     <updated>2024-06-02T10:59:52Z</updated>
     <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/Elemental%20querida%20lectora%20-%20Vicki%20Delany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="410 KB" />
+    <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/Elemental%20querida%20lectora%20-%20Vicki%20Delany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="410 KB" />
     <author>
       <name>Vicki Delany</name>
       <uri>../authors_1/authors_1152_Page_1.xml</uri>
@@ -176,7 +176,7 @@
     <id>calibre:book:1723</id>
     <updated>2024-08-08T04:59:22Z</updated>
     <link href="../../Claudia%20Pineiro/Elena%20sabe%20%281723%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claudia%20Pineiro/Elena%20sabe%20%281723%29/Elena%20sabe%20-%20Claudia%20Pineiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="255 KB" />
+    <link href="../../Claudia%20Pineiro/Elena%20sabe%20%281723%29/Elena%20sabe%20-%20Claudia%20Pineiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="255 KB" />
     <author>
       <name>Claudia Piñeiro</name>
       <uri>../authors_0/authors_32_Page_1.xml</uri>
@@ -193,7 +193,7 @@
     <id>calibre:book:439</id>
     <updated>2023-03-20T05:50:08Z</updated>
     <link href="../../Julian%20Barnes/Elizabeth%20Finch%20%28439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julian%20Barnes/Elizabeth%20Finch%20%28439%29/Elizabeth%20Finch%20-%20Julian%20Barnes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="575 KB" />
+    <link href="../../Julian%20Barnes/Elizabeth%20Finch%20%28439%29/Elizabeth%20Finch%20-%20Julian%20Barnes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="575 KB" />
     <author>
       <name>Julian Barnes</name>
       <uri>../authors_0/authors_327_Page_1.xml</uri>
@@ -210,7 +210,7 @@
     <id>calibre:book:1694</id>
     <updated>2024-07-29T11:15:46Z</updated>
     <link href="../../Miriam%20Toews/Ellas%20hablan%20%281694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miriam%20Toews/Ellas%20hablan%20%281694%29/Ellas%20hablan%20-%20Miriam%20Toews.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="245 KB" />
+    <link href="../../Miriam%20Toews/Ellas%20hablan%20%281694%29/Ellas%20hablan%20-%20Miriam%20Toews.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="245 KB" />
     <author>
       <name>Miriam Toews</name>
       <uri>../authors_1/authors_1212_Page_1.xml</uri>
@@ -227,7 +227,7 @@
     <id>calibre:book:2345</id>
     <updated>2024-09-09T10:34:12Z</updated>
     <link href="../../Erasmo%20de%20Roterdam/Elogio%20de%20la%20locura%20%282345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Erasmo%20de%20Roterdam/Elogio%20de%20la%20locura%20%282345%29/Elogio%20de%20la%20locura%20-%20Erasmo%20de%20Roterdam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <link href="../../Erasmo%20de%20Roterdam/Elogio%20de%20la%20locura%20%282345%29/Elogio%20de%20la%20locura%20-%20Erasmo%20de%20Roterdam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
     <author>
       <name>Erasmo de Róterdam</name>
       <uri>../authors_1/authors_1625_Page_1.xml</uri>
@@ -245,7 +245,7 @@
     <id>calibre:book:1941</id>
     <updated>2024-09-05T06:03:58Z</updated>
     <link href="../../Jean-Jacques%20Rousseau/Emilio%20o%20De%20la%20Educacion%20%281941%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Jacques%20Rousseau/Emilio%20o%20De%20la%20Educacion%20%281941%29/Emilio%20o%20De%20la%20Educacion%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <link href="../../Jean-Jacques%20Rousseau/Emilio%20o%20De%20la%20Educacion%20%281941%29/Emilio%20o%20De%20la%20Educacion%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
     <author>
       <name>Jean-Jacques Rousseau</name>
       <uri>../authors_1/authors_1386_Page_1.xml</uri>
@@ -266,7 +266,7 @@
     <id>calibre:book:2378</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../Jane%20Austen/Emma%20%282378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Emma%20%282378%29/Emma%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Jane%20Austen/Emma%20%282378%29/Emma%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -285,7 +285,7 @@
     <id>calibre:book:1368</id>
     <updated>2024-04-03T00:30:01Z</updated>
     <link href="../../Carlos%20del%20Amor/Emocionarte_%20La%20doble%20vida%20de%20los%20c%20%281368%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20del%20Amor/Emocionarte_%20La%20doble%20vida%20de%20los%20c%20%281368%29/Emocionarte_%20La%20doble%20vida%20de%20l%20-%20Carlos%20del%20Amor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Carlos%20del%20Amor/Emocionarte_%20La%20doble%20vida%20de%20los%20c%20%281368%29/Emocionarte_%20La%20doble%20vida%20de%20l%20-%20Carlos%20del%20Amor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Carlos del Amor</name>
       <uri>../authors_1/authors_1003_Page_1.xml</uri>
@@ -302,7 +302,7 @@
     <id>calibre:book:333</id>
     <updated>2023-02-16T08:12:18Z</updated>
     <link href="../../Daniel%20Lopez%20Rosetti/Emocion%20y%20sentimientos%20%28333%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Lopez%20Rosetti/Emocion%20y%20sentimientos%20%28333%29/Emocion%20y%20sentimientos%20-%20Daniel%20Lopez%20Rosetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="699 KB" />
+    <link href="../../Daniel%20Lopez%20Rosetti/Emocion%20y%20sentimientos%20%28333%29/Emocion%20y%20sentimientos%20-%20Daniel%20Lopez%20Rosetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="699 KB" />
     <author>
       <name>Daniel López Rosetti</name>
       <uri>../authors_0/authors_234_Page_1.xml</uri>
@@ -319,7 +319,7 @@
     <id>calibre:book:955</id>
     <updated>2023-07-14T09:58:24Z</updated>
     <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/En%20Blanca%20y%20negro%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/En%20Blanca%20y%20negro%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -337,7 +337,7 @@
     <id>calibre:book:2681</id>
     <updated>2024-10-22T08:11:22Z</updated>
     <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/En%20agosto%20nos%20vemos%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/En%20agosto%20nos%20vemos%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Gabriel García Márquez</name>
       <uri>../authors_0/authors_643_Page_1.xml</uri>
@@ -356,7 +356,7 @@
     <id>calibre:book:774</id>
     <updated>2023-05-25T00:58:48Z</updated>
     <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/En%20busca%20del%20tiempo%20en%20que%20vivi%20-%20Gregorio%20Luri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/En%20busca%20del%20tiempo%20en%20que%20vivi%20-%20Gregorio%20Luri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="505 KB" />
     <author>
       <name>Gregorio Luri</name>
       <uri>../authors_0/authors_579_Page_1.xml</uri>
@@ -374,7 +374,7 @@
     <id>calibre:book:842</id>
     <updated>2023-06-09T01:56:14Z</updated>
     <link href="../../Judith%20Hermann/En%20casa%20%28842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Judith%20Hermann/En%20casa%20%28842%29/En%20casa%20-%20Judith%20Hermann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="529 KB" />
+    <link href="../../Judith%20Hermann/En%20casa%20%28842%29/En%20casa%20-%20Judith%20Hermann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="529 KB" />
     <author>
       <name>Judith Hermann</name>
       <uri>../authors_0/authors_632_Page_1.xml</uri>
@@ -391,7 +391,7 @@
     <id>calibre:book:2327</id>
     <updated>2024-09-09T10:34:08Z</updated>
     <link href="../../Dimitrios%20Vikelas/En%20casa%20del%20ocultista%20%282327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dimitrios%20Vikelas/En%20casa%20del%20ocultista%20%282327%29/En%20casa%20del%20ocultista%20-%20Dimitrios%20Vikelas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <link href="../../Dimitrios%20Vikelas/En%20casa%20del%20ocultista%20%282327%29/En%20casa%20del%20ocultista%20-%20Dimitrios%20Vikelas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="82 KB" />
     <author>
       <name>Dimitrios Vikelas</name>
       <uri>../authors_1/authors_1621_Page_1.xml</uri>
@@ -410,7 +410,7 @@
     <id>calibre:book:1569</id>
     <updated>2024-06-02T10:59:49Z</updated>
     <link href="../../William%20Landay/En%20defensa%20de%20Jacob%20%281569%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Landay/En%20defensa%20de%20Jacob%20%281569%29/En%20defensa%20de%20Jacob%20-%20William%20Landay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <link href="../../William%20Landay/En%20defensa%20de%20Jacob%20%281569%29/En%20defensa%20de%20Jacob%20-%20William%20Landay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
     <author>
       <name>William Landay</name>
       <uri>../authors_1/authors_1146_Page_1.xml</uri>
@@ -427,7 +427,7 @@
     <id>calibre:book:2733</id>
     <updated>2024-12-11T08:34:17Z</updated>
     <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="890 KB" />
     <author>
       <name>Arne Dahl</name>
       <uri>../authors_1/authors_1788_Page_1.xml</uri>
@@ -444,7 +444,7 @@
     <id>calibre:book:528</id>
     <updated>2023-04-05T00:40:10Z</updated>
     <link href="../../Jeffrey%20Veidlinger/En%20el%20corazon%20de%20la%20Europa%20civiliza%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeffrey%20Veidlinger/En%20el%20corazon%20de%20la%20Europa%20civiliza%20%28528%29/En%20el%20corazon%20de%20la%20Europa%20civi%20-%20Jeffrey%20Veidlinger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Jeffrey%20Veidlinger/En%20el%20corazon%20de%20la%20Europa%20civiliza%20%28528%29/En%20el%20corazon%20de%20la%20Europa%20civi%20-%20Jeffrey%20Veidlinger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Jeffrey Veidlinger</name>
       <uri>../authors_0/authors_392_Page_1.xml</uri>

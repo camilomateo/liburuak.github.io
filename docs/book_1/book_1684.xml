@@ -6,12 +6,12 @@
   <link href="./book_1684.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El tren de los huérfanos" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
-  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/El%20tren%20de%20los%20huerfanos%20-%20Christina%20Baker%20Kline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+  <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/El%20tren%20de%20los%20huerfanos%20-%20Christina%20Baker%20Kline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
   <author>
     <name>Christina Baker Kline</name>
     <uri>../authors_1/authors_1206_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <span xmlns="" itemprop="description">
       Entre 1854 y 1929, los llamados
@@ -73,5 +73,5 @@
     el polaco.
     </span>
   </content>
-  <link href="../authors_1/authors_1206_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Christina Baker Kline" />
+  <link href="../authors_1/authors_1206_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Christina Baker Kline" />
 </entry>

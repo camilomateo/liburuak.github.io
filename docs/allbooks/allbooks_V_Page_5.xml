@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por V</title>
+  <title>Books starting with V</title>
   <id>Calibre2opds:allbooks:V</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por V" />
+  <link href="./allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with V" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por V" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <entry>
     <title>La voz sombra</title>
     <id>calibre:book:1832</id>
     <updated>2024-08-30T02:04:05Z</updated>
     <link href="../../Ryoko%20Sekiguchi/La%20voz%20sombra%20%281832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ryoko%20Sekiguchi/La%20voz%20sombra%20%281832%29/La%20voz%20sombra%20-%20Ryoko%20Sekiguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ryoko%20Sekiguchi/La%20voz%20sombra%20%281832%29/La%20voz%20sombra%20-%20Ryoko%20Sekiguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ryoko Sekiguchi</name>
       <uri>../authors_1/authors_1309_Page_1.xml</uri>
@@ -33,7 +33,7 @@
     <id>calibre:book:801</id>
     <updated>2023-05-31T01:18:14Z</updated>
     <link href="../../Veronica%20Zumalacarregui/La%20vuelta%20al%20mundo%20en%2015%20mujeres%20%28801%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Veronica%20Zumalacarregui/La%20vuelta%20al%20mundo%20en%2015%20mujeres%20%28801%29/La%20vuelta%20al%20mundo%20en%2015%20mujere%20-%20Veronica%20Zumalacarregui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="597 KB" />
+    <link href="../../Veronica%20Zumalacarregui/La%20vuelta%20al%20mundo%20en%2015%20mujeres%20%28801%29/La%20vuelta%20al%20mundo%20en%2015%20mujere%20-%20Veronica%20Zumalacarregui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
     <author>
       <name>Verónica Zumalacárregui</name>
       <uri>../authors_0/authors_596_Page_1.xml</uri>
@@ -50,7 +50,7 @@
     <id>calibre:book:2249</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Julio%20Verne/La%20vuelta%20al%20mundo%20en%2080%20dias%20%282249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/La%20vuelta%20al%20mundo%20en%2080%20dias%20%282249%29/La%20vuelta%20al%20mundo%20en%2080%20dias%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="251 KB" />
+    <link href="../../Julio%20Verne/La%20vuelta%20al%20mundo%20en%2080%20dias%20%282249%29/La%20vuelta%20al%20mundo%20en%2080%20dias%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="251 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -66,7 +66,7 @@
     <id>calibre:book:1337</id>
     <updated>2024-03-21T01:00:32Z</updated>
     <link href="../../Federico%20Jimenez%20Losantos/La%20vuelta%20del%20comunismo%20%281337%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Jimenez%20Losantos/La%20vuelta%20del%20comunismo%20%281337%29/La%20vuelta%20del%20comunismo%20-%20Federico%20Jimenez%20Losantos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Federico%20Jimenez%20Losantos/La%20vuelta%20del%20comunismo%20%281337%29/La%20vuelta%20del%20comunismo%20-%20Federico%20Jimenez%20Losantos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Federico Jiménez Losantos</name>
       <uri>../authors_0/authors_978_Page_1.xml</uri>
@@ -83,7 +83,7 @@
     <id>calibre:book:2804</id>
     <updated>2025-01-16T08:08:28Z</updated>
     <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/La%20vulnerabilidad%20del%20azar%20-%20Fernando%20Benavides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/La%20vulnerabilidad%20del%20azar%20-%20Fernando%20Benavides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Fernando Benavides</name>
       <uri>../authors_1/authors_1835_Page_1.xml</uri>
@@ -100,7 +100,7 @@
     <id>calibre:book:1261</id>
     <updated>2024-03-01T02:15:57Z</updated>
     <link href="../../Elvira%20Sastre/Las%20vulnerabilidades%20%281261%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elvira%20Sastre/Las%20vulnerabilidades%20%281261%29/Las%20vulnerabilidades%20-%20Elvira%20Sastre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <link href="../../Elvira%20Sastre/Las%20vulnerabilidades%20%281261%29/Las%20vulnerabilidades%20-%20Elvira%20Sastre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="456 KB" />
     <author>
       <name>Elvira Sastre</name>
       <uri>../authors_0/authors_921_Page_1.xml</uri>
@@ -118,7 +118,7 @@ La narradora de esta historia, Elvira, recibe un mensaje en una red social: una 
     <id>calibre:book:2742</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/Las%20vias%20de%20la%20muerte%20-%20Tim%20Weaver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="958 KB" />
+    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/Las%20vias%20de%20la%20muerte%20-%20Tim%20Weaver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="958 KB" />
     <author>
       <name>Tim Weaver</name>
       <uri>../authors_1/authors_1794_Page_1.xml</uri>

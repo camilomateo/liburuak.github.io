@@ -6,11 +6,11 @@
   <link href="./book_455.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tutankamón: Faraón nacido para ser leyenda" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/Tutankamon_%20Faraon%20nacido%20para%20-%20Edgar%20Ochoa%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Edgar%20Ochoa%20Garcia/Tutankamon_%20Faraon%20nacido%20para%20ser%20%28455%29/Tutankamon_%20Faraon%20nacido%20para%20-%20Edgar%20Ochoa%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Edgar Ochoa García</name>
     <uri>../authors_0/authors_340_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Cuando escuchas el nombre de Tutankamón...
@@ -46,5 +46,5 @@
       que permanecieron ocultos hasta noviembre de 1922.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_340_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Edgar Ochoa García" />
+  <link href="../authors_0/authors_340_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Edgar Ochoa García" />
 </entry>

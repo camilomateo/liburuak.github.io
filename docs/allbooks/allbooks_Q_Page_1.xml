@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por Q</title>
+  <title>Books starting with Q</title>
   <id>Calibre2opds:allbooks:Q</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por Q" />
+  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Q" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_Q_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_Q_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
     <title>Qatar</title>
     <id>calibre:book:245</id>
     <updated>2023-02-02T08:58:30Z</updated>
     <link href="../../Fonsi%20Loaiza/Qatar%20%28245%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fonsi%20Loaiza/Qatar%20%28245%29/Qatar%20-%20Fonsi%20Loaiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <link href="../../Fonsi%20Loaiza/Qatar%20%28245%29/Qatar%20-%20Fonsi%20Loaiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
     <author>
       <name>Fonsi Loaiza</name>
       <uri>../authors_0/authors_173_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:418</id>
     <updated>2023-03-14T04:30:30Z</updated>
     <link href="../../Marc-Uwe%20Kling/QualityLand%202.0%20%28418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marc-Uwe%20Kling/QualityLand%202.0%20%28418%29/QualityLand%202.0%20-%20Marc-Uwe%20Kling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Marc-Uwe%20Kling/QualityLand%202.0%20%28418%29/QualityLand%202.0%20-%20Marc-Uwe%20Kling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Marc-Uwe Kling</name>
       <uri>../authors_0/authors_308_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:1221</id>
     <updated>2024-02-20T04:09:06Z</updated>
     <link href="../../Mario%20de%20La%20Rosa/Que%20arda%20esta%20casa%20con%20nosotros%20den%20%281221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20de%20La%20Rosa/Que%20arda%20esta%20casa%20con%20nosotros%20den%20%281221%29/Que%20arda%20esta%20casa%20con%20nosotros%20-%20Mario%20de%20La%20Rosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="962 KB" />
+    <link href="../../Mario%20de%20La%20Rosa/Que%20arda%20esta%20casa%20con%20nosotros%20den%20%281221%29/Que%20arda%20esta%20casa%20con%20nosotros%20-%20Mario%20de%20La%20Rosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="962 KB" />
     <author>
       <name>Mario de La Rosa</name>
       <uri>../authors_0/authors_887_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:1005</id>
     <updated>2023-08-27T03:33:54Z</updated>
     <link href="../../Kike%20Ferrari/Que%20de%20lejos%20parecen%20moscas%20%281005%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kike%20Ferrari/Que%20de%20lejos%20parecen%20moscas%20%281005%29/Que%20de%20lejos%20parecen%20moscas%20-%20Kike%20Ferrari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="281 KB" />
+    <link href="../../Kike%20Ferrari/Que%20de%20lejos%20parecen%20moscas%20%281005%29/Que%20de%20lejos%20parecen%20moscas%20-%20Kike%20Ferrari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="281 KB" />
     <author>
       <name>Kike Ferrari</name>
       <uri>../authors_0/authors_745_Page_1.xml</uri>
@@ -85,11 +85,28 @@
     <link href="../book_1/book_1005.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Que nuestra alegría perdure</title>
+    <id>calibre:book:2829</id>
+    <updated>2025-01-23T02:00:54Z</updated>
+    <link href="../../Kevin%20Lambert/Que%20nuestra%20alegria%20perdure%20%282829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kevin%20Lambert/Que%20nuestra%20alegria%20perdure%20%282829%29/Que%20nuestra%20alegria%20perdure%20-%20Kevin%20Lambert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="472 KB" />
+    <author>
+      <name>Kevin Lambert</name>
+      <uri>../authors_1/authors_1852_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un drama en tres actos que disecciona con ironía y desenvuelta crueldad los excesos de la clase privilegiada.Premio Médicis 2023– PremioDécembre 2023 – PremioRinguet 2023Finalista Premio Goncourt 2023«En un momento en que muchos novelistas sienten la...</summary>
+    <link href="../book_2/book_2829.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Que sea la última vez...</title>
     <id>calibre:book:1606</id>
     <updated>2024-06-02T10:59:59Z</updated>
     <link href="../../Maxim%20Huerta/Que%20sea%20la%20ultima%20vez__%20%281606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maxim%20Huerta/Que%20sea%20la%20ultima%20vez__%20%281606%29/Que%20sea%20la%20ultima%20vez__%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Maxim%20Huerta/Que%20sea%20la%20ultima%20vez__%20%281606%29/Que%20sea%20la%20ultima%20vez__%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Màxim Huerta</name>
       <uri>../authors_0/authors_314_Page_1.xml</uri>
@@ -106,7 +123,7 @@
     <id>calibre:book:1495</id>
     <updated>2024-05-10T08:31:14Z</updated>
     <link href="../../Gonzalo%20Lema/Que%20te%20vaya%20como%20mereces%20%281495%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gonzalo%20Lema/Que%20te%20vaya%20como%20mereces%20%281495%29/Que%20te%20vaya%20como%20mereces%20-%20Gonzalo%20Lema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="372 KB" />
+    <link href="../../Gonzalo%20Lema/Que%20te%20vaya%20como%20mereces%20%281495%29/Que%20te%20vaya%20como%20mereces%20-%20Gonzalo%20Lema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="372 KB" />
     <author>
       <name>Gonzalo Lema</name>
       <uri>../authors_1/authors_1093_Page_1.xml</uri>
@@ -123,7 +140,7 @@
     <id>calibre:book:2678</id>
     <updated>2024-10-22T08:08:34Z</updated>
     <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/Querida%20yo%20_%20tenemos%20que%20hablar%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="837 KB" />
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/Querida%20yo%20_%20tenemos%20que%20hablar%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="837 KB" />
     <author>
       <name>Elizabeth Clapés</name>
       <uri>../authors_0/authors_542_Page_1.xml</uri>
@@ -144,7 +161,7 @@
     <id>calibre:book:804</id>
     <updated>2023-05-31T01:30:24Z</updated>
     <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/Querido%20cerebro%2C%20_que%20cono%20quie%20-%20Lorena%20Gascon%20%40lapsicologajaput.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+    <link href="../../Lorena%20Gascon%20%40lapsicologajaputa/Querido%20cerebro%2C%20_que%20cono%20quieres%20%28804%29/Querido%20cerebro%2C%20_que%20cono%20quie%20-%20Lorena%20Gascon%20%40lapsicologajaput.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="552 KB" />
     <author>
       <name>Lorena Gascón @lapsicologajaputa</name>
       <uri>../authors_0/authors_599_Page_1.xml</uri>
@@ -162,7 +179,7 @@
     <id>calibre:book:1231</id>
     <updated>2024-02-22T06:06:23Z</updated>
     <link href="../../Anna%20Bailey/Quien%20este%20libre%20de%20culpa%20%281231%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anna%20Bailey/Quien%20este%20libre%20de%20culpa%20%281231%29/Quien%20este%20libre%20de%20culpa%20-%20Anna%20Bailey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Anna%20Bailey/Quien%20este%20libre%20de%20culpa%20%281231%29/Quien%20este%20libre%20de%20culpa%20-%20Anna%20Bailey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Anna Bailey</name>
       <uri>../authors_0/authors_896_Page_1.xml</uri>
@@ -179,7 +196,7 @@
     <id>calibre:book:992</id>
     <updated>2023-08-23T02:48:30Z</updated>
     <link href="../../Stephen%20King/Quien%20pierde%20paga%20%28992%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Quien%20pierde%20paga%20%28992%29/Quien%20pierde%20paga%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="694 KB" />
+    <link href="../../Stephen%20King/Quien%20pierde%20paga%20%28992%29/Quien%20pierde%20paga%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="694 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -199,7 +216,7 @@
     <id>calibre:book:630</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Xavier%20Aldekoa/Quijote%20en%20el%20Congo%20%28630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Aldekoa/Quijote%20en%20el%20Congo%20%28630%29/Quijote%20en%20el%20Congo%20-%20Xavier%20Aldekoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../Xavier%20Aldekoa/Quijote%20en%20el%20Congo%20%28630%29/Quijote%20en%20el%20Congo%20-%20Xavier%20Aldekoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>Xavier Aldekoa</name>
       <uri>../authors_0/authors_468_Page_1.xml</uri>
@@ -216,7 +233,7 @@
     <id>calibre:book:1050</id>
     <updated>2023-11-01T07:27:31Z</updated>
     <link href="../../Toni%20Aparicio/Quien%20esconde%20tu%20secreto%20%281050%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Toni%20Aparicio/Quien%20esconde%20tu%20secreto%20%281050%29/Quien%20esconde%20tu%20secreto%20-%20Toni%20Aparicio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+    <link href="../../Toni%20Aparicio/Quien%20esconde%20tu%20secreto%20%281050%29/Quien%20esconde%20tu%20secreto%20-%20Toni%20Aparicio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
     <author>
       <name>Toni Aparicio</name>
       <uri>../authors_0/authors_770_Page_1.xml</uri>
@@ -233,7 +250,7 @@
     <id>calibre:book:626</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Albert%20Espinosa/Que%20bien%20me%20haces%20cuando%20me%20haces%20b%20%28626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Albert%20Espinosa/Que%20bien%20me%20haces%20cuando%20me%20haces%20b%20%28626%29/Que%20bien%20me%20haces%20cuando%20me%20hac%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+    <link href="../../Albert%20Espinosa/Que%20bien%20me%20haces%20cuando%20me%20haces%20b%20%28626%29/Que%20bien%20me%20haces%20cuando%20me%20hac%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
     <author>
       <name>Albert Espinosa</name>
       <uri>../authors_0/authors_189_Page_1.xml</uri>
@@ -250,7 +267,7 @@
     <id>calibre:book:178</id>
     <updated>2023-01-26T07:16:18Z</updated>
     <link href="../../Noelia%20Amarillo/Quedate%20a%20mi%20lado%20%28178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noelia%20Amarillo/Quedate%20a%20mi%20lado%20%28178%29/Quedate%20a%20mi%20lado%20-%20Noelia%20Amarillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <link href="../../Noelia%20Amarillo/Quedate%20a%20mi%20lado%20%28178%29/Quedate%20a%20mi%20lado%20-%20Noelia%20Amarillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="580 KB" />
     <author>
       <name>Noelia Amarillo</name>
       <uri>../authors_0/authors_116_Page_1.xml</uri>
@@ -268,7 +285,7 @@
     <id>calibre:book:307</id>
     <updated>2023-02-14T09:08:52Z</updated>
     <link href="../../Men%20Marias/Lo%20que%20arrastra%20la%20lluvia%20%28307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Men%20Marias/Lo%20que%20arrastra%20la%20lluvia%20%28307%29/Lo%20que%20arrastra%20la%20lluvia%20-%20Men%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Men%20Marias/Lo%20que%20arrastra%20la%20lluvia%20%28307%29/Lo%20que%20arrastra%20la%20lluvia%20-%20Men%20Marias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Men Marías</name>
       <uri>../authors_0/authors_30_Page_1.xml</uri>
@@ -285,7 +302,7 @@
     <id>calibre:book:471</id>
     <updated>2023-03-24T09:44:14Z</updated>
     <link href="../../Ana%20Lena%20Rivera/Lo%20que%20callan%20los%20muertos%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Lena%20Rivera/Lo%20que%20callan%20los%20muertos%20%28471%29/Lo%20que%20callan%20los%20muertos%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <link href="../../Ana%20Lena%20Rivera/Lo%20que%20callan%20los%20muertos%20%28471%29/Lo%20que%20callan%20los%20muertos%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
       <name>Ana Lena Rivera</name>
       <uri>../authors_0/authors_354_Page_1.xml</uri>
@@ -302,7 +319,7 @@
     <id>calibre:book:1206</id>
     <updated>2024-02-06T06:13:12Z</updated>
     <link href="../../Francisco%20Nunez%20Roldan/Lo%20que%20la%20luz%20no%20sabe%20%281206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Nunez%20Roldan/Lo%20que%20la%20luz%20no%20sabe%20%281206%29/Lo%20que%20la%20luz%20no%20sabe%20-%20Francisco%20Nunez%20Roldan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="374 KB" />
+    <link href="../../Francisco%20Nunez%20Roldan/Lo%20que%20la%20luz%20no%20sabe%20%281206%29/Lo%20que%20la%20luz%20no%20sabe%20-%20Francisco%20Nunez%20Roldan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
     <author>
       <name>Francisco Núñez Roldán</name>
       <uri>../authors_0/authors_875_Page_1.xml</uri>
@@ -319,7 +336,7 @@
     <id>calibre:book:1487</id>
     <updated>2024-05-03T02:01:58Z</updated>
     <link href="../../Isabel%20Lahuerta%20Bellido/Lo%20que%20la%20mentira%20alimenta%20%281487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isabel%20Lahuerta%20Bellido/Lo%20que%20la%20mentira%20alimenta%20%281487%29/Lo%20que%20la%20mentira%20alimenta%20-%20Isabel%20Lahuerta%20Bellido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Isabel%20Lahuerta%20Bellido/Lo%20que%20la%20mentira%20alimenta%20%281487%29/Lo%20que%20la%20mentira%20alimenta%20-%20Isabel%20Lahuerta%20Bellido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Isabel Lahuerta Bellido</name>
       <uri>../authors_1/authors_1087_Page_1.xml</uri>
@@ -336,7 +353,7 @@
     <id>calibre:book:1123</id>
     <updated>2024-01-08T09:16:16Z</updated>
     <link href="../../Ines%20Plana/Lo%20que%20no%20cuentan%20los%20muertos%20%281123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Plana/Lo%20que%20no%20cuentan%20los%20muertos%20%281123%29/Lo%20que%20no%20cuentan%20los%20muertos%20-%20Ines%20Plana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1013 KB" />
+    <link href="../../Ines%20Plana/Lo%20que%20no%20cuentan%20los%20muertos%20%281123%29/Lo%20que%20no%20cuentan%20los%20muertos%20-%20Ines%20Plana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1013 KB" />
     <author>
       <name>Inés Plana</name>
       <uri>../authors_0/authors_825_Page_1.xml</uri>
@@ -354,7 +371,7 @@
     <id>calibre:book:2706</id>
     <updated>2024-11-15T04:07:04Z</updated>
     <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Dolores Redondo</name>
       <uri>../authors_0/authors_62_Page_1.xml</uri>
@@ -371,7 +388,7 @@
     <id>calibre:book:409</id>
     <updated>2023-03-13T09:24:36Z</updated>
     <link href="../../Ignacio%20Padilla/Lo%20que%20no%20sabe%20medea%20%28409%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Padilla/Lo%20que%20no%20sabe%20medea%20%28409%29/Lo%20que%20no%20sabe%20medea%20-%20Ignacio%20Padilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ignacio%20Padilla/Lo%20que%20no%20sabe%20medea%20%28409%29/Lo%20que%20no%20sabe%20medea%20-%20Ignacio%20Padilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ignacio Padilla</name>
       <uri>../authors_0/authors_299_Page_1.xml</uri>
@@ -388,7 +405,7 @@
     <id>calibre:book:44</id>
     <updated>2023-01-17T10:25:40Z</updated>
     <link href="../../David%20Lagercrantz/Lo%20que%20no%20te%20mata%20te%20hace%20mas%20fuerte%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Lagercrantz/Lo%20que%20no%20te%20mata%20te%20hace%20mas%20fuerte%20%2844%29/Lo%20que%20no%20te%20mata%20te%20hace%20mas%20f%20-%20David%20Lagercrantz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="698 KB" />
+    <link href="../../David%20Lagercrantz/Lo%20que%20no%20te%20mata%20te%20hace%20mas%20fuerte%20%2844%29/Lo%20que%20no%20te%20mata%20te%20hace%20mas%20f%20-%20David%20Lagercrantz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="698 KB" />
     <author>
       <name>David Lagercrantz</name>
       <uri>../authors_0/authors_35_Page_1.xml</uri>
@@ -406,7 +423,7 @@
     <id>calibre:book:1197</id>
     <updated>2024-02-05T05:55:59Z</updated>
     <link href="../../Andreu%20Martin/Lo%20que%20solo%20les%20pasa%20a%20los%20demas%20%281197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andreu%20Martin/Lo%20que%20solo%20les%20pasa%20a%20los%20demas%20%281197%29/Lo%20que%20solo%20les%20pasa%20a%20los%20dema%20-%20Andreu%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="838 KB" />
+    <link href="../../Andreu%20Martin/Lo%20que%20solo%20les%20pasa%20a%20los%20demas%20%281197%29/Lo%20que%20solo%20les%20pasa%20a%20los%20dema%20-%20Andreu%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="838 KB" />
     <author>
       <name>Andreu Martín</name>
       <uri>../authors_0/authors_307_Page_1.xml</uri>
@@ -421,7 +438,7 @@
     <id>calibre:book:449</id>
     <updated>2023-03-23T11:00:40Z</updated>
     <link href="../../Blas%20Ruiz%20Grau/El%20quebrantahuesos%20%28449%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blas%20Ruiz%20Grau/El%20quebrantahuesos%20%28449%29/El%20quebrantahuesos%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Blas%20Ruiz%20Grau/El%20quebrantahuesos%20%28449%29/El%20quebrantahuesos%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Blas Ruiz Grau</name>
       <uri>../authors_0/authors_334_Page_1.xml</uri>
@@ -433,22 +450,5 @@
     <category term="Nicolás Valdés" />
     <summary>Nicolás Valdés [4]:  ¿Cuáles son los orígenes de las leyendas más terroríficas? ¿Cómo nacen nuestros mayores miedos? Y, sobre todo, ¿qué pasaría si se hicieran realidad?Hace años que Nicolás Valdés se alejó de su pueblo natal en la sierra madrileña d...</summary>
     <link href="../book_0/book_449.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El querido hermano</title>
-    <id>calibre:book:798</id>
-    <updated>2023-05-31T01:04:30Z</updated>
-    <link href="../../Joaquin%20Perez%20Azaustre/El%20querido%20hermano%20%28798%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joaquin%20Perez%20Azaustre/El%20querido%20hermano%20%28798%29/El%20querido%20hermano%20-%20Joaquin%20Perez%20Azaustre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
-    <author>
-      <name>Joaquín Pérez Azaústre</name>
-      <uri>../authors_0/authors_594_Page_1.xml</uri>
-    </author>
-    <published>2023-05-18T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La mañana del sábado 25 de febrero de 1939, en Burgos, Manuel Machado recibe la noticia de que su hermano Antonio acaba de morir. Al día siguiente, Manuel y su mujer, Eulalia Cáceres, reciben las condolencias de sus amigos en la pensión Filomena, don...</summary>
-    <link href="../book_0/book_798.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

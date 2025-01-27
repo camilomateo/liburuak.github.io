@@ -6,11 +6,11 @@
   <link href="./book_469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Reencuentro y Un alma valerosa" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with U" />
   <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/Reencuentro%20y%20Un%20alma%20valerosa%20-%20Fred%20Uhlman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+  <link href="../../Fred%20Uhlman/Reencuentro%20y%20Un%20alma%20valerosa%20%28469%29/Reencuentro%20y%20Un%20alma%20valerosa%20-%20Fred%20Uhlman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="647 KB" />
   <author>
     <name>Fred Uhlman</name>
     <uri>../authors_0/authors_352_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">
       <i>Reencuentro,</i>
@@ -62,5 +62,5 @@
     adolescencia.
     </p>
   </content>
-  <link href="../authors_0/authors_352_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Fred Uhlman" />
+  <link href="../authors_0/authors_352_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Fred Uhlman" />
 </entry>

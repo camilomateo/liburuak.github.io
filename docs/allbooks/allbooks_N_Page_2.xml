@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por N</title>
+  <title>Books starting with N</title>
   <id>Calibre2opds:allbooks:N</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por N" />
+  <link href="./allbooks_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por N" />
-  <link href="../allbooks/allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with N" />
+  <link href="../allbooks/allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
   <entry>
     <title>Niebla en el alma</title>
     <id>calibre:book:537</id>
     <updated>2023-04-05T00:40:18Z</updated>
     <link href="../../Ragnar%20Jonasson/Niebla%20en%20el%20alma%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ragnar%20Jonasson/Niebla%20en%20el%20alma%20%28537%29/Niebla%20en%20el%20alma%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="740 KB" />
+    <link href="../../Ragnar%20Jonasson/Niebla%20en%20el%20alma%20%28537%29/Niebla%20en%20el%20alma%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="740 KB" />
     <author>
       <name>Ragnar Jónasson</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1564</id>
     <updated>2024-06-02T10:59:48Z</updated>
     <link href="../../Anthony%20Ryan/Niebla%20roja%20%281564%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anthony%20Ryan/Niebla%20roja%20%281564%29/Niebla%20roja%20-%20Anthony%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="401 KB" />
+    <link href="../../Anthony%20Ryan/Niebla%20roja%20%281564%29/Niebla%20roja%20-%20Anthony%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="401 KB" />
     <author>
       <name>Anthony Ryan</name>
       <uri>../authors_1/authors_1143_Page_1.xml</uri>
@@ -56,7 +56,7 @@ Un hombre despierta en un barco en el mar sin recuerdos de quién es o dónde es
     <id>calibre:book:1901</id>
     <updated>2024-09-03T09:33:58Z</updated>
     <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/Niebla%20y%20acero%20-%20Jose%20Zoilo%20Hernandez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/Niebla%20y%20acero%20-%20Jose%20Zoilo%20Hernandez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="663 KB" />
     <author>
       <name>José Zoilo Hernández González</name>
       <uri>../authors_1/authors_1357_Page_1.xml</uri>
@@ -76,7 +76,7 @@ Un hombre despierta en un barco en el mar sin recuerdos de quién es o dónde es
     <id>calibre:book:1604</id>
     <updated>2024-06-02T10:59:59Z</updated>
     <link href="../../Paz%20Castello/Ninguna%20de%20nosotras%20tendra%20compasio%20%281604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paz%20Castello/Ninguna%20de%20nosotras%20tendra%20compasio%20%281604%29/Ninguna%20de%20nosotras%20tendra%20comp%20-%20Paz%20Castello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="610 KB" />
+    <link href="../../Paz%20Castello/Ninguna%20de%20nosotras%20tendra%20compasio%20%281604%29/Ninguna%20de%20nosotras%20tendra%20comp%20-%20Paz%20Castello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="610 KB" />
     <author>
       <name>Paz Castelló</name>
       <uri>../authors_1/authors_1103_Page_1.xml</uri>
@@ -93,7 +93,7 @@ Un hombre despierta en un barco en el mar sin recuerdos de quién es o dónde es
     <id>calibre:book:1212</id>
     <updated>2024-02-06T09:29:30Z</updated>
     <link href="../../Pablo%20Maurette/La%20Nina%20de%20Oro%20%281212%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Maurette/La%20Nina%20de%20Oro%20%281212%29/La%20Nina%20de%20Oro%20-%20Pablo%20Maurette.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Pablo%20Maurette/La%20Nina%20de%20Oro%20%281212%29/La%20Nina%20de%20Oro%20-%20Pablo%20Maurette.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Pablo Maurette</name>
       <uri>../authors_0/authors_879_Page_1.xml</uri>
@@ -110,7 +110,7 @@ Un hombre despierta en un barco en el mar sin recuerdos de quién es o dónde es
     <id>calibre:book:2127</id>
     <updated>2024-09-06T02:21:20Z</updated>
     <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/El%20Nino%20de%20la%20Bola%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/El%20Nino%20de%20la%20Bola%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="270 KB" />
     <author>
       <name>Pedro Antonio de Alarcón</name>
       <uri>../authors_1/authors_1509_Page_1.xml</uri>
@@ -131,7 +131,7 @@ Un hombre despierta en un barco en el mar sin recuerdos de quién es o dónde es
     <id>calibre:book:1734</id>
     <updated>2024-08-08T04:59:25Z</updated>
     <link href="../../Kristina%20McMorris/Ninos%20a%20la%20venta%20%281734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kristina%20McMorris/Ninos%20a%20la%20venta%20%281734%29/Ninos%20a%20la%20venta%20-%20Kristina%20McMorris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Kristina%20McMorris/Ninos%20a%20la%20venta%20%281734%29/Ninos%20a%20la%20venta%20-%20Kristina%20McMorris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Kristina McMorris</name>
       <uri>../authors_1/authors_1241_Page_1.xml</uri>
@@ -153,7 +153,7 @@ Una inolvidable novela de ficción histórica de la autora bestseller Kristina M
     <id>calibre:book:272</id>
     <updated>2023-02-03T08:39:16Z</updated>
     <link href="../../Pierre%20Dukan/No%20Consigo%20Adelgazar%20%28272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Dukan/No%20Consigo%20Adelgazar%20%28272%29/No%20Consigo%20Adelgazar%20-%20Pierre%20Dukan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../Pierre%20Dukan/No%20Consigo%20Adelgazar%20%28272%29/No%20Consigo%20Adelgazar%20-%20Pierre%20Dukan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>Pierre Dukan</name>
       <uri>../authors_0/authors_184_Page_1.xml</uri>
@@ -169,7 +169,7 @@ Una inolvidable novela de ficción histórica de la autora bestseller Kristina M
     <id>calibre:book:34</id>
     <updated>2023-01-17T10:20:52Z</updated>
     <link href="../../Patricia%20Gibney/No%20Hay%20Salida%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Gibney/No%20Hay%20Salida%20%2834%29/No%20Hay%20Salida%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="997 KB" />
+    <link href="../../Patricia%20Gibney/No%20Hay%20Salida%20%2834%29/No%20Hay%20Salida%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="997 KB" />
     <author>
       <name>Patricia Gibney</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -186,7 +186,7 @@ Una inolvidable novela de ficción histórica de la autora bestseller Kristina M
     <id>calibre:book:354</id>
     <updated>2023-02-23T05:44:40Z</updated>
     <link href="../../Viveca%20Sten/No%20culpable%20%28354%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Viveca%20Sten/No%20culpable%20%28354%29/No%20culpable%20-%20Viveca%20Sten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="840 KB" />
+    <link href="../../Viveca%20Sten/No%20culpable%20%28354%29/No%20culpable%20-%20Viveca%20Sten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="840 KB" />
     <author>
       <name>Viveca Sten</name>
       <uri>../authors_0/authors_249_Page_1.xml</uri>
@@ -203,7 +203,7 @@ Una inolvidable novela de ficción histórica de la autora bestseller Kristina M
     <id>calibre:book:265</id>
     <updated>2023-02-02T09:07:02Z</updated>
     <link href="../../Patricia%20Gibney/No%20digas%20nada%20%28265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Gibney/No%20digas%20nada%20%28265%29/No%20digas%20nada%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="962 KB" />
+    <link href="../../Patricia%20Gibney/No%20digas%20nada%20%28265%29/No%20digas%20nada%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="962 KB" />
     <author>
       <name>Patricia Gibney</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -223,7 +223,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:2682</id>
     <updated>2024-10-22T08:11:23Z</updated>
     <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/No%20es%20amor%20-%20Ali%20Hazelwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/No%20es%20amor%20-%20Ali%20Hazelwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
     <author>
       <name>Ali Hazelwood</name>
       <uri>../authors_1/authors_1764_Page_1.xml</uri>
@@ -242,7 +242,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1868</id>
     <updated>2024-09-02T04:27:39Z</updated>
     <link href="../../Wendy%20Moore/No%20es%20lugar%20para%20mujeres%20%281868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Wendy%20Moore/No%20es%20lugar%20para%20mujeres%20%281868%29/No%20es%20lugar%20para%20mujeres%20-%20Wendy%20Moore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Wendy%20Moore/No%20es%20lugar%20para%20mujeres%20%281868%29/No%20es%20lugar%20para%20mujeres%20-%20Wendy%20Moore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Wendy Moore</name>
       <uri>../authors_1/authors_1339_Page_1.xml</uri>
@@ -259,7 +259,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:131</id>
     <updated>2023-01-18T00:43:42Z</updated>
     <link href="../../Mari%20Jungstedt/No%20estas%20sola%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/No%20estas%20sola%20%28131%29/No%20estas%20sola%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="738 KB" />
+    <link href="../../Mari%20Jungstedt/No%20estas%20sola%20%28131%29/No%20estas%20sola%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="738 KB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>
@@ -277,7 +277,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1139</id>
     <updated>2024-01-08T09:16:19Z</updated>
     <link href="../../Sandrone%20Dazieri/No%20esta%20solo%20%281139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandrone%20Dazieri/No%20esta%20solo%20%281139%29/No%20esta%20solo%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="576 KB" />
+    <link href="../../Sandrone%20Dazieri/No%20esta%20solo%20%281139%29/No%20esta%20solo%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="576 KB" />
     <author>
       <name>Sandrone Dazieri</name>
       <uri>../authors_0/authors_683_Page_1.xml</uri>
@@ -295,7 +295,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1610</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Juan%20Villoro/No%20fue%20penal%20%281610%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Villoro/No%20fue%20penal%20%281610%29/No%20fue%20penal%20-%20Juan%20Villoro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <link href="../../Juan%20Villoro/No%20fue%20penal%20%281610%29/No%20fue%20penal%20-%20Juan%20Villoro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="193 KB" />
     <author>
       <name>Juan Villoro</name>
       <uri>../authors_1/authors_1169_Page_1.xml</uri>
@@ -312,7 +312,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1471</id>
     <updated>2024-04-30T05:13:16Z</updated>
     <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/No%20hagas%20montanas%20de%20granos%20de%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/No%20hagas%20montanas%20de%20granos%20de%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rafael Santandreu</name>
       <uri>../authors_0/authors_185_Page_1.xml</uri>
@@ -329,7 +329,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1575</id>
     <updated>2024-06-02T10:59:51Z</updated>
     <link href="../../Jordi%20Llobregat/No%20hay%20luz%20bajo%20la%20nieve%20%281575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Llobregat/No%20hay%20luz%20bajo%20la%20nieve%20%281575%29/No%20hay%20luz%20bajo%20la%20nieve%20-%20Jordi%20Llobregat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Jordi%20Llobregat/No%20hay%20luz%20bajo%20la%20nieve%20%281575%29/No%20hay%20luz%20bajo%20la%20nieve%20-%20Jordi%20Llobregat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Jordi Llobregat</name>
       <uri>../authors_1/authors_1150_Page_1.xml</uri>
@@ -347,7 +347,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1597</id>
     <updated>2024-06-02T10:59:57Z</updated>
     <link href="../../Nina%20Lykke/No%20hemos%20venido%20a%20divertirnos%20%281597%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nina%20Lykke/No%20hemos%20venido%20a%20divertirnos%20%281597%29/No%20hemos%20venido%20a%20divertirnos%20-%20Nina%20Lykke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="862 KB" />
+    <link href="../../Nina%20Lykke/No%20hemos%20venido%20a%20divertirnos%20%281597%29/No%20hemos%20venido%20a%20divertirnos%20-%20Nina%20Lykke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="862 KB" />
     <author>
       <name>Nina Lykke</name>
       <uri>../authors_1/authors_1162_Page_1.xml</uri>
@@ -364,7 +364,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:910</id>
     <updated>2023-06-26T05:25:30Z</updated>
     <link href="../../Sandrone%20Dazieri/No%20huyas%20%28910%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandrone%20Dazieri/No%20huyas%20%28910%29/No%20huyas%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="700 KB" />
+    <link href="../../Sandrone%20Dazieri/No%20huyas%20%28910%29/No%20huyas%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="700 KB" />
     <author>
       <name>Sandrone Dazieri</name>
       <uri>../authors_0/authors_683_Page_1.xml</uri>
@@ -379,7 +379,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:2802</id>
     <updated>2025-01-16T08:08:28Z</updated>
     <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/No%20la%20dejes%20entrar%20-%20Nicola%20Sanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="328 KB" />
+    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/No%20la%20dejes%20entrar%20-%20Nicola%20Sanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="328 KB" />
     <author>
       <name>Nicola Sanders</name>
       <uri>../authors_1/authors_1833_Page_1.xml</uri>
@@ -395,7 +395,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:918</id>
     <updated>2023-07-04T02:12:04Z</updated>
     <link href="../../Armando%20Cuevas%20Calderon/No%20mataras%20%28918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Armando%20Cuevas%20Calderon/No%20mataras%20%28918%29/No%20mataras%20-%20Armando%20Cuevas%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Armando%20Cuevas%20Calderon/No%20mataras%20%28918%29/No%20mataras%20-%20Armando%20Cuevas%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Armando Cuevas Calderón</name>
       <uri>../authors_0/authors_688_Page_1.xml</uri>
@@ -412,7 +412,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:29</id>
     <updated>2023-01-17T10:17:56Z</updated>
     <link href="../../Sara%20Medina/No%20me%20busques%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sara%20Medina/No%20me%20busques%20%2829%29/No%20me%20busques%20-%20Sara%20Medina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="631 KB" />
+    <link href="../../Sara%20Medina/No%20me%20busques%20%2829%29/No%20me%20busques%20-%20Sara%20Medina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="631 KB" />
     <author>
       <name>Sara Medina</name>
       <uri>../authors_0/authors_25_Page_1.xml</uri>
@@ -429,7 +429,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:1577</id>
     <updated>2024-06-02T10:59:52Z</updated>
     <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="372 KB" />
+    <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="372 KB" />
     <author>
       <name>Màxim Huerta</name>
       <uri>../authors_0/authors_314_Page_1.xml</uri>
@@ -446,7 +446,7 @@ Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa de
     <id>calibre:book:856</id>
     <updated>2023-06-12T02:02:14Z</updated>
     <link href="../../Nora%20Ephron/No%20me%20gusta%20mi%20cuello%20%28856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nora%20Ephron/No%20me%20gusta%20mi%20cuello%20%28856%29/No%20me%20gusta%20mi%20cuello%20-%20Nora%20Ephron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="660 KB" />
+    <link href="../../Nora%20Ephron/No%20me%20gusta%20mi%20cuello%20%28856%29/No%20me%20gusta%20mi%20cuello%20-%20Nora%20Ephron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
     <author>
       <name>Nora Ephron</name>
       <uri>../authors_0/authors_642_Page_1.xml</uri>

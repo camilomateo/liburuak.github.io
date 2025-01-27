@@ -6,13 +6,13 @@
   <link href="./book_1204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El estilo de los elementos" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
-  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
-  <link href="../authorlist/authorlist_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../authorlist/authorlist_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/El%20estilo%20de%20los%20elementos%20-%20Rodrigo%20Fresan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Rodrigo%20Fresan/El%20estilo%20de%20los%20elementos%20%281204%29/El%20estilo%20de%20los%20elementos%20-%20Rodrigo%20Fresan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Rodrigo Fresán</name>
     <uri>../authors_0/authors_874_Page_1.xml</uri>
@@ -22,10 +22,10 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">«Novela deépoca,novela de amor,novela
     deiniciación,novelapsicoanalítica,novelapolítica,novelasobrehijos
@@ -46,5 +46,5 @@
     insomnes que sólo quieren ser mejores amigos y de
     «hijos de... » que sólo sueñan...</p>
   </content>
-  <link href="../authors_0/authors_874_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rodrigo Fresán" />
+  <link href="../authors_0/authors_874_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rodrigo Fresán" />
 </entry>

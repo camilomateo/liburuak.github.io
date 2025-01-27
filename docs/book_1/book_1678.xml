@@ -6,11 +6,11 @@
   <link href="./book_1678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Violencia roja antes de la Guerra Civil" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="../../Sergio%20Campos%20Cacho/Violencia%20roja%20antes%20de%20la%20Guerra%20C%20%281678%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Sergio%20Campos%20Cacho/Violencia%20roja%20antes%20de%20la%20Guerra%20C%20%281678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Sergio%20Campos%20Cacho/Violencia%20roja%20antes%20de%20la%20Guerra%20C%20%281678%29/Violencia%20roja%20antes%20de%20la%20Guer%20-%20Sergio%20Campos%20Cacho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <link href="../../Sergio%20Campos%20Cacho/Violencia%20roja%20antes%20de%20la%20Guerra%20C%20%281678%29/Violencia%20roja%20antes%20de%20la%20Guer%20-%20Sergio%20Campos%20Cacho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
   <author>
     <name>Sergio Campos Cacho</name>
     <uri>../authors_1/authors_1203_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Una historia que desmiente el relato republicano sobre el
     inicio del Terror Rojo.</p>
@@ -62,5 +62,5 @@
     perdida a través del crimen reviva mediante el recuerdo y
     la fijación precisa y exhaustiva de los hechos.</p>
   </content>
-  <link href="../authors_1/authors_1203_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Sergio Campos Cacho" />
+  <link href="../authors_1/authors_1203_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sergio Campos Cacho" />
 </entry>

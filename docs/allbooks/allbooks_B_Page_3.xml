@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por B</title>
+  <title>Books starting with B</title>
   <id>Calibre2opds:allbooks:B</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,54 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por B" />
+  <link href="./allbooks_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with B" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por B" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with B" />
+  <entry>
+    <title>El bosque de los cuatro vientos</title>
+    <id>calibre:book:92</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/El%20bosque%20de%20los%20cuatro%20vientos%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2020-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>A comienzos del siglo XIX, el doctor Vallejo viaja de Valladolid a Galicia junto con su hija Marina para servir como médico en un poderoso monasterio de Ourense. Allí descubrirán unas costumbres muy particulares y vivirán la caída de la Iglesia. Mari...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El bosque en silencio</title>
+    <id>calibre:book:868</id>
+    <updated>2023-06-19T05:31:22Z</updated>
+    <link href="../../Monica%20Subietas/El%20bosque%20en%20silencio%20%28868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Subietas/El%20bosque%20en%20silencio%20%28868%29/El%20bosque%20en%20silencio%20-%20Monica%20Subietas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="602 KB" />
+    <author>
+      <name>Mónica Subietas</name>
+      <uri>../authors_0/authors_652_Page_1.xml</uri>
+    </author>
+    <published>2023-06-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El debut de Mónica Subietas es una conmovedora novela que nos habla de amor, amistad y traición, de tiempos oscuros y días felices.Suiza, 1942. En plena Segunda Guerra Mundial, el Gobierno Federal decide cerrar la frontera a los refugiados. Hermann M...</summary>
+    <link href="../book_0/book_868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El bouquet del miedo</title>
     <id>calibre:book:28</id>
     <updated>2023-01-17T10:17:28Z</updated>
     <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/El%20bouquet%20del%20miedo%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="584 KB" />
+    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/El%20bouquet%20del%20miedo%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="584 KB" />
     <author>
       <name>Xabier Gutiérrez</name>
       <uri>../authors_0/authors_24_Page_1.xml</uri>
@@ -38,7 +75,7 @@
     <id>calibre:book:1385</id>
     <updated>2024-04-03T00:30:05Z</updated>
     <link href="../../Eric%20Fouassier/La%20brigada%20de%20los%20misterios%20ocultos%20%281385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eric%20Fouassier/La%20brigada%20de%20los%20misterios%20ocultos%20%281385%29/La%20brigada%20de%20los%20misterios%20ocu%20-%20Eric%20Fouassier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Eric%20Fouassier/La%20brigada%20de%20los%20misterios%20ocultos%20%281385%29/La%20brigada%20de%20los%20misterios%20ocu%20-%20Eric%20Fouassier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Éric Fouassier</name>
       <uri>../authors_1/authors_1018_Page_1.xml</uri>
@@ -55,7 +92,7 @@
     <id>calibre:book:1300</id>
     <updated>2024-03-15T09:05:12Z</updated>
     <link href="../../Paul%20Pen/El%20brillo%20de%20las%20luciernagas%20%281300%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paul%20Pen/El%20brillo%20de%20las%20luciernagas%20%281300%29/El%20brillo%20de%20las%20luciernagas%20-%20Paul%20Pen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <link href="../../Paul%20Pen/El%20brillo%20de%20las%20luciernagas%20%281300%29/El%20brillo%20de%20las%20luciernagas%20-%20Paul%20Pen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="671 KB" />
     <author>
       <name>Paul Pen</name>
       <uri>../authors_0/authors_944_Page_1.xml</uri>
@@ -72,7 +109,7 @@
     <id>calibre:book:330</id>
     <updated>2023-02-16T07:16:44Z</updated>
     <link href="../../Santiago%20Diaz/El%20buen%20padre%20%28330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santiago%20Diaz/El%20buen%20padre%20%28330%29/El%20buen%20padre%20-%20Santiago%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <link href="../../Santiago%20Diaz/El%20buen%20padre%20%28330%29/El%20buen%20padre%20-%20Santiago%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
     <author>
       <name>Santiago Díaz</name>
       <uri>../authors_0/authors_162_Page_1.xml</uri>
@@ -89,7 +126,7 @@
     <id>calibre:book:2737</id>
     <updated>2024-12-11T08:34:18Z</updated>
     <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/El%20buen%20vasallo%20-%20Francisco%20Narla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/El%20buen%20vasallo%20-%20Francisco%20Narla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Francisco Narla</name>
       <uri>../authors_1/authors_1791_Page_1.xml</uri>
@@ -106,7 +143,7 @@
     <id>calibre:book:54</id>
     <updated>2023-01-17T10:54:42Z</updated>
     <link href="../../Karlos%20Arguinano/La%20buena%20cocina%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karlos%20Arguinano/La%20buena%20cocina%20%2854%29/La%20buena%20cocina%20-%20Karlos%20Arguinano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Karlos%20Arguinano/La%20buena%20cocina%20%2854%29/La%20buena%20cocina%20-%20Karlos%20Arguinano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Karlos Arguiñano</name>
       <uri>../authors_0/authors_40_Page_1.xml</uri>
@@ -124,7 +161,7 @@
     <id>calibre:book:2626</id>
     <updated>2024-10-04T10:51:32Z</updated>
     <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/La%20buena%20reputacion%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/La%20buena%20reputacion%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Ignacio Martínez de Pisón</name>
       <uri>../authors_1/authors_1715_Page_1.xml</uri>
@@ -142,7 +179,7 @@
     <id>calibre:book:1675</id>
     <updated>2024-07-22T06:21:11Z</updated>
     <link href="../../Jay%20McInerney/La%20buena%20vida%20%281675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jay%20McInerney/La%20buena%20vida%20%281675%29/La%20buena%20vida%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="457 KB" />
+    <link href="../../Jay%20McInerney/La%20buena%20vida%20%281675%29/La%20buena%20vida%20-%20Jay%20McInerney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="457 KB" />
     <author>
       <name>Jay McInerney</name>
       <uri>../authors_1/authors_1192_Page_1.xml</uri>
@@ -160,7 +197,7 @@
     <id>calibre:book:441</id>
     <updated>2023-03-20T05:50:10Z</updated>
     <link href="../../Mario%20Vargas%20Llosa/Un%20barbaro%20en%20Paris%20%28441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Vargas%20Llosa/Un%20barbaro%20en%20Paris%20%28441%29/Un%20barbaro%20en%20Paris%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+    <link href="../../Mario%20Vargas%20Llosa/Un%20barbaro%20en%20Paris%20%28441%29/Un%20barbaro%20en%20Paris%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="552 KB" />
     <author>
       <name>Mario Vargas Llosa</name>
       <uri>../authors_0/authors_71_Page_1.xml</uri>

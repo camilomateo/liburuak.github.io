@@ -6,12 +6,12 @@
   <link href="./book_1580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Elemental querida lectora" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../authors_1/authors_1152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Vicki Delany" />
   <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/Elemental%20querida%20lectora%20-%20Vicki%20Delany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="410 KB" />
+  <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/Elemental%20querida%20lectora%20-%20Vicki%20Delany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="410 KB" />
   <author>
     <name>Vicki Delany</name>
     <uri>../authors_1/authors_1152_Page_1.xml</uri>
@@ -26,18 +26,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Misterios en la librería Sherlock Holmes serie
+      Book 1 in the Misterios en la librería Sherlock Holmes series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Gemma Doyle regenta, junto a su gato Moriarty, la Sherlock
     Holmes Bookshop, una librería especializada en el famoso
@@ -53,5 +53,5 @@
     limpiar su nombre siguiendo las pistas de un atractivo experto
     en libros raros.</p>
   </content>
-  <link href="../authors_1/authors_1152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Vicki Delany" />
+  <link href="../authors_1/authors_1152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Vicki Delany" />
 </entry>

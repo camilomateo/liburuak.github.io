@@ -6,11 +6,11 @@
   <link href="./book_1761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A veces miento" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../../Alice%20Feeney/A%20veces%20miento%20%281761%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Alice%20Feeney/A%20veces%20miento%20%281761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Alice%20Feeney/A%20veces%20miento%20%281761%29/A%20veces%20miento%20-%20Alice%20Feeney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="341 KB" />
+  <link href="../../Alice%20Feeney/A%20veces%20miento%20%281761%29/A%20veces%20miento%20-%20Alice%20Feeney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="341 KB" />
   <author>
     <name>Alice Feeney</name>
     <uri>../authors_1/authors_1261_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>PROXIMAMENTE UNA SERIE DE TV PROTAGONIZADA POR SARAH
@@ -58,5 +58,5 @@
       Sun</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1261_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alice Feeney" />
+  <link href="../authors_1/authors_1261_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alice Feeney" />
 </entry>

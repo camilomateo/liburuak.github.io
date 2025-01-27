@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por N</title>
+  <title>Books starting with N</title>
   <id>Calibre2opds:allbooks:N</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por N" />
+  <link href="./allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por N" />
-  <link href="../allbooks/allbooks_N_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with N" />
+  <link href="../allbooks/allbooks_N_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
     <title>Nosotros</title>
     <id>calibre:book:286</id>
     <updated>2023-02-07T08:36:56Z</updated>
     <link href="../../Manuel%20Vilas/Nosotros%20%28286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Vilas/Nosotros%20%28286%29/Nosotros%20-%20Manuel%20Vilas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="557 KB" />
+    <link href="../../Manuel%20Vilas/Nosotros%20%28286%29/Nosotros%20-%20Manuel%20Vilas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="557 KB" />
     <author>
       <name>Manuel Vilas</name>
       <uri>../authors_0/authors_193_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:2474</id>
     <updated>2024-09-09T10:34:38Z</updated>
     <link href="../../Fyodor%20Dostoyevsky/Notes%20from%20the%20Underground%20%282474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fyodor%20Dostoyevsky/Notes%20from%20the%20Underground%20%282474%29/Notes%20from%20the%20Underground%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="163 KB" />
+    <link href="../../Fyodor%20Dostoyevsky/Notes%20from%20the%20Underground%20%282474%29/Notes%20from%20the%20Underground%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="163 KB" />
     <author>
       <name>Fyodor Dostoyevsky</name>
       <uri>../authors_1/authors_1651_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:1490</id>
     <updated>2024-05-03T02:01:59Z</updated>
     <link href="../../Liliana%20Heker/Noticias%20sobre%20el%20iceberg%20%281490%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Liliana%20Heker/Noticias%20sobre%20el%20iceberg%20%281490%29/Noticias%20sobre%20el%20iceberg%20-%20Liliana%20Heker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="560 KB" />
+    <link href="../../Liliana%20Heker/Noticias%20sobre%20el%20iceberg%20%281490%29/Noticias%20sobre%20el%20iceberg%20-%20Liliana%20Heker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="560 KB" />
     <author>
       <name>Liliana Heker</name>
       <uri>../authors_1/authors_1090_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:1076</id>
     <updated>2023-11-20T08:26:23Z</updated>
     <link href="../../Ken%20Follett/Notre-Dame%20%281076%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ken%20Follett/Notre-Dame%20%281076%29/Notre-Dame%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ken%20Follett/Notre-Dame%20%281076%29/Notre-Dame%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ken Follett</name>
       <uri>../authors_0/authors_425_Page_1.xml</uri>
@@ -86,7 +86,7 @@
     <id>calibre:book:2454</id>
     <updated>2024-09-09T10:34:34Z</updated>
     <link href="../../Victor%20Hugo/Notre-Dame%20de%20Paris%20%282454%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/Notre-Dame%20de%20Paris%20%282454%29/Notre-Dame%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Victor%20Hugo/Notre-Dame%20de%20Paris%20%282454%29/Notre-Dame%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -104,7 +104,7 @@
     <id>calibre:book:2496</id>
     <updated>2024-09-09T10:34:43Z</updated>
     <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/Novela%20de%20ajedrez%20-%20Stefan%20Zweig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+    <link href="../../Stefan%20Zweig/Novela%20de%20ajedrez%20%282496%29/Novela%20de%20ajedrez%20-%20Stefan%20Zweig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="113 KB" />
     <author>
       <name>Stefan Zweig</name>
       <uri>../authors_1/authors_1334_Page_1.xml</uri>
@@ -120,7 +120,7 @@
     <id>calibre:book:662</id>
     <updated>2023-05-15T05:51:18Z</updated>
     <link href="../../Manuel%20Fernandez%20Ordonez/Nucleares_%20si%2C%20por%20favor%20%28662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Fernandez%20Ordonez/Nucleares_%20si%2C%20por%20favor%20%28662%29/Nucleares_%20si%2C%20por%20favor%20-%20Manuel%20Fernandez%20Ordonez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Manuel%20Fernandez%20Ordonez/Nucleares_%20si%2C%20por%20favor%20%28662%29/Nucleares_%20si%2C%20por%20favor%20-%20Manuel%20Fernandez%20Ordonez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Manuel Fernández Ordóñez</name>
       <uri>../authors_0/authors_489_Page_1.xml</uri>
@@ -137,7 +137,7 @@
     <id>calibre:book:1953</id>
     <updated>2024-09-05T06:10:24Z</updated>
     <link href="../../Jose%20Marti/Nuestra%20America%20%281953%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Marti/Nuestra%20America%20%281953%29/Nuestra%20America%20-%20Jose%20Marti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <link href="../../Jose%20Marti/Nuestra%20America%20%281953%29/Nuestra%20America%20-%20Jose%20Marti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="74 KB" />
     <author>
       <name>José Martí</name>
       <uri>../authors_1/authors_1393_Page_1.xml</uri>
@@ -153,7 +153,7 @@
     <id>calibre:book:2033</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/Nuestra%20Senora%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/Nuestra%20Senora%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -169,7 +169,7 @@
     <id>calibre:book:2601</id>
     <updated>2024-09-16T10:50:28Z</updated>
     <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/Nuestro%20cuerpo%20-%20Juan%20Luis%20Arsuaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/Nuestro%20cuerpo%20-%20Juan%20Luis%20Arsuaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Juan Luis Arsuaga</name>
       <uri>../authors_1/authors_1708_Page_1.xml</uri>
@@ -186,7 +186,7 @@
     <id>calibre:book:685</id>
     <updated>2023-05-16T08:56:24Z</updated>
     <link href="../../Rosa%20Ribas/Nuestros%20muertos%20%28685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosa%20Ribas/Nuestros%20muertos%20%28685%29/Nuestros%20muertos%20-%20Rosa%20Ribas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="692 KB" />
+    <link href="../../Rosa%20Ribas/Nuestros%20muertos%20%28685%29/Nuestros%20muertos%20-%20Rosa%20Ribas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="692 KB" />
     <author>
       <name>Rosa Ribas</name>
       <uri>../authors_0/authors_510_Page_1.xml</uri>
@@ -203,7 +203,7 @@
     <id>calibre:book:1764</id>
     <updated>2024-08-26T10:56:10Z</updated>
     <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/Nueva%20historia%20de%20la%20Espana%20con%20-%20Jose%20Alvarez%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/Nueva%20historia%20de%20la%20Espana%20con%20-%20Jose%20Alvarez%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>José Álvarez Junco</name>
       <uri>../authors_1/authors_1264_Page_1.xml</uri>
@@ -224,7 +224,7 @@
     <id>calibre:book:1068</id>
     <updated>2023-11-05T04:25:02Z</updated>
     <link href="../../Ken%20Follett/Nunca%20%281068%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ken%20Follett/Nunca%20%281068%29/Nunca%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="896 KB" />
+    <link href="../../Ken%20Follett/Nunca%20%281068%29/Nunca%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="896 KB" />
     <author>
       <name>Ken Follett</name>
       <uri>../authors_0/authors_425_Page_1.xml</uri>
@@ -241,7 +241,7 @@
     <id>calibre:book:1106</id>
     <updated>2024-01-08T09:16:12Z</updated>
     <link href="../../Phil%20Knight/Nunca%20te%20pares%20%281106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Phil%20Knight/Nunca%20te%20pares%20%281106%29/Nunca%20te%20pares%20-%20Phil%20Knight.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <link href="../../Phil%20Knight/Nunca%20te%20pares%20%281106%29/Nunca%20te%20pares%20-%20Phil%20Knight.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
     <author>
       <name>Phil Knight</name>
       <uri>../authors_0/authors_810_Page_1.xml</uri>
@@ -258,7 +258,7 @@
     <id>calibre:book:1165</id>
     <updated>2024-01-25T08:39:52Z</updated>
     <link href="../../Margarita%20Chavez/Nutricion%20vegetariana%20%281165%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Margarita%20Chavez/Nutricion%20vegetariana%20%281165%29/Nutricion%20vegetariana%20-%20Margarita%20Chavez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Margarita%20Chavez/Nutricion%20vegetariana%20%281165%29/Nutricion%20vegetariana%20-%20Margarita%20Chavez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Margarita Chávez</name>
       <uri>../authors_0/authors_849_Page_1.xml</uri>
@@ -275,7 +275,7 @@
     <id>calibre:book:1544</id>
     <updated>2024-06-02T10:59:43Z</updated>
     <link href="../../Anders%20Ericsson/Numero%20uno%20%281544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anders%20Ericsson/Numero%20uno%20%281544%29/Numero%20uno%20-%20Anders%20Ericsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <link href="../../Anders%20Ericsson/Numero%20uno%20%281544%29/Numero%20uno%20-%20Anders%20Ericsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
     <author>
       <name>Anders Ericsson</name>
       <uri>../authors_1/authors_1125_Page_1.xml</uri>
@@ -296,7 +296,7 @@
     <id>calibre:book:2497</id>
     <updated>2024-09-09T10:34:43Z</updated>
     <link href="../../Edmond%20About/La%20nariz%20de%20un%20notario%20%282497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edmond%20About/La%20nariz%20de%20un%20notario%20%282497%29/La%20nariz%20de%20un%20notario%20-%20Edmond%20About.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <link href="../../Edmond%20About/La%20nariz%20de%20un%20notario%20%282497%29/La%20nariz%20de%20un%20notario%20-%20Edmond%20About.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="126 KB" />
     <author>
       <name>Edmond About</name>
       <uri>../authors_1/authors_1655_Page_1.xml</uri>
@@ -318,7 +318,7 @@
     <id>calibre:book:739</id>
     <updated>2023-05-17T02:00:08Z</updated>
     <link href="../../Susana%20Lluna/Los%20nativos%20digitales%20no%20existen%20%28739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Susana%20Lluna/Los%20nativos%20digitales%20no%20existen%20%28739%29/Los%20nativos%20digitales%20no%20existe%20-%20Susana%20Lluna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="824 KB" />
+    <link href="../../Susana%20Lluna/Los%20nativos%20digitales%20no%20existen%20%28739%29/Los%20nativos%20digitales%20no%20existe%20-%20Susana%20Lluna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="824 KB" />
     <author>
       <name>Susana Lluna</name>
       <uri>../authors_0/authors_552_Page_1.xml</uri>
@@ -340,7 +340,7 @@
     <id>calibre:book:387</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Pierre%20Boulez/Las%20neuronas%20encantadas_%20El%20cerebro%20%28387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Boulez/Las%20neuronas%20encantadas_%20El%20cerebro%20%28387%29/Las%20neuronas%20encantadas_%20El%20cer%20-%20Pierre%20Boulez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="830 KB" />
+    <link href="../../Pierre%20Boulez/Las%20neuronas%20encantadas_%20El%20cerebro%20%28387%29/Las%20neuronas%20encantadas_%20El%20cer%20-%20Pierre%20Boulez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="830 KB" />
     <author>
       <name>Pierre Boulez</name>
       <uri>../authors_0/authors_278_Page_1.xml</uri>
@@ -365,7 +365,7 @@
     <id>calibre:book:1130</id>
     <updated>2024-01-08T09:16:17Z</updated>
     <link href="../../Maria%20Frisa/El%20nido%20de%20la%20arana%20%281130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Frisa/El%20nido%20de%20la%20arana%20%281130%29/El%20nido%20de%20la%20arana%20-%20Maria%20Frisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <link href="../../Maria%20Frisa/El%20nido%20de%20la%20arana%20%281130%29/El%20nido%20de%20la%20arana%20-%20Maria%20Frisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
     <author>
       <name>María Frisa</name>
       <uri>../authors_0/authors_822_Page_1.xml</uri>
@@ -382,7 +382,7 @@
     <id>calibre:book:747</id>
     <updated>2023-05-22T05:06:48Z</updated>
     <link href="../../Camilla%20Lackberg/El%20nido%20del%20cuco%20%28747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/El%20nido%20del%20cuco%20%28747%29/El%20nido%20del%20cuco%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <link href="../../Camilla%20Lackberg/El%20nido%20del%20cuco%20%28747%29/El%20nido%20del%20cuco%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="505 KB" />
     <author>
       <name>Camilla Läckberg</name>
       <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -400,7 +400,7 @@
     <id>calibre:book:169</id>
     <updated>2023-01-23T07:49:42Z</updated>
     <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/El%20nino%20estrella%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <link href="../../Oscar%20Wilde/El%20nino%20estrella%20%28169%29/El%20nino%20estrella%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>
@@ -417,7 +417,7 @@
     <id>calibre:book:1264</id>
     <updated>2024-03-01T02:15:58Z</updated>
     <link href="../../Elena%20Ferrante/La%20nina%20perdida%20%281264%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elena%20Ferrante/La%20nina%20perdida%20%281264%29/La%20nina%20perdida%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="442 KB" />
+    <link href="../../Elena%20Ferrante/La%20nina%20perdida%20%281264%29/La%20nina%20perdida%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
     <author>
       <name>Elena Ferrante</name>
       <uri>../authors_0/authors_924_Page_1.xml</uri>
@@ -435,7 +435,7 @@
     <id>calibre:book:1811</id>
     <updated>2024-08-27T09:07:36Z</updated>
     <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/La%20nina%20que%20miraba%20los%20trenes%20p%20-%20Ruperto%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/La%20nina%20que%20miraba%20los%20trenes%20p%20-%20Ruperto%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Ruperto Long</name>
       <uri>../authors_1/authors_1298_Page_1.xml</uri>
@@ -454,7 +454,7 @@
     <id>calibre:book:389</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Teresa%20Viejo/La%20nina%20que%20todo%20lo%20queria%20saber%20%28389%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Teresa%20Viejo/La%20nina%20que%20todo%20lo%20queria%20saber%20%28389%29/La%20nina%20que%20todo%20lo%20queria%20sabe%20-%20Teresa%20Viejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
+    <link href="../../Teresa%20Viejo/La%20nina%20que%20todo%20lo%20queria%20saber%20%28389%29/La%20nina%20que%20todo%20lo%20queria%20sabe%20-%20Teresa%20Viejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
       <name>Teresa Viejo</name>
       <uri>../authors_0/authors_282_Page_1.xml</uri>

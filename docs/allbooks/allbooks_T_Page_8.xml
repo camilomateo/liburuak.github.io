@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with T</title>
+  <id>Calibre2opds:allbooks:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <entry>
+    <title>La trágica historia del doctor Fausto</title>
+    <id>calibre:book:2348</id>
+    <updated>2024-09-09T10:34:13Z</updated>
+    <link href="../../Christopher%20Marlow/La%20tragica%20historia%20del%20doctor%20Faus%20%282348%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Christopher%20Marlow/La%20tragica%20historia%20del%20doctor%20Faus%20%282348%29/La%20tragica%20historia%20del%20doctor%20-%20Christopher%20Marlow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="98 KB" />
+    <author>
+      <name>Christopher Marlow</name>
+      <uri>../authors_1/authors_1627_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [148]:</summary>
+    <link href="../book_2/book_2348.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tumba de Sarah</title>
+    <id>calibre:book:1605</id>
+    <updated>2024-06-02T10:59:59Z</updated>
+    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/La%20tumba%20de%20Sarah%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="787 KB" />
+    <author>
+      <name>Robert Dugoni</name>
+      <uri>../authors_0/authors_222_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>...</summary>
+    <link href="../book_1/book_1605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los títeres de cachiporra</title>
+    <id>calibre:book:2147</id>
+    <updated>2024-09-06T02:21:23Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/Los%20titeres%20de%20cachiporra%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [6]:</summary>
+    <link href="../book_2/book_2147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+</feed>

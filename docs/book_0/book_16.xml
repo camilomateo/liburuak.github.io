@@ -6,13 +6,13 @@
   <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La sombra del miedo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
-  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ragnar Jónasson" />
   <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+  <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
   <author>
     <name>Ragnar Jónasson</name>
     <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Islandia Negra serie
+      Book 1 in the Islandia Negra series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <span xmlns="" style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;">En
     Siglufjördur, un pequeño pueblo pesquero en el norte
@@ -49,6 +49,6 @@
     en su puesto. Empieza así una investigación que
     cambiará para siempre la vida del joven Ari.</span>
   </content>
-  <link href="../series_0/series_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Islandia Negra serie" />
-  <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ragnar Jónasson" />
+  <link href="../series_0/series_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 1 in the Islandia Negra series" />
+  <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ragnar Jónasson" />
 </entry>

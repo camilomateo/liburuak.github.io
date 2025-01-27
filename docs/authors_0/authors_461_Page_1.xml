@@ -11,16 +11,16 @@
   <link href="./authors_461_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juan José Millás" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
-  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <entry>
-    <title>Todos los libros de Juan José Millás</title>
+    <title>All books by Juan José Millás</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_461_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -28,7 +28,7 @@
   <entry>
     <title>Series: La vida contada por un sapiens a un neandertal</title>
     <id>Calibre2opds:authors:461series:229</id>
-    <content type="text">1 libro</content>
+    <content type="text">1 book</content>
     <link href="../authors_0/authors_461_series_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -38,7 +38,7 @@
     <id>calibre:book:2602</id>
     <updated>2024-09-16T10:50:28Z</updated>
     <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>Juan José Millás</name>
       <uri>../authors_0/authors_461_Page_1.xml</uri>
@@ -59,7 +59,7 @@
     <id>calibre:book:620</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/Solo%20humo%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <link href="../../Juan%20Jose%20Millas/Solo%20humo%20%28620%29/Solo%20humo%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="684 KB" />
     <author>
       <name>Juan José Millás</name>
       <uri>../authors_0/authors_461_Page_1.xml</uri>

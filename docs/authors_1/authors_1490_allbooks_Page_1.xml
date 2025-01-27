@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Alexandre Dumas</title>
+  <title>All books by Alexandre Dumas</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1490_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Alexandre Dumas" />
+  <link href="./authors_1490_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Alexandre Dumas" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="./authors_1490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Alexandre Dumas" />
   <entry>
     <title>The Count of Monte Cristo</title>
     <id>calibre:book:2469</id>
     <updated>2024-09-09T10:34:37Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/The%20Count%20of%20Monte%20Cristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="46 MB" />
+    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/The%20Count%20of%20Monte%20Cristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="46 MB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -41,7 +41,7 @@
     <id>calibre:book:2261</id>
     <updated>2024-09-09T10:33:55Z</updated>
     <link href="../../Alexandre%20Dumas/El%20hombre%20de%20la%20mascara%20de%20hierro%20%282261%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/El%20hombre%20de%20la%20mascara%20de%20hierro%20%282261%29/El%20hombre%20de%20la%20mascara%20de%20hier%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="415 KB" />
+    <link href="../../Alexandre%20Dumas/El%20hombre%20de%20la%20mascara%20de%20hierro%20%282261%29/El%20hombre%20de%20la%20mascara%20de%20hier%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="415 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -57,7 +57,7 @@
     <id>calibre:book:2453</id>
     <updated>2024-09-09T10:34:34Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:2089</id>
     <updated>2024-09-06T02:09:10Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/The%20Three%20Musketeers%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+    <link href="../../Alexandre%20Dumas/The%20Three%20Musketeers%20%282089%29/The%20Three%20Musketeers%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="624 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -103,7 +103,7 @@
     <id>calibre:book:2251</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="648 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>

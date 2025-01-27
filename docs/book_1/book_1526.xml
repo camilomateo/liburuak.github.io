@@ -6,12 +6,12 @@
   <link href="./book_1526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La receta secreta de la señora Quinn" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
-  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/La%20receta%20secreta%20de%20la%20senora%20-%20Olivia%20Ford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="882 KB" />
+  <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/La%20receta%20secreta%20de%20la%20senora%20-%20Olivia%20Ford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="882 KB" />
   <author>
     <name>Olivia Ford</name>
     <uri>../authors_1/authors_1110_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Una entrañable novela en la que el amor y la deliciosa
     comida se mezclan para lograr la receta perfecta y recordarnos
@@ -71,5 +71,5 @@
     con personajes muy reales».</p>
     <p xmlns="">Library Journal</p>
   </content>
-  <link href="../authors_1/authors_1110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Olivia Ford" />
+  <link href="../authors_1/authors_1110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Olivia Ford" />
 </entry>

@@ -6,11 +6,12 @@
   <link href="./book_2781.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Plomo en las alas" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+  <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
   <author>
     <name>Francisco José Jurado</name>
     <uri>../authors_1/authors_1819_Page_1.xml</uri>
@@ -22,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Unos restos humanos aparecen semienterrados en un
@@ -68,5 +69,5 @@
       que hoy es una inquietante realidad.</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1819_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Francisco José Jurado" />
+  <link href="../authors_1/authors_1819_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Francisco José Jurado" />
 </entry>

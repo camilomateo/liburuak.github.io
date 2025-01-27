@@ -11,14 +11,14 @@
   <link href="./series_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspectora Hulda" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
-  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series que empiezan por I" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with I" />
   <entry>
     <title>1 - La dama</title>
     <id>calibre:book:339</id>
     <updated>2023-02-21T01:18:06Z</updated>
     <link href="../../Ragnar%20Jonasson/La%20dama%20%28339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ragnar%20Jonasson/La%20dama%20%28339%29/La%20dama%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <link href="../../Ragnar%20Jonasson/La%20dama%20%28339%29/La%20dama%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
     <author>
       <name>Ragnar Jónasson</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:1285</id>
     <updated>2024-03-15T08:46:48Z</updated>
     <link href="../../Ragnar%20Jonasson/La%20isla%20%281285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ragnar%20Jonasson/La%20isla%20%281285%29/La%20isla%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Ragnar%20Jonasson/La%20isla%20%281285%29/La%20isla%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Ragnar Jónasson</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Charles Perrault</title>
+  <title>All books by Charles Perrault</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_105_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Charles Perrault" />
+  <link href="./authors_105_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Charles Perrault" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_105_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Charles Perrault" />
   <entry>
     <title>Caperucita Roja</title>
     <id>calibre:book:170</id>
     <updated>2023-01-23T07:50:16Z</updated>
     <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/Caperucita%20Roja%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="278 KB" />
+    <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/Caperucita%20Roja%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="278 KB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:163</id>
     <updated>2023-01-23T07:45:28Z</updated>
     <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/Pulgarcito.rtf%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/Pulgarcito.rtf%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:2067</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>

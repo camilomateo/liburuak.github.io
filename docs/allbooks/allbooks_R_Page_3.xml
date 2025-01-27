@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por R</title>
+  <title>Books starting with R</title>
   <id>Calibre2opds:allbooks:R</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por R" />
+  <link href="./allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with R" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por R" />
-  <link href="../allbooks/allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 4)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
+  <link href="../allbooks/allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 4)" />
   <entry>
     <title>Réquiem por todos los muertos</title>
     <id>calibre:book:2715</id>
     <updated>2024-11-22T00:06:51Z</updated>
     <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/Requiem%20por%20todos%20los%20muertos%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="991 KB" />
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/Requiem%20por%20todos%20los%20muertos%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="991 KB" />
     <author>
       <name>Colin Dexter</name>
       <uri>../authors_0/authors_250_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:1602</id>
     <updated>2024-06-02T10:59:58Z</updated>
     <link href="../../Ricardo%20Silva%20Romero/Rio%20muerto%20%281602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ricardo%20Silva%20Romero/Rio%20muerto%20%281602%29/Rio%20muerto%20-%20Ricardo%20Silva%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="232 KB" />
+    <link href="../../Ricardo%20Silva%20Romero/Rio%20muerto%20%281602%29/Rio%20muerto%20-%20Ricardo%20Silva%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="232 KB" />
     <author>
       <name>Ricardo Silva Romero</name>
       <uri>../authors_1/authors_1165_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:1339</id>
     <updated>2024-03-21T01:00:32Z</updated>
     <link href="../../Vicente%20Valles/El%20rastro%20de%20los%20rusos%20muertos%20%281339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Valles/El%20rastro%20de%20los%20rusos%20muertos%20%281339%29/El%20rastro%20de%20los%20rusos%20muertos%20-%20Vicente%20Valles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="364 KB" />
+    <link href="../../Vicente%20Valles/El%20rastro%20de%20los%20rusos%20muertos%20%281339%29/El%20rastro%20de%20los%20rusos%20muertos%20-%20Vicente%20Valles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="364 KB" />
     <author>
       <name>Vicente Vallés</name>
       <uri>../authors_0/authors_980_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:81</id>
     <updated>2023-01-18T00:02:46Z</updated>
     <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/Una%20razon%20para%20aterrarse%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <link href="../../Blake%20Pierce/Una%20razon%20para%20aterrarse%20%2881%29/Una%20razon%20para%20aterrarse%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
     <author>
       <name>Blake Pierce</name>
       <uri>../authors_0/authors_57_Page_1.xml</uri>
@@ -91,7 +91,7 @@
     <id>calibre:book:1412</id>
     <updated>2024-04-08T05:23:24Z</updated>
     <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/La%20raiz%20del%20mal%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="673 KB" />
+    <link href="../../Hakan%20Nesser/La%20raiz%20del%20mal%20%281412%29/La%20raiz%20del%20mal%20-%20Hakan%20Nesser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="673 KB" />
     <author>
       <name>Håkan Nesser</name>
       <uri>../authors_1/authors_1034_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:1933</id>
     <updated>2024-09-05T06:03:57Z</updated>
     <link href="../../James%20Allen/La%20realizacion%20de%20la%20prosperidad%20y%20%281933%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Allen/La%20realizacion%20de%20la%20prosperidad%20y%20%281933%29/La%20realizacion%20de%20la%20prosperida%20-%20James%20Allen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="143 KB" />
+    <link href="../../James%20Allen/La%20realizacion%20de%20la%20prosperidad%20y%20%281933%29/La%20realizacion%20de%20la%20prosperida%20-%20James%20Allen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="143 KB" />
     <author>
       <name>James Allen</name>
       <uri>../authors_1/authors_1376_Page_1.xml</uri>
@@ -127,7 +127,7 @@
     <id>calibre:book:2407</id>
     <updated>2024-09-09T10:34:25Z</updated>
     <link href="../../Ayn%20Rand/La%20rebelion%20de%20Atlas%20%282407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ayn%20Rand/La%20rebelion%20de%20Atlas%20%282407%29/La%20rebelion%20de%20Atlas%20-%20Ayn%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ayn%20Rand/La%20rebelion%20de%20Atlas%20%282407%29/La%20rebelion%20de%20Atlas%20-%20Ayn%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ayn Rand</name>
       <uri>../authors_1/authors_1638_Page_1.xml</uri>
@@ -146,7 +146,7 @@
     <id>calibre:book:897</id>
     <updated>2023-06-23T01:09:54Z</updated>
     <link href="../../Roberto%20Santiago/La%20rebelion%20de%20los%20buenos%20%28897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Santiago/La%20rebelion%20de%20los%20buenos%20%28897%29/La%20rebelion%20de%20los%20buenos%20-%20Roberto%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="959 KB" />
+    <link href="../../Roberto%20Santiago/La%20rebelion%20de%20los%20buenos%20%28897%29/La%20rebelion%20de%20los%20buenos%20-%20Roberto%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="959 KB" />
     <author>
       <name>Roberto Santiago</name>
       <uri>../authors_0/authors_672_Page_1.xml</uri>
@@ -163,7 +163,7 @@
     <id>calibre:book:1526</id>
     <updated>2024-06-02T10:59:38Z</updated>
     <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/La%20receta%20secreta%20de%20la%20senora%20-%20Olivia%20Ford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="882 KB" />
+    <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/La%20receta%20secreta%20de%20la%20senora%20-%20Olivia%20Ford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="882 KB" />
     <author>
       <name>Olivia Ford</name>
       <uri>../authors_1/authors_1110_Page_1.xml</uri>
@@ -181,7 +181,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:487</id>
     <updated>2023-03-29T02:11:52Z</updated>
     <link href="../../Blanca%20Garcia-Orea%20Haro/Las%20recetas%20de%20Blanca%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blanca%20Garcia-Orea%20Haro/Las%20recetas%20de%20Blanca%20%28487%29/Las%20recetas%20de%20Blanca%20-%20Blanca%20Garcia-Orea%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="34 MB" />
+    <link href="../../Blanca%20Garcia-Orea%20Haro/Las%20recetas%20de%20Blanca%20%28487%29/Las%20recetas%20de%20Blanca%20-%20Blanca%20Garcia-Orea%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="34 MB" />
     <author>
       <name>Blanca García-Orea Haro</name>
       <uri>../authors_0/authors_360_Page_1.xml</uri>
@@ -198,7 +198,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:155</id>
     <updated>2023-01-21T04:10:34Z</updated>
     <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/El%20refugio%20de%20las%20mariposas%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/El%20refugio%20de%20las%20mariposas%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Xabier Gutiérrez</name>
       <uri>../authors_0/authors_24_Page_1.xml</uri>
@@ -215,7 +215,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1812</id>
     <updated>2024-08-27T09:07:36Z</updated>
     <link href="../../Manuel%20Vicent/La%20regata%20%281812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Vicent/La%20regata%20%281812%29/La%20regata%20-%20Manuel%20Vicent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="784 KB" />
+    <link href="../../Manuel%20Vicent/La%20regata%20%281812%29/La%20regata%20-%20Manuel%20Vicent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="784 KB" />
     <author>
       <name>Manuel Vicent</name>
       <uri>../authors_1/authors_1299_Page_1.xml</uri>
@@ -232,7 +232,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1628</id>
     <updated>2024-06-13T06:06:43Z</updated>
     <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/Las%20reglas%20del%20Mikado%20-%20Erri%20de%20Luca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/Las%20reglas%20del%20Mikado%20-%20Erri%20de%20Luca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="270 KB" />
     <author>
       <name>Erri de Luca</name>
       <uri>../authors_1/authors_1175_Page_1.xml</uri>
@@ -249,7 +249,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:2335</id>
     <updated>2024-09-09T10:34:09Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/El%20regreso%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/El%20regreso%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -269,7 +269,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:866</id>
     <updated>2023-06-19T05:31:20Z</updated>
     <link href="../../Belen%20Junco/La%20reina%20de%20Nairobi%20%28866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Belen%20Junco/La%20reina%20de%20Nairobi%20%28866%29/La%20reina%20de%20Nairobi%20-%20Belen%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <link href="../../Belen%20Junco/La%20reina%20de%20Nairobi%20%28866%29/La%20reina%20de%20Nairobi%20-%20Belen%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="572 KB" />
     <author>
       <name>Belén Junco</name>
       <uri>../authors_0/authors_651_Page_1.xml</uri>
@@ -288,7 +288,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1845</id>
     <updated>2024-08-30T02:25:26Z</updated>
     <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/La%20reina%20de%20espadas%20-%20Javier%20Mas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/La%20reina%20de%20espadas%20-%20Javier%20Mas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="326 KB" />
     <author>
       <name>Javier Más</name>
       <uri>../authors_1/authors_1320_Page_1.xml</uri>
@@ -307,7 +307,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:535</id>
     <updated>2023-04-05T00:40:16Z</updated>
     <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="848 KB" />
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="848 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -325,7 +325,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:2362</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Anton%20Chejov/El%20reino%20de%20las%20mujeres%20%282362%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anton%20Chejov/El%20reino%20de%20las%20mujeres%20%282362%29/El%20reino%20de%20las%20mujeres%20-%20Anton%20Chejov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <link href="../../Anton%20Chejov/El%20reino%20de%20las%20mujeres%20%282362%29/El%20reino%20de%20las%20mujeres%20-%20Anton%20Chejov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="99 KB" />
     <author>
       <name>Antón Chéjov</name>
       <uri>../authors_1/authors_1626_Page_1.xml</uri>
@@ -344,7 +344,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1418</id>
     <updated>2024-04-09T11:16:19Z</updated>
     <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/El%20reino%20de%20los%20ciegos%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/El%20reino%20de%20los%20ciegos%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Louise Penny</name>
       <uri>../authors_0/authors_330_Page_1.xml</uri>
@@ -362,7 +362,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:841</id>
     <updated>2023-06-09T01:56:12Z</updated>
     <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/El%20reino%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="920 KB" />
+    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/El%20reino%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="920 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -379,7 +379,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:2381</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="220 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>
@@ -398,7 +398,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:451</id>
     <updated>2023-03-23T11:00:42Z</updated>
     <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="636 KB" />
     <author>
       <name>Sarah Pearse</name>
       <uri>../authors_0/authors_336_Page_1.xml</uri>
@@ -416,7 +416,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1778</id>
     <updated>2024-08-26T10:56:13Z</updated>
     <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>James DiNicolantonio</name>
       <uri>../authors_1/authors_1277_Page_1.xml</uri>
@@ -437,7 +437,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:1018</id>
     <updated>2023-08-30T08:59:18Z</updated>
     <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/El%20retorno%20inesperado%20de%20Joseph%20-%20Claire%20Gradidge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="587 KB" />
+    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/El%20retorno%20inesperado%20de%20Joseph%20-%20Claire%20Gradidge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="587 KB" />
     <author>
       <name>Claire Gradidge</name>
       <uri>../authors_0/authors_752_Page_1.xml</uri>
@@ -454,7 +454,7 @@ Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
     <id>calibre:book:2246</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/El%20retrato%20de%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/El%20retrato%20de%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>

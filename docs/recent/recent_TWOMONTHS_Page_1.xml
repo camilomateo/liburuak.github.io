@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos dos meses</title>
+  <title>Previous two months</title>
   <id>Calibre2opds:recent:TWOMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,105 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_TWOMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos dos meses" />
+  <link href="./recent_TWOMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous two months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="../recent/recent_TWOMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_TWOMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
-    <title>Un capuchino mortal [18 de diciembre de 2024]</title>
+    <title>Los dos Beune [December 22, 2024]</title>
+    <id>calibre:book:2758</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Pierre%20Michon/Los%20dos%20Beune%20%282758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Michon/Los%20dos%20Beune%20%282758%29/Los%20dos%20Beune%20-%20Pierre%20Michon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="158 KB" />
+    <author>
+      <name>Pierre Michon</name>
+      <uri>../authors_1/authors_1803_Page_1.xml</uri>
+    </author>
+    <published>2024-10-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Michon narra la lucha inútil frente al empuje de la carne, y sigue el camino de una doble fijación: una, el deseo ardiente del protagonista; la otra, su propia fascinación como autor por representar ese anhelo. Empujado por un estilo sensual y tangib...</summary>
+    <link href="../book_2/book_2758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La hora azul [December 22, 2024]</title>
+    <id>calibre:book:2755</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/La%20hora%20azul%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="521 KB" />
+    <author>
+      <name>Paula Hawkins</name>
+      <uri>../authors_0/authors_43_Page_1.xml</uri>
+    </author>
+    <published>2024-10-16T02:29:28Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando la Tate Modern descubre que el hueso utilizado en una de las esculturas más famosas de la célebre y ya fallecida artista Vanessa Chapman es humano y no pertenece a un animal, como se creía, todas las miradas se centran en ella y en la misterio...</summary>
+    <link href="../book_2/book_2755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luna [December 22, 2024]</title>
+    <id>calibre:book:2757</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Carlos%20Bassas%20Del%20Rey/Luna%20%282757%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Bassas%20Del%20Rey/Luna%20%282757%29/Luna%20-%20Carlos%20Bassas%20Del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="945 KB" />
+    <author>
+      <name>Carlos Bassas Del Rey</name>
+      <uri>../authors_1/authors_1268_Page_1.xml</uri>
+    </author>
+    <published>2024-11-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Luna es la historia de tres mujeres. Es la historia de Luna, también la de Sara y la de Adoración, nieta, madre, abuela, abocadas a convivir en la misma casa llena de silencios, colmada de olvidos y habitada por una presencia del pasado, la del padre...</summary>
+    <link href="../book_2/book_2757.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Verano en rojo [December 22, 2024]</title>
+    <id>calibre:book:2756</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/Verano%20en%20rojo%20-%20Berna%20Gonzalez%20Harbour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
+    <author>
+      <name>Berna González Harbour</name>
+      <uri>../authors_1/authors_1802_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Comisaria María Ruiz" />
+    <summary>Comisaria María Ruiz [1]: Madrid, verano de 2010. Corren los días del Mundial de fútbol y, mientras los ojos de todos están puestos en los tortuosos avances del equipo de España en Sudáfrica, la comisaria María Ruiz se enfrenta a un tenebroso crimen:...</summary>
+    <link href="../book_2/book_2756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tinta y ceniza [December 22, 2024]</title>
+    <id>calibre:book:2754</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="672 KB" />
+    <author>
+      <name>Andrea Tomé</name>
+      <uri>../authors_1/authors_1801_Page_1.xml</uri>
+    </author>
+    <published>2024-11-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La guerra parecía una amenaza lejana, pero pronto se convirtió en una realidad que teñiría sus vidas de miedo, dolor y esperanza.En el Londres de 1938 las noticias del conflicto bélico iniciado por Alemania son, para los jóvenes británicos, un simple...</summary>
+    <link href="../book_2/book_2754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un capuchino mortal [December 18, 2024]</title>
     <id>calibre:book:2752</id>
     <updated>2024-12-18T05:52:22Z</updated>
     <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/Un%20capuchino%20mortal%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/Un%20capuchino%20mortal%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Cleo Coyle</name>
       <uri>../authors_1/authors_1800_Page_1.xml</uri>
@@ -34,11 +122,11 @@
     <link href="../book_2/book_2752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Café hasta la muerte [18 de diciembre de 2024]</title>
+    <title>Café hasta la muerte [December 18, 2024]</title>
     <id>calibre:book:2751</id>
     <updated>2024-12-18T05:52:22Z</updated>
     <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Cleo Coyle</name>
       <uri>../authors_1/authors_1800_Page_1.xml</uri>
@@ -53,11 +141,11 @@
     <link href="../book_2/book_2751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>¡Detengan Paracuellos! [18 de diciembre de 2024]</title>
+    <title>¡Detengan Paracuellos! [December 18, 2024]</title>
     <id>calibre:book:2749</id>
     <updated>2024-12-18T08:33:29Z</updated>
     <link href="../../Pedro%20Corral/%21Detengan%20Paracuellos%21%20%282749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Corral/%21Detengan%20Paracuellos%21%20%282749%29/%21Detengan%20Paracuellos%21%20-%20Pedro%20Corral.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Pedro%20Corral/%21Detengan%20Paracuellos%21%20%282749%29/%21Detengan%20Paracuellos%21%20-%20Pedro%20Corral.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Pedro Corral</name>
       <uri>../authors_1/authors_1799_Page_1.xml</uri>
@@ -70,11 +158,11 @@
     <link href="../book_2/book_2749.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Corazón roto [18 de diciembre de 2024]</title>
+    <title>Corazón roto [December 18, 2024]</title>
     <id>calibre:book:2748</id>
     <updated>2024-12-18T08:33:29Z</updated>
     <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="662 KB" />
+    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="662 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -87,11 +175,11 @@
     <link href="../book_2/book_2748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Imposible decir adiós [18 de diciembre de 2024]</title>
+    <title>Imposible decir adiós [December 18, 2024]</title>
     <id>calibre:book:2746</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Han%20Kang/Imposible%20decir%20adios%20%282746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Han%20Kang/Imposible%20decir%20adios%20%282746%29/Imposible%20decir%20adios%20-%20Han%20Kang.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="337 KB" />
+    <link href="../../Han%20Kang/Imposible%20decir%20adios%20%282746%29/Imposible%20decir%20adios%20-%20Han%20Kang.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="337 KB" />
     <author>
       <name>Han Kang</name>
       <uri>../authors_1/authors_1797_Page_1.xml</uri>
@@ -104,11 +192,11 @@
     <link href="../book_2/book_2746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Una muerte en la colina [18 de diciembre de 2024]</title>
+    <title>Una muerte en la colina [December 18, 2024]</title>
     <id>calibre:book:2744</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/Una%20muerte%20en%20la%20colina%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/Una%20muerte%20en%20la%20colina%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -121,11 +209,11 @@
     <link href="../book_2/book_2744.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>No se van a ordenar solas las cosas [18 de diciembre de 2024]</title>
+    <title>No se van a ordenar solas las cosas [December 18, 2024]</title>
     <id>calibre:book:2747</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
     <author>
       <name>Nuria Labari</name>
       <uri>../authors_1/authors_1798_Page_1.xml</uri>
@@ -138,11 +226,11 @@
     <link href="../book_2/book_2747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Un perro de caracter [18 de diciembre de 2024]</title>
+    <title>Un perro de caracter [December 18, 2024]</title>
     <id>calibre:book:2745</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/Un%20perro%20de%20caracter%20-%20Sandor%20Marai.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="240 KB" />
+    <link href="../../Sandor%20Marai/Un%20perro%20de%20caracter%20%282745%29/Un%20perro%20de%20caracter%20-%20Sandor%20Marai.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="240 KB" />
     <author>
       <name>Sandor Marai</name>
       <uri>../authors_1/authors_1796_Page_1.xml</uri>
@@ -155,11 +243,11 @@
     <link href="../book_2/book_2745.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Salvavidas para madres autónomas [18 de diciembre de 2024]</title>
+    <title>Salvavidas para madres autónomas [December 18, 2024]</title>
     <id>calibre:book:2743</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Diana%20Luz%20Vazquez/Salvavidas%20para%20madres%20autonomas%20%282743%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Diana%20Luz%20Vazquez/Salvavidas%20para%20madres%20autonomas%20%282743%29/Salvavidas%20para%20madres%20autonoma%20-%20Diana%20Luz%20Vazquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Diana%20Luz%20Vazquez/Salvavidas%20para%20madres%20autonomas%20%282743%29/Salvavidas%20para%20madres%20autonoma%20-%20Diana%20Luz%20Vazquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Diana Luz Vázquez</name>
       <uri>../authors_1/authors_1795_Page_1.xml</uri>
@@ -172,11 +260,11 @@
     <link href="../book_2/book_2743.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las vías de la muerte [18 de diciembre de 2024]</title>
+    <title>Las vías de la muerte [December 18, 2024]</title>
     <id>calibre:book:2742</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/Las%20vias%20de%20la%20muerte%20-%20Tim%20Weaver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="958 KB" />
+    <link href="../../Tim%20Weaver/Las%20vias%20de%20la%20muerte%20%282742%29/Las%20vias%20de%20la%20muerte%20-%20Tim%20Weaver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="958 KB" />
     <author>
       <name>Tim Weaver</name>
       <uri>../authors_1/authors_1794_Page_1.xml</uri>
@@ -190,11 +278,11 @@
     <link href="../book_2/book_2742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El secreto de Adela [11 de diciembre de 2024]</title>
+    <title>El secreto de Adela [December 11, 2024]</title>
     <id>calibre:book:2739</id>
     <updated>2024-12-11T08:34:19Z</updated>
     <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/El%20secreto%20de%20Adela%20-%20Mar%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="338 KB" />
+    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/El%20secreto%20de%20Adela%20-%20Mar%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
     <author>
       <name>Mar Montilla</name>
       <uri>../authors_1/authors_1793_Page_1.xml</uri>
@@ -207,11 +295,11 @@
     <link href="../book_2/book_2739.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El buen vasallo [11 de diciembre de 2024]</title>
+    <title>El buen vasallo [December 11, 2024]</title>
     <id>calibre:book:2737</id>
     <updated>2024-12-11T08:34:18Z</updated>
     <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/El%20buen%20vasallo%20-%20Francisco%20Narla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Francisco%20Narla/El%20buen%20vasallo%20%282737%29/El%20buen%20vasallo%20-%20Francisco%20Narla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Francisco Narla</name>
       <uri>../authors_1/authors_1791_Page_1.xml</uri>
@@ -224,11 +312,11 @@
     <link href="../book_2/book_2737.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La eterna noche de los 43 [11 de diciembre de 2024]</title>
+    <title>La eterna noche de los 43 [December 11, 2024]</title>
     <id>calibre:book:2736</id>
     <updated>2024-12-11T08:34:18Z</updated>
     <link href="../../Miguel%20Angel%20Juarez%20Franco/La%20eterna%20noche%20de%20los%2043%20%282736%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Angel%20Juarez%20Franco/La%20eterna%20noche%20de%20los%2043%20%282736%29/La%20eterna%20noche%20de%20los%2043%20-%20Miguel%20Angel%20Juarez%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <link href="../../Miguel%20Angel%20Juarez%20Franco/La%20eterna%20noche%20de%20los%2043%20%282736%29/La%20eterna%20noche%20de%20los%2043%20-%20Miguel%20Angel%20Juarez%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="893 KB" />
     <author>
       <name>Miguel Ángel Juárez Franco</name>
       <uri>../authors_1/authors_1790_Page_1.xml</uri>
@@ -241,11 +329,11 @@
     <link href="../book_2/book_2736.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El secreto de la alondra [11 de diciembre de 2024]</title>
+    <title>El secreto de la alondra [December 11, 2024]</title>
     <id>calibre:book:2738</id>
     <updated>2024-12-11T08:34:19Z</updated>
     <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/El%20secreto%20de%20la%20alondra%20-%20Fiona%20Valpy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/El%20secreto%20de%20la%20alondra%20-%20Fiona%20Valpy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Fiona Valpy</name>
       <uri>../authors_1/authors_1792_Page_1.xml</uri>
@@ -258,11 +346,11 @@
     <link href="../book_2/book_2738.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las niñas del coro [11 de diciembre de 2024]</title>
+    <title>Las niñas del coro [December 11, 2024]</title>
     <id>calibre:book:2735</id>
     <updated>2024-12-11T08:34:17Z</updated>
     <link href="../../Patricia%20Gibney/Las%20ninas%20del%20coro%20%282735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Gibney/Las%20ninas%20del%20coro%20%282735%29/Las%20ninas%20del%20coro%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Patricia%20Gibney/Las%20ninas%20del%20coro%20%282735%29/Las%20ninas%20del%20coro%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Patricia Gibney</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -276,11 +364,11 @@
     <link href="../book_2/book_2735.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El país del atardecer dorado [11 de diciembre de 2024]</title>
+    <title>El país del atardecer dorado [December 11, 2024]</title>
     <id>calibre:book:2734</id>
     <updated>2024-12-11T08:34:17Z</updated>
     <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
     <author>
       <name>Celia Santos</name>
       <uri>../authors_1/authors_1789_Page_1.xml</uri>
@@ -293,11 +381,11 @@
     <link href="../book_2/book_2734.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>En el centro del círculo [11 de diciembre de 2024]</title>
+    <title>En el centro del círculo [December 11, 2024]</title>
     <id>calibre:book:2733</id>
     <updated>2024-12-11T08:34:17Z</updated>
     <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="890 KB" />
     <author>
       <name>Arne Dahl</name>
       <uri>../authors_1/authors_1788_Page_1.xml</uri>
@@ -310,11 +398,11 @@
     <link href="../book_2/book_2733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La era de la revolución, 1789-1848 [11 de diciembre de 2024]</title>
+    <title>La era de la revolución, 1789-1848 [December 11, 2024]</title>
     <id>calibre:book:2730</id>
     <updated>2024-12-11T08:23:56Z</updated>
     <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Eric Hobsbawm</name>
       <uri>../authors_1/authors_1785_Page_1.xml</uri>
@@ -330,11 +418,11 @@
     <link href="../book_2/book_2730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Únicas [11 de diciembre de 2024]</title>
+    <title>Únicas [December 11, 2024]</title>
     <id>calibre:book:2731</id>
     <updated>2024-12-11T08:23:56Z</updated>
     <link href="../../Alicia%20Vallina/Unicas%20%282731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/Unicas%20-%20Alicia%20Vallina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/Unicas%20-%20Alicia%20Vallina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Alicia Vallina</name>
       <uri>../authors_1/authors_1786_Page_1.xml</uri>
@@ -347,11 +435,11 @@
     <link href="../book_2/book_2731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Alevosía [11 de diciembre de 2024]</title>
+    <title>Alevosía [December 11, 2024]</title>
     <id>calibre:book:2726</id>
     <updated>2024-12-11T08:23:55Z</updated>
     <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="432 KB" />
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="432 KB" />
     <author>
       <name>Pablo Illanes</name>
       <uri>../authors_1/authors_1783_Page_1.xml</uri>
@@ -365,90 +453,5 @@
 
 La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá enfrentar a un psicópata...</summary>
     <link href="../book_2/book_2726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando la persona tóxica eres tú [11 de diciembre de 2024]</title>
-    <id>calibre:book:2725</id>
-    <updated>2024-12-11T08:23:55Z</updated>
-    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/Cuando%20la%20persona%20toxica%20eres%20t%20-%20Juan%20Carlos%20Carrasco%20%28%40seraltam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Juan Carlos Carrasco (@seraltamentesensible)</name>
-      <uri>../authors_1/authors_1782_Page_1.xml</uri>
-    </author>
-    <published>2024-07-24T03:16:39Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El método que te ayudará a sustituir los pensamientos negativos y automáticos por una mirada optimista y reflexiva hacia tu propio ser. ¿Te imaginas tener al lado a alguien que te menospreciara cada día, que señalara cada uno de tus defectos, que te ...</summary>
-    <link href="../book_2/book_2725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La invención de todas las cosas [11 de diciembre de 2024]</title>
-    <id>calibre:book:2727</id>
-    <updated>2024-12-11T08:23:55Z</updated>
-    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/La%20invencion%20de%20todas%20las%20cosas%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
-    <author>
-      <name>Jorge Volpi</name>
-      <uri>../authors_0/authors_168_Page_1.xml</uri>
-    </author>
-    <published>2024-09-30T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un viaje apasionante y original a la imaginación como origen y motor del mundoPor el ganador del Premio Alfaguara de novela, el Biblioteca Breve y el José Donoso«Un libro que atrapa, nos invita a explorar el mapa genético de nuestras ideas y nos devu...</summary>
-    <link href="../book_2/book_2727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El misterioso caso del impostor del Titanic [11 de diciembre de 2024]</title>
-    <id>calibre:book:2724</id>
-    <updated>2024-12-11T08:23:55Z</updated>
-    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/El%20misterioso%20caso%20del%20impostor%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Carmen Posadas</name>
-      <uri>../authors_1/authors_1029_Page_1.xml</uri>
-    </author>
-    <published>2024-10-08T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
-    <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Solo queda silencio [11 de diciembre de 2024]</title>
-    <id>calibre:book:2729</id>
-    <updated>2024-12-11T08:23:56Z</updated>
-    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
-    <author>
-      <name>Txemi Parra</name>
-      <uri>../authors_1/authors_1784_Page_1.xml</uri>
-    </author>
-    <published>2024-10-09T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Después de la nevada...Después de la confesión...Después de la muerte... SOLO QUEDA SILENCIO En Jaca, el Año Nuevo amanece con una tragedia: han hallado en el río el cadáver de Martín Blasco, un joven abogado. Su último mensaje constaba de una única ...</summary>
-    <link href="../book_2/book_2729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La tercera víctima [11 de diciembre de 2024]</title>
-    <id>calibre:book:2728</id>
-    <updated>2024-12-11T08:23:55Z</updated>
-    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/La%20tercera%20victima%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="979 KB" />
-    <author>
-      <name>Lisa Gardner</name>
-      <uri>../authors_1/authors_1731_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Jentas</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un acto inenarrable ha destrozado la idílica localidad de Bakersville, en el estado de Oregón, y sus antaño pacíficos habitantes exigen una justicia rápida. Pero, aunque un niño ha confesado el horrendo crimen, las pruebas demuestran que podría no se...</summary>
-    <link href="../book_2/book_2728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

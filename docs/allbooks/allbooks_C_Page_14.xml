@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with C</title>
+  <id>Calibre2opds:allbooks:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <entry>
+    <title>El curioso caso de Benjamin Button</title>
+    <id>calibre:book:2366</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/El%20curioso%20caso%20de%20Benjamin%20But%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="107 KB" />
+    <author>
+      <name>F. Scott Fitzgerald</name>
+      <uri>../authors_1/authors_1406_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [171]:</summary>
+    <link href="../book_2/book_2366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El código Da Vinci</title>
+    <id>calibre:book:1137</id>
+    <updated>2024-01-08T09:16:18Z</updated>
+    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/El%20codigo%20Da%20Vinci%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Dan Brown</name>
+      <uri>../authors_0/authors_809_Page_1.xml</uri>
+    </author>
+    <published>2012-11-06T08:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El profesor de simbología religiosa de la Universidad de Harvard Robert Langdon se encuentra en París dando una conferencia. En la recepción que tiene lugar a continuación tiene una cita con el prestigioso comisario del museo del Louvre, pero éste n...</summary>
+    <link href="../book_1/book_1137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El código madre</title>
+    <id>calibre:book:1727</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Carole%20Stivers/El%20codigo%20madre%20%281727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carole%20Stivers/El%20codigo%20madre%20%281727%29/El%20codigo%20madre%20-%20Carole%20Stivers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
+    <author>
+      <name>Carole Stivers</name>
+      <uri>../authors_1/authors_1236_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela distópica feminista sobre lo que significa ser humana, y madre, en un mundo que es más escalofriante y precario que nunca después de una crisis pandémicaEs el año 2049. Cuando un arma biológica se propaga descontroladamente por todo el pla...</summary>
+    <link href="../book_1/book_1727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (13 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+</feed>

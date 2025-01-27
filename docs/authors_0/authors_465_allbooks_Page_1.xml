@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Jo Nesbo</title>
+  <title>All books by Jo Nesbo</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_465_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Jo Nesbo" />
+  <link href="./authors_465_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Jo Nesbo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="./authors_465_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jo Nesbo" />
   <entry>
     <title>La casa de la noche</title>
     <id>calibre:book:1159</id>
     <updated>2024-01-25T08:39:51Z</updated>
     <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/La%20casa%20de%20la%20noche%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="693 KB" />
+    <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/La%20casa%20de%20la%20noche%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:627</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/Eclipse%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="633 KB" />
+    <link href="../../Jo%20Nesbo/Eclipse%20%28627%29/Eclipse%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="633 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:867</id>
     <updated>2023-06-19T05:31:22Z</updated>
     <link href="../../Jo%20Nesbo/El%20hombre%20celoso%20%28867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20hombre%20celoso%20%28867%29/El%20hombre%20celoso%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Jo%20Nesbo/El%20hombre%20celoso%20%28867%29/El%20hombre%20celoso%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:841</id>
     <updated>2023-06-09T01:56:12Z</updated>
     <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/El%20reino%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="920 KB" />
+    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/El%20reino%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="920 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:1059</id>
     <updated>2023-11-01T07:27:35Z</updated>
     <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/La%20sed%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="656 KB" />
+    <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/La%20sed%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>

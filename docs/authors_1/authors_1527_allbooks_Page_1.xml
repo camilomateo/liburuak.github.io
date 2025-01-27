@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Benito Pérez Galdós</title>
+  <title>All books by Benito Pérez Galdós</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1527_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Benito Pérez Galdós" />
+  <link href="./authors_1527_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Benito Pérez Galdós" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="./authors_1527_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Benito Pérez Galdós" />
   <entry>
     <title>El abuelo</title>
     <id>calibre:book:2154</id>
     <updated>2024-09-06T02:21:25Z</updated>
     <link href="../../Benito%20Perez%20Galdos/El%20abuelo%20%282154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Perez%20Galdos/El%20abuelo%20%282154%29/El%20abuelo%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <link href="../../Benito%20Perez%20Galdos/El%20abuelo%20%282154%29/El%20abuelo%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="220 KB" />
     <author>
       <name>Benito Pérez Galdós</name>
       <uri>../authors_1/authors_1527_Page_1.xml</uri>
@@ -39,7 +39,7 @@
     <id>calibre:book:2155</id>
     <updated>2024-09-06T02:21:25Z</updated>
     <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/El%20caballero%20encantado%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="297 KB" />
+    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/El%20caballero%20encantado%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="297 KB" />
     <author>
       <name>Benito Pérez Galdós</name>
       <uri>../authors_1/authors_1527_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:2185</id>
     <updated>2024-09-06T02:21:30Z</updated>
     <link href="../../Benito%20Perez%20Galdos/Dona%20Perfecta%20%282185%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Perez%20Galdos/Dona%20Perfecta%20%282185%29/Dona%20Perfecta%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="251 KB" />
+    <link href="../../Benito%20Perez%20Galdos/Dona%20Perfecta%20%282185%29/Dona%20Perfecta%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="251 KB" />
     <author>
       <name>Benito Pérez Galdós</name>
       <uri>../authors_1/authors_1527_Page_1.xml</uri>
@@ -77,7 +77,7 @@
     <id>calibre:book:2216</id>
     <updated>2024-09-06T02:21:36Z</updated>
     <link href="../../Benito%20Perez%20Galdos/Marianela%20%282216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Perez%20Galdos/Marianela%20%282216%29/Marianela%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="206 KB" />
+    <link href="../../Benito%20Perez%20Galdos/Marianela%20%282216%29/Marianela%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="206 KB" />
     <author>
       <name>Benito Pérez Galdós</name>
       <uri>../authors_1/authors_1527_Page_1.xml</uri>

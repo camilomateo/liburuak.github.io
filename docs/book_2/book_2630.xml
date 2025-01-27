@@ -6,11 +6,11 @@
   <link href="./book_2630.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El faro de la sirena" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/El%20faro%20de%20la%20sirena%20-%20Lucia%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/El%20faro%20de%20la%20sirena%20-%20Lucia%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Lucía Lago</name>
     <uri>../authors_1/authors_1726_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Un faro y una misteriosa sirena.Una vieja mansión
     indiana construida sobre las rocas.Una familia. Un terrible
@@ -50,5 +50,5 @@
     el significado de la verdadera amistad, pero una traición
     marcará el destino de sus vidas para...</p>
   </content>
-  <link href="../authors_1/authors_1726_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Lucía Lago" />
+  <link href="../authors_1/authors_1726_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lucía Lago" />
 </entry>

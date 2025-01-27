@@ -11,17 +11,17 @@
   <link href="./authors_604_series_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Eddie Flynn" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="./authors_604_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Steve Cavanagh" />
   <entry>
     <title>4 - 13</title>
     <id>calibre:book:809</id>
     <updated>2023-06-06T08:14:10Z</updated>
     <link href="../../Steve%20Cavanagh/13%20%28809%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Cavanagh/13%20%28809%29/13%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Steve%20Cavanagh/13%20%28809%29/13%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Steve Cavanagh</name>
       <uri>../authors_0/authors_604_Page_1.xml</uri>
@@ -35,11 +35,29 @@
     <link href="../book_0/book_809.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>4 - Cómplice</title>
+    <id>calibre:book:2840</id>
+    <updated>2025-01-26T11:50:54Z</updated>
+    <link href="../../Steve%20Cavanagh/Complice%20%282840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Cavanagh/Complice%20%282840%29/Complice%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="437 KB" />
+    <author>
+      <name>Steve Cavanagh</name>
+      <uri>../authors_0/authors_604_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Eddie Flynn" />
+    <summary>Eddie Flynn [4]: UN NUEVO CASO PARA EDDIE FLYNN. ¿Estar casada con un asesino en serie te convierte en una criminal?«Steve Cavanagh es un autor fantástico. Tiene mucho talento».DON WINSLOWDaniel Miller, más conocido como Sandman, el Hombre de Arena, ...</summary>
+    <link href="../book_2/book_2840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>5 - Cincuenta Cincuenta</title>
     <id>calibre:book:812</id>
     <updated>2023-06-06T08:14:14Z</updated>
     <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
     <author>
       <name>Steve Cavanagh</name>
       <uri>../authors_0/authors_604_Page_1.xml</uri>

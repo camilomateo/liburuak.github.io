@@ -11,13 +11,13 @@
   <link href="./authors_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Iván Santos" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
-    <title>Todos los libros de Iván Santos</title>
+    <title>All books by Iván Santos</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_75_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -35,7 +35,7 @@
     <id>calibre:book:118</id>
     <updated>2023-01-18T00:43:32Z</updated>
     <link href="../../Ivan%20Santos/El%20camino%20de%20los%20vivos%20%28118%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ivan%20Santos/El%20camino%20de%20los%20vivos%20%28118%29/El%20camino%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <link href="../../Ivan%20Santos/El%20camino%20de%20los%20vivos%20%28118%29/El%20camino%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
     <author>
       <name>Iván Santos</name>
       <uri>../authors_0/authors_75_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:116</id>
     <updated>2023-01-18T00:43:32Z</updated>
     <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/La%20guerra%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/La%20guerra%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
     <author>
       <name>Iván Santos</name>
       <uri>../authors_0/authors_75_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por N</title>
+  <title>Books starting with N</title>
   <id>Calibre2opds:allbooks:N</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por N" />
+  <link href="./allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por N" />
-  <link href="../allbooks/allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with N" />
+  <link href="../allbooks/allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
     <title>No me llames Violeta</title>
     <id>calibre:book:1717</id>
     <updated>2024-08-27T06:29:45Z</updated>
     <link href="../../Ines%20Albors/No%20me%20llames%20Violeta%20%281717%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Albors/No%20me%20llames%20Violeta%20%281717%29/No%20me%20llames%20Violeta%20-%20Ines%20Albors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="894 KB" />
+    <link href="../../Ines%20Albors/No%20me%20llames%20Violeta%20%281717%29/No%20me%20llames%20Violeta%20-%20Ines%20Albors.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="894 KB" />
     <author>
       <name>Inés Albórs</name>
       <uri>../authors_1/authors_1229_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:600</id>
     <updated>2023-05-02T01:40:24Z</updated>
     <link href="../../Eduardo%20Infante/No%20me%20tapes%20el%20sol%20%28600%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eduardo%20Infante/No%20me%20tapes%20el%20sol%20%28600%29/No%20me%20tapes%20el%20sol%20-%20Eduardo%20Infante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../Eduardo%20Infante/No%20me%20tapes%20el%20sol%20%28600%29/No%20me%20tapes%20el%20sol%20-%20Eduardo%20Infante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>Eduardo Infante</name>
       <uri>../authors_0/authors_446_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:1798</id>
     <updated>2024-08-26T10:56:17Z</updated>
     <link href="../../Blas%20Ruiz%20Grau/No%20moriras%20%281798%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blas%20Ruiz%20Grau/No%20moriras%20%281798%29/No%20moriras%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="788 KB" />
+    <link href="../../Blas%20Ruiz%20Grau/No%20moriras%20%281798%29/No%20moriras%20-%20Blas%20Ruiz%20Grau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="788 KB" />
     <author>
       <name>Blas Ruiz Grau</name>
       <uri>../authors_0/authors_334_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:1596</id>
     <updated>2024-06-02T10:59:57Z</updated>
     <link href="../../Antonio%20Manzini/No%20mas%20apuestas%20%281596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Manzini/No%20mas%20apuestas%20%281596%29/No%20mas%20apuestas%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="411 KB" />
+    <link href="../../Antonio%20Manzini/No%20mas%20apuestas%20%281596%29/No%20mas%20apuestas%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="411 KB" />
     <author>
       <name>Antonio Manzini</name>
       <uri>../authors_0/authors_760_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:1336</id>
     <updated>2024-03-21T01:00:31Z</updated>
     <link href="../../Julio%20Basulto/No%20mas%20dieta%20%281336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Basulto/No%20mas%20dieta%20%281336%29/No%20mas%20dieta%20-%20Julio%20Basulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="858 KB" />
+    <link href="../../Julio%20Basulto/No%20mas%20dieta%20%281336%29/No%20mas%20dieta%20-%20Julio%20Basulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="858 KB" />
     <author>
       <name>Julio Basulto</name>
       <uri>../authors_0/authors_977_Page_1.xml</uri>
@@ -107,7 +107,7 @@
     <id>calibre:book:1617</id>
     <updated>2024-06-02T11:00:03Z</updated>
     <link href="../../Monica%20Rouanet/No%20oigo%20a%20los%20ninos%20jugar%20%281617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Rouanet/No%20oigo%20a%20los%20ninos%20jugar%20%281617%29/No%20oigo%20a%20los%20ninos%20jugar%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <link href="../../Monica%20Rouanet/No%20oigo%20a%20los%20ninos%20jugar%20%281617%29/No%20oigo%20a%20los%20ninos%20jugar%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="518 KB" />
     <author>
       <name>Mónica Rouanet</name>
       <uri>../authors_1/authors_1154_Page_1.xml</uri>
@@ -124,7 +124,7 @@
     <id>calibre:book:2574</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/No%20quieras%20nada%20vil%20-%20Florencia%20Bonelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="591 KB" />
+    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/No%20quieras%20nada%20vil%20-%20Florencia%20Bonelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="591 KB" />
     <author>
       <name>Florencia Bonelli</name>
       <uri>../authors_1/authors_1693_Page_1.xml</uri>
@@ -142,7 +142,7 @@
     <id>calibre:book:1055</id>
     <updated>2023-11-01T07:27:33Z</updated>
     <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/No%20se%20admiten%20devoluciones%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="36 MB" />
+    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/No%20se%20admiten%20devoluciones%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="36 MB" />
     <author>
       <name>René Merino</name>
       <uri>../authors_0/authors_9_Page_1.xml</uri>
@@ -160,7 +160,7 @@
     <id>calibre:book:2747</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <link href="../../Nuria%20Labari/No%20se%20van%20a%20ordenar%20solas%20las%20cosas%20%282747%29/No%20se%20van%20a%20ordenar%20solas%20las%20c%20-%20Nuria%20Labari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
     <author>
       <name>Nuria Labari</name>
       <uri>../authors_1/authors_1798_Page_1.xml</uri>
@@ -177,7 +177,7 @@
     <id>calibre:book:871</id>
     <updated>2023-06-19T05:31:26Z</updated>
     <link href="../../Liz%20Lawler/No%20te%20despiertes%20%28871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Liz%20Lawler/No%20te%20despiertes%20%28871%29/No%20te%20despiertes%20-%20Liz%20Lawler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="618 KB" />
+    <link href="../../Liz%20Lawler/No%20te%20despiertes%20%28871%29/No%20te%20despiertes%20-%20Liz%20Lawler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="618 KB" />
     <author>
       <name>Liz Lawler</name>
       <uri>../authors_0/authors_655_Page_1.xml</uri>
@@ -194,7 +194,7 @@
     <id>calibre:book:556</id>
     <updated>2023-04-11T09:33:26Z</updated>
     <link href="../../Ines%20Fernandez%20Moreno/No%20te%20hagas%20ilusiones%20%28556%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Fernandez%20Moreno/No%20te%20hagas%20ilusiones%20%28556%29/No%20te%20hagas%20ilusiones%20-%20Ines%20Fernandez%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="840 KB" />
+    <link href="../../Ines%20Fernandez%20Moreno/No%20te%20hagas%20ilusiones%20%28556%29/No%20te%20hagas%20ilusiones%20-%20Ines%20Fernandez%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="840 KB" />
     <author>
       <name>Inés Fernández Moreno</name>
       <uri>../authors_0/authors_412_Page_1.xml</uri>
@@ -211,7 +211,7 @@
     <id>calibre:book:973</id>
     <updated>2023-08-16T05:29:06Z</updated>
     <link href="../../Dani%20Montero/No%20te%20hare%20ningun%20dano%20%28973%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dani%20Montero/No%20te%20hare%20ningun%20dano%20%28973%29/No%20te%20hare%20ningun%20dano%20-%20Dani%20Montero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="576 KB" />
+    <link href="../../Dani%20Montero/No%20te%20hare%20ningun%20dano%20%28973%29/No%20te%20hare%20ningun%20dano%20-%20Dani%20Montero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="576 KB" />
     <author>
       <name>Dani Montero</name>
       <uri>../authors_0/authors_724_Page_1.xml</uri>
@@ -228,7 +228,7 @@
     <id>calibre:book:741</id>
     <updated>2023-05-17T02:00:12Z</updated>
     <link href="../../Curro%20Canete/No%20tengas%20miedo%20a%20nada%20%28741%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Curro%20Canete/No%20tengas%20miedo%20a%20nada%20%28741%29/No%20tengas%20miedo%20a%20nada%20-%20Curro%20Canete.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="711 KB" />
+    <link href="../../Curro%20Canete/No%20tengas%20miedo%20a%20nada%20%28741%29/No%20tengas%20miedo%20a%20nada%20-%20Curro%20Canete.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="711 KB" />
     <author>
       <name>Curro Cañete</name>
       <uri>../authors_0/authors_549_Page_1.xml</uri>
@@ -246,7 +246,7 @@
     <id>calibre:book:21</id>
     <updated>2023-01-17T10:13:12Z</updated>
     <link href="../../Bernard%20Minier/Noche%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bernard%20Minier/Noche%20%2821%29/Noche%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="730 KB" />
+    <link href="../../Bernard%20Minier/Noche%20%2821%29/Noche%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="730 KB" />
     <author>
       <name>Bernard Minier</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -264,7 +264,7 @@
     <id>calibre:book:426</id>
     <updated>2023-03-14T04:53:30Z</updated>
     <link href="../../Roberto%20Sanchez/Noche%20en%20vela%20%28426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Sanchez/Noche%20en%20vela%20%28426%29/Noche%20en%20vela%20-%20Roberto%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <link href="../../Roberto%20Sanchez/Noche%20en%20vela%20%28426%29/Noche%20en%20vela%20-%20Roberto%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
     <author>
       <name>Roberto Sánchez</name>
       <uri>../authors_0/authors_315_Page_1.xml</uri>
@@ -281,7 +281,7 @@
     <id>calibre:book:995</id>
     <updated>2023-08-23T02:48:36Z</updated>
     <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/Noche%20sagrada%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/Noche%20sagrada%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -298,7 +298,7 @@
     <id>calibre:book:1759</id>
     <updated>2024-08-26T10:56:09Z</updated>
     <link href="../../Virginia%20Woolf/Noche%20y%20dia%20%281759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Virginia%20Woolf/Noche%20y%20dia%20%281759%29/Noche%20y%20dia%20-%20Virginia%20Woolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <link href="../../Virginia%20Woolf/Noche%20y%20dia%20%281759%29/Noche%20y%20dia%20-%20Virginia%20Woolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="646 KB" />
     <author>
       <name>Virginia Woolf</name>
       <uri>../authors_1/authors_1260_Page_1.xml</uri>
@@ -318,7 +318,7 @@
     <id>calibre:book:831</id>
     <updated>2023-06-09T01:41:40Z</updated>
     <link href="../../Joyce%20Carol%20Oates/Noche.%20Sueno.%20Muerte.%20Las%20estrellas%20%28831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joyce%20Carol%20Oates/Noche.%20Sueno.%20Muerte.%20Las%20estrellas%20%28831%29/Noche.%20Sueno.%20Muerte.%20Las%20estre%20-%20Joyce%20Carol%20Oates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="880 KB" />
+    <link href="../../Joyce%20Carol%20Oates/Noche.%20Sueno.%20Muerte.%20Las%20estrellas%20%28831%29/Noche.%20Sueno.%20Muerte.%20Las%20estre%20-%20Joyce%20Carol%20Oates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="880 KB" />
     <author>
       <name>Joyce Carol Oates</name>
       <uri>../authors_0/authors_622_Page_1.xml</uri>
@@ -335,7 +335,7 @@
     <id>calibre:book:2310</id>
     <updated>2024-09-09T10:34:04Z</updated>
     <link href="../../Nikolai%20Gogol/Nochebuena%20%282310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nikolai%20Gogol/Nochebuena%20%282310%29/Nochebuena%20-%20Nikolai%20Gogol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <link href="../../Nikolai%20Gogol/Nochebuena%20%282310%29/Nochebuena%20-%20Nikolai%20Gogol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="86 KB" />
     <author>
       <name>Nikolái Gógol</name>
       <uri>../authors_1/authors_1589_Page_1.xml</uri>
@@ -353,7 +353,7 @@
     <id>calibre:book:2402</id>
     <updated>2024-09-09T10:34:24Z</updated>
     <link href="../../Jose%20Rizal/Noli%20me%20tangere%20%282402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Rizal/Noli%20me%20tangere%20%282402%29/Noli%20me%20tangere%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="462 KB" />
+    <link href="../../Jose%20Rizal/Noli%20me%20tangere%20%282402%29/Noli%20me%20tangere%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="462 KB" />
     <author>
       <name>José Rizal</name>
       <uri>../authors_1/authors_1637_Page_1.xml</uri>
@@ -374,7 +374,7 @@
     <id>calibre:book:470</id>
     <updated>2023-03-24T09:44:14Z</updated>
     <link href="../../Levi%20Roach/Normandos%20%28470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Levi%20Roach/Normandos%20%28470%29/Normandos%20-%20Levi%20Roach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Levi%20Roach/Normandos%20%28470%29/Normandos%20-%20Levi%20Roach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Levi Roach</name>
       <uri>../authors_0/authors_353_Page_1.xml</uri>
@@ -391,7 +391,7 @@
     <id>calibre:book:1326</id>
     <updated>2024-03-21T01:00:29Z</updated>
     <link href="../../Albert%20Soler/Nos%20cansamos%20de%20vivir%20bien%20%281326%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Albert%20Soler/Nos%20cansamos%20de%20vivir%20bien%20%281326%29/Nos%20cansamos%20de%20vivir%20bien%20-%20Albert%20Soler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="453 KB" />
+    <link href="../../Albert%20Soler/Nos%20cansamos%20de%20vivir%20bien%20%281326%29/Nos%20cansamos%20de%20vivir%20bien%20-%20Albert%20Soler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
     <author>
       <name>Albert Soler</name>
       <uri>../authors_0/authors_967_Page_1.xml</uri>
@@ -408,7 +408,7 @@
     <id>calibre:book:126</id>
     <updated>2023-01-18T00:43:38Z</updated>
     <link href="../../Cesar%20Perez%20Gellida/Nos%20crecen%20los%20enanos%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cesar%20Perez%20Gellida/Nos%20crecen%20los%20enanos%20%28126%29/Nos%20crecen%20los%20enanos%20-%20Cesar%20Perez%20Gellida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="679 KB" />
+    <link href="../../Cesar%20Perez%20Gellida/Nos%20crecen%20los%20enanos%20%28126%29/Nos%20crecen%20los%20enanos%20-%20Cesar%20Perez%20Gellida.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="679 KB" />
     <author>
       <name>César Pérez Gellida</name>
       <uri>../authors_0/authors_76_Page_1.xml</uri>
@@ -425,7 +425,7 @@
     <id>calibre:book:775</id>
     <updated>2023-05-25T01:32:56Z</updated>
     <link href="../../Pierre%20Lemaitre/Nos%20vemos%20alla%20arriba%20%28775%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Lemaitre/Nos%20vemos%20alla%20arriba%20%28775%29/Nos%20vemos%20alla%20arriba%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <link href="../../Pierre%20Lemaitre/Nos%20vemos%20alla%20arriba%20%28775%29/Nos%20vemos%20alla%20arriba%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
     <author>
       <name>Pierre Lemaitre</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -446,7 +446,7 @@
     <id>calibre:book:1454</id>
     <updated>2024-04-30T04:46:08Z</updated>
     <link href="../../Carmen%20Calvo/Nosotras_%20El%20feminismo%20en%20la%20democr%20%281454%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Calvo/Nosotras_%20El%20feminismo%20en%20la%20democr%20%281454%29/Nosotras_%20El%20feminismo%20en%20la%20de%20-%20Carmen%20Calvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <link href="../../Carmen%20Calvo/Nosotras_%20El%20feminismo%20en%20la%20democr%20%281454%29/Nosotras_%20El%20feminismo%20en%20la%20de%20-%20Carmen%20Calvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
     <author>
       <name>Carmen Calvo</name>
       <uri>../authors_1/authors_1062_Page_1.xml</uri>

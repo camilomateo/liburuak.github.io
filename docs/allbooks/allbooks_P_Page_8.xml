@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por P</title>
+  <title>Books starting with P</title>
   <id>Calibre2opds:allbooks:P</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,51 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="./allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por P" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
+  <entry>
+    <title>El problema de los tres cuerpos</title>
+    <id>calibre:book:1728</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Cixin%20Liu/El%20problema%20de%20los%20tres%20cuerpos%20%281728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cixin%20Liu/El%20problema%20de%20los%20tres%20cuerpos%20%281728%29/El%20problema%20de%20los%20tres%20cuerpos%20-%20Cixin%20Liu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cixin Liu</name>
+      <uri>../authors_1/authors_1237_Page_1.xml</uri>
+    </author>
+    <published>2016-08-17T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El primer libro de la «Trilogía de los Tres Cuerpos», el fenómeno editorial chino que ha conquistado al mundo y ha ganado el premio Hugo 2015 a la mejor novela.El problema de los tres cuerpos es la primera novela no escrita originariamente en inglés ...</summary>
+    <link href="../book_1/book_1728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El problema final</title>
+    <id>calibre:book:1025</id>
+    <updated>2023-09-12T07:25:30Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/El%20problema%20final%20%281025%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/El%20problema%20final%20%281025%29/El%20problema%20final%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
+    <author>
+      <name>Arturo Pérez‑Reverte</name>
+      <uri>../authors_0/authors_757_Page_1.xml</uri>
+    </author>
+    <published>2023-08-21T09:00:31Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTEUn crimen imposible. Un detective insospechado.No se trata de un desafío entre el asesino y el detective, sino de un duelo de inteligencia entre el autor y el lector.—Haría falta un policía—sugirió alguien—. Un ...</summary>
+    <link href="../book_1/book_1025.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El procurador</title>
     <id>calibre:book:1208</id>
     <updated>2024-02-06T06:17:26Z</updated>
     <link href="../../M.%20W.%20Craven/El%20procurador%20%281208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../M.%20W.%20Craven/El%20procurador%20%281208%29/El%20procurador%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="498 KB" />
+    <link href="../../M.%20W.%20Craven/El%20procurador%20%281208%29/El%20procurador%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
     <author>
       <name>M. W. Craven</name>
       <uri>../authors_0/authors_449_Page_1.xml</uri>
@@ -36,7 +70,7 @@
     <id>calibre:book:2572</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="180 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -56,7 +90,7 @@
     <id>calibre:book:1922</id>
     <updated>2024-09-05T06:03:54Z</updated>
     <link href="../../Gibran%20Khalil%20Gibran/El%20profeta%20%281922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gibran%20Khalil%20Gibran/El%20profeta%20%281922%29/El%20profeta%20-%20Gibran%20Khalil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../Gibran%20Khalil%20Gibran/El%20profeta%20%281922%29/El%20profeta%20-%20Gibran%20Khalil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>Gibran Khalil Gibran</name>
       <uri>../authors_1/authors_1369_Page_1.xml</uri>
@@ -72,7 +106,7 @@
     <id>calibre:book:903</id>
     <updated>2023-06-26T05:25:18Z</updated>
     <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/La%20promesa%20de%20Solveig%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="682 KB" />
+    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/La%20promesa%20de%20Solveig%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="682 KB" />
     <author>
       <name>Corina Bomann</name>
       <uri>../authors_0/authors_268_Page_1.xml</uri>
@@ -90,7 +124,7 @@
     <id>calibre:book:1182</id>
     <updated>2024-02-01T09:56:45Z</updated>
     <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/La%20prueba%20del%20cielo%20-%20Eben%20Alexander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/La%20prueba%20del%20cielo%20-%20Eben%20Alexander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Eben Alexander</name>
       <uri>../authors_0/authors_861_Page_1.xml</uri>
@@ -108,7 +142,7 @@
     <id>calibre:book:942</id>
     <updated>2023-07-14T09:48:36Z</updated>
     <link href="../../Melanie%20Metzenthin/Una%20prueba%20del%20destino%20%28942%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Melanie%20Metzenthin/Una%20prueba%20del%20destino%20%28942%29/Una%20prueba%20del%20destino%20-%20Melanie%20Metzenthin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <link href="../../Melanie%20Metzenthin/Una%20prueba%20del%20destino%20%28942%29/Una%20prueba%20del%20destino%20-%20Melanie%20Metzenthin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
     <author>
       <name>Melanie Metzenthin</name>
       <uri>../authors_0/authors_706_Page_1.xml</uri>
@@ -126,7 +160,7 @@
     <id>calibre:book:2262</id>
     <updated>2024-09-09T10:33:55Z</updated>
     <link href="../../Nicolas%20Maquiavelo/El%20principe%20%282262%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicolas%20Maquiavelo/El%20principe%20%282262%29/El%20principe%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="134 KB" />
+    <link href="../../Nicolas%20Maquiavelo/El%20principe%20%282262%29/El%20principe%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="134 KB" />
     <author>
       <name>Nicolás Maquiavelo</name>
       <uri>../authors_1/authors_1587_Page_1.xml</uri>
@@ -144,7 +178,7 @@
     <id>calibre:book:1449</id>
     <updated>2024-04-20T05:25:38Z</updated>
     <link href="../../Nikita%20Summers/La%20psicologa%20%281449%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nikita%20Summers/La%20psicologa%20%281449%29/La%20psicologa%20-%20Nikita%20Summers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <link href="../../Nikita%20Summers/La%20psicologa%20%281449%29/La%20psicologa%20-%20Nikita%20Summers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
     <author>
       <name>Nikita Summers</name>
       <uri>../authors_1/authors_1058_Page_1.xml</uri>
@@ -161,7 +195,7 @@
     <id>calibre:book:2604</id>
     <updated>2024-09-16T10:50:31Z</updated>
     <link href="../../Angel%20Osuna/El%20puente%20%282604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/El%20puente%20-%20Angel%20Osuna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="399 KB" />
+    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/El%20puente%20-%20Angel%20Osuna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="399 KB" />
     <author>
       <name>Ángel Osuna</name>
       <uri>../authors_1/authors_1709_Page_1.xml</uri>
@@ -178,7 +212,7 @@
     <id>calibre:book:2365</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../H.%20G.%20Wells/La%20puerta%20en%20el%20muro%20%282365%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20G.%20Wells/La%20puerta%20en%20el%20muro%20%282365%29/La%20puerta%20en%20el%20muro%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="65 KB" />
+    <link href="../../H.%20G.%20Wells/La%20puerta%20en%20el%20muro%20%282365%29/La%20puerta%20en%20el%20muro%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="65 KB" />
     <author>
       <name>H. G. Wells</name>
       <uri>../authors_1/authors_1619_Page_1.xml</uri>
@@ -196,7 +230,7 @@
     <id>calibre:book:1126</id>
     <updated>2024-01-08T09:16:16Z</updated>
     <link href="../../Manel%20Loureiro/La%20puerta%20%281126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manel%20Loureiro/La%20puerta%20%281126%29/La%20puerta%20-%20Manel%20Loureiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Manel%20Loureiro/La%20puerta%20%281126%29/La%20puerta%20-%20Manel%20Loureiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Manel Loureiro</name>
       <uri>../authors_0/authors_731_Page_1.xml</uri>
@@ -213,7 +247,7 @@
     <id>calibre:book:20</id>
     <updated>2023-01-17T10:12:48Z</updated>
     <link href="../../Blue%20Jeans/El%20puzle%20de%20cristal%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blue%20Jeans/El%20puzle%20de%20cristal%20%2820%29/El%20puzle%20de%20cristal%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <link href="../../Blue%20Jeans/El%20puzle%20de%20cristal%20%2820%29/El%20puzle%20de%20cristal%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
       <name>Blue Jeans</name>
       <uri>../authors_0/authors_15_Page_1.xml</uri>
@@ -230,7 +264,7 @@
     <id>calibre:book:2148</id>
     <updated>2024-09-06T02:21:23Z</updated>
     <link href="../../Federico%20Garcia%20Lorca/El%20publico%20%282148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/El%20publico%20%282148%29/El%20publico%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <link href="../../Federico%20Garcia%20Lorca/El%20publico%20%282148%29/El%20publico%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
     <author>
       <name>Federico García Lorca</name>
       <uri>../authors_0/authors_85_Page_1.xml</uri>

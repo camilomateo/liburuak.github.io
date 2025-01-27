@@ -11,14 +11,14 @@
   <link href="./authors_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pablo Poveda" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <entry>
-    <title>Todos los libros de Pablo Poveda</title>
+    <title>All books by Pablo Poveda</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 12 libros</content>
+    <content type="text">Alphabetical index of the 13 books</content>
     <link href="../authors_0/authors_232_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -28,6 +28,14 @@
     <id>Calibre2opds:authors:232series:213</id>
     <content type="text">Fuego cruzado</content>
     <link href="../authors_0/authors_232_series_213_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Bajo Sospecha</title>
+    <id>Calibre2opds:authors:232series:246</id>
+    <content type="text">Sangre y Raíces</content>
+    <link href="../authors_0/authors_232_series_246_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -74,7 +82,7 @@
   <entry>
     <title>Series: Inspector Rojo</title>
     <id>Calibre2opds:authors:232series:154</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_232_series_154_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -84,7 +92,7 @@
     <id>calibre:book:1788</id>
     <updated>2024-08-26T10:56:15Z</updated>
     <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/El%20caso%20del%20tarot%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="359 KB" />
+    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/El%20caso%20del%20tarot%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="359 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -100,7 +108,7 @@
     <id>calibre:book:1776</id>
     <updated>2024-08-26T10:56:12Z</updated>
     <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -116,7 +124,7 @@
     <id>calibre:book:1808</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="482 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>

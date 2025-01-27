@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Cerbantes</title>
+  <id>Calibre2opds:authors:1855series:245</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1855_series_245_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Cerbantes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="./authors_1855_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Álvaro Espina" />
+  <entry>
+    <title>3 - Cerbantes. El combate de las letras</title>
+    <id>calibre:book:2836</id>
+    <updated>2025-01-26T11:50:53Z</updated>
+    <link href="../../Alvaro%20Espina/Cerbantes.%20El%20combate%20de%20las%20letras%20%282836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Espina/Cerbantes.%20El%20combate%20de%20las%20letras%20%282836%29/Cerbantes.%20El%20combate%20de%20las%20le%20-%20Alvaro%20Espina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Álvaro Espina</name>
+      <uri>../authors_1/authors_1855_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="General" />
+    <category term="Biographical" />
+    <category term="Lang:es" />
+    <category term="Cerbantes" />
+    <summary>Cerbantes [3]: Álvaro Espina cierra con esta novela la trilogía Cerbantes. Esta obra, que cierra la trilogía Cerbantes, arranca con la vuelta de Miguel desde Lisboa a Salamanca, donde participa en la academia de la universidad salmantina. La primera ...</summary>
+    <link href="../book_2/book_2836.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

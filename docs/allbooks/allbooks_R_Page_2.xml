@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por R</title>
+  <title>Books starting with R</title>
   <id>Calibre2opds:allbooks:R</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por R" />
+  <link href="./allbooks_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with R" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por R" />
-  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 4)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
+  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 4)" />
   <entry>
     <title>Retrato de una desconocida</title>
     <id>calibre:book:560</id>
     <updated>2023-04-17T01:30:20Z</updated>
     <link href="../../Daniel%20Silva/Retrato%20de%20una%20desconocida%20%28560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Silva/Retrato%20de%20una%20desconocida%20%28560%29/Retrato%20de%20una%20desconocida%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="708 KB" />
+    <link href="../../Daniel%20Silva/Retrato%20de%20una%20desconocida%20%28560%29/Retrato%20de%20una%20desconocida%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="708 KB" />
     <author>
       <name>Daniel Silva</name>
       <uri>../authors_0/authors_415_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:2398</id>
     <updated>2024-09-09T10:34:22Z</updated>
     <link href="../../James%20Joyce/Retrato%20del%20artista%20adolescente%20%282398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Joyce/Retrato%20del%20artista%20adolescente%20%282398%29/Retrato%20del%20artista%20adolescente%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="261 KB" />
+    <link href="../../James%20Joyce/Retrato%20del%20artista%20adolescente%20%282398%29/Retrato%20del%20artista%20adolescente%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="261 KB" />
     <author>
       <name>James Joyce</name>
       <uri>../authors_0/authors_50_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:2</id>
     <updated>2023-01-17T09:06:46Z</updated>
     <link href="../../Arturo%20Perez-Reverte/Revolucion%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arturo%20Perez-Reverte/Revolucion%20%282%29/Revolucion%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="844 KB" />
+    <link href="../../Arturo%20Perez-Reverte/Revolucion%20%282%29/Revolucion%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="844 KB" />
     <author>
       <name>Arturo Pérez-Reverte</name>
       <uri>../authors_0/authors_1_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:2025</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Thomas%20Malory/El%20Rey%20Arturo%20y%20los%20Caballeros%20de%20l%20%282025%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Thomas%20Malory/El%20Rey%20Arturo%20y%20los%20Caballeros%20de%20l%20%282025%29/El%20Rey%20Arturo%20y%20los%20Caballeros%20-%20Thomas%20Malory.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="342 KB" />
+    <link href="../../Thomas%20Malory/El%20Rey%20Arturo%20y%20los%20Caballeros%20de%20l%20%282025%29/El%20Rey%20Arturo%20y%20los%20Caballeros%20-%20Thomas%20Malory.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="342 KB" />
     <author>
       <name>Thomas Malory</name>
       <uri>../authors_1/authors_1455_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:539</id>
     <updated>2023-04-06T09:50:06Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/Rey%20blanco%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="610 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Rey%20blanco%20%28539%29/Rey%20blanco%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="610 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -108,7 +108,7 @@
     <id>calibre:book:2406</id>
     <updated>2024-09-09T10:34:24Z</updated>
     <link href="../../Robert%20W.%20Chambers/El%20Rey%20de%20Amarillo%20%282406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20W.%20Chambers/El%20Rey%20de%20Amarillo%20%282406%29/El%20Rey%20de%20Amarillo%20-%20Robert%20W.%20Chambers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="269 KB" />
+    <link href="../../Robert%20W.%20Chambers/El%20Rey%20de%20Amarillo%20%282406%29/El%20Rey%20de%20Amarillo%20-%20Robert%20W.%20Chambers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="269 KB" />
     <author>
       <name>Robert W. Chambers</name>
       <uri>../authors_1/authors_1640_Page_1.xml</uri>
@@ -128,7 +128,7 @@
     <id>calibre:book:199</id>
     <updated>2023-01-26T07:21:02Z</updated>
     <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/El%20Rey%20del%20Tumulo%20-%20C.M.%20Carney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/El%20Rey%20del%20Tumulo%20-%20C.M.%20Carney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
       <name>C.M. Carney</name>
       <uri>../authors_0/authors_125_Page_1.xml</uri>
@@ -146,7 +146,7 @@
     <id>calibre:book:621</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Joseph%20O%27Connor/Reyes%20vagabundos%20%28621%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20O%27Connor/Reyes%20vagabundos%20%28621%29/Reyes%20vagabundos%20-%20Joseph%20O%27Connor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="528 KB" />
+    <link href="../../Joseph%20O%27Connor/Reyes%20vagabundos%20%28621%29/Reyes%20vagabundos%20-%20Joseph%20O%27Connor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="528 KB" />
     <author>
       <name>Joseph O’Connor</name>
       <uri>../authors_0/authors_462_Page_1.xml</uri>
@@ -163,7 +163,7 @@
     <id>calibre:book:2057</id>
     <updated>2024-09-06T02:09:05Z</updated>
     <link href="../../Alan%20Alexander%20Milne/El%20Rincon%20de%20Puh%20%282057%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alan%20Alexander%20Milne/El%20Rincon%20de%20Puh%20%282057%29/El%20Rincon%20de%20Puh%20-%20Alan%20Alexander%20Milne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="122 KB" />
+    <link href="../../Alan%20Alexander%20Milne/El%20Rincon%20de%20Puh%20%282057%29/El%20Rincon%20de%20Puh%20-%20Alan%20Alexander%20Milne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="122 KB" />
     <author>
       <name>Alan Alexander Milne</name>
       <uri>../authors_1/authors_1476_Page_1.xml</uri>
@@ -182,7 +182,7 @@
     <id>calibre:book:2610</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Angela%20Marsons/Robadas%20%282610%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angela%20Marsons/Robadas%20%282610%29/Robadas%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Angela%20Marsons/Robadas%20%282610%29/Robadas%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Angela Marsons</name>
       <uri>../authors_0/authors_520_Page_1.xml</uri>
@@ -197,7 +197,7 @@
     <id>calibre:book:2546</id>
     <updated>2024-09-09T10:35:06Z</updated>
     <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/Robin%20Hood%20-%20Sir%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="211 KB" />
+    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/Robin%20Hood%20-%20Sir%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="211 KB" />
     <author>
       <name>Sir Walter Scott</name>
       <uri>../authors_1/authors_1681_Page_1.xml</uri>
@@ -215,7 +215,7 @@
     <id>calibre:book:2244</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../J.%20Walker%20McSpadden/Robin%20Hood%20%282244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20Walker%20McSpadden/Robin%20Hood%20%282244%29/Robin%20Hood%20-%20J.%20Walker%20McSpadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
+    <link href="../../J.%20Walker%20McSpadden/Robin%20Hood%20%282244%29/Robin%20Hood%20-%20J.%20Walker%20McSpadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="218 KB" />
     <author>
       <name>J. Walker McSpadden</name>
       <uri>../authors_1/authors_1578_Page_1.xml</uri>
@@ -239,7 +239,7 @@
     <id>calibre:book:2253</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Daniel%20Defoe/Robinson%20Crusoe%20%282253%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Defoe/Robinson%20Crusoe%20%282253%29/Robinson%20Crusoe%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="209 KB" />
+    <link href="../../Daniel%20Defoe/Robinson%20Crusoe%20%282253%29/Robinson%20Crusoe%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="209 KB" />
     <author>
       <name>Daniel Defoe</name>
       <uri>../authors_1/authors_1581_Page_1.xml</uri>
@@ -255,7 +255,7 @@
     <id>calibre:book:796</id>
     <updated>2023-05-31T01:04:28Z</updated>
     <link href="../../Oscar%20Soto%20Colas/Rojo%20veneciano%20%28796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Soto%20Colas/Rojo%20veneciano%20%28796%29/Rojo%20veneciano%20-%20Oscar%20Soto%20Colas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <link href="../../Oscar%20Soto%20Colas/Rojo%20veneciano%20%28796%29/Rojo%20veneciano%20-%20Oscar%20Soto%20Colas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="609 KB" />
     <author>
       <name>Óscar Soto Colás</name>
       <uri>../authors_0/authors_592_Page_1.xml</uri>
@@ -272,7 +272,7 @@
     <id>calibre:book:2276</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Stendhal/Rojo%20y%20negro%20%282276%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stendhal/Rojo%20y%20negro%20%282276%29/Rojo%20y%20negro%20-%20Stendhal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <link href="../../Stendhal/Rojo%20y%20negro%20%282276%29/Rojo%20y%20negro%20-%20Stendhal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="572 KB" />
     <author>
       <name>Stendhal</name>
       <uri>../authors_1/authors_1595_Page_1.xml</uri>
@@ -290,7 +290,7 @@
     <id>calibre:book:2455</id>
     <updated>2024-09-09T10:34:35Z</updated>
     <link href="../../William%20Shakespeare/Romeo%20and%20Juliet%20%282455%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Romeo%20and%20Juliet%20%282455%29/Romeo%20and%20Juliet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="145 KB" />
+    <link href="../../William%20Shakespeare/Romeo%20and%20Juliet%20%282455%29/Romeo%20and%20Juliet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="145 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -308,7 +308,7 @@
     <id>calibre:book:2263</id>
     <updated>2024-09-09T10:33:55Z</updated>
     <link href="../../William%20Shakespeare/Romeo%20y%20Julieta%20%282263%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Romeo%20y%20Julieta%20%282263%29/Romeo%20y%20Julieta%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="144 KB" />
+    <link href="../../William%20Shakespeare/Romeo%20y%20Julieta%20%282263%29/Romeo%20y%20Julieta%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="144 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -326,7 +326,7 @@
     <id>calibre:book:188</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/Rompamos%20las%20reglas%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/Rompamos%20las%20reglas%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
     <author>
       <name>Silvia Garcia Ruiz</name>
       <uri>../authors_0/authors_122_Page_1.xml</uri>
@@ -344,7 +344,7 @@
     <id>calibre:book:2661</id>
     <updated>2024-10-22T07:58:41Z</updated>
     <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/Romper%20el%20circulo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/Romper%20el%20circulo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -365,7 +365,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:1318</id>
     <updated>2024-03-21T01:00:27Z</updated>
     <link href="../../David%20Orange/Romperas%20la%20noche%20con%20un%20grito%20%281318%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Orange/Romperas%20la%20noche%20con%20un%20grito%20%281318%29/Romperas%20la%20noche%20con%20un%20grito%20-%20David%20Orange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="915 KB" />
+    <link href="../../David%20Orange/Romperas%20la%20noche%20con%20un%20grito%20%281318%29/Romperas%20la%20noche%20con%20un%20grito%20-%20David%20Orange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="915 KB" />
     <author>
       <name>David Orange</name>
       <uri>../authors_0/authors_960_Page_1.xml</uri>
@@ -382,7 +382,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:762</id>
     <updated>2023-05-22T05:07:04Z</updated>
     <link href="../../Francisco%20Bescos/La%20Ronda%20%28762%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Bescos/La%20Ronda%20%28762%29/La%20Ronda%20-%20Francisco%20Bescos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <link href="../../Francisco%20Bescos/La%20Ronda%20%28762%29/La%20Ronda%20-%20Francisco%20Bescos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="641 KB" />
     <author>
       <name>Francisco Bescós</name>
       <uri>../authors_0/authors_568_Page_1.xml</uri>
@@ -399,7 +399,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:2611</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/Ropa%20de%20casa%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/Ropa%20de%20casa%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Ignacio Martínez de Pisón</name>
       <uri>../authors_1/authors_1715_Page_1.xml</uri>
@@ -416,7 +416,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:457</id>
     <updated>2023-03-23T11:00:44Z</updated>
     <link href="../../Sandra%20Garryson/La%20Rosa%20Negra%20%28457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandra%20Garryson/La%20Rosa%20Negra%20%28457%29/La%20Rosa%20Negra%20-%20Sandra%20Garryson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="643 KB" />
+    <link href="../../Sandra%20Garryson/La%20Rosa%20Negra%20%28457%29/La%20Rosa%20Negra%20-%20Sandra%20Garryson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="643 KB" />
     <author>
       <name>Sandra Garryson</name>
       <uri>../authors_0/authors_342_Page_1.xml</uri>
@@ -433,7 +433,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:1102</id>
     <updated>2024-01-08T09:16:11Z</updated>
     <link href="../../Cass%20R.%20Sunstein/Ruido%20%281102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cass%20R.%20Sunstein/Ruido%20%281102%29/Ruido%20-%20Cass%20R.%20Sunstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Cass%20R.%20Sunstein/Ruido%20%281102%29/Ruido%20-%20Cass%20R.%20Sunstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Cass R. Sunstein</name>
       <uri>../authors_0/authors_804_Page_1.xml</uri>
@@ -458,7 +458,7 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <id>calibre:book:1481</id>
     <updated>2024-04-30T05:13:18Z</updated>
     <link href="../../Carlos%20Taibo/Rusia%20frente%20a%20Ucrania%20%281481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Taibo/Rusia%20frente%20a%20Ucrania%20%281481%29/Rusia%20frente%20a%20Ucrania%20-%20Carlos%20Taibo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <link href="../../Carlos%20Taibo/Rusia%20frente%20a%20Ucrania%20%281481%29/Rusia%20frente%20a%20Ucrania%20-%20Carlos%20Taibo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="613 KB" />
     <author>
       <name>Carlos Taibo</name>
       <uri>../authors_1/authors_1030_Page_1.xml</uri>

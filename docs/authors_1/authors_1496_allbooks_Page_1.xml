@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Vicente Blasco Ibáñez</title>
+  <title>All books by Vicente Blasco Ibáñez</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1496_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Vicente Blasco Ibáñez" />
+  <link href="./authors_1496_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Vicente Blasco Ibáñez" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with I" />
   <link href="./authors_1496_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Vicente Blasco Ibáñez" />
   <entry>
     <title>Arroz y tartana</title>
     <id>calibre:book:2109</id>
     <updated>2024-09-06T02:21:17Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/Arroz%20y%20tartana%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/Arroz%20y%20tartana%20%282109%29/Arroz%20y%20tartana%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:2108</id>
     <updated>2024-09-06T02:21:16Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/La%20bodega%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="304 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/La%20bodega%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="304 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -64,7 +64,7 @@
     <id>calibre:book:2107</id>
     <updated>2024-09-06T02:21:16Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/La%20Catedral%20%282107%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/La%20Catedral%20%282107%29/La%20Catedral%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="323 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/La%20Catedral%20%282107%29/La%20Catedral%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="323 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -86,7 +86,7 @@
     <id>calibre:book:2156</id>
     <updated>2024-09-06T02:21:25Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/Entre%20naranjos%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/Entre%20naranjos%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -105,7 +105,7 @@
     <id>calibre:book:2157</id>
     <updated>2024-09-06T02:21:25Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/El%20fantasma%20de%20las%20alas%20de%20oro%20%282157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/El%20fantasma%20de%20las%20alas%20de%20oro%20%282157%29/El%20fantasma%20de%20las%20alas%20de%20oro%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="223 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/El%20fantasma%20de%20las%20alas%20de%20oro%20%282157%29/El%20fantasma%20de%20las%20alas%20de%20oro%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="223 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>

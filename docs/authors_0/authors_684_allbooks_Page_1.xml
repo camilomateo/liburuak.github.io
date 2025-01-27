@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de J. J. Benítez</title>
+  <title>All books by J. J. Benítez</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_684_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de J. J. Benítez" />
+  <link href="./authors_684_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by J. J. Benítez" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
   <link href="./authors_684_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. J. Benítez" />
   <entry>
     <title>Al sur de la razón</title>
     <id>calibre:book:1769</id>
     <updated>2024-08-26T10:56:11Z</updated>
     <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/Al%20sur%20de%20la%20razon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="23 MB" />
+    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/Al%20sur%20de%20la%20razon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="23 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:956</id>
     <updated>2023-07-14T09:58:24Z</updated>
     <link href="../../J.%20J.%20Benitez/Belen%20%28956%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Belen%20%28956%29/Belen%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Belen%20%28956%29/Belen%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:913</id>
     <updated>2023-07-04T02:11:56Z</updated>
     <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/Cesarea%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="913 KB" />
+    <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/Cesarea%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="913 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:955</id>
     <updated>2023-07-14T09:58:24Z</updated>
     <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/En%20Blanca%20y%20negro%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/En%20Blanca%20y%20negro%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -92,7 +92,7 @@
     <id>calibre:book:1191</id>
     <updated>2024-02-05T05:55:57Z</updated>
     <link href="../../J.%20J.%20Benitez/La%20gran%20catastrofe%20amarilla%20%281191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/La%20gran%20catastrofe%20amarilla%20%281191%29/La%20gran%20catastrofe%20amarilla%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../J.%20J.%20Benitez/La%20gran%20catastrofe%20amarilla%20%281191%29/La%20gran%20catastrofe%20amarilla%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -111,7 +111,7 @@
     <id>calibre:book:941</id>
     <updated>2023-07-07T01:51:24Z</updated>
     <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/Hermon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="928 KB" />
+    <link href="../../J.%20J.%20Benitez/Hermon%20%28941%29/Hermon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="928 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -129,7 +129,7 @@
     <id>calibre:book:953</id>
     <updated>2023-07-14T09:58:22Z</updated>
     <link href="../../J.%20J.%20Benitez/Jerusalen%20%28953%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Jerusalen%20%28953%29/Jerusalen%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Jerusalen%20%28953%29/Jerusalen%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -147,7 +147,7 @@
     <id>calibre:book:944</id>
     <updated>2023-07-14T09:48:38Z</updated>
     <link href="../../J.%20J.%20Benitez/Jordan%20%28944%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Jordan%20%28944%29/Jordan%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1007 KB" />
+    <link href="../../J.%20J.%20Benitez/Jordan%20%28944%29/Jordan%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1007 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -165,7 +165,7 @@
     <id>calibre:book:952</id>
     <updated>2023-07-14T09:58:20Z</updated>
     <link href="../../J.%20J.%20Benitez/Masada%20%28952%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Masada%20%28952%29/Masada%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Masada%20%28952%29/Masada%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -183,7 +183,7 @@
     <id>calibre:book:1183</id>
     <updated>2024-02-01T09:56:45Z</updated>
     <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/Mis%20_primos_.%20El%20suceso%20mas%20imp%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="11 MB" />
+    <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/Mis%20_primos_.%20El%20suceso%20mas%20imp%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -200,7 +200,7 @@
     <id>calibre:book:943</id>
     <updated>2023-07-14T09:48:38Z</updated>
     <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/Nahum%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/Nahum%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -218,7 +218,7 @@
     <id>calibre:book:939</id>
     <updated>2023-07-07T01:51:22Z</updated>
     <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/Nazaret%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="985 KB" />
+    <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/Nazaret%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="985 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -236,7 +236,7 @@
     <id>calibre:book:911</id>
     <updated>2023-07-04T02:11:54Z</updated>
     <link href="../../J.%20J.%20Benitez/Saidan%20%28911%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Saidan%20%28911%29/Saidan%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Saidan%20%28911%29/Saidan%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -254,7 +254,7 @@
     <id>calibre:book:954</id>
     <updated>2023-07-14T09:58:22Z</updated>
     <link href="../../J.%20J.%20Benitez/Solo%20para%20tus%20ojos%20%28954%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Solo%20para%20tus%20ojos%20%28954%29/Solo%20para%20tus%20ojos%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../J.%20J.%20Benitez/Solo%20para%20tus%20ojos%20%28954%29/Solo%20para%20tus%20ojos%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>

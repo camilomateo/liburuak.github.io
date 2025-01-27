@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,69 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 15)" />
   <entry>
-    <title>El ángel vacío [16 de octubre de 2024]</title>
+    <title>El faro de la sirena [October 16, 2024]</title>
+    <id>calibre:book:2630</id>
+    <updated>2024-10-16T09:57:39Z</updated>
+    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/El%20faro%20de%20la%20sirena%20-%20Lucia%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Lucía Lago</name>
+      <uri>../authors_1/authors_1726_Page_1.xml</uri>
+    </author>
+    <published>2024-08-19T04:14:32Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un faro y una misteriosa sirena.Una vieja mansión indiana construida sobre las rocas.Una familia. Un terrible secreto.1920. Mairi vive con su padre en el faro de una pequeña aldea situada en la costa atlántica. Allí disfruta de una infancia solitaria...</summary>
+    <link href="../book_2/book_2630.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre del rio [October 16, 2024]</title>
+    <id>calibre:book:2628</id>
+    <updated>2024-10-16T09:57:39Z</updated>
+    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/El%20hombre%20del%20rio%20-%20Javier%20Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="330 KB" />
+    <author>
+      <name>Javier Reverte</name>
+      <uri>../authors_1/authors_1724_Page_1.xml</uri>
+    </author>
+    <published>2024-09-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Quién fue Francisco de Orellana?Un relato al más puro estilo Reverte, en el que historia, viaje y memoria se dan la mano para hilvanar un libro especial con el imponente río Amazonas como escenario.El hombre del río es la historia de un joven que pa...</summary>
+    <link href="../book_2/book_2628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todas las ventanas [October 16, 2024]</title>
+    <id>calibre:book:2629</id>
+    <updated>2024-10-16T09:57:39Z</updated>
+    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/Todas%20las%20ventanas%20-%20Barbara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="392 KB" />
+    <author>
+      <name>Bárbara Sánchez</name>
+      <uri>../authors_1/authors_1725_Page_1.xml</uri>
+    </author>
+    <published>2024-07-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Todas las ventanas marca el prometedor debut de Bárbara Sánchez que, con una prosa exquisita cargada de ternura y emoción,cuenta la historia de un grupo de vecinas que deciden crear un pódcast en el que contar y compartir sus vidas.Seis mujeres, veci...</summary>
+    <link href="../book_2/book_2629.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel vacío [October 16, 2024]</title>
     <id>calibre:book:2627</id>
     <updated>2024-10-16T09:57:39Z</updated>
     <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="469 KB" />
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="469 KB" />
     <author>
       <name>Reyes Martínez</name>
       <uri>../authors_0/authors_679_Page_1.xml</uri>
@@ -34,11 +85,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La buena reputación [4 de octubre de 2024]</title>
+    <title>La buena reputación [October 4, 2024]</title>
     <id>calibre:book:2626</id>
     <updated>2024-10-04T10:51:32Z</updated>
     <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/La%20buena%20reputacion%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/La%20buena%20reputacion%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Ignacio Martínez de Pisón</name>
       <uri>../authors_1/authors_1715_Page_1.xml</uri>
@@ -52,11 +103,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Gestos letales [4 de octubre de 2024]</title>
+    <title>Gestos letales [October 4, 2024]</title>
     <id>calibre:book:2625</id>
     <updated>2024-10-04T10:51:32Z</updated>
     <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/Gestos%20letales%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="881 KB" />
+    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/Gestos%20letales%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="881 KB" />
     <author>
       <name>Sebastian Fitzek</name>
       <uri>../authors_1/authors_1251_Page_1.xml</uri>
@@ -69,11 +120,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Una historia negra [20 de septiembre de 2024]</title>
+    <title>Una historia negra [September 20, 2024]</title>
     <id>calibre:book:2624</id>
     <updated>2024-09-20T02:10:31Z</updated>
     <link href="../../Antonella%20Lattanzi/Una%20historia%20negra%20%282624%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonella%20Lattanzi/Una%20historia%20negra%20%282624%29/Una%20historia%20negra%20-%20Antonella%20Lattanzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="395 KB" />
+    <link href="../../Antonella%20Lattanzi/Una%20historia%20negra%20%282624%29/Una%20historia%20negra%20-%20Antonella%20Lattanzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="395 KB" />
     <author>
       <name>Antonella Lattanzi</name>
       <uri>../authors_1/authors_1116_Page_1.xml</uri>
@@ -86,11 +137,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2624.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Desde que existe el amor [20 de septiembre de 2024]</title>
+    <title>Desde que existe el amor [September 20, 2024]</title>
     <id>calibre:book:2620</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/Desde%20que%20existe%20el%20amor%20-%20Javier%20Pagalday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Javier%20Pagalday/Desde%20que%20existe%20el%20amor%20%282620%29/Desde%20que%20existe%20el%20amor%20-%20Javier%20Pagalday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Javier Pagalday</name>
       <uri>../authors_1/authors_1722_Page_1.xml</uri>
@@ -103,11 +154,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2620.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El inductor [20 de septiembre de 2024]</title>
+    <title>El inductor [September 20, 2024]</title>
     <id>calibre:book:2622</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Lee%20Child/El%20inductor%20%282622%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lee%20Child/El%20inductor%20%282622%29/El%20inductor%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <link href="../../Lee%20Child/El%20inductor%20%282622%29/El%20inductor%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
     <author>
       <name>Lee Child</name>
       <uri>../authors_0/authors_224_Page_1.xml</uri>
@@ -122,11 +173,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2622.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La invitada [20 de septiembre de 2024]</title>
+    <title>La invitada [September 20, 2024]</title>
     <id>calibre:book:2619</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Emma%20Cline/La%20invitada%20%282619%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emma%20Cline/La%20invitada%20%282619%29/La%20invitada%20-%20Emma%20Cline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="720 KB" />
+    <link href="../../Emma%20Cline/La%20invitada%20%282619%29/La%20invitada%20-%20Emma%20Cline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="720 KB" />
     <author>
       <name>Emma Cline</name>
       <uri>../authors_1/authors_1721_Page_1.xml</uri>
@@ -137,11 +188,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2619.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Muerte de una librera [20 de septiembre de 2024]</title>
+    <title>Muerte de una librera [September 20, 2024]</title>
     <id>calibre:book:2618</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/Muerte%20de%20una%20librera%20-%20Alice%20Slater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/Muerte%20de%20una%20librera%20-%20Alice%20Slater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Alice Slater</name>
       <uri>../authors_1/authors_1720_Page_1.xml</uri>
@@ -154,11 +205,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2618.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La tienda [20 de septiembre de 2024]</title>
+    <title>La tienda [September 20, 2024]</title>
     <id>calibre:book:2623</id>
     <updated>2024-09-20T02:10:31Z</updated>
     <link href="../../Stephen%20King/La%20tienda%20%282623%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/La%20tienda%20%282623%29/La%20tienda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="817 KB" />
+    <link href="../../Stephen%20King/La%20tienda%20%282623%29/La%20tienda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="817 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -172,11 +223,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2623.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La vida feliz [20 de septiembre de 2024]</title>
+    <title>La vida feliz [September 20, 2024]</title>
     <id>calibre:book:2621</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/La%20vida%20feliz%20-%20David%20Foenkinos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/La%20vida%20feliz%20-%20David%20Foenkinos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>David Foenkinos</name>
       <uri>../authors_1/authors_1723_Page_1.xml</uri>
@@ -191,11 +242,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2621.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Hilos rotos [20 de septiembre de 2024]</title>
+    <title>Hilos rotos [September 20, 2024]</title>
     <id>calibre:book:2617</id>
     <updated>2024-09-20T02:10:29Z</updated>
     <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/Hilos%20rotos%20-%20Jon%20Igual%20Brun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="436 KB" />
+    <link href="../../Jon%20Igual%20Brun/Hilos%20rotos%20%282617%29/Hilos%20rotos%20-%20Jon%20Igual%20Brun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="436 KB" />
     <author>
       <name>Jon Igual Brun</name>
       <uri>../authors_1/authors_1719_Page_1.xml</uri>
@@ -208,11 +259,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2617.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La librería perdida [20 de septiembre de 2024]</title>
+    <title>La librería perdida [September 20, 2024]</title>
     <id>calibre:book:2616</id>
     <updated>2024-09-20T02:10:29Z</updated>
     <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/La%20libreria%20perdida%20-%20Evie%20Woods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/La%20libreria%20perdida%20-%20Evie%20Woods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
     <author>
       <name>Evie Woods</name>
       <uri>../authors_1/authors_1718_Page_1.xml</uri>
@@ -225,11 +276,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Joyland [17 de septiembre de 2024]</title>
+    <title>Joyland [September 17, 2024]</title>
     <id>calibre:book:2613</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Stephen%20King/Joyland%20%282613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Joyland%20%282613%29/Joyland%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <link href="../../Stephen%20King/Joyland%20%282613%29/Joyland%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="588 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -243,11 +294,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2613.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La letra herida [17 de septiembre de 2024]</title>
+    <title>La letra herida [September 17, 2024]</title>
     <id>calibre:book:2612</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/La%20letra%20herida%20-%20Sergio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="448 KB" />
+    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/La%20letra%20herida%20-%20Sergio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="448 KB" />
     <author>
       <name>Sergio Hernández</name>
       <uri>../authors_1/authors_1716_Page_1.xml</uri>
@@ -260,11 +311,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2612.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Mortalmente vivo [17 de septiembre de 2024]</title>
+    <title>Mortalmente vivo [September 17, 2024]</title>
     <id>calibre:book:2615</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/Mortalmente%20vivo%20-%20Javier%20Santiso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/Mortalmente%20vivo%20-%20Javier%20Santiso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
     <author>
       <name>Javier Santiso</name>
       <uri>../authors_1/authors_1717_Page_1.xml</uri>
@@ -277,11 +328,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Ropa de casa [17 de septiembre de 2024]</title>
+    <title>Ropa de casa [September 17, 2024]</title>
     <id>calibre:book:2611</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/Ropa%20de%20casa%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Ignacio%20Martinez%20de%20Pison/Ropa%20de%20casa%20%282611%29/Ropa%20de%20casa%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Ignacio Martínez de Pisón</name>
       <uri>../authors_1/authors_1715_Page_1.xml</uri>
@@ -294,11 +345,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2611.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El sepulturero y el crimen de la cripta [17 de septiembre de 2024]</title>
+    <title>El sepulturero y el crimen de la cripta [September 17, 2024]</title>
     <id>calibre:book:2614</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/El%20sepulturero%20y%20el%20crimen%20de%20l%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1002 KB" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/El%20sepulturero%20y%20el%20crimen%20de%20l%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1002 KB" />
     <author>
       <name>Oliver Pötzsch</name>
       <uri>../authors_0/authors_79_Page_1.xml</uri>
@@ -315,11 +366,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La casa que acecha [17 de septiembre de 2024]</title>
+    <title>La casa que acecha [September 17, 2024]</title>
     <id>calibre:book:2605</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="641 KB" />
     <author>
       <name>Mabel Seeley</name>
       <uri>../authors_1/authors_1710_Page_1.xml</uri>
@@ -335,11 +386,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El factor Rachel [17 de septiembre de 2024]</title>
+    <title>El factor Rachel [September 17, 2024]</title>
     <id>calibre:book:2609</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../Caroline%20O%27Donoghue/El%20factor%20Rachel%20%282609%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Caroline%20O%27Donoghue/El%20factor%20Rachel%20%282609%29/El%20factor%20Rachel%20-%20Caroline%20O%27Donoghue.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="403 KB" />
+    <link href="../../Caroline%20O%27Donoghue/El%20factor%20Rachel%20%282609%29/El%20factor%20Rachel%20-%20Caroline%20O%27Donoghue.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="403 KB" />
     <author>
       <name>Caroline O'Donoghue</name>
       <uri>../authors_1/authors_1714_Page_1.xml</uri>
@@ -352,11 +403,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2609.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las frases robadas [17 de septiembre de 2024]</title>
+    <title>Las frases robadas [September 17, 2024]</title>
     <id>calibre:book:2608</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../Jose%20Luis%20Sastre/Las%20frases%20robadas%20%282608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Luis%20Sastre/Las%20frases%20robadas%20%282608%29/Las%20frases%20robadas%20-%20Jose%20Luis%20Sastre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="246 KB" />
+    <link href="../../Jose%20Luis%20Sastre/Las%20frases%20robadas%20%282608%29/Las%20frases%20robadas%20-%20Jose%20Luis%20Sastre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="246 KB" />
     <author>
       <name>José Luis Sastre</name>
       <uri>../authors_1/authors_1713_Page_1.xml</uri>
@@ -369,11 +420,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2608.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Presentes [17 de septiembre de 2024]</title>
+    <title>Presentes [September 17, 2024]</title>
     <id>calibre:book:2606</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../Paco%20Cerda/Presentes%20%282606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paco%20Cerda/Presentes%20%282606%29/Presentes%20-%20Paco%20Cerda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="365 KB" />
+    <link href="../../Paco%20Cerda/Presentes%20%282606%29/Presentes%20-%20Paco%20Cerda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
     <author>
       <name>Paco Cerdà</name>
       <uri>../authors_1/authors_1711_Page_1.xml</uri>
@@ -386,11 +437,11 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <link href="../book_2/book_2606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Robadas [17 de septiembre de 2024]</title>
+    <title>Robadas [September 17, 2024]</title>
     <id>calibre:book:2610</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Angela%20Marsons/Robadas%20%282610%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angela%20Marsons/Robadas%20%282610%29/Robadas%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Angela%20Marsons/Robadas%20%282610%29/Robadas%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Angela Marsons</name>
       <uri>../authors_0/authors_520_Page_1.xml</uri>
@@ -400,62 +451,7 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <summary>Grace Lennard, una niña de ocho años, desaparece del jardín de la ludoteca en una soleada tarde de agosto. La detective Kim Stone acude de inmediato y encuentra una prueba escalofriante: la pulsera grabada de Melody Jones, otra niña secuestrada en un...</summary>
     <link href="../book_2/book_2610.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Una tienda en Chicken Hill [17 de septiembre de 2024]</title>
-    <id>calibre:book:2607</id>
-    <updated>2024-09-17T00:24:16Z</updated>
-    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/Una%20tienda%20en%20Chicken%20Hill%20-%20James%20McBride.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="602 KB" />
-    <author>
-      <name>James McBride</name>
-      <uri>../authors_1/authors_1712_Page_1.xml</uri>
-    </author>
-    <published>2024-07-09T11:03:18Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una inolvidable historia de solidaridad y humanidad entre distintas comunidades en los Estados Unidos de 1930.«Su mejor libro.» Ann Patchett«Una de esas novelas que se convierten en parte de ti. … Su mejor obra.» Harlan Coben«Adoré este libro.» Bonni...</summary>
-    <link href="../book_2/book_2607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El puente [16 de septiembre de 2024]</title>
-    <id>calibre:book:2604</id>
-    <updated>2024-09-16T10:50:31Z</updated>
-    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/El%20puente%20-%20Angel%20Osuna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="399 KB" />
-    <author>
-      <name>Ángel Osuna</name>
-      <uri>../authors_1/authors_1709_Page_1.xml</uri>
-    </author>
-    <published>2024-09-11T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Con esta intriga cargada de acción y de ritmo trepidante, Ángel G. Osuna irrumpe con contundencia en el panorama del noir español para ahondar en lo más mezquino y cruel del alma humana. «Con gran olfato para lo más negro, respeto por la construcción...</summary>
-    <link href="../book_2/book_2604.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La muerte contada por un sapiens a un neandertal [16 de septiembre de 2024]</title>
-    <id>calibre:book:2602</id>
-    <updated>2024-09-16T10:50:28Z</updated>
-    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
-    <author>
-      <name>Juan José Millás</name>
-      <uri>../authors_0/authors_461_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Juan Luis Arsuaga</name>
-      <uri>../authors_1/authors_1708_Page_1.xml</uri>
-    </author>
-    <published>2022-02-23T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Vuelven el sapiens y el neandertal, vuelve «la fiesta de la inteligencia» (David Broncano) «En la naturaleza no hay vejez, no hay decrepitud. Solo hay plenitud o muerte». «Nos encantaría descubrir que cada especie tiene un reloj biológico en sus célu...</summary>
-    <link href="../book_2/book_2602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,70 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 15)" />
   <entry>
-    <title>El profesor [11 de septiembre de 2024]</title>
+    <title>Invencible [September 11, 2024]</title>
+    <id>calibre:book:2577</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Pascal%20Ruter/Invencible%20%282577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pascal%20Ruter/Invencible%20%282577%29/Invencible%20-%20Pascal%20Ruter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="360 KB" />
+    <author>
+      <name>Pascal Ruter</name>
+      <uri>../authors_1/authors_1695_Page_1.xml</uri>
+    </author>
+    <published>2019-04-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La tierna complicidad entre un anciano rebelde y su nieto los embarcará en una aventura entrañable en la que juntos se rebelarán  contra todo lo que resta diversión a la vida. Todos los nietos adoran a sus abuelos, pero no todos los abuelos son  como...</summary>
+    <link href="../book_2/book_2577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No quieras nada vil [September 11, 2024]</title>
+    <id>calibre:book:2574</id>
+    <updated>2024-09-11T03:29:01Z</updated>
+    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/No%20quieras%20nada%20vil%20-%20Florencia%20Bonelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="591 KB" />
+    <author>
+      <name>Florencia Bonelli</name>
+      <uri>../authors_1/authors_1693_Page_1.xml</uri>
+    </author>
+    <published>2024-05-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planteta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La casa neville" />
+    <summary>La casa neville [2]: La continuación de una historia de traiciones, engaños y un amor que resiste.Decidida y sagaz, Manon Neville se consolida como la cabeza de la poderosa Casa Neville. Al tiempo que su influencia se extiende, sus enemigos urden nue...</summary>
+    <link href="../book_2/book_2574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Playa Bagdad [September 11, 2024]</title>
+    <id>calibre:book:2575</id>
+    <updated>2024-09-11T03:29:01Z</updated>
+    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/Playa%20Bagdad%20-%20Antonio%20Ramos%20Revillas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Antonio Ramos Revillas</name>
+      <uri>../authors_1/authors_1694_Page_1.xml</uri>
+    </author>
+    <published>2024-07-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«¿Qué es la memoria? Un barril semienterrado en la arena, agua dulceque se enreda con salada, tramos de arena sucia que nadie ha pisado.»Marcelo y Miguel, los hermanos Santiago, están unidos por una complicidad que solo surge al compartir los primero...</summary>
+    <link href="../book_2/book_2575.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El profesor [September 11, 2024]</title>
     <id>calibre:book:2572</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="180 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -35,11 +87,11 @@
     <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Todo el bien y todo el mal [11 de septiembre de 2024]</title>
+    <title>Todo el bien y todo el mal [September 11, 2024]</title>
     <id>calibre:book:2576</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/Todo%20el%20bien%20y%20todo%20el%20mal%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="791 KB" />
+    <link href="../../Care%20Santos/Todo%20el%20bien%20y%20todo%20el%20mal%20%282576%29/Todo%20el%20bien%20y%20todo%20el%20mal%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="791 KB" />
     <author>
       <name>Care Santos</name>
       <uri>../authors_0/authors_257_Page_1.xml</uri>
@@ -52,11 +104,11 @@
     <link href="../book_2/book_2576.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El niño que perdió la guerra [9 de septiembre de 2024]</title>
+    <title>El niño que perdió la guerra [September 9, 2024]</title>
     <id>calibre:book:2570</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/El%20nino%20que%20perdio%20la%20guerra%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <link href="../../Julia%20Navarro/El%20nino%20que%20perdio%20la%20guerra%20%282570%29/El%20nino%20que%20perdio%20la%20guerra%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
     <author>
       <name>Julia Navarro</name>
       <uri>../authors_0/authors_267_Page_1.xml</uri>
@@ -69,11 +121,11 @@
     <link href="../book_2/book_2570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Enciclopedia nazi [9 de septiembre de 2024]</title>
+    <title>Enciclopedia nazi [September 9, 2024]</title>
     <id>calibre:book:2568</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="33 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="33 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -86,11 +138,11 @@
     <link href="../book_2/book_2568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los Muertos También Disparan [9 de septiembre de 2024]</title>
+    <title>Los Muertos También Disparan [September 9, 2024]</title>
     <id>calibre:book:2571</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/Los%20Muertos%20Tambien%20Disparan%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/Los%20Muertos%20Tambien%20Disparan%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Riccardo Braccaioli</name>
       <uri>../authors_1/authors_1084_Page_1.xml</uri>
@@ -104,11 +156,11 @@
     <link href="../book_2/book_2571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las mujeres que bordaron su libertad [9 de septiembre de 2024]</title>
+    <title>Las mujeres que bordaron su libertad [September 9, 2024]</title>
     <id>calibre:book:2569</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Thatiana%20Pretelt/Las%20mujeres%20que%20bordaron%20su%20liberta%20%282569%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Thatiana%20Pretelt/Las%20mujeres%20que%20bordaron%20su%20liberta%20%282569%29/Las%20mujeres%20que%20bordaron%20su%20lib%20-%20Thatiana%20Pretelt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Thatiana%20Pretelt/Las%20mujeres%20que%20bordaron%20su%20liberta%20%282569%29/Las%20mujeres%20que%20bordaron%20su%20lib%20-%20Thatiana%20Pretelt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Thatiana Pretelt</name>
       <uri>../authors_1/authors_1692_Page_1.xml</uri>
@@ -125,11 +177,11 @@
     <link href="../book_2/book_2569.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los perros ladran [9 de septiembre de 2024]</title>
+    <title>Los perros ladran [September 9, 2024]</title>
     <id>calibre:book:2567</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/Los%20perros%20ladran%20-%20Truman%20Capote.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="334 KB" />
+    <link href="../../Truman%20Capote/Los%20perros%20ladran%20%282567%29/Los%20perros%20ladran%20-%20Truman%20Capote.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="334 KB" />
     <author>
       <name>Truman Capote</name>
       <uri>../authors_1/authors_1691_Page_1.xml</uri>
@@ -142,11 +194,11 @@
     <link href="../book_2/book_2567.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Chicas brillantes [9 de septiembre de 2024]</title>
+    <title>Chicas brillantes [September 9, 2024]</title>
     <id>calibre:book:2565</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/Chicas%20brillantes%20-%20Jessica%20Knoll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="954 KB" />
+    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/Chicas%20brillantes%20-%20Jessica%20Knoll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="954 KB" />
     <author>
       <name>Jessica Knoll</name>
       <uri>../authors_1/authors_1689_Page_1.xml</uri>
@@ -163,11 +215,11 @@
     <link href="../book_2/book_2565.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las chicas del barrio [9 de septiembre de 2024]</title>
+    <title>Las chicas del barrio [September 9, 2024]</title>
     <id>calibre:book:2564</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Tania%20Juste/Las%20chicas%20del%20barrio%20%282564%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tania%20Juste/Las%20chicas%20del%20barrio%20%282564%29/Las%20chicas%20del%20barrio%20-%20Tania%20Juste.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="828 KB" />
+    <link href="../../Tania%20Juste/Las%20chicas%20del%20barrio%20%282564%29/Las%20chicas%20del%20barrio%20-%20Tania%20Juste.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="828 KB" />
     <author>
       <name>Tània Juste</name>
       <uri>../authors_1/authors_1688_Page_1.xml</uri>
@@ -180,11 +232,11 @@
     <link href="../book_2/book_2564.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Con la luz encendida [9 de septiembre de 2024]</title>
+    <title>Con la luz encendida [September 9, 2024]</title>
     <id>calibre:book:2566</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/Con%20la%20luz%20encendida%20-%20Monica%20de%20Cristobal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="796 KB" />
+    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/Con%20la%20luz%20encendida%20-%20Monica%20de%20Cristobal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="796 KB" />
     <author>
       <name>Mónica de Cristóbal</name>
       <uri>../authors_1/authors_1690_Page_1.xml</uri>
@@ -197,11 +249,11 @@
     <link href="../book_2/book_2566.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las lobas de Pompeya [9 de septiembre de 2024]</title>
+    <title>Las lobas de Pompeya [September 9, 2024]</title>
     <id>calibre:book:2563</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/Las%20lobas%20de%20Pompeya%20-%20Elodie%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="844 KB" />
+    <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/Las%20lobas%20de%20Pompeya%20-%20Elodie%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="844 KB" />
     <author>
       <name>Elodie Harper</name>
       <uri>../authors_1/authors_1687_Page_1.xml</uri>
@@ -214,11 +266,11 @@
     <link href="../book_2/book_2563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Mi nombre en el viento [9 de septiembre de 2024]</title>
+    <title>Mi nombre en el viento [September 9, 2024]</title>
     <id>calibre:book:2561</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/Mi%20nombre%20en%20el%20viento%20-%20Alessandro%20Rivali.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="363 KB" />
+    <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/Mi%20nombre%20en%20el%20viento%20-%20Alessandro%20Rivali.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
     <author>
       <name>Alessandro Rivali</name>
       <uri>../authors_1/authors_1685_Page_1.xml</uri>
@@ -231,11 +283,11 @@
     <link href="../book_2/book_2561.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las siete [9 de septiembre de 2024]</title>
+    <title>Las siete [September 9, 2024]</title>
     <id>calibre:book:2562</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/Las%20siete%20-%20Rose%20Wilding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="346 KB" />
+    <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/Las%20siete%20-%20Rose%20Wilding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="346 KB" />
     <author>
       <name>Rose Wilding</name>
       <uri>../authors_1/authors_1686_Page_1.xml</uri>
@@ -248,11 +300,11 @@
     <link href="../book_2/book_2562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El arte de la manifestación para brujas modernas [9 de septiembre de 2024]</title>
+    <title>El arte de la manifestación para brujas modernas [September 9, 2024]</title>
     <id>calibre:book:2559</id>
     <updated>2024-09-09T03:23:59Z</updated>
     <link href="../../Sarah%20Bartlett/El%20arte%20de%20la%20manifestacion%20para%20br%20%282559%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Bartlett/El%20arte%20de%20la%20manifestacion%20para%20br%20%282559%29/El%20arte%20de%20la%20manifestacion%20par%20-%20Sarah%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Sarah%20Bartlett/El%20arte%20de%20la%20manifestacion%20para%20br%20%282559%29/El%20arte%20de%20la%20manifestacion%20par%20-%20Sarah%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Sarah Bartlett</name>
       <uri>../authors_1/authors_1683_Page_1.xml</uri>
@@ -267,11 +319,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2559.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El mejor del mundo [9 de septiembre de 2024]</title>
+    <title>El mejor del mundo [September 9, 2024]</title>
     <id>calibre:book:2560</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+    <link href="../../Juan%20Tallon/El%20mejor%20del%20mundo%20%282560%29/El%20mejor%20del%20mundo%20-%20Juan%20Tallon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
     <author>
       <name>Juan Tallón</name>
       <uri>../authors_1/authors_1684_Page_1.xml</uri>
@@ -284,11 +336,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Electra [9 de septiembre de 2024]</title>
+    <title>Electra [September 9, 2024]</title>
     <id>calibre:book:2553</id>
     <updated>2024-09-09T10:35:07Z</updated>
     <link href="../../Sophocles/Electra%20%282553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sophocles/Electra%20%282553%29/Electra%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="91 KB" />
+    <link href="../../Sophocles/Electra%20%282553%29/Electra%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
     <author>
       <name>Sophocles</name>
       <uri>../authors_1/authors_1649_Page_1.xml</uri>
@@ -300,11 +352,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La alegría de vivir [9 de septiembre de 2024]</title>
+    <title>La alegría de vivir [September 9, 2024]</title>
     <id>calibre:book:2550</id>
     <updated>2024-09-09T10:35:06Z</updated>
     <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/La%20alegria%20de%20vivir%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/La%20alegria%20de%20vivir%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
     <author>
       <name>Émile Zola</name>
       <uri>../authors_1/authors_1607_Page_1.xml</uri>
@@ -320,11 +372,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Robin Hood [9 de septiembre de 2024]</title>
+    <title>Robin Hood [September 9, 2024]</title>
     <id>calibre:book:2546</id>
     <updated>2024-09-09T10:35:06Z</updated>
     <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/Robin%20Hood%20-%20Sir%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="211 KB" />
+    <link href="../../Sir%20Walter%20Scott/Robin%20Hood%20%282546%29/Robin%20Hood%20-%20Sir%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="211 KB" />
     <author>
       <name>Sir Walter Scott</name>
       <uri>../authors_1/authors_1681_Page_1.xml</uri>
@@ -338,11 +390,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Utopía [9 de septiembre de 2024]</title>
+    <title>Utopía [September 9, 2024]</title>
     <id>calibre:book:2548</id>
     <updated>2024-09-09T10:35:06Z</updated>
     <link href="../../Tomas%20Moro/Utopia%20%282548%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tomas%20Moro/Utopia%20%282548%29/Utopia%20-%20Tomas%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <link href="../../Tomas%20Moro/Utopia%20%282548%29/Utopia%20-%20Tomas%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="156 KB" />
     <author>
       <name>Tomás Moro</name>
       <uri>../authors_1/authors_1682_Page_1.xml</uri>
@@ -365,11 +417,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2548.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Selección de cuentos [9 de septiembre de 2024]</title>
+    <title>Selección de cuentos [September 9, 2024]</title>
     <id>calibre:book:2544</id>
     <updated>2024-09-09T10:35:05Z</updated>
     <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/Seleccion%20de%20cuentos%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="221 KB" />
+    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/Seleccion%20de%20cuentos%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="221 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>
@@ -381,11 +433,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2544.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Selección de cuentos [9 de septiembre de 2024]</title>
+    <title>Selección de cuentos [September 9, 2024]</title>
     <id>calibre:book:2545</id>
     <updated>2024-09-09T10:35:06Z</updated>
     <link href="../../Edgar%20Allan%20Poe/Seleccion%20de%20cuentos%20%282545%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Allan%20Poe/Seleccion%20de%20cuentos%20%282545%29/Seleccion%20de%20cuentos%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="229 KB" />
+    <link href="../../Edgar%20Allan%20Poe/Seleccion%20de%20cuentos%20%282545%29/Seleccion%20de%20cuentos%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="229 KB" />
     <author>
       <name>Edgar Allan Poe</name>
       <uri>../authors_0/authors_47_Page_1.xml</uri>
@@ -397,11 +449,11 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <link href="../book_2/book_2545.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Guy Mannering [9 de septiembre de 2024]</title>
+    <title>Guy Mannering [September 9, 2024]</title>
     <id>calibre:book:2543</id>
     <updated>2024-09-09T10:34:53Z</updated>
     <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Walter Scott</name>
       <uri>../authors_1/authors_1580_Page_1.xml</uri>
@@ -421,101 +473,7 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <category term="Lang:en" />
     <link href="../book_2/book_2543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Crito [9 de septiembre de 2024]</title>
-    <id>calibre:book:2538</id>
-    <updated>2024-09-09T10:34:52Z</updated>
-    <link href="../../Plato/Crito%20%282538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Plato/Crito%20%282538%29/Crito%20-%20Plato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="106 KB" />
-    <author>
-      <name>Plato</name>
-      <uri>../authors_1/authors_1678_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Classical" />
-    <category term="literature" />
-    <category term="Philosophy" />
-    <category term="Ancient" />
-    <category term="Justice" />
-    <category term="--" />
-    <category term="Early" />
-    <category term="works" />
-    <category term="to" />
-    <category term="1800" />
-    <category term="Dialogues" />
-    <category term="Greek" />
-    <category term="Translations" />
-    <category term="into" />
-    <category term="English" />
-    <category term="Lang:en" />
-    <link href="../book_2/book_2538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Edward the Second [9 de septiembre de 2024]</title>
-    <id>calibre:book:2540</id>
-    <updated>2024-09-09T10:34:52Z</updated>
-    <link href="../../Christopher%20Marlowe/Edward%20the%20Second%20%282540%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christopher%20Marlowe/Edward%20the%20Second%20%282540%29/Edward%20the%20Second%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="104 KB" />
-    <author>
-      <name>Christopher Marlowe</name>
-      <uri>../authors_1/authors_1667_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Historical" />
-    <category term="Drama" />
-    <category term="Edward" />
-    <category term="II" />
-    <category term="King" />
-    <category term="of" />
-    <category term="England" />
-    <category term="1284-1327" />
-    <category term="--" />
-    <category term="Great" />
-    <category term="Britain" />
-    <category term="History" />
-    <category term="1307-1327" />
-    <category term="Lang:en" />
-    <link href="../book_2/book_2540.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Letters on England [9 de septiembre de 2024]</title>
-    <id>calibre:book:2537</id>
-    <updated>2024-09-09T10:34:52Z</updated>
-    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
-    <author>
-      <name>Voltaire</name>
-      <uri>../authors_1/authors_1366_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="English" />
-    <category term="literature" />
-    <category term="--" />
-    <category term="18th" />
-    <category term="century" />
-    <category term="History" />
-    <category term="and" />
-    <category term="criticism" />
-    <category term="Great" />
-    <category term="Britain" />
-    <category term="Civilization" />
-    <category term="Religion" />
-    <category term="Imaginary" />
-    <category term="letters" />
-    <category term="Intellectual" />
-    <category term="Life" />
-    <category term="Philosophy" />
-    <category term="Modern" />
-    <category term="Lang:en" />
-    <link href="../book_2/book_2537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

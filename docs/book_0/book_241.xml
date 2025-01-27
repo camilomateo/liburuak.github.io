@@ -6,13 +6,13 @@
   <link href="./book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La guerra y las palabras" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
-  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
-  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por V" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/La%20guerra%20y%20las%20palabras%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="560 KB" />
+  <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/La%20guerra%20y%20las%20palabras%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="560 KB" />
   <author>
     <name>Jorge Volpi</name>
     <uri>../authors_0/authors_168_Page_1.xml</uri>
@@ -27,14 +27,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Ensayo, Política, Historia, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">El primero de enero de 1994, un grupo armado tomó la
     ciudad de San Cristóbal de las Casas, así como otras
@@ -65,5 +65,5 @@
     de Liberación Nacional aparece así como una de las
     mejores novelas latinoamericanas de nuestro tiempo.</p>
   </content>
-  <link href="../authors_0/authors_168_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jorge Volpi" />
+  <link href="../authors_0/authors_168_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jorge Volpi" />
 </entry>

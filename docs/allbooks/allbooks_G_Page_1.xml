@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por G</title>
+  <title>Books starting with G</title>
   <id>Calibre2opds:allbooks:G</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por G" />
+  <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with G" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
     <title>GPS</title>
     <id>calibre:book:1311</id>
     <updated>2024-03-21T00:44:04Z</updated>
     <link href="../../Lucie%20Rico/GPS%20%281311%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucie%20Rico/GPS%20%281311%29/GPS%20-%20Lucie%20Rico.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <link href="../../Lucie%20Rico/GPS%20%281311%29/GPS%20-%20Lucie%20Rico.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
     <author>
       <name>Lucie Rico</name>
       <uri>../authors_0/authors_953_Page_1.xml</uri>
@@ -36,7 +36,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2769</id>
     <updated>2024-12-31T08:29:17Z</updated>
     <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/Gabrielle%20y%20la%20Bestia%20-%20Gabriela%20Margall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="407 KB" />
+    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/Gabrielle%20y%20la%20Bestia%20-%20Gabriela%20Margall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="407 KB" />
     <author>
       <name>Gabriela Margall</name>
       <uri>../authors_1/authors_1809_Page_1.xml</uri>
@@ -53,7 +53,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2199</id>
     <updated>2024-09-06T02:21:33Z</updated>
     <link href="../../Cervantes/La%20Galatea%20%282199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cervantes/La%20Galatea%20%282199%29/La%20Galatea%20-%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="347 KB" />
+    <link href="../../Cervantes/La%20Galatea%20%282199%29/La%20Galatea%20-%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="347 KB" />
     <author>
       <name>Cervantes</name>
       <uri>../authors_1/authors_1555_Page_1.xml</uri>
@@ -71,7 +71,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:1857</id>
     <updated>2024-09-02T04:27:36Z</updated>
     <link href="../../Pita%20Amor/Galeria%20de%20titeres%20%281857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pita%20Amor/Galeria%20de%20titeres%20%281857%29/Galeria%20de%20titeres%20-%20Pita%20Amor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="190 KB" />
+    <link href="../../Pita%20Amor/Galeria%20de%20titeres%20%281857%29/Galeria%20de%20titeres%20-%20Pita%20Amor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="190 KB" />
     <author>
       <name>Pita Amor</name>
       <uri>../authors_1/authors_1329_Page_1.xml</uri>
@@ -88,7 +88,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2779</id>
     <updated>2025-01-09T08:18:53Z</updated>
     <link href="../../C.%20J.%20Nieto/Gambuesa%20%282779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../C.%20J.%20Nieto/Gambuesa%20%282779%29/Gambuesa%20-%20C.%20J.%20Nieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="834 KB" />
+    <link href="../../C.%20J.%20Nieto/Gambuesa%20%282779%29/Gambuesa%20-%20C.%20J.%20Nieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="834 KB" />
     <author>
       <name>C. J. Nieto</name>
       <uri>../authors_1/authors_1817_Page_1.xml</uri>
@@ -105,7 +105,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2322</id>
     <updated>2024-09-09T10:34:07Z</updated>
     <link href="../../Francois%20Rabelais/Gargantua%20%282322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francois%20Rabelais/Gargantua%20%282322%29/Gargantua%20-%20Francois%20Rabelais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="246 KB" />
+    <link href="../../Francois%20Rabelais/Gargantua%20%282322%29/Gargantua%20-%20Francois%20Rabelais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="246 KB" />
     <author>
       <name>François Rabelais</name>
       <uri>../authors_1/authors_1618_Page_1.xml</uri>
@@ -123,7 +123,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:423</id>
     <updated>2023-03-14T04:53:28Z</updated>
     <link href="../../Agustin%20Laje/Generacion%20idiota%20%28423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Agustin%20Laje/Generacion%20idiota%20%28423%29/Generacion%20idiota%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <link href="../../Agustin%20Laje/Generacion%20idiota%20%28423%29/Generacion%20idiota%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="681 KB" />
     <author>
       <name>Agustin Laje</name>
       <uri>../authors_0/authors_313_Page_1.xml</uri>
@@ -140,7 +140,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:312</id>
     <updated>2023-02-16T08:33:16Z</updated>
     <link href="../../Carolina%20Pobla/Geranios%20en%20el%20balcon%20%28312%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carolina%20Pobla/Geranios%20en%20el%20balcon%20%28312%29/Geranios%20en%20el%20balcon%20-%20Carolina%20Pobla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Carolina%20Pobla/Geranios%20en%20el%20balcon%20%28312%29/Geranios%20en%20el%20balcon%20-%20Carolina%20Pobla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Carolina Pobla</name>
       <uri>../authors_0/authors_218_Page_1.xml</uri>
@@ -159,7 +159,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:1384</id>
     <updated>2024-04-03T00:30:05Z</updated>
     <link href="../../Xavier%20Gimbert/Gestionar%20estrategicamente%20%281384%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Gimbert/Gestionar%20estrategicamente%20%281384%29/Gestionar%20estrategicamente%20-%20Xavier%20Gimbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Xavier%20Gimbert/Gestionar%20estrategicamente%20%281384%29/Gestionar%20estrategicamente%20-%20Xavier%20Gimbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Xavier Gimbert</name>
       <uri>../authors_1/authors_1017_Page_1.xml</uri>
@@ -176,7 +176,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2625</id>
     <updated>2024-10-04T10:51:32Z</updated>
     <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/Gestos%20letales%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="881 KB" />
+    <link href="../../Sebastian%20Fitzek/Gestos%20letales%20%282625%29/Gestos%20letales%20-%20Sebastian%20Fitzek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="881 KB" />
     <author>
       <name>Sebastian Fitzek</name>
       <uri>../authors_1/authors_1251_Page_1.xml</uri>
@@ -193,7 +193,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:811</id>
     <updated>2023-06-06T08:14:12Z</updated>
     <link href="../../Juan%20Tranche/Gladiadoras%20%28811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Tranche/Gladiadoras%20%28811%29/Gladiadoras%20-%20Juan%20Tranche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <link href="../../Juan%20Tranche/Gladiadoras%20%28811%29/Gladiadoras%20-%20Juan%20Tranche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
     <author>
       <name>Juan Tranche</name>
       <uri>../authors_0/authors_606_Page_1.xml</uri>
@@ -210,7 +210,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:1364</id>
     <updated>2024-04-03T00:30:00Z</updated>
     <link href="../../Andres%20Felipe%20Solano/Gloria%20%281364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andres%20Felipe%20Solano/Gloria%20%281364%29/Gloria%20-%20Andres%20Felipe%20Solano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Andres%20Felipe%20Solano/Gloria%20%281364%29/Gloria%20-%20Andres%20Felipe%20Solano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Andrés Felipe Solano</name>
       <uri>../authors_0/authors_999_Page_1.xml</uri>
@@ -228,7 +228,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:194</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Lara%20Smirnov/Golfeando%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lara%20Smirnov/Golfeando%20%28194%29/Golfeando%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="884 KB" />
+    <link href="../../Lara%20Smirnov/Golfeando%20%28194%29/Golfeando%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="884 KB" />
     <author>
       <name>Lara Smirnov</name>
       <uri>../authors_0/authors_123_Page_1.xml</uri>
@@ -246,7 +246,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:198</id>
     <updated>2023-01-26T07:16:22Z</updated>
     <link href="../../Lara%20Smirnov/El%20Golfo%20de%20Cadiz%20y%20la%20Cabo%20de%20Buen%20%28198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lara%20Smirnov/El%20Golfo%20de%20Cadiz%20y%20la%20Cabo%20de%20Buen%20%28198%29/El%20Golfo%20de%20Cadiz%20y%20la%20Cabo%20de%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <link href="../../Lara%20Smirnov/El%20Golfo%20de%20Cadiz%20y%20la%20Cabo%20de%20Buen%20%28198%29/El%20Golfo%20de%20Cadiz%20y%20la%20Cabo%20de%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
     <author>
       <name>Lara Smirnov</name>
       <uri>../authors_0/authors_123_Page_1.xml</uri>
@@ -263,7 +263,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:1956</id>
     <updated>2024-09-05T06:10:25Z</updated>
     <link href="../../Andres%20Bello/Gramatica%20de%20la%20lengua%20castellana%20d%20%281956%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andres%20Bello/Gramatica%20de%20la%20lengua%20castellana%20d%20%281956%29/Gramatica%20de%20la%20lengua%20castella%20-%20Andres%20Bello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="391 KB" />
+    <link href="../../Andres%20Bello/Gramatica%20de%20la%20lengua%20castellana%20d%20%281956%29/Gramatica%20de%20la%20lengua%20castella%20-%20Andres%20Bello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="391 KB" />
     <author>
       <name>Andrés Bello</name>
       <uri>../authors_1/authors_1399_Page_1.xml</uri>
@@ -279,7 +279,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2280</id>
     <updated>2024-09-09T10:33:58Z</updated>
     <link href="../../Charles%20Dickens/Grandes%20esperanzas%20%282280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/Grandes%20esperanzas%20%282280%29/Grandes%20esperanzas%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <link href="../../Charles%20Dickens/Grandes%20esperanzas%20%282280%29/Grandes%20esperanzas%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -297,7 +297,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2080</id>
     <updated>2024-09-06T02:09:09Z</updated>
     <link href="../../Charles%20Dickens/Great%20Expectations%20%282080%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/Great%20Expectations%20%282080%29/Great%20Expectations%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="520 KB" />
+    <link href="../../Charles%20Dickens/Great%20Expectations%20%282080%29/Great%20Expectations%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="520 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -327,7 +327,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2456</id>
     <updated>2024-09-09T10:34:35Z</updated>
     <link href="../../F.%20Scott%20Fitzgerald/The%20Great%20Gatsby%20%282456%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../F.%20Scott%20Fitzgerald/The%20Great%20Gatsby%20%282456%29/The%20Great%20Gatsby%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="166 KB" />
+    <link href="../../F.%20Scott%20Fitzgerald/The%20Great%20Gatsby%20%282456%29/The%20Great%20Gatsby%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="166 KB" />
     <author>
       <name>F. Scott Fitzgerald</name>
       <uri>../authors_1/authors_1406_Page_1.xml</uri>
@@ -345,7 +345,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:834</id>
     <updated>2023-06-09T01:41:44Z</updated>
     <link href="../../Lena%20Svensson/Greta%20y%20el%20misterio%20de%20los%20zapatos%20%28834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lena%20Svensson/Greta%20y%20el%20misterio%20de%20los%20zapatos%20%28834%29/Greta%20y%20el%20misterio%20de%20los%20zapa%20-%20Lena%20Svensson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Lena%20Svensson/Greta%20y%20el%20misterio%20de%20los%20zapatos%20%28834%29/Greta%20y%20el%20misterio%20de%20los%20zapa%20-%20Lena%20Svensson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Lena Svensson</name>
       <uri>../authors_0/authors_625_Page_1.xml</uri>
@@ -362,7 +362,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2248</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/La%20Guardia%20Blanca%20%282248%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/La%20Guardia%20Blanca%20%282248%29/La%20Guardia%20Blanca%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="332 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/La%20Guardia%20Blanca%20%282248%29/La%20Guardia%20Blanca%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="332 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -378,7 +378,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:1003</id>
     <updated>2023-08-27T03:13:00Z</updated>
     <link href="../../Enrique%20Navarro/Guerra%20de%20Dioses%20%281003%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Enrique%20Navarro/Guerra%20de%20Dioses%20%281003%29/Guerra%20de%20Dioses%20-%20Enrique%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <link href="../../Enrique%20Navarro/Guerra%20de%20Dioses%20%281003%29/Guerra%20de%20Dioses%20-%20Enrique%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="572 KB" />
     <author>
       <name>Enrique Navarro</name>
       <uri>../authors_0/authors_743_Page_1.xml</uri>
@@ -395,7 +395,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2638</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Fabrizia Ramondino</name>
       <uri>../authors_1/authors_1733_Page_1.xml</uri>
@@ -412,7 +412,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2091</id>
     <updated>2024-09-06T02:09:11Z</updated>
     <link href="../../Jonathan%20Swift/Gulliver%27s%20Travels%20into%20Several%20Rem%20%282091%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jonathan%20Swift/Gulliver%27s%20Travels%20into%20Several%20Rem%20%282091%29/Gulliver%27s%20Travels%20into%20Several%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+    <link href="../../Jonathan%20Swift/Gulliver%27s%20Travels%20into%20Several%20Rem%20%282091%29/Gulliver%27s%20Travels%20into%20Several%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="552 KB" />
     <author>
       <name>Jonathan Swift</name>
       <uri>../authors_1/authors_1469_Page_1.xml</uri>
@@ -430,7 +430,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2543</id>
     <updated>2024-09-09T10:34:53Z</updated>
     <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Walter Scott</name>
       <uri>../authors_1/authors_1580_Page_1.xml</uri>
@@ -455,7 +455,7 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <id>calibre:book:2130</id>
     <updated>2024-09-06T02:21:20Z</updated>
     <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/El%20Gibaro%20-%20Manuel%20A.%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/El%20Gibaro%20-%20Manuel%20A.%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Manuel A. Alonso</name>
       <uri>../authors_1/authors_1511_Page_1.xml</uri>

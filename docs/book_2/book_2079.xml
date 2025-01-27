@@ -6,12 +6,12 @@
   <link href="./book_2079.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A Christmas Carol" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../authors_1/authors_1370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Charles Dickens" />
   <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/A%20Christmas%20Carol%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+  <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/A%20Christmas%20Carol%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="125 KB" />
   <author>
     <name>Charles Dickens</name>
     <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -40,17 +40,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 288 en la Biblioteca PruébaT serie
+      Book 288 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Christmas, Stories, London, (England), --, Fiction, Poor, families, Ghost, Misers, Sick, Children, Scrooge, Ebenezer, (Fictitious, character), Lang:en
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 288 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Charles Dickens" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 288 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Charles Dickens" />
 </entry>

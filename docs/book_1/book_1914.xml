@@ -6,12 +6,13 @@
   <link href="./book_1914.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Diccionario de los lugares comunes" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../authorlist/authorlist_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="../authors_1/authors_1365_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Gustave Flaubert" />
   <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/Diccionario%20de%20los%20lugares%20comu%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+  <link href="../../Gustave%20Flaubert/Diccionario%20de%20los%20lugares%20comunes%20%281914%29/Diccionario%20de%20los%20lugares%20comu%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="117 KB" />
   <author>
     <name>Gustave Flaubert</name>
     <uri>../authors_1/authors_1365_Page_1.xml</uri>
@@ -28,17 +29,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 16 en la Biblioteca PruébaT serie
+      Book 16 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Referencia, Diccionarios, y, enciclopedias, Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 16 en la Biblioteca PruébaT serie" />
-  <link href="../authors_1/authors_1365_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Gustave Flaubert" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 16 in the Biblioteca PruébaT series" />
+  <link href="../authors_1/authors_1365_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Gustave Flaubert" />
 </entry>

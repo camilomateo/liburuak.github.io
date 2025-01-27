@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por R</title>
+  <title>Books starting with R</title>
   <id>Calibre2opds:allbooks:R</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por R" />
+  <link href="./allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with R" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por R" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
   <entry>
     <title>El retrato de casada</title>
     <id>calibre:book:523</id>
     <updated>2023-04-05T00:40:06Z</updated>
     <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/El%20retrato%20de%20casada%20-%20Maggie%20O%27Farrell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/El%20retrato%20de%20casada%20-%20Maggie%20O%27Farrell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
     <author>
       <name>Maggie O'Farrell</name>
       <uri>../authors_0/authors_387_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:1562</id>
     <updated>2024-06-02T10:59:47Z</updated>
     <link href="../../A.%20M.%20Homes/La%20revelacion%20%281562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../A.%20M.%20Homes/La%20revelacion%20%281562%29/La%20revelacion%20-%20A.%20M.%20Homes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="420 KB" />
+    <link href="../../A.%20M.%20Homes/La%20revelacion%20%281562%29/La%20revelacion%20-%20A.%20M.%20Homes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="420 KB" />
     <author>
       <name>A. M. Homes</name>
       <uri>../authors_1/authors_1141_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:1427</id>
     <updated>2024-04-09T11:16:21Z</updated>
     <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/La%20revuelta%20de%20las%20cariatides%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/La%20revuelta%20de%20las%20cariatides%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
     <author>
       <name>Petros Márkaris</name>
       <uri>../authors_0/authors_391_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:650</id>
     <updated>2023-05-10T04:29:12Z</updated>
     <link href="../../Liane%20Moriarty/Un%20reves%20inesperado%20%28650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Liane%20Moriarty/Un%20reves%20inesperado%20%28650%29/Un%20reves%20inesperado%20-%20Liane%20Moriarty.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="734 KB" />
+    <link href="../../Liane%20Moriarty/Un%20reves%20inesperado%20%28650%29/Un%20reves%20inesperado%20-%20Liane%20Moriarty.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="734 KB" />
     <author>
       <name>Liane Moriarty</name>
       <uri>../authors_0/authors_479_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:2372</id>
     <updated>2024-09-09T10:34:17Z</updated>
     <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="139 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -106,7 +106,7 @@
     <id>calibre:book:1740</id>
     <updated>2024-08-08T05:28:21Z</updated>
     <link href="../../Philip%20Hensher/El%20rey%20de%20los%20tejones%20%281740%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Philip%20Hensher/El%20rey%20de%20los%20tejones%20%281740%29/El%20rey%20de%20los%20tejones%20-%20Philip%20Hensher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="492 KB" />
+    <link href="../../Philip%20Hensher/El%20rey%20de%20los%20tejones%20%281740%29/El%20rey%20de%20los%20tejones%20-%20Philip%20Hensher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="492 KB" />
     <author>
       <name>Philip Hensher</name>
       <uri>../authors_1/authors_1245_Page_1.xml</uri>
@@ -123,7 +123,7 @@
     <id>calibre:book:2413</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/El%20rey%20se%20divierte%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="115 KB" />
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/El%20rey%20se%20divierte%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="115 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -143,7 +143,7 @@
     <id>calibre:book:549</id>
     <updated>2023-04-11T09:33:22Z</updated>
     <link href="../../Daniel%20Guebel/El%20rey%20y%20el%20filosofo%20%28549%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Guebel/El%20rey%20y%20el%20filosofo%20%28549%29/El%20rey%20y%20el%20filosofo%20-%20Daniel%20Guebel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Daniel%20Guebel/El%20rey%20y%20el%20filosofo%20%28549%29/El%20rey%20y%20el%20filosofo%20-%20Daniel%20Guebel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Daniel Guebel</name>
       <uri>../authors_0/authors_405_Page_1.xml</uri>
@@ -160,7 +160,7 @@
     <id>calibre:book:2349</id>
     <updated>2024-09-09T10:34:13Z</updated>
     <link href="../../Adam%20Smith/La%20riqueza%20de%20las%20naciones%20%282349%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adam%20Smith/La%20riqueza%20de%20las%20naciones%20%282349%29/La%20riqueza%20de%20las%20naciones%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <link href="../../Adam%20Smith/La%20riqueza%20de%20las%20naciones%20%282349%29/La%20riqueza%20de%20las%20naciones%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="526 KB" />
     <author>
       <name>Adam Smith</name>
       <uri>../authors_1/authors_1414_Page_1.xml</uri>
@@ -178,7 +178,7 @@
     <id>calibre:book:1553</id>
     <updated>2024-06-02T10:59:45Z</updated>
     <link href="../../Sergio%20de%20la%20Calle/La%20risa%20asusta%20al%20miedo%20%281553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergio%20de%20la%20Calle/La%20risa%20asusta%20al%20miedo%20%281553%29/La%20risa%20asusta%20al%20miedo%20-%20Sergio%20de%20la%20Calle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="375 KB" />
+    <link href="../../Sergio%20de%20la%20Calle/La%20risa%20asusta%20al%20miedo%20%281553%29/La%20risa%20asusta%20al%20miedo%20-%20Sergio%20de%20la%20Calle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
     <author>
       <name>Sergio de la Calle</name>
       <uri>../authors_1/authors_1132_Page_1.xml</uri>
@@ -196,7 +196,7 @@
     <id>calibre:book:575</id>
     <updated>2023-04-28T01:16:48Z</updated>
     <link href="../../Jesus%20Valero/El%20roce%20de%20la%20oscuridad%20%28575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jesus%20Valero/El%20roce%20de%20la%20oscuridad%20%28575%29/El%20roce%20de%20la%20oscuridad%20-%20Jesus%20Valero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="722 KB" />
+    <link href="../../Jesus%20Valero/El%20roce%20de%20la%20oscuridad%20%28575%29/El%20roce%20de%20la%20oscuridad%20-%20Jesus%20Valero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="722 KB" />
     <author>
       <name>Jesús Valero</name>
       <uri>../authors_0/authors_428_Page_1.xml</uri>
@@ -213,7 +213,7 @@
     <id>calibre:book:1690</id>
     <updated>2024-07-29T11:15:46Z</updated>
     <link href="../../Cari%20Arino/La%20rueda%20del%20olvido%20%281690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cari%20Arino/La%20rueda%20del%20olvido%20%281690%29/La%20rueda%20del%20olvido%20-%20Cari%20Arino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="313 KB" />
+    <link href="../../Cari%20Arino/La%20rueda%20del%20olvido%20%281690%29/La%20rueda%20del%20olvido%20-%20Cari%20Arino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="313 KB" />
     <author>
       <name>Cari Ariño</name>
       <uri>../authors_1/authors_1210_Page_1.xml</uri>
@@ -230,7 +230,7 @@
     <id>calibre:book:895</id>
     <updated>2023-06-23T01:09:50Z</updated>
     <link href="../../Kristin%20Hannah/El%20ruisenor%20%28895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kristin%20Hannah/El%20ruisenor%20%28895%29/El%20ruisenor%20-%20Kristin%20Hannah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="686 KB" />
+    <link href="../../Kristin%20Hannah/El%20ruisenor%20%28895%29/El%20ruisenor%20-%20Kristin%20Hannah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="686 KB" />
     <author>
       <name>Kristin Hannah</name>
       <uri>../authors_0/authors_670_Page_1.xml</uri>
@@ -247,7 +247,7 @@
     <id>calibre:book:1194</id>
     <updated>2024-02-05T05:55:58Z</updated>
     <link href="../../Ashley%20Audrain/El%20rumor%20%281194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ashley%20Audrain/El%20rumor%20%281194%29/El%20rumor%20-%20Ashley%20Audrain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="474 KB" />
+    <link href="../../Ashley%20Audrain/El%20rumor%20%281194%29/El%20rumor%20-%20Ashley%20Audrain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
     <author>
       <name>Ashley Audrain</name>
       <uri>../authors_0/authors_866_Page_1.xml</uri>

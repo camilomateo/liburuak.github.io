@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por H</title>
+  <title>Books starting with H</title>
   <id>Calibre2opds:allbooks:H</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por H" />
+  <link href="./allbooks_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with H" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por H" />
-  <link href="../allbooks/allbooks_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
+  <link href="../allbooks/allbooks_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
+  <entry>
+    <title>Hyde</title>
+    <id>calibre:book:1821</id>
+    <updated>2024-10-26T00:33:17Z</updated>
+    <link href="../../Craig%20Russell/Hyde%20%281821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Craig%20Russell/Hyde%20%281821%29/Hyde%20-%20Craig%20Russell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="389 KB" />
+    <author>
+      <name>Craig Russell</name>
+      <uri>../authors_1/authors_1302_Page_1.xml</uri>
+    </author>
+    <published>2021-09-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Por el autor best seller internacional Craig Russell, llega    esta pieza maestra de terror gótico moderno.  «Gloriosamente diabólica. Un terrorífico paseo repleto de emoción y    suspense a través de los abismos ocultos del alma humana.» Chris Bro...</summary>
+    <link href="../book_1/book_1821.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Hábitos atómicos</title>
     <id>calibre:book:553</id>
     <updated>2023-04-11T09:33:24Z</updated>
     <link href="../../James%20Clear/Habitos%20atomicos%20%28553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Clear/Habitos%20atomicos%20%28553%29/Habitos%20atomicos%20-%20James%20Clear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="878 KB" />
+    <link href="../../James%20Clear/Habitos%20atomicos%20%28553%29/Habitos%20atomicos%20-%20James%20Clear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="878 KB" />
     <author>
       <name>James Clear</name>
       <uri>../authors_0/authors_409_Page_1.xml</uri>
@@ -37,7 +54,7 @@
     <id>calibre:book:1930</id>
     <updated>2024-09-05T06:03:56Z</updated>
     <link href="../../Baltasar%20Gracian/El%20Heroe%20%281930%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Baltasar%20Gracian/El%20Heroe%20%281930%29/El%20Heroe%20-%20Baltasar%20Gracian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <link href="../../Baltasar%20Gracian/El%20Heroe%20%281930%29/El%20Heroe%20-%20Baltasar%20Gracian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="87 KB" />
     <author>
       <name>Baltasar Gracián</name>
       <uri>../authors_1/authors_1377_Page_1.xml</uri>
@@ -55,7 +72,7 @@
     <id>calibre:book:1530</id>
     <updated>2024-06-02T10:59:39Z</updated>
     <link href="../../Blanca%20Cabanas/El%20hambre%20del%20pelicano%20%281530%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blanca%20Cabanas/El%20hambre%20del%20pelicano%20%281530%29/El%20hambre%20del%20pelicano%20-%20Blanca%20Cabanas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <link href="../../Blanca%20Cabanas/El%20hambre%20del%20pelicano%20%281530%29/El%20hambre%20del%20pelicano%20-%20Blanca%20Cabanas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="435 KB" />
     <author>
       <name>Blanca Cabañas</name>
       <uri>../authors_1/authors_1113_Page_1.xml</uri>
@@ -72,7 +89,7 @@
     <id>calibre:book:2686</id>
     <updated>2024-10-22T08:11:24Z</updated>
     <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="969 KB" />
+    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="969 KB" />
     <author>
       <name>Juan Francisco Ferrándiz</name>
       <uri>../authors_1/authors_1765_Page_1.xml</uri>
@@ -91,7 +108,7 @@
     <id>calibre:book:1731</id>
     <updated>2024-08-08T04:59:24Z</updated>
     <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Jo%20Nesbo/El%20heredero%20%281731%29/El%20heredero%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -108,7 +125,7 @@
     <id>calibre:book:2812</id>
     <updated>2025-01-20T11:21:16Z</updated>
     <link href="../../Helene%20Flood/La%20herencia%20%282812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Helene%20Flood/La%20herencia%20%282812%29/La%20herencia%20-%20Helene%20Flood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <link href="../../Helene%20Flood/La%20herencia%20%282812%29/La%20herencia%20-%20Helene%20Flood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="681 KB" />
     <author>
       <name>Helene Flood</name>
       <uri>../authors_1/authors_1840_Page_1.xml</uri>
@@ -125,7 +142,7 @@
     <id>calibre:book:1523</id>
     <updated>2024-06-02T10:59:37Z</updated>
     <link href="../../Kendra%20Elliot/La%20hermana%20ausente%20%281523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kendra%20Elliot/La%20hermana%20ausente%20%281523%29/La%20hermana%20ausente%20-%20Kendra%20Elliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="628 KB" />
+    <link href="../../Kendra%20Elliot/La%20hermana%20ausente%20%281523%29/La%20hermana%20ausente%20-%20Kendra%20Elliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="628 KB" />
     <author>
       <name>Kendra Elliot</name>
       <uri>../authors_1/authors_1109_Page_1.xml</uri>
@@ -143,7 +160,7 @@
     <id>calibre:book:1363</id>
     <updated>2024-04-03T00:30:00Z</updated>
     <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20hermanos%20Cuervo%20%281363%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20hermanos%20Cuervo%20%281363%29/Los%20hermanos%20Cuervo%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="728 KB" />
+    <link href="../../Andres%20Felipe%20Solano%20Mendoza/Los%20hermanos%20Cuervo%20%281363%29/Los%20hermanos%20Cuervo%20-%20Andres%20Felipe%20Solano%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="728 KB" />
     <author>
       <name>Andrés Felipe Solano Mendoza</name>
       <uri>../authors_0/authors_998_Page_1.xml</uri>
@@ -160,7 +177,7 @@
     <id>calibre:book:2289</id>
     <updated>2024-09-09T10:34:00Z</updated>
     <link href="../../Fiodor%20Dostoyevski/Los%20hermanos%20Karamazov%20%282289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/Los%20hermanos%20Karamazov%20%282289%29/Los%20hermanos%20Karamazov%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1008 KB" />
+    <link href="../../Fiodor%20Dostoyevski/Los%20hermanos%20Karamazov%20%282289%29/Los%20hermanos%20Karamazov%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1008 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -178,7 +195,7 @@
     <id>calibre:book:1436</id>
     <updated>2024-04-20T05:13:31Z</updated>
     <link href="../../Soraya%20Lane/La%20hija%20cubana%20%281436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Soraya%20Lane/La%20hija%20cubana%20%281436%29/La%20hija%20cubana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="827 KB" />
+    <link href="../../Soraya%20Lane/La%20hija%20cubana%20%281436%29/La%20hija%20cubana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="827 KB" />
     <author>
       <name>Soraya Lane</name>
       <uri>../authors_0/authors_379_Page_1.xml</uri>
@@ -196,7 +213,7 @@
     <id>calibre:book:1124</id>
     <updated>2024-01-08T09:16:16Z</updated>
     <link href="../../Clara%20Obligado/La%20hija%20de%20Marx%20%281124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Clara%20Obligado/La%20hija%20de%20Marx%20%281124%29/La%20hija%20de%20Marx%20-%20Clara%20Obligado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <link href="../../Clara%20Obligado/La%20hija%20de%20Marx%20%281124%29/La%20hija%20de%20Marx%20-%20Clara%20Obligado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="518 KB" />
     <author>
       <name>Clara Obligado</name>
       <uri>../authors_0/authors_826_Page_1.xml</uri>
@@ -213,7 +230,7 @@
     <id>calibre:book:1720</id>
     <updated>2024-08-08T04:59:22Z</updated>
     <link href="../../Karina%20Sainz%20Borgo/La%20hija%20de%20la%20espanola%20%281720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karina%20Sainz%20Borgo/La%20hija%20de%20la%20espanola%20%281720%29/La%20hija%20de%20la%20espanola%20-%20Karina%20Sainz%20Borgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Karina%20Sainz%20Borgo/La%20hija%20de%20la%20espanola%20%281720%29/La%20hija%20de%20la%20espanola%20-%20Karina%20Sainz%20Borgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Karina Sainz Borgo</name>
       <uri>../authors_1/authors_1231_Page_1.xml</uri>
@@ -230,7 +247,7 @@
     <id>calibre:book:2771</id>
     <updated>2024-12-31T08:29:18Z</updated>
     <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/La%20hija%20de%20la%20novicia%20-%20Elena%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="412 KB" />
+    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/La%20hija%20de%20la%20novicia%20-%20Elena%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
     <author>
       <name>Elena Álvarez</name>
       <uri>../authors_1/authors_1811_Page_1.xml</uri>
@@ -247,7 +264,7 @@
     <id>calibre:book:1524</id>
     <updated>2024-06-02T10:59:37Z</updated>
     <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/La%20hija%20del%20capitan%20Groc%20-%20Victor%20Amela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/La%20hija%20del%20capitan%20Groc%20-%20Victor%20Amela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Víctor Amela</name>
       <uri>../authors_0/authors_957_Page_1.xml</uri>
@@ -266,7 +283,7 @@
     <id>calibre:book:2818</id>
     <updated>2025-01-20T11:21:17Z</updated>
     <link href="../../Nicola%20Solvinic/La%20hija%20del%20cazador%20%282818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicola%20Solvinic/La%20hija%20del%20cazador%20%282818%29/La%20hija%20del%20cazador%20-%20Nicola%20Solvinic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <link href="../../Nicola%20Solvinic/La%20hija%20del%20cazador%20%282818%29/La%20hija%20del%20cazador%20-%20Nicola%20Solvinic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
     <author>
       <name>Nicola Solvinic</name>
       <uri>../authors_1/authors_1844_Page_1.xml</uri>
@@ -283,7 +300,7 @@
     <id>calibre:book:77</id>
     <updated>2023-01-18T00:02:46Z</updated>
     <link href="../../Federico%20Axat/La%20hija%20ejemplar%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Axat/La%20hija%20ejemplar%20%2877%29/La%20hija%20ejemplar%20-%20Federico%20Axat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Federico%20Axat/La%20hija%20ejemplar%20%2877%29/La%20hija%20ejemplar%20-%20Federico%20Axat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Federico Axat</name>
       <uri>../authors_0/authors_54_Page_1.xml</uri>
@@ -300,7 +317,7 @@
     <id>calibre:book:358</id>
     <updated>2023-02-24T09:48:12Z</updated>
     <link href="../../Lorena%20Hughes/La%20hija%20espanola%20%28358%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorena%20Hughes/La%20hija%20espanola%20%28358%29/La%20hija%20espanola%20-%20Lorena%20Hughes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <link href="../../Lorena%20Hughes/La%20hija%20espanola%20%28358%29/La%20hija%20espanola%20-%20Lorena%20Hughes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="646 KB" />
     <author>
       <name>Lorena Hughes</name>
       <uri>../authors_0/authors_253_Page_1.xml</uri>
@@ -317,7 +334,7 @@
     <id>calibre:book:514</id>
     <updated>2023-04-05T00:40:00Z</updated>
     <link href="../../Soraya%20Lane/La%20hija%20italiana%20%28514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Soraya%20Lane/La%20hija%20italiana%20%28514%29/La%20hija%20italiana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="846 KB" />
+    <link href="../../Soraya%20Lane/La%20hija%20italiana%20%28514%29/La%20hija%20italiana%20-%20Soraya%20Lane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="846 KB" />
     <author>
       <name>Soraya Lane</name>
       <uri>../authors_0/authors_379_Page_1.xml</uri>
@@ -335,7 +352,7 @@
     <id>calibre:book:1238</id>
     <updated>2024-02-23T08:42:58Z</updated>
     <link href="../../Guadalupe%20Nettel/La%20hija%20unica%20%281238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guadalupe%20Nettel/La%20hija%20unica%20%281238%29/La%20hija%20unica%20-%20Guadalupe%20Nettel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <link href="../../Guadalupe%20Nettel/La%20hija%20unica%20%281238%29/La%20hija%20unica%20-%20Guadalupe%20Nettel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
     <author>
       <name>Guadalupe Nettel</name>
       <uri>../authors_0/authors_901_Page_1.xml</uri>
@@ -352,7 +369,7 @@
     <id>calibre:book:1171</id>
     <updated>2024-01-25T09:29:17Z</updated>
     <link href="../../Sonsoles%20Onega/Las%20hijas%20de%20la%20criada%20%281171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sonsoles%20Onega/Las%20hijas%20de%20la%20criada%20%281171%29/Las%20hijas%20de%20la%20criada%20-%20Sonsoles%20Onega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <link href="../../Sonsoles%20Onega/Las%20hijas%20de%20la%20criada%20%281171%29/Las%20hijas%20de%20la%20criada%20-%20Sonsoles%20Onega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
       <name>Sonsoles Ónega</name>
       <uri>../authors_0/authors_853_Page_1.xml</uri>
@@ -369,7 +386,7 @@
     <id>calibre:book:1304</id>
     <updated>2024-03-21T00:44:03Z</updated>
     <link href="../../Raul%20Montilla/Las%20hijas%20de%20la%20fabrica%20%281304%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Montilla/Las%20hijas%20de%20la%20fabrica%20%281304%29/Las%20hijas%20de%20la%20fabrica%20-%20Raul%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <link href="../../Raul%20Montilla/Las%20hijas%20de%20la%20fabrica%20%281304%29/Las%20hijas%20de%20la%20fabrica%20-%20Raul%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
     <author>
       <name>Raúl Montilla</name>
       <uri>../authors_0/authors_948_Page_1.xml</uri>
@@ -386,7 +403,7 @@
     <id>calibre:book:1852</id>
     <updated>2024-09-02T04:27:34Z</updated>
     <link href="../../Rafael%20Tarradas%20Bulto/El%20hijo%20del%20Reich%20%281852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Tarradas%20Bulto/El%20hijo%20del%20Reich%20%281852%29/El%20hijo%20del%20Reich%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Rafael%20Tarradas%20Bulto/El%20hijo%20del%20Reich%20%281852%29/El%20hijo%20del%20Reich%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rafael Tarradas Bultó</name>
       <uri>../authors_0/authors_357_Page_1.xml</uri>
@@ -403,7 +420,7 @@
     <id>calibre:book:460</id>
     <updated>2023-03-23T10:15:38Z</updated>
     <link href="../../Victor%20de%20Arbol/El%20hijo%20del%20padre%20%28460%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20de%20Arbol/El%20hijo%20del%20padre%20%28460%29/El%20hijo%20del%20padre%20-%20Victor%20de%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="861 KB" />
+    <link href="../../Victor%20de%20Arbol/El%20hijo%20del%20padre%20%28460%29/El%20hijo%20del%20padre%20-%20Victor%20de%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="861 KB" />
     <author>
       <name>Víctor de Árbol</name>
       <uri>../authors_0/authors_345_Page_1.xml</uri>
@@ -420,7 +437,7 @@
     <id>calibre:book:1173</id>
     <updated>2024-01-30T06:17:56Z</updated>
     <link href="../../Mikel%20Santiago/El%20hijo%20olvidado%20%281173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mikel%20Santiago/El%20hijo%20olvidado%20%281173%29/El%20hijo%20olvidado%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <link href="../../Mikel%20Santiago/El%20hijo%20olvidado%20%281173%29/El%20hijo%20olvidado%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="609 KB" />
     <author>
       <name>Mikel Santiago</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -431,23 +448,6 @@
     <category term="Lang:es" />
     <summary>Hay personas a las que dejamos atrás, hay deudas que nunca terminamos de pagar. Tras el éxito de la Trilogía de Illumbe, con más de 500.000 ejemplares vendidos, vuelve Mikel Santiago con un thriller magistral en el corazón del País Vasco. «Deslumbra ...</summary>
     <link href="../book_1/book_1173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los hijos de Rachel</title>
-    <id>calibre:book:1859</id>
-    <updated>2024-09-02T04:27:37Z</updated>
-    <link href="../../Elanor%20Shearer/Los%20hijos%20de%20Rachel%20%281859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elanor%20Shearer/Los%20hijos%20de%20Rachel%20%281859%29/Los%20hijos%20de%20Rachel%20-%20Elanor%20Shearer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="875 KB" />
-    <author>
-      <name>Elanor Shearer</name>
-      <uri>../authors_1/authors_1331_Page_1.xml</uri>
-    </author>
-    <published>2024-08-31T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Vidis</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Su búsqueda comienza con el final... Barbados, 1834. El amo de la plantación Providence reúne a sus esclavos y anuncia que el rey de Inglaterra ha decretado el fin de la esclavitud. Pero los gritos de alegría se apagan cuando les advierte que ya no s...</summary>
-    <link href="../book_1/book_1859.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 5)" />
   <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

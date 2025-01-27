@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Anne Jacobs</title>
+  <title>All books by Anne Jacobs</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_194_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Anne Jacobs" />
+  <link href="./authors_194_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Anne Jacobs" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="./authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anne Jacobs" />
   <entry>
     <title>Aires de libertad</title>
     <id>calibre:book:2636</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
       <name>Anne Jacobs</name>
       <uri>../authors_0/authors_194_Page_1.xml</uri>
@@ -38,7 +38,7 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <id>calibre:book:287</id>
     <updated>2023-02-07T08:36:56Z</updated>
     <link href="../../Anne%20Jacobs/Reencuentro%20en%20la%20Villa%20de%20las%20Tela%20%28287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Reencuentro%20en%20la%20Villa%20de%20las%20Tela%20%28287%29/Reencuentro%20en%20la%20Villa%20de%20las%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <link href="../../Anne%20Jacobs/Reencuentro%20en%20la%20Villa%20de%20las%20Tela%20%28287%29/Reencuentro%20en%20la%20Villa%20de%20las%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="641 KB" />
     <author>
       <name>Anne Jacobs</name>
       <uri>../authors_0/authors_194_Page_1.xml</uri>

@@ -6,14 +6,14 @@
   <link href="./book_812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cincuenta Cincuenta" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="../authors_0/authors_604_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Steve Cavanagh" />
   <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+  <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
   <author>
     <name>Steve Cavanagh</name>
     <uri>../authors_0/authors_604_Page_1.xml</uri>
@@ -26,18 +26,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 5 en la Eddie Flynn serie
+      Book 5 in the Eddie Flynn series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p align="center" style="font-style: italic; font-weight: bold">Dos hermanas a
@@ -59,6 +59,6 @@
       <p>¿Pero cuál?</p>
     </div>
   </content>
-  <link href="../series_0/series_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 5 en la Eddie Flynn serie" />
-  <link href="../authors_0/authors_604_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Steve Cavanagh" />
+  <link href="../series_0/series_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 5 in the Eddie Flynn series" />
+  <link href="../authors_0/authors_604_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Steve Cavanagh" />
 </entry>

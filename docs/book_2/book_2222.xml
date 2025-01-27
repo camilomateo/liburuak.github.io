@@ -6,11 +6,11 @@
   <link href="./book_2222.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Regenta" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por &quot;" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with &quot;" />
   <link href="../../Leopoldo%20Alas%20_Clarin_/La%20Regenta%20%282222%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Leopoldo%20Alas%20_Clarin_/La%20Regenta%20%282222%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Leopoldo%20Alas%20_Clarin_/La%20Regenta%20%282222%29/La%20Regenta%20-%20Leopoldo%20Alas%20_Clarin_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="793 KB" />
+  <link href="../../Leopoldo%20Alas%20_Clarin_/La%20Regenta%20%282222%29/La%20Regenta%20-%20Leopoldo%20Alas%20_Clarin_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="793 KB" />
   <author>
     <name>Leopoldo Alas "Clarín"</name>
     <uri>../authors_1/authors_1566_Page_1.xml</uri>
@@ -22,12 +22,12 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
   </content>
-  <link href="../authors_1/authors_1566_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Leopoldo Alas &quot;Clarín&quot;" />
+  <link href="../authors_1/authors_1566_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Leopoldo Alas &quot;Clarín&quot;" />
 </entry>

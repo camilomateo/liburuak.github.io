@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Robert Louis Stevenson</title>
+  <title>All books by Robert Louis Stevenson</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,23 +8,23 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1413_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Robert Louis Stevenson" />
+  <link href="./authors_1413_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Robert Louis Stevenson" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="./authors_1413_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robert Louis Stevenson" />
   <entry>
     <title>Apología del ocio</title>
     <id>calibre:book:1971</id>
     <updated>2024-09-05T06:10:28Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/Apologia%20del%20ocio%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/Apologia%20del%20ocio%20%281971%29/Apologia%20del%20ocio%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="62 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -42,7 +42,7 @@
     <id>calibre:book:2053</id>
     <updated>2024-09-06T02:09:04Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/Las%20aventuras%20de%20un%20cadaver%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/Las%20aventuras%20de%20un%20cadaver%20%282053%29/Las%20aventuras%20de%20un%20cadaver%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -61,7 +61,7 @@
     <id>calibre:book:2243</id>
     <updated>2024-09-09T10:33:51Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/El%20extrano%20caso%20del%20doctor%20Jeky%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/El%20extrano%20caso%20del%20doctor%20Jekyll%20y%20%282243%29/El%20extrano%20caso%20del%20doctor%20Jeky%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="156 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -77,7 +77,7 @@
     <id>calibre:book:2050</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/La%20isla%20del%20tesoro%20%282050%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/La%20isla%20del%20tesoro%20%282050%29/La%20isla%20del%20tesoro%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/La%20isla%20del%20tesoro%20%282050%29/La%20isla%20del%20tesoro%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="270 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -95,7 +95,7 @@
     <id>calibre:book:2078</id>
     <updated>2024-09-06T02:09:08Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="145 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="145 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -127,7 +127,7 @@
     <id>calibre:book:2478</id>
     <updated>2024-09-09T10:34:39Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/The%20Wrong%20Box%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="198 KB" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Wrong%20Box%20%282478%29/The%20Wrong%20Box%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="198 KB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -143,7 +143,7 @@
     <id>calibre:book:2479</id>
     <updated>2024-09-09T10:34:39Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/Treasure%20Island%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/Treasure%20Island%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>

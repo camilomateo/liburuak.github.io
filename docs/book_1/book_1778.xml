@@ -6,11 +6,11 @@
   <link href="./book_1778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El reto de la longevidad" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
   <author>
     <name>James DiNicolantonio</name>
     <uri>../authors_1/authors_1277_Page_1.xml</uri>
@@ -26,14 +26,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'">
@@ -65,6 +65,6 @@
       </p>
     </div>
   </content>
-  <link href="../authors_1/authors_1277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James DiNicolantonio" />
-  <link href="../authors_1/authors_1278_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jason Fung" />
+  <link href="../authors_1/authors_1277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James DiNicolantonio" />
+  <link href="../authors_1/authors_1278_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jason Fung" />
 </entry>

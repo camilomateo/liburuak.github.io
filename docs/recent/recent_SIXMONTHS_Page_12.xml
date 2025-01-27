@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,76 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 of 15)" />
   <entry>
-    <title>Doña Milagros [9 de septiembre de 2024]</title>
+    <title>Historia de dos ciudades [September 9, 2024]</title>
+    <id>calibre:book:2391</id>
+    <updated>2024-09-09T10:34:21Z</updated>
+    <link href="../../Charles%20Dickens/Historia%20de%20dos%20ciudades%20%282391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Dickens/Historia%20de%20dos%20ciudades%20%282391%29/Historia%20de%20dos%20ciudades%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="457 KB" />
+    <author>
+      <name>Charles Dickens</name>
+      <uri>../authors_1/authors_1370_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [192]:</summary>
+    <link href="../book_2/book_2391.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La importancia de llamarse Ernesto [September 9, 2024]</title>
+    <id>calibre:book:2393</id>
+    <updated>2024-09-09T10:34:21Z</updated>
+    <link href="../../Oscar%20Wilde/La%20importancia%20de%20llamarse%20Ernesto%20%282393%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/La%20importancia%20de%20llamarse%20Ernesto%20%282393%29/La%20importancia%20de%20llamarse%20Erne%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="113 KB" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../authors_0/authors_110_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [211]:</summary>
+    <link href="../book_2/book_2393.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tapiz amarillo [September 9, 2024]</title>
+    <id>calibre:book:2395</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/El%20tapiz%20amarillo%20-%20Charlotte%20Perkins%20Gilman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="62 KB" />
+    <author>
+      <name>Charlotte Perkins Gilman</name>
+      <uri>../authors_1/authors_1636_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [216]:</summary>
+    <link href="../book_2/book_2395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doña Milagros [September 9, 2024]</title>
     <id>calibre:book:2386</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/Dona%20Milagros%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/Dona%20Milagros%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -34,11 +92,11 @@
     <link href="../book_2/book_2386.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La educación sentimental [9 de septiembre de 2024]</title>
+    <title>La educación sentimental [September 9, 2024]</title>
     <id>calibre:book:2385</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/La%20educacion%20sentimental%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="438 KB" />
+    <link href="../../Gustave%20Flaubert/La%20educacion%20sentimental%20%282385%29/La%20educacion%20sentimental%20-%20Gustave%20Flaubert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="438 KB" />
     <author>
       <name>Gustave Flaubert</name>
       <uri>../authors_1/authors_1365_Page_1.xml</uri>
@@ -53,11 +111,11 @@
     <link href="../book_2/book_2385.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El jinete de bronce [9 de septiembre de 2024]</title>
+    <title>El jinete de bronce [September 9, 2024]</title>
     <id>calibre:book:2388</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Aleksandr%20S.%20Pushkin/El%20jinete%20de%20bronce%20%282388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aleksandr%20S.%20Pushkin/El%20jinete%20de%20bronce%20%282388%29/El%20jinete%20de%20bronce%20-%20Aleksandr%20S.%20Pushkin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="60 KB" />
+    <link href="../../Aleksandr%20S.%20Pushkin/El%20jinete%20de%20bronce%20%282388%29/El%20jinete%20de%20bronce%20-%20Aleksandr%20S.%20Pushkin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="60 KB" />
     <author>
       <name>Aleksandr S. Pushkin</name>
       <uri>../authors_1/authors_1634_Page_1.xml</uri>
@@ -72,11 +130,11 @@
     <link href="../book_2/book_2388.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La montaña mágica [9 de septiembre de 2024]</title>
+    <title>La montaña mágica [September 9, 2024]</title>
     <id>calibre:book:2389</id>
     <updated>2024-09-09T10:34:21Z</updated>
     <link href="../../Thomas%20Mann/La%20montana%20magica%20%282389%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Thomas%20Mann/La%20montana%20magica%20%282389%29/La%20montana%20magica%20-%20Thomas%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="850 KB" />
+    <link href="../../Thomas%20Mann/La%20montana%20magica%20%282389%29/La%20montana%20magica%20-%20Thomas%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="850 KB" />
     <author>
       <name>Thomas Mann</name>
       <uri>../authors_1/authors_1635_Page_1.xml</uri>
@@ -91,11 +149,11 @@
     <link href="../book_2/book_2389.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El paraíso de los gatos [9 de septiembre de 2024]</title>
+    <title>El paraíso de los gatos [September 9, 2024]</title>
     <id>calibre:book:2384</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="75 KB" />
     <author>
       <name>Émile Zola</name>
       <uri>../authors_1/authors_1607_Page_1.xml</uri>
@@ -111,11 +169,11 @@
     <link href="../book_2/book_2384.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La sirena negra [9 de septiembre de 2024]</title>
+    <title>La sirena negra [September 9, 2024]</title>
     <id>calibre:book:2387</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="203 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -131,11 +189,11 @@
     <link href="../book_2/book_2387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El crucero de la Chatarra Rodante [9 de septiembre de 2024]</title>
+    <title>El crucero de la Chatarra Rodante [September 9, 2024]</title>
     <id>calibre:book:2382</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/El%20crucero%20de%20la%20Chatarra%20Rodan%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/El%20crucero%20de%20la%20Chatarra%20Rodan%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>F. Scott Fitzgerald</name>
       <uri>../authors_1/authors_1406_Page_1.xml</uri>
@@ -151,11 +209,11 @@
     <link href="../book_2/book_2382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Emma [9 de septiembre de 2024]</title>
+    <title>Emma [September 9, 2024]</title>
     <id>calibre:book:2378</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../Jane%20Austen/Emma%20%282378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Emma%20%282378%29/Emma%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Jane%20Austen/Emma%20%282378%29/Emma%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -170,11 +228,11 @@
     <link href="../book_2/book_2378.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El mercader de Venecia [9 de septiembre de 2024]</title>
+    <title>El mercader de Venecia [September 9, 2024]</title>
     <id>calibre:book:2379</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../William%20Shakespeare/El%20mercader%20de%20Venecia%20%282379%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/El%20mercader%20de%20Venecia%20%282379%29/El%20mercader%20de%20Venecia%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="122 KB" />
+    <link href="../../William%20Shakespeare/El%20mercader%20de%20Venecia%20%282379%29/El%20mercader%20de%20Venecia%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="122 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -190,11 +248,11 @@
     <link href="../book_2/book_2379.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Otelo [9 de septiembre de 2024]</title>
+    <title>Otelo [September 9, 2024]</title>
     <id>calibre:book:2380</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../William%20Shakespeare/Otelo%20%282380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Otelo%20%282380%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <link href="../../William%20Shakespeare/Otelo%20%282380%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="127 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -209,11 +267,11 @@
     <link href="../book_2/book_2380.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las penas del joven Werther [9 de septiembre de 2024]</title>
+    <title>Las penas del joven Werther [September 9, 2024]</title>
     <id>calibre:book:2383</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
     <author>
       <name>Goethe</name>
       <uri>../authors_1/authors_1598_Page_1.xml</uri>
@@ -230,11 +288,11 @@
     <link href="../book_2/book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La reliquia [9 de septiembre de 2024]</title>
+    <title>La reliquia [September 9, 2024]</title>
     <id>calibre:book:2381</id>
     <updated>2024-09-09T10:34:19Z</updated>
     <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="220 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>
@@ -249,11 +307,11 @@
     <link href="../book_2/book_2381.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Alrededor de la Luna [9 de septiembre de 2024]</title>
+    <title>Alrededor de la Luna [September 9, 2024]</title>
     <id>calibre:book:2374</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/Alrededor%20de%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
+    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/Alrededor%20de%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -268,11 +326,11 @@
     <link href="../book_2/book_2374.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>De la Tierra a la Luna [9 de septiembre de 2024]</title>
+    <title>De la Tierra a la Luna [September 9, 2024]</title>
     <id>calibre:book:2375</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Julio%20Verne/De%20la%20Tierra%20a%20la%20Luna%20%282375%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/De%20la%20Tierra%20a%20la%20Luna%20%282375%29/De%20la%20Tierra%20a%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../Julio%20Verne/De%20la%20Tierra%20a%20la%20Luna%20%282375%29/De%20la%20Tierra%20a%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -287,11 +345,11 @@
     <link href="../book_2/book_2375.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La esfinge de los hielos [9 de septiembre de 2024]</title>
+    <title>La esfinge de los hielos [September 9, 2024]</title>
     <id>calibre:book:2376</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/La%20esfinge%20de%20los%20hielos%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="358 KB" />
+    <link href="../../Julio%20Verne/La%20esfinge%20de%20los%20hielos%20%282376%29/La%20esfinge%20de%20los%20hielos%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="358 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -307,11 +365,11 @@
     <link href="../book_2/book_2376.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El jugador [9 de septiembre de 2024]</title>
+    <title>El jugador [September 9, 2024]</title>
     <id>calibre:book:2373</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/El%20jugador%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="185 KB" />
+    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/El%20jugador%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="185 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -326,11 +384,11 @@
     <link href="../book_2/book_2373.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Orgullo y prejuicio [9 de septiembre de 2024]</title>
+    <title>Orgullo y prejuicio [September 9, 2024]</title>
     <id>calibre:book:2377</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Jane%20Austen/Orgullo%20y%20prejuicio%20%282377%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Orgullo%20y%20prejuicio%20%282377%29/Orgullo%20y%20prejuicio%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="376 KB" />
+    <link href="../../Jane%20Austen/Orgullo%20y%20prejuicio%20%282377%29/Orgullo%20y%20prejuicio%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -346,11 +404,11 @@
     <link href="../book_2/book_2377.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Julio César [9 de septiembre de 2024]</title>
+    <title>Julio César [September 9, 2024]</title>
     <id>calibre:book:2371</id>
     <updated>2024-09-09T10:34:17Z</updated>
     <link href="../../William%20Shakespeare/Julio%20Cesar%20%282371%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Julio%20Cesar%20%282371%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="117 KB" />
+    <link href="../../William%20Shakespeare/Julio%20Cesar%20%282371%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="117 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -364,11 +422,11 @@
     <link href="../book_2/book_2371.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El rey Lear [9 de septiembre de 2024]</title>
+    <title>El rey Lear [September 9, 2024]</title>
     <id>calibre:book:2372</id>
     <updated>2024-09-09T10:34:17Z</updated>
     <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="139 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -383,11 +441,11 @@
     <link href="../book_2/book_2372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El curioso caso de Benjamin Button [9 de septiembre de 2024]</title>
+    <title>El curioso caso de Benjamin Button [September 9, 2024]</title>
     <id>calibre:book:2366</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/El%20curioso%20caso%20de%20Benjamin%20But%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="107 KB" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/El%20curioso%20caso%20de%20Benjamin%20But%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="107 KB" />
     <author>
       <name>F. Scott Fitzgerald</name>
       <uri>../authors_1/authors_1406_Page_1.xml</uri>
@@ -402,11 +460,11 @@
     <link href="../book_2/book_2366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La lámpara roja [9 de septiembre de 2024]</title>
+    <title>La lámpara roja [September 9, 2024]</title>
     <id>calibre:book:2368</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/La%20lampara%20roja%20%282368%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/La%20lampara%20roja%20%282368%29/La%20lampara%20roja%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/La%20lampara%20roja%20%282368%29/La%20lampara%20roja%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="236 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -420,11 +478,11 @@
     <link href="../book_2/book_2368.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La Mandrágora [9 de septiembre de 2024]</title>
+    <title>La Mandrágora [September 9, 2024]</title>
     <id>calibre:book:2370</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/La%20Mandragora%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/La%20Mandragora%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="82 KB" />
     <author>
       <name>Nicolás Maquiavelo</name>
       <uri>../authors_1/authors_1587_Page_1.xml</uri>
@@ -438,62 +496,7 @@
     <summary>Biblioteca PruébaT [173]:</summary>
     <link href="../book_2/book_2370.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La Reina de las Nieves [9 de septiembre de 2024]</title>
-    <id>calibre:book:2367</id>
-    <updated>2024-09-09T10:34:16Z</updated>
-    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/La%20Reina%20de%20las%20Nieves%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="88 KB" />
-    <author>
-      <name>Hans Christian Andersen</name>
-      <uri>../authors_0/authors_104_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [159]:</summary>
-    <link href="../book_2/book_2367.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Sueño de la libélula [9 de septiembre de 2024]</title>
-    <id>calibre:book:2369</id>
-    <updated>2024-09-09T10:34:16Z</updated>
-    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/Sueno%20de%20la%20libelula%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="810 KB" />
-    <author>
-      <name>Natsume Sōseki</name>
-      <uri>../authors_1/authors_1633_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Otros" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [170]:</summary>
-    <link href="../book_2/book_2369.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Almohada de hierba [9 de septiembre de 2024]</title>
-    <id>calibre:book:2364</id>
-    <updated>2024-09-09T10:34:15Z</updated>
-    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/Almohada%20de%20hierba%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
-    <author>
-      <name>Natsume Sōseki</name>
-      <uri>../authors_1/authors_1633_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [160]:</summary>
-    <link href="../book_2/book_2364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

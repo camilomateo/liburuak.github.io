@@ -6,12 +6,12 @@
   <link href="./book_2636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Aires de libertad" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../authors_0/authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anne Jacobs" />
   <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+  <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
   <author>
     <name>Anne Jacobs</name>
     <uri>../authors_0/authors_194_Page_1.xml</uri>
@@ -24,18 +24,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 4 en la El Café del Ángel serie
+      Book 4 in the El Café del Ángel series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">La esperada cuarta entrega de la fascinante saga familiar de
     Anne Jacobs, autora de La Villa de las Telas.</p>
@@ -53,5 +53,5 @@
     desagradable rumor que hace que todos teman por la
     supervivencia del café...</p>
   </content>
-  <link href="../authors_0/authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Anne Jacobs" />
+  <link href="../authors_0/authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Anne Jacobs" />
 </entry>

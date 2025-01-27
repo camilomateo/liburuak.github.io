@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por V</title>
+  <title>Books starting with V</title>
   <id>Calibre2opds:allbooks:V</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por V" />
+  <link href="./allbooks_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with V" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por V" />
-  <link href="../allbooks/allbooks_V_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
+  <link href="../allbooks/allbooks_V_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
     <title>Vuelo nocturno</title>
     <id>calibre:book:2361</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="110 KB" />
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="110 KB" />
     <author>
       <name>Antoine de Saint-Exupéry</name>
       <uri>../authors_0/authors_989_Page_1.xml</uri>
@@ -39,7 +39,7 @@
     <id>calibre:book:1834</id>
     <updated>2024-08-30T02:04:06Z</updated>
     <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/Victor%20Ros%20y%20los%20secretos%20de%20ul%20-%20Jeronimo%20Tristante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/Victor%20Ros%20y%20los%20secretos%20de%20ul%20-%20Jeronimo%20Tristante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="563 KB" />
     <author>
       <name>Jerónimo Tristante</name>
       <uri>../authors_1/authors_1311_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:2782</id>
     <updated>2025-01-09T08:18:53Z</updated>
     <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/El%20vacio%20en%20el%20que%20flotas%20-%20Jorge%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/El%20vacio%20en%20el%20que%20flotas%20-%20Jorge%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
     <author>
       <name>Jorge Franco</name>
       <uri>../authors_1/authors_1820_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:1313</id>
     <updated>2024-03-21T00:44:05Z</updated>
     <link href="../../Ane%20Odriozola/El%20valle%20del%20hierro%20%281313%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ane%20Odriozola/El%20valle%20del%20hierro%20%281313%29/El%20valle%20del%20hierro%20-%20Ane%20Odriozola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="948 KB" />
+    <link href="../../Ane%20Odriozola/El%20valle%20del%20hierro%20%281313%29/El%20valle%20del%20hierro%20-%20Ane%20Odriozola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="948 KB" />
     <author>
       <name>Ane Odriozola</name>
       <uri>../authors_0/authors_955_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:2336</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/El%20valle%20del%20terror%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/El%20valle%20del%20terror%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -111,7 +111,7 @@
     <id>calibre:book:1154</id>
     <updated>2024-01-25T08:39:50Z</updated>
     <link href="../../Bernard%20Minier/El%20valle%20%281154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bernard%20Minier/El%20valle%20%281154%29/El%20valle%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <link href="../../Bernard%20Minier/El%20valle%20%281154%29/El%20valle%20-%20Bernard%20Minier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="566 KB" />
     <author>
       <name>Bernard Minier</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -128,7 +128,7 @@
     <id>calibre:book:1181</id>
     <updated>2024-02-01T09:53:29Z</updated>
     <link href="../../Johann%20Hari/El%20valor%20de%20la%20atencion%20%281181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Johann%20Hari/El%20valor%20de%20la%20atencion%20%281181%29/El%20valor%20de%20la%20atencion%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="422 KB" />
+    <link href="../../Johann%20Hari/El%20valor%20de%20la%20atencion%20%281181%29/El%20valor%20de%20la%20atencion%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="422 KB" />
     <author>
       <name>Johann Hari</name>
       <uri>../authors_0/authors_860_Page_1.xml</uri>
@@ -146,7 +146,7 @@
     <id>calibre:book:2123</id>
     <updated>2024-09-06T02:21:19Z</updated>
     <link href="../../Azorin/Los%20valores%20literarios%20%282123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Azorin/Los%20valores%20literarios%20%282123%29/Los%20valores%20literarios%20-%20Azorin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <link href="../../Azorin/Los%20valores%20literarios%20%282123%29/Los%20valores%20literarios%20-%20Azorin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="270 KB" />
     <author>
       <name>Azorín</name>
       <uri>../authors_1/authors_1507_Page_1.xml</uri>
@@ -168,7 +168,7 @@
     <id>calibre:book:2664</id>
     <updated>2024-10-22T07:58:42Z</updated>
     <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/La%20vegetariana%20-%20Kang%20Han.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="670 KB" />
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/La%20vegetariana%20-%20Kang%20Han.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="670 KB" />
     <author>
       <name>Kang Han</name>
       <uri>../authors_1/authors_1753_Page_1.xml</uri>
@@ -188,7 +188,7 @@
     <id>calibre:book:321</id>
     <updated>2023-02-16T07:03:28Z</updated>
     <link href="../../Fernando%20Aramburu/Los%20vencejos%20%28321%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Aramburu/Los%20vencejos%20%28321%29/Los%20vencejos%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Fernando%20Aramburu/Los%20vencejos%20%28321%29/Los%20vencejos%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Fernando Aramburu</name>
       <uri>../authors_0/authors_192_Page_1.xml</uri>
@@ -205,7 +205,7 @@
     <id>calibre:book:1346</id>
     <updated>2024-03-21T01:00:34Z</updated>
     <link href="../../Stephen%20Chbosky/Las%20ventajas%20de%20ser%20un%20marginado%20%281346%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20Chbosky/Las%20ventajas%20de%20ser%20un%20marginado%20%281346%29/Las%20ventajas%20de%20ser%20un%20marginad%20-%20Stephen%20Chbosky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <link href="../../Stephen%20Chbosky/Las%20ventajas%20de%20ser%20un%20marginado%20%281346%29/Las%20ventajas%20de%20ser%20un%20marginad%20-%20Stephen%20Chbosky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
     <author>
       <name>Stephen Chbosky</name>
       <uri>../authors_0/authors_985_Page_1.xml</uri>
@@ -222,7 +222,7 @@
     <id>calibre:book:924</id>
     <updated>2023-07-04T02:12:16Z</updated>
     <link href="../../Sylvain%20Tesson/Un%20verano%20con%20Rimbaud%20%28924%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sylvain%20Tesson/Un%20verano%20con%20Rimbaud%20%28924%29/Un%20verano%20con%20Rimbaud%20-%20Sylvain%20Tesson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="554 KB" />
+    <link href="../../Sylvain%20Tesson/Un%20verano%20con%20Rimbaud%20%28924%29/Un%20verano%20con%20Rimbaud%20-%20Sylvain%20Tesson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
     <author>
       <name>Sylvain Tesson</name>
       <uri>../authors_0/authors_694_Page_1.xml</uri>
@@ -239,7 +239,7 @@
     <id>calibre:book:781</id>
     <updated>2023-05-25T01:33:02Z</updated>
     <link href="../../K.%20L.%20Walther/El%20verano%20en%20el%20que%20rompimos%20las%20no%20%28781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../K.%20L.%20Walther/El%20verano%20en%20el%20que%20rompimos%20las%20no%20%28781%29/El%20verano%20en%20el%20que%20rompimos%20la%20-%20K.%20L.%20Walther.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <link href="../../K.%20L.%20Walther/El%20verano%20en%20el%20que%20rompimos%20las%20no%20%28781%29/El%20verano%20en%20el%20que%20rompimos%20la%20-%20K.%20L.%20Walther.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
       <name>K. L. Walther</name>
       <uri>../authors_0/authors_583_Page_1.xml</uri>
@@ -256,7 +256,7 @@
     <id>calibre:book:381</id>
     <updated>2023-03-04T02:11:46Z</updated>
     <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/Los%20verbos%20auxiliares%20del%20coraz%20-%20Peter%20Esterhazy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="601 KB" />
+    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/Los%20verbos%20auxiliares%20del%20coraz%20-%20Peter%20Esterhazy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="601 KB" />
     <author>
       <name>Péter Esterházy</name>
       <uri>../authors_0/authors_274_Page_1.xml</uri>
@@ -276,7 +276,7 @@
     <id>calibre:book:1496</id>
     <updated>2024-05-10T08:31:15Z</updated>
     <link href="../../Queta%20Bermejo/La%20verdad%20del%20cuervo%20%281496%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Queta%20Bermejo/La%20verdad%20del%20cuervo%20%281496%29/La%20verdad%20del%20cuervo%20-%20Queta%20Bermejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <link href="../../Queta%20Bermejo/La%20verdad%20del%20cuervo%20%281496%29/La%20verdad%20del%20cuervo%20-%20Queta%20Bermejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="236 KB" />
     <author>
       <name>Queta Bermejo</name>
       <uri>../authors_1/authors_1094_Page_1.xml</uri>
@@ -292,7 +292,7 @@
     <id>calibre:book:1898</id>
     <updated>2024-09-03T09:33:57Z</updated>
     <link href="../../Fernando%20Gomez%20Recio/La%20verdad%20no%20importa%20%281898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Gomez%20Recio/La%20verdad%20no%20importa%20%281898%29/La%20verdad%20no%20importa%20-%20Fernando%20Gomez%20Recio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="160 KB" />
+    <link href="../../Fernando%20Gomez%20Recio/La%20verdad%20no%20importa%20%281898%29/La%20verdad%20no%20importa%20-%20Fernando%20Gomez%20Recio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="160 KB" />
     <author>
       <name>Fernando Gómez Recio</name>
       <uri>../authors_1/authors_1354_Page_1.xml</uri>
@@ -308,7 +308,7 @@
     <id>calibre:book:1608</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/La%20verdad%20oculta%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/La%20verdad%20oculta%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="373 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -325,7 +325,7 @@
     <id>calibre:book:1020</id>
     <updated>2023-09-12T07:25:22Z</updated>
     <link href="../../Ragnar%20Jonasson/La%20verdad%20silenciada%20%281020%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ragnar%20Jonasson/La%20verdad%20silenciada%20%281020%29/La%20verdad%20silenciada%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <link href="../../Ragnar%20Jonasson/La%20verdad%20silenciada%20%281020%29/La%20verdad%20silenciada%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="677 KB" />
     <author>
       <name>Ragnar Jónasson</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -343,7 +343,7 @@
     <id>calibre:book:2213</id>
     <updated>2024-09-06T02:21:35Z</updated>
     <link href="../../Juan%20Ruiz%20De%20Alarcon/La%20verdad%20sospechosa%20%282213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Ruiz%20De%20Alarcon/La%20verdad%20sospechosa%20%282213%29/La%20verdad%20sospechosa%20-%20Juan%20Ruiz%20De%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="112 KB" />
+    <link href="../../Juan%20Ruiz%20De%20Alarcon/La%20verdad%20sospechosa%20%282213%29/La%20verdad%20sospechosa%20-%20Juan%20Ruiz%20De%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="112 KB" />
     <author>
       <name>Juan Ruiz De Alarcón</name>
       <uri>../authors_1/authors_1562_Page_1.xml</uri>
@@ -359,7 +359,7 @@
     <id>calibre:book:555</id>
     <updated>2023-04-11T09:33:24Z</updated>
     <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/El%20verdugo%20de%20Gaudi%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="597 KB" />
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/El%20verdugo%20de%20Gaudi%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
     <author>
       <name>Aro Sainz de la Maza</name>
       <uri>../authors_0/authors_411_Page_1.xml</uri>
@@ -376,7 +376,7 @@
     <id>calibre:book:2696</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/Los%20versos%20sueltos%20del%20Eden%20-%20Paloma%20Rivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/Los%20versos%20sueltos%20del%20Eden%20-%20Paloma%20Rivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Paloma Rivas</name>
       <uri>../authors_1/authors_1769_Page_1.xml</uri>
@@ -394,7 +394,7 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <id>calibre:book:399</id>
     <updated>2023-03-09T00:08:58Z</updated>
     <link href="../../Miguel%20Alcantud/Una%20vez%20fuimos%20famosos%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Alcantud/Una%20vez%20fuimos%20famosos%20%28399%29/Una%20vez%20fuimos%20famosos%20-%20Miguel%20Alcantud.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <link href="../../Miguel%20Alcantud/Una%20vez%20fuimos%20famosos%20%28399%29/Una%20vez%20fuimos%20famosos%20-%20Miguel%20Alcantud.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
     <author>
       <name>Miguel Alcantud</name>
       <uri>../authors_0/authors_291_Page_1.xml</uri>
@@ -411,7 +411,7 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <id>calibre:book:117</id>
     <updated>2023-01-18T00:43:32Z</updated>
     <link href="../../Ivan%20Santos/El%20viaje%20de%20los%20vivos%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ivan%20Santos/El%20viaje%20de%20los%20vivos%20%28117%29/El%20viaje%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="692 KB" />
+    <link href="../../Ivan%20Santos/El%20viaje%20de%20los%20vivos%20%28117%29/El%20viaje%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="692 KB" />
     <author>
       <name>Iván Santos</name>
       <uri>../authors_0/authors_75_Page_1.xml</uri>
@@ -430,7 +430,7 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <id>calibre:book:2218</id>
     <updated>2024-09-06T02:21:37Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/Un%20viaje%20de%20novios%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="258 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/Un%20viaje%20de%20novios%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="258 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -446,7 +446,7 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <id>calibre:book:2044</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../Jonathan%20Swift/Los%20viajes%20de%20Gulliver%20%282044%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jonathan%20Swift/Los%20viajes%20de%20Gulliver%20%282044%29/Los%20viajes%20de%20Gulliver%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <link href="../../Jonathan%20Swift/Los%20viajes%20de%20Gulliver%20%282044%29/Los%20viajes%20de%20Gulliver%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
     <author>
       <name>Jonathan Swift</name>
       <uri>../authors_1/authors_1469_Page_1.xml</uri>

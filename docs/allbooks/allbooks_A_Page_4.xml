@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
-  <link href="../allbooks/allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <link href="../allbooks/allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 10)" />
   <entry>
     <title>Amalia</title>
     <id>calibre:book:2134</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Jose%20Marmol/Amalia%20%282134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Marmol/Amalia%20%282134%29/Amalia%20-%20Jose%20Marmol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+    <link href="../../Jose%20Marmol/Amalia%20%282134%29/Amalia%20-%20Jose%20Marmol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="606 KB" />
     <author>
       <name>José Mármol</name>
       <uri>../authors_1/authors_1514_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:1565</id>
     <updated>2024-06-02T10:59:48Z</updated>
     <link href="../../Conn%20Iggulden/Amanecer%20%281565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Conn%20Iggulden/Amanecer%20%281565%29/Amanecer%20-%20Conn%20Iggulden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="900 KB" />
+    <link href="../../Conn%20Iggulden/Amanecer%20%281565%29/Amanecer%20-%20Conn%20Iggulden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="900 KB" />
     <author>
       <name>Conn Iggulden</name>
       <uri>../authors_1/authors_1144_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:1949</id>
     <updated>2024-09-05T06:10:23Z</updated>
     <link href="../../Jose%20Marti/Amistad%20funesta%20%281949%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Marti/Amistad%20funesta%20%281949%29/Amistad%20funesta%20-%20Jose%20Marti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="132 KB" />
+    <link href="../../Jose%20Marti/Amistad%20funesta%20%281949%29/Amistad%20funesta%20-%20Jose%20Marti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="132 KB" />
     <author>
       <name>José Martí</name>
       <uri>../authors_1/authors_1393_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:2198</id>
     <updated>2024-09-06T02:21:33Z</updated>
     <link href="../../Amado%20Nervo/Amnesia%20%282198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amado%20Nervo/Amnesia%20%282198%29/Amnesia%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="77 KB" />
+    <link href="../../Amado%20Nervo/Amnesia%20%282198%29/Amnesia%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="77 KB" />
     <author>
       <name>Amado Nervo</name>
       <uri>../authors_1/authors_1524_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:2180</id>
     <updated>2024-09-06T02:21:29Z</updated>
     <link href="../../Josefa%20Pujol%20de%20Collado/Amor%20de%20madre%20%282180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Josefa%20Pujol%20de%20Collado/Amor%20de%20madre%20%282180%29/Amor%20de%20madre%20-%20Josefa%20Pujol%20de%20Collado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="53 KB" />
+    <link href="../../Josefa%20Pujol%20de%20Collado/Amor%20de%20madre%20%282180%29/Amor%20de%20madre%20-%20Josefa%20Pujol%20de%20Collado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="53 KB" />
     <author>
       <name>Josefa Pujol de Collado</name>
       <uri>../authors_1/authors_1544_Page_1.xml</uri>
@@ -105,7 +105,7 @@
     <id>calibre:book:2133</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/Amor%20y%20Pedagogia%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+    <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/Amor%20y%20Pedagogia%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="159 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -121,7 +121,7 @@
     <id>calibre:book:2416</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/Amor%20y%20amistad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="289 KB" />
+    <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/Amor%20y%20amistad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="289 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -140,7 +140,7 @@
     <id>calibre:book:491</id>
     <updated>2023-04-01T02:01:56Z</updated>
     <link href="../../Elia%20Barcelo/Amores%20que%20matan%20%28491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elia%20Barcelo/Amores%20que%20matan%20%28491%29/Amores%20que%20matan%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Elia%20Barcelo/Amores%20que%20matan%20%28491%29/Amores%20que%20matan%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Elia Barceló</name>
       <uri>../authors_0/authors_245_Page_1.xml</uri>
@@ -158,7 +158,7 @@
     <id>calibre:book:680</id>
     <updated>2023-05-15T05:51:34Z</updated>
     <link href="../../Desconocido/amzyon%20size%20LL%20%28680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Desconocido/amzyon%20size%20LL%20%28680%29/amzyon%20size%20LL%20-%20Desconocido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Desconocido/amzyon%20size%20LL%20%28680%29/amzyon%20size%20LL%20-%20Desconocido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Desconocido</name>
       <uri>../authors_0/authors_103_Page_1.xml</uri>
@@ -175,7 +175,7 @@
     <id>calibre:book:1961</id>
     <updated>2024-09-05T06:10:26Z</updated>
     <link href="../../Emilia%20Serrano/America%20y%20sus%20mujeres%20%281961%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Serrano/America%20y%20sus%20mujeres%20%281961%29/America%20y%20sus%20mujeres%20-%20Emilia%20Serrano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <link href="../../Emilia%20Serrano/America%20y%20sus%20mujeres%20%281961%29/America%20y%20sus%20mujeres%20-%20Emilia%20Serrano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="149 KB" />
     <author>
       <name>Emilia Serrano</name>
       <uri>../authors_1/authors_1404_Page_1.xml</uri>
@@ -193,7 +193,7 @@
     <id>calibre:book:2293</id>
     <updated>2024-09-09T10:34:01Z</updated>
     <link href="../../Rogelio%20Guerrero/Ana%20de%20las%20tejas%20verdes%20%282293%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rogelio%20Guerrero/Ana%20de%20las%20tejas%20verdes%20%282293%29/Ana%20de%20las%20tejas%20verdes%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="359 KB" />
+    <link href="../../Rogelio%20Guerrero/Ana%20de%20las%20tejas%20verdes%20%282293%29/Ana%20de%20las%20tejas%20verdes%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="359 KB" />
     <author>
       <name>Rogelio Guerrero</name>
       <uri>../authors_1/authors_1478_Page_1.xml</uri>
@@ -211,7 +211,7 @@
     <id>calibre:book:2351</id>
     <updated>2024-09-09T10:34:13Z</updated>
     <link href="../../Confucio/Analectas%20%282351%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Confucio/Analectas%20%282351%29/Analectas%20-%20Confucio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <link href="../../Confucio/Analectas%20%282351%29/Analectas%20-%20Confucio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="126 KB" />
     <author>
       <name>Confucio</name>
       <uri>../authors_1/authors_1629_Page_1.xml</uri>
@@ -233,7 +233,7 @@
     <id>calibre:book:1743</id>
     <updated>2024-08-26T10:56:06Z</updated>
     <link href="../../Maryfer%20Centeno/Analizate%20%281743%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maryfer%20Centeno/Analizate%20%281743%29/Analizate%20-%20Maryfer%20Centeno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Maryfer%20Centeno/Analizate%20%281743%29/Analizate%20-%20Maryfer%20Centeno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Maryfer Centeno</name>
       <uri>../authors_1/authors_1248_Page_1.xml</uri>
@@ -250,7 +250,7 @@
     <id>calibre:book:1447</id>
     <updated>2024-04-20T05:25:37Z</updated>
     <link href="../../Jordi%20Wild/Anatomia%20del%20mal%20%281447%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Wild/Anatomia%20del%20mal%20%281447%29/Anatomia%20del%20mal%20-%20Jordi%20Wild.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Jordi%20Wild/Anatomia%20del%20mal%20%281447%29/Anatomia%20del%20mal%20-%20Jordi%20Wild.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Jordi Wild</name>
       <uri>../authors_0/authors_152_Page_1.xml</uri>
@@ -267,7 +267,7 @@
     <id>calibre:book:2004</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Rafael%20Delgado/Angelina%20%282004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Delgado/Angelina%20%282004%29/Angelina%20-%20Rafael%20Delgado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="347 KB" />
+    <link href="../../Rafael%20Delgado/Angelina%20%282004%29/Angelina%20-%20Rafael%20Delgado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="347 KB" />
     <author>
       <name>Rafael Delgado</name>
       <uri>../authors_1/authors_1436_Page_1.xml</uri>
@@ -283,7 +283,7 @@
     <id>calibre:book:2492</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../Anton%20Chejov/Aniuta%20%282492%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anton%20Chejov/Aniuta%20%282492%29/Aniuta%20-%20Anton%20Chejov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="52 KB" />
+    <link href="../../Anton%20Chejov/Aniuta%20%282492%29/Aniuta%20-%20Anton%20Chejov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="52 KB" />
     <author>
       <name>Antón Chéjov</name>
       <uri>../authors_1/authors_1626_Page_1.xml</uri>
@@ -299,7 +299,7 @@
     <id>calibre:book:2255</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../graf%20Leo%20Tolstoy/Anna%20Karenina%20%282255%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../graf%20Leo%20Tolstoy/Anna%20Karenina%20%282255%29/Anna%20Karenina%20-%20graf%20Leo%20Tolstoy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="783 KB" />
+    <link href="../../graf%20Leo%20Tolstoy/Anna%20Karenina%20%282255%29/Anna%20Karenina%20-%20graf%20Leo%20Tolstoy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="783 KB" />
     <author>
       <name>graf Leo Tolstoy</name>
       <uri>../authors_1/authors_1582_Page_1.xml</uri>
@@ -324,7 +324,7 @@
     <id>calibre:book:1566</id>
     <updated>2024-06-02T10:59:48Z</updated>
     <link href="../../Matthew%20Blake/Anna%20O%20%281566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Matthew%20Blake/Anna%20O%20%281566%29/Anna%20O%20-%20Matthew%20Blake.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="469 KB" />
+    <link href="../../Matthew%20Blake/Anna%20O%20%281566%29/Anna%20O%20-%20Matthew%20Blake.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="469 KB" />
     <author>
       <name>Matthew Blake</name>
       <uri>../authors_1/authors_1145_Page_1.xml</uri>
@@ -341,7 +341,7 @@
     <id>calibre:book:2494</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../Julio%20Verne/Ante%20la%20bandera%20%282494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/Ante%20la%20bandera%20%282494%29/Ante%20la%20bandera%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="205 KB" />
+    <link href="../../Julio%20Verne/Ante%20la%20bandera%20%282494%29/Ante%20la%20bandera%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="205 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -357,7 +357,7 @@
     <id>calibre:book:2495</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../Franz%20Kafka/Ante%20la%20ley%20%282495%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Franz%20Kafka/Ante%20la%20ley%20%282495%29/Ante%20la%20ley%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="67 KB" />
+    <link href="../../Franz%20Kafka/Ante%20la%20ley%20%282495%29/Ante%20la%20ley%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="67 KB" />
     <author>
       <name>Franz Kafka</name>
       <uri>../authors_1/authors_1575_Page_1.xml</uri>
@@ -373,7 +373,7 @@
     <id>calibre:book:1229</id>
     <updated>2024-02-22T06:03:56Z</updated>
     <link href="../../Mari%20Jungstedt/Antes%20de%20que%20lleguen%20las%20nubes%20%281229%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/Antes%20de%20que%20lleguen%20las%20nubes%20%281229%29/Antes%20de%20que%20lleguen%20las%20nubes%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Mari%20Jungstedt/Antes%20de%20que%20lleguen%20las%20nubes%20%281229%29/Antes%20de%20que%20lleguen%20las%20nubes%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>
@@ -391,7 +391,7 @@
     <id>calibre:book:713</id>
     <updated>2023-05-17T01:10:40Z</updated>
     <link href="../../Toshikazu%20Kawaguchi/Antes%20de%20que%20se%20enfrie%20el%20cafe%20%28713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Toshikazu%20Kawaguchi/Antes%20de%20que%20se%20enfrie%20el%20cafe%20%28713%29/Antes%20de%20que%20se%20enfrie%20el%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="11 MB" />
+    <link href="../../Toshikazu%20Kawaguchi/Antes%20de%20que%20se%20enfrie%20el%20cafe%20%28713%29/Antes%20de%20que%20se%20enfrie%20el%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
     <author>
       <name>Toshikazu Kawaguchi</name>
       <uri>../authors_0/authors_526_Page_1.xml</uri>
@@ -409,7 +409,7 @@
     <id>calibre:book:826</id>
     <updated>2023-06-06T10:53:48Z</updated>
     <link href="../../Fernando%20J.%20Munez/Antes%20se%20secara%20la%20tierra%20%28826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20J.%20Munez/Antes%20se%20secara%20la%20tierra%20%28826%29/Antes%20se%20secara%20la%20tierra%20-%20Fernando%20J.%20Munez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="567 KB" />
+    <link href="../../Fernando%20J.%20Munez/Antes%20se%20secara%20la%20tierra%20%28826%29/Antes%20se%20secara%20la%20tierra%20-%20Fernando%20J.%20Munez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="567 KB" />
     <author>
       <name>Fernando J. Múñez</name>
       <uri>../authors_0/authors_617_Page_1.xml</uri>
@@ -426,7 +426,7 @@
     <id>calibre:book:2468</id>
     <updated>2024-09-09T10:34:37Z</updated>
     <link href="../../Sophocles/Antigone%20%282468%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sophocles/Antigone%20%282468%29/Antigone%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <link href="../../Sophocles/Antigone%20%282468%29/Antigone%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="82 KB" />
     <author>
       <name>Sophocles</name>
       <uri>../authors_1/authors_1649_Page_1.xml</uri>
@@ -442,7 +442,7 @@
     <id>calibre:book:2672</id>
     <updated>2024-10-22T08:04:37Z</updated>
     <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/Antologia%20Poetica%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/Antologia%20Poetica%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
     <author>
       <name>Mario Benedetti</name>
       <uri>../authors_1/authors_1754_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Richard Osman</title>
+  <title>All books by Richard Osman</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_777_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Richard Osman" />
+  <link href="./authors_777_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Richard Osman" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
-  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with O" />
   <link href="./authors_777_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Richard Osman" />
   <entry>
     <title>El Club del Crimen de los Jueves</title>
     <id>calibre:book:1190</id>
     <updated>2024-02-01T10:12:45Z</updated>
     <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/El%20Club%20del%20Crimen%20de%20los%20Jueve%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/El%20Club%20del%20Crimen%20de%20los%20Jueve%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Richard Osman</name>
       <uri>../authors_0/authors_777_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1064</id>
     <updated>2023-11-05T04:16:29Z</updated>
     <link href="../../Richard%20Osman/El%20jueves%20siguiente%20%281064%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Osman/El%20jueves%20siguiente%20%281064%29/El%20jueves%20siguiente%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="971 KB" />
+    <link href="../../Richard%20Osman/El%20jueves%20siguiente%20%281064%29/El%20jueves%20siguiente%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="971 KB" />
     <author>
       <name>Richard Osman</name>
       <uri>../authors_0/authors_777_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:1189</id>
     <updated>2024-02-01T10:11:15Z</updated>
     <link href="../../Richard%20Osman/El%20misterio%20de%20la%20bala%20perdida%20%281189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Osman/El%20misterio%20de%20la%20bala%20perdida%20%281189%29/El%20misterio%20de%20la%20bala%20perdida%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="933 KB" />
+    <link href="../../Richard%20Osman/El%20misterio%20de%20la%20bala%20perdida%20%281189%29/El%20misterio%20de%20la%20bala%20perdida%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="933 KB" />
     <author>
       <name>Richard Osman</name>
       <uri>../authors_0/authors_777_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:1814</id>
     <updated>2024-08-27T09:37:06Z</updated>
     <link href="../../Richard%20Osman/El%20ultimo%20en%20morir%20%281814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Osman/El%20ultimo%20en%20morir%20%281814%29/El%20ultimo%20en%20morir%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="927 KB" />
+    <link href="../../Richard%20Osman/El%20ultimo%20en%20morir%20%281814%29/El%20ultimo%20en%20morir%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="927 KB" />
     <author>
       <name>Richard Osman</name>
       <uri>../authors_0/authors_777_Page_1.xml</uri>

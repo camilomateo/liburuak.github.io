@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Esquilo</title>
+  <title>All books by Esquilo</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1623_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Esquilo" />
+  <link href="./authors_1623_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Esquilo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
-  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por E" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
   <link href="./authors_1623_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Esquilo" />
   <entry>
     <title>Agamenón</title>
     <id>calibre:book:2339</id>
     <updated>2024-09-09T10:34:10Z</updated>
     <link href="../../Esquilo/Agamenon%20%282339%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Agamenon%20%282339%29/Agamenon%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <link href="../../Esquilo/Agamenon%20%282339%29/Agamenon%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="100 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:2342</id>
     <updated>2024-09-09T10:34:11Z</updated>
     <link href="../../Esquilo/Las%20coeforas%20%282342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="97 KB" />
+    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="97 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:2343</id>
     <updated>2024-09-09T10:34:11Z</updated>
     <link href="../../Esquilo/Las%20eumenides%20%282343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="79 KB" />
+    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="79 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:2429</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Esquilo/Los%20persas%20%282429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="74 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -93,7 +93,7 @@
     <id>calibre:book:2426</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="98 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>

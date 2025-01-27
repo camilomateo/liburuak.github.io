@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por M</title>
+  <title>Books starting with M</title>
   <id>Calibre2opds:allbooks:M</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="./allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
+  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 10)" />
   <entry>
     <title>Milena o el fémur más bello del mundo</title>
     <id>calibre:book:435</id>
     <updated>2023-03-20T05:50:06Z</updated>
     <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/Milena%20o%20el%20femur%20mas%20bello%20del%20-%20Jorge%20Zepeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../Jorge%20Zepeda/Milena%20o%20el%20femur%20mas%20bello%20del%20mun%20%28435%29/Milena%20o%20el%20femur%20mas%20bello%20del%20-%20Jorge%20Zepeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>Jorge Zepeda</name>
       <uri>../authors_0/authors_324_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:1472</id>
     <updated>2024-04-30T05:13:16Z</updated>
     <link href="../../Cristina%20Sanabria/Mind%20the%20Gap%20%281472%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristina%20Sanabria/Mind%20the%20Gap%20%281472%29/Mind%20the%20Gap%20-%20Cristina%20Sanabria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="386 KB" />
+    <link href="../../Cristina%20Sanabria/Mind%20the%20Gap%20%281472%29/Mind%20the%20Gap%20-%20Cristina%20Sanabria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="386 KB" />
     <author>
       <name>Cristina Sanabria</name>
       <uri>../authors_1/authors_1077_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:298</id>
     <updated>2023-02-13T08:25:36Z</updated>
     <link href="../../Annie%20Ernaux/Mira%20las%20luces%2C%20amor%20mio%20%28298%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Annie%20Ernaux/Mira%20las%20luces%2C%20amor%20mio%20%28298%29/Mira%20las%20luces%2C%20amor%20mio%20-%20Annie%20Ernaux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <link href="../../Annie%20Ernaux/Mira%20las%20luces%2C%20amor%20mio%20%28298%29/Mira%20las%20luces%2C%20amor%20mio%20-%20Annie%20Ernaux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="507 KB" />
     <author>
       <name>Annie Ernaux</name>
       <uri>../authors_0/authors_206_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:1183</id>
     <updated>2024-02-01T09:56:45Z</updated>
     <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/Mis%20_primos_.%20El%20suceso%20mas%20imp%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="11 MB" />
+    <link href="../../J.%20J.%20Benitez/Mis%20_primos_.%20El%20suceso%20mas%20importa%20%281183%29/Mis%20_primos_.%20El%20suceso%20mas%20imp%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:1277</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Martin%20Kordic/Mis%20anos%20con%20Martha%20%281277%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Martin%20Kordic/Mis%20anos%20con%20Martha%20%281277%29/Mis%20anos%20con%20Martha%20-%20Martin%20Kordic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="317 KB" />
+    <link href="../../Martin%20Kordic/Mis%20anos%20con%20Martha%20%281277%29/Mis%20anos%20con%20Martha%20-%20Martin%20Kordic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="317 KB" />
     <author>
       <name>Martin Kordić</name>
       <uri>../authors_0/authors_930_Page_1.xml</uri>
@@ -104,7 +104,7 @@
     <id>calibre:book:1330</id>
     <updated>2024-03-21T01:00:30Z</updated>
     <link href="../../Rafuel/Mis%20mejores%20recetas%20%281330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafuel/Mis%20mejores%20recetas%20%281330%29/Mis%20mejores%20recetas%20-%20Rafuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Rafuel/Mis%20mejores%20recetas%20%281330%29/Mis%20mejores%20recetas%20-%20Rafuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Rafuel</name>
       <uri>../authors_0/authors_971_Page_1.xml</uri>
@@ -121,7 +121,7 @@
     <id>calibre:book:679</id>
     <updated>2023-05-15T05:51:34Z</updated>
     <link href="../../Dolores%20Reyes/Miseria%20%28679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Reyes/Miseria%20%28679%29/Miseria%20-%20Dolores%20Reyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <link href="../../Dolores%20Reyes/Miseria%20%28679%29/Miseria%20-%20Dolores%20Reyes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
       <name>Dolores Reyes</name>
       <uri>../authors_0/authors_505_Page_1.xml</uri>
@@ -138,7 +138,7 @@
     <id>calibre:book:176</id>
     <updated>2023-01-26T07:08:12Z</updated>
     <link href="../../Silvia%20Garcia%20Ruiz/Mision_%20una%20llamada%20a%20tu%20corazon%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Garcia%20Ruiz/Mision_%20una%20llamada%20a%20tu%20corazon%20%28176%29/Mision_%20una%20llamada%20a%20tu%20corazo%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <link href="../../Silvia%20Garcia%20Ruiz/Mision_%20una%20llamada%20a%20tu%20corazon%20%28176%29/Mision_%20una%20llamada%20a%20tu%20corazo%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
       <name>Silvia García Ruiz</name>
       <uri>../authors_0/authors_114_Page_1.xml</uri>
@@ -155,7 +155,7 @@
     <id>calibre:book:467</id>
     <updated>2023-03-24T09:44:12Z</updated>
     <link href="../../VV.%20AA_/Miss%20Marple.%20Doce%20casos%20nuevos%20%28467%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../VV.%20AA_/Miss%20Marple.%20Doce%20casos%20nuevos%20%28467%29/Miss%20Marple.%20Doce%20casos%20nuevos%20-%20VV.%20AA_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <link href="../../VV.%20AA_/Miss%20Marple.%20Doce%20casos%20nuevos%20%28467%29/Miss%20Marple.%20Doce%20casos%20nuevos%20-%20VV.%20AA_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="518 KB" />
     <author>
       <name>VV. AA.</name>
       <uri>../authors_0/authors_350_Page_1.xml</uri>
@@ -172,7 +172,7 @@
     <id>calibre:book:2360</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Charles%20Dickens/El%20Misterio%20de%20Edwin%20Drood%20%282360%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/El%20Misterio%20de%20Edwin%20Drood%20%282360%29/El%20Misterio%20de%20Edwin%20Drood%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="302 KB" />
+    <link href="../../Charles%20Dickens/El%20Misterio%20de%20Edwin%20Drood%20%282360%29/El%20Misterio%20de%20Edwin%20Drood%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="302 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -190,7 +190,7 @@
     <id>calibre:book:1349</id>
     <updated>2024-03-21T01:00:34Z</updated>
     <link href="../../Ellery%20Adams/Misterio%20en%20el%20club%20de%20lectura%20%281349%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ellery%20Adams/Misterio%20en%20el%20club%20de%20lectura%20%281349%29/Misterio%20en%20el%20club%20de%20lectura%20-%20Ellery%20Adams.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="929 KB" />
+    <link href="../../Ellery%20Adams/Misterio%20en%20el%20club%20de%20lectura%20%281349%29/Misterio%20en%20el%20club%20de%20lectura%20-%20Ellery%20Adams.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="929 KB" />
     <author>
       <name>Ellery Adams</name>
       <uri>../authors_0/authors_988_Page_1.xml</uri>
@@ -210,7 +210,7 @@
     <id>calibre:book:1750</id>
     <updated>2024-08-26T10:56:07Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/Misterioso%20asesinato%20en%20casa%20de%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <link href="../../Juan%20Eslava%20Galan/Misterioso%20asesinato%20en%20casa%20de%20Cer%20%281750%29/Misterioso%20asesinato%20en%20casa%20de%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -227,7 +227,7 @@
     <id>calibre:book:2098</id>
     <updated>2024-09-06T02:09:13Z</updated>
     <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/Misterioso%20barco%20a%20la%20deriva%20re%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="67 KB" />
+    <link href="../../Lovecraft/Misterioso%20barco%20a%20la%20deriva%20rescat%20%282098%29/Misterioso%20barco%20a%20la%20deriva%20re%20-%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="67 KB" />
     <author>
       <name>Lovecraft</name>
       <uri>../authors_1/authors_1492_Page_1.xml</uri>
@@ -249,7 +249,7 @@
     <id>calibre:book:2035</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -265,7 +265,7 @@
     <id>calibre:book:2071</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/The%20Modern%20Prometheus%20-%20Mary%20Shelley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/The%20Modern%20Prometheus%20-%20Mary%20Shelley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Mary Shelley</name>
       <uri>../authors_1/authors_1482_Page_1.xml</uri>
@@ -297,7 +297,7 @@
     <id>calibre:book:227</id>
     <updated>2023-01-27T00:04:00Z</updated>
     <link href="../../V.%20S.%20Naipaul/Momentos%20literarios%20%28227%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../V.%20S.%20Naipaul/Momentos%20literarios%20%28227%29/Momentos%20literarios%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
+    <link href="../../V.%20S.%20Naipaul/Momentos%20literarios%20%28227%29/Momentos%20literarios%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="511 KB" />
     <author>
       <name>V. S. Naipaul</name>
       <uri>../authors_0/authors_154_Page_1.xml</uri>
@@ -314,7 +314,7 @@
     <id>calibre:book:1347</id>
     <updated>2024-03-21T01:00:34Z</updated>
     <link href="../../Michael%20Ende/Momo%20%281347%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Ende/Momo%20%281347%29/Momo%20-%20Michael%20Ende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Michael%20Ende/Momo%20%281347%29/Momo%20-%20Michael%20Ende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Michael Ende</name>
       <uri>../authors_0/authors_986_Page_1.xml</uri>
@@ -332,7 +332,7 @@
     <id>calibre:book:1118</id>
     <updated>2024-01-08T09:16:15Z</updated>
     <link href="../../Carlos%20Bardem/Mongo%20Blanco%20%281118%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Bardem/Mongo%20Blanco%20%281118%29/Mongo%20Blanco%20-%20Carlos%20Bardem.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Carlos%20Bardem/Mongo%20Blanco%20%281118%29/Mongo%20Blanco%20-%20Carlos%20Bardem.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Carlos Bardem</name>
       <uri>../authors_0/authors_821_Page_1.xml</uri>
@@ -349,7 +349,7 @@
     <id>calibre:book:2223</id>
     <updated>2024-09-06T02:21:37Z</updated>
     <link href="../../Vicente%20Riva%20Palacio/Monja%20y%20Casada%2C%20Virgen%20y%20Martir%20%282223%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Riva%20Palacio/Monja%20y%20Casada%2C%20Virgen%20y%20Martir%20%282223%29/Monja%20y%20Casada%2C%20Virgen%20y%20Martir%20-%20Vicente%20Riva%20Palacio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
+    <link href="../../Vicente%20Riva%20Palacio/Monja%20y%20Casada%2C%20Virgen%20y%20Martir%20%282223%29/Monja%20y%20Casada%2C%20Virgen%20y%20Martir%20-%20Vicente%20Riva%20Palacio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="511 KB" />
     <author>
       <name>Vicente Riva Palacio</name>
       <uri>../authors_1/authors_1451_Page_1.xml</uri>
@@ -365,7 +365,7 @@
     <id>calibre:book:159</id>
     <updated>2023-01-22T06:00:08Z</updated>
     <link href="../../Iris%20Murdoch/Monjas%20y%20soldados%20%28159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Iris%20Murdoch/Monjas%20y%20soldados%20%28159%29/Monjas%20y%20soldados%20-%20Iris%20Murdoch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="953 KB" />
+    <link href="../../Iris%20Murdoch/Monjas%20y%20soldados%20%28159%29/Monjas%20y%20soldados%20-%20Iris%20Murdoch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="953 KB" />
     <author>
       <name>Iris Murdoch</name>
       <uri>../authors_0/authors_102_Page_1.xml</uri>
@@ -382,7 +382,7 @@
     <id>calibre:book:281</id>
     <updated>2023-02-03T08:44:56Z</updated>
     <link href="../../Robin%20Sharma/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20%28281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robin%20Sharma/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20%28281%29/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20-%20Robin%20Sharma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="148 KB" />
+    <link href="../../Robin%20Sharma/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20%28281%29/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20-%20Robin%20Sharma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="148 KB" />
     <author>
       <name>Robin Sharma</name>
       <uri>../authors_0/authors_190_Page_1.xml</uri>
@@ -399,7 +399,7 @@
     <id>calibre:book:1257</id>
     <updated>2024-03-01T02:15:57Z</updated>
     <link href="../../Leticia%20Dolera/Morder%20la%20manzana_%20La%20revolucion%20se%20%281257%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leticia%20Dolera/Morder%20la%20manzana_%20La%20revolucion%20se%20%281257%29/Morder%20la%20manzana_%20La%20revolucio%20-%20Leticia%20Dolera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="369 KB" />
+    <link href="../../Leticia%20Dolera/Morder%20la%20manzana_%20La%20revolucion%20se%20%281257%29/Morder%20la%20manzana_%20La%20revolucio%20-%20Leticia%20Dolera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="369 KB" />
     <author>
       <name>Leticia Dolera</name>
       <uri>../authors_0/authors_918_Page_1.xml</uri>
@@ -416,7 +416,7 @@
     <id>calibre:book:1382</id>
     <updated>2024-04-03T00:30:04Z</updated>
     <link href="../../Tess%20Gerritsen/Morir%20dos%20veces%20%281382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tess%20Gerritsen/Morir%20dos%20veces%20%281382%29/Morir%20dos%20veces%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Tess%20Gerritsen/Morir%20dos%20veces%20%281382%29/Morir%20dos%20veces%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Tess Gerritsen</name>
       <uri>../authors_0/authors_16_Page_1.xml</uri>
@@ -432,7 +432,7 @@
     <id>calibre:book:494</id>
     <updated>2023-04-01T02:01:58Z</updated>
     <link href="../../Ines%20Plana%20Gine/Morir%20no%20es%20lo%20que%20mas%20duele%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Plana%20Gine/Morir%20no%20es%20lo%20que%20mas%20duele%20%28494%29/Morir%20no%20es%20lo%20que%20mas%20duele%20-%20Ines%20Plana%20Gine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <link href="../../Ines%20Plana%20Gine/Morir%20no%20es%20lo%20que%20mas%20duele%20%28494%29/Morir%20no%20es%20lo%20que%20mas%20duele%20-%20Ines%20Plana%20Gine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="537 KB" />
     <author>
       <name>Inés Plana Giné</name>
       <uri>../authors_0/authors_365_Page_1.xml</uri>
@@ -449,7 +449,7 @@
     <id>calibre:book:2615</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/Mortalmente%20vivo%20-%20Javier%20Santiso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="344 KB" />
+    <link href="../../Javier%20Santiso/Mortalmente%20vivo%20%282615%29/Mortalmente%20vivo%20-%20Javier%20Santiso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
     <author>
       <name>Javier Santiso</name>
       <uri>../authors_1/authors_1717_Page_1.xml</uri>

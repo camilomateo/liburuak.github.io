@@ -6,12 +6,12 @@
   <link href="./book_1030.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Polvo y sombra" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../authors_0/authors_760_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Antonio Manzini" />
   <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/Polvo%20y%20sombra%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="528 KB" />
+  <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/Polvo%20y%20sombra%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="528 KB" />
   <author>
     <name>Antonio Manzini</name>
     <uri>../authors_0/authors_760_Page_1.xml</uri>
@@ -24,18 +24,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 6 en la Subjefe Rocco Schiavone serie
+      Book 6 in the Subjefe Rocco Schiavone series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>El buen tiempo no acaba de llegar a Aosta y el subjefe
@@ -71,6 +71,6 @@
       </p>
     </div>
   </content>
-  <link href="../series_0/series_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 6 en la Subjefe Rocco Schiavone serie" />
-  <link href="../authors_0/authors_760_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Antonio Manzini" />
+  <link href="../series_0/series_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 6 in the Subjefe Rocco Schiavone series" />
+  <link href="../authors_0/authors_760_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Antonio Manzini" />
 </entry>

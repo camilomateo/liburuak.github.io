@@ -6,12 +6,12 @@
   <link href="./book_1779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="En la mente del hipnotista" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <link href="../authors_1/authors_1279_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lars Kepler" />
   <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+  <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
   <author>
     <name>Lars Kepler</name>
     <uri>../authors_1/authors_1279_Page_1.xml</uri>
@@ -26,18 +26,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 5 en la Joona Linna serie
+      Book 5 in the Joona Linna series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Policial, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Un asesino en serie conmociona a la sociedad sueca: graba a
     sus víctimas instantes antes de matarlas y cuelga los
@@ -62,5 +62,5 @@
     muevas: la pareja reina del thriller psicológico te
     dejará sin aliento.</p>
   </content>
-  <link href="../authors_1/authors_1279_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Lars Kepler" />
+  <link href="../authors_1/authors_1279_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lars Kepler" />
 </entry>

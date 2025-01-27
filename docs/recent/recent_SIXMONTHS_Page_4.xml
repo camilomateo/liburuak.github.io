@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,73 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 15)" />
   <entry>
-    <title>Nuestro cuerpo [16 de septiembre de 2024]</title>
+    <title>Una tienda en Chicken Hill [September 17, 2024]</title>
+    <id>calibre:book:2607</id>
+    <updated>2024-09-17T00:24:16Z</updated>
+    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/Una%20tienda%20en%20Chicken%20Hill%20-%20James%20McBride.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="602 KB" />
+    <author>
+      <name>James McBride</name>
+      <uri>../authors_1/authors_1712_Page_1.xml</uri>
+    </author>
+    <published>2024-07-09T11:03:18Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una inolvidable historia de solidaridad y humanidad entre distintas comunidades en los Estados Unidos de 1930.«Su mejor libro.» Ann Patchett«Una de esas novelas que se convierten en parte de ti. … Su mejor obra.» Harlan Coben«Adoré este libro.» Bonni...</summary>
+    <link href="../book_2/book_2607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El puente [September 16, 2024]</title>
+    <id>calibre:book:2604</id>
+    <updated>2024-09-16T10:50:31Z</updated>
+    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angel%20Osuna/El%20puente%20%282604%29/El%20puente%20-%20Angel%20Osuna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="399 KB" />
+    <author>
+      <name>Ángel Osuna</name>
+      <uri>../authors_1/authors_1709_Page_1.xml</uri>
+    </author>
+    <published>2024-09-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Con esta intriga cargada de acción y de ritmo trepidante, Ángel G. Osuna irrumpe con contundencia en el panorama del noir español para ahondar en lo más mezquino y cruel del alma humana. «Con gran olfato para lo más negro, respeto por la construcción...</summary>
+    <link href="../book_2/book_2604.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La muerte contada por un sapiens a un neandertal [September 16, 2024]</title>
+    <id>calibre:book:2602</id>
+    <updated>2024-09-16T10:50:28Z</updated>
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Jose%20Millas/La%20muerte%20contada%20por%20un%20sapiens%20a%20%282602%29/La%20muerte%20contada%20por%20un%20sapien%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
+    <author>
+      <name>Juan José Millás</name>
+      <uri>../authors_0/authors_461_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Juan Luis Arsuaga</name>
+      <uri>../authors_1/authors_1708_Page_1.xml</uri>
+    </author>
+    <published>2022-02-23T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelven el sapiens y el neandertal, vuelve «la fiesta de la inteligencia» (David Broncano) «En la naturaleza no hay vejez, no hay decrepitud. Solo hay plenitud o muerte». «Nos encantaría descubrir que cada especie tiene un reloj biológico en sus célu...</summary>
+    <link href="../book_2/book_2602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nuestro cuerpo [September 16, 2024]</title>
     <id>calibre:book:2601</id>
     <updated>2024-09-16T10:50:28Z</updated>
     <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/Nuestro%20cuerpo%20-%20Juan%20Luis%20Arsuaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Juan%20Luis%20Arsuaga/Nuestro%20cuerpo%20%282601%29/Nuestro%20cuerpo%20-%20Juan%20Luis%20Arsuaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Juan Luis Arsuaga</name>
       <uri>../authors_1/authors_1708_Page_1.xml</uri>
@@ -32,11 +87,11 @@
     <link href="../book_2/book_2601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La vida contada por un sapiens a un neandertal [16 de septiembre de 2024]</title>
+    <title>La vida contada por un sapiens a un neandertal [September 16, 2024]</title>
     <id>calibre:book:2603</id>
     <updated>2024-09-16T10:50:28Z</updated>
     <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/La%20vida%20contada%20por%20un%20sapiens%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/La%20vida%20contada%20por%20un%20sapiens%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Juan José Millás</name>
       <uri>../authors_0/authors_461_Page_1.xml</uri>
@@ -54,11 +109,11 @@
     <link href="../book_2/book_2603.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Enciclopedia Eslava [12 de septiembre de 2024]</title>
+    <title>Enciclopedia Eslava [September 12, 2024]</title>
     <id>calibre:book:2594</id>
     <updated>2024-09-17T00:25:56Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -71,11 +126,11 @@
     <link href="../book_2/book_2594.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Historia absurda de Cataluña [12 de septiembre de 2024]</title>
+    <title>Historia absurda de Cataluña [September 12, 2024]</title>
     <id>calibre:book:2596</id>
     <updated>2024-09-12T03:39:22Z</updated>
     <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/Historia%20absurda%20de%20Cataluna%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Cataluna%20%282596%29/Historia%20absurda%20de%20Cataluna%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
     <author>
       <name>Ad Absurdum</name>
       <uri>../authors_1/authors_1699_Page_1.xml</uri>
@@ -88,11 +143,11 @@
     <link href="../book_2/book_2596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Séneca [12 de septiembre de 2024]</title>
+    <title>Séneca [September 12, 2024]</title>
     <id>calibre:book:2595</id>
     <updated>2024-09-12T03:39:21Z</updated>
     <link href="../../Alberto%20Monterroso/Seneca%20%282595%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Monterroso/Seneca%20%282595%29/Seneca%20-%20Alberto%20Monterroso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Alberto%20Monterroso/Seneca%20%282595%29/Seneca%20-%20Alberto%20Monterroso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Alberto Monterroso</name>
       <uri>../authors_1/authors_1707_Page_1.xml</uri>
@@ -105,11 +160,11 @@
     <link href="../book_2/book_2595.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Alta cocina en tu mesa [12 de septiembre de 2024]</title>
+    <title>Alta cocina en tu mesa [September 12, 2024]</title>
     <id>calibre:book:2593</id>
     <updated>2024-09-12T03:39:21Z</updated>
     <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/Alta%20cocina%20en%20tu%20mesa%20-%20Le%20Cordon%20Bleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="38 MB" />
+    <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/Alta%20cocina%20en%20tu%20mesa%20-%20Le%20Cordon%20Bleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="38 MB" />
     <author>
       <name>Le Cordon Bleu</name>
       <uri>../authors_1/authors_1706_Page_1.xml</uri>
@@ -122,11 +177,11 @@
     <link href="../book_2/book_2593.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Conseguirlo Juntos [12 de septiembre de 2024]</title>
+    <title>Conseguirlo Juntos [September 12, 2024]</title>
     <id>calibre:book:2592</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/Conseguirlo%20Juntos%20-%20Shelby%20Rhodes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/Conseguirlo%20Juntos%20-%20Shelby%20Rhodes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Shelby Rhodes</name>
       <uri>../authors_1/authors_1705_Page_1.xml</uri>
@@ -138,11 +193,11 @@
     <link href="../book_2/book_2592.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El ladrón de cuerpos [12 de septiembre de 2024]</title>
+    <title>El ladrón de cuerpos [September 12, 2024]</title>
     <id>calibre:book:2591</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Luis%20David%20Perez/El%20ladron%20de%20cuerpos%20%282591%29/El%20ladron%20de%20cuerpos%20-%20Luis%20David%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Luis David Pérez</name>
       <uri>../authors_0/authors_475_Page_1.xml</uri>
@@ -155,11 +210,11 @@
     <link href="../book_2/book_2591.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El aprendiz [12 de septiembre de 2024]</title>
+    <title>El aprendiz [September 12, 2024]</title>
     <id>calibre:book:2588</id>
     <updated>2024-09-12T03:39:19Z</updated>
     <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -176,11 +231,11 @@
     <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La amante del médico [12 de septiembre de 2024]</title>
+    <title>La amante del médico [September 12, 2024]</title>
     <id>calibre:book:2589</id>
     <updated>2024-09-12T03:39:19Z</updated>
     <link href="../../Daniel%20Hurst/La%20amante%20del%20medico%20%282589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Hurst/La%20amante%20del%20medico%20%282589%29/La%20amante%20del%20medico%20-%20Daniel%20Hurst.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <link href="../../Daniel%20Hurst/La%20amante%20del%20medico%20%282589%29/La%20amante%20del%20medico%20-%20Daniel%20Hurst.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="449 KB" />
     <author>
       <name>Daniel Hurst</name>
       <uri>../authors_1/authors_1704_Page_1.xml</uri>
@@ -194,11 +249,11 @@
     <link href="../book_2/book_2589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Malherida [12 de septiembre de 2024]</title>
+    <title>Malherida [September 12, 2024]</title>
     <id>calibre:book:2590</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Raul%20Garbantes/Malherida%20%282590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/Malherida%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="429 KB" />
+    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/Malherida%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -214,11 +269,11 @@
     <link href="../book_2/book_2590.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Crónica de la lumbre [12 de septiembre de 2024]</title>
+    <title>Crónica de la lumbre [September 12, 2024]</title>
     <id>calibre:book:2586</id>
     <updated>2024-09-12T03:39:18Z</updated>
     <link href="../../Geney%20Beltran/Cronica%20de%20la%20lumbre%20%282586%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Geney%20Beltran/Cronica%20de%20la%20lumbre%20%282586%29/Cronica%20de%20la%20lumbre%20-%20Geney%20Beltran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="627 KB" />
+    <link href="../../Geney%20Beltran/Cronica%20de%20la%20lumbre%20%282586%29/Cronica%20de%20la%20lumbre%20-%20Geney%20Beltran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="627 KB" />
     <author>
       <name>Geney Beltrán</name>
       <uri>../authors_1/authors_1702_Page_1.xml</uri>
@@ -231,11 +286,11 @@
     <link href="../book_2/book_2586.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Todos aquellos mares [12 de septiembre de 2024]</title>
+    <title>Todos aquellos mares [September 12, 2024]</title>
     <id>calibre:book:2585</id>
     <updated>2024-09-12T03:39:18Z</updated>
     <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/Todos%20aquellos%20mares%20-%20Laia%20Aguilar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="241 KB" />
+    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/Todos%20aquellos%20mares%20-%20Laia%20Aguilar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="241 KB" />
     <author>
       <name>Laia Aguilar</name>
       <uri>../authors_1/authors_1701_Page_1.xml</uri>
@@ -248,11 +303,11 @@
     <link href="../book_2/book_2585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Todos tienen razón [12 de septiembre de 2024]</title>
+    <title>Todos tienen razón [September 12, 2024]</title>
     <id>calibre:book:2587</id>
     <updated>2024-09-12T03:39:19Z</updated>
     <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/Todos%20tienen%20razon%20-%20Paolo%20Sorrentino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="338 KB" />
+    <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/Todos%20tienen%20razon%20-%20Paolo%20Sorrentino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
     <author>
       <name>Paolo Sorrentino</name>
       <uri>../authors_1/authors_1703_Page_1.xml</uri>
@@ -265,11 +320,11 @@
     <link href="../book_2/book_2587.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Historia absurda de España [12 de septiembre de 2024]</title>
+    <title>Historia absurda de España [September 12, 2024]</title>
     <id>calibre:book:2583</id>
     <updated>2024-09-12T03:39:17Z</updated>
     <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/Historia%20absurda%20de%20Espana%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/Historia%20absurda%20de%20Espana%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ad Absurdum</name>
       <uri>../authors_1/authors_1699_Page_1.xml</uri>
@@ -282,11 +337,11 @@
     <link href="../book_2/book_2583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Nela 1979 [12 de septiembre de 2024]</title>
+    <title>Nela 1979 [September 12, 2024]</title>
     <id>calibre:book:2584</id>
     <updated>2024-09-12T03:39:18Z</updated>
     <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/Nela%201979%20-%20Juan%20Trejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="281 KB" />
+    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/Nela%201979%20-%20Juan%20Trejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="281 KB" />
     <author>
       <name>Juan Trejo</name>
       <uri>../authors_1/authors_1700_Page_1.xml</uri>
@@ -299,11 +354,11 @@
     <link href="../book_2/book_2584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Adiós, muy buenas [11 de septiembre de 2024]</title>
+    <title>Adiós, muy buenas [September 11, 2024]</title>
     <id>calibre:book:2582</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="314 KB" />
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="314 KB" />
     <author>
       <name>Xavier Sardà</name>
       <uri>../authors_1/authors_1698_Page_1.xml</uri>
@@ -316,11 +371,11 @@
     <link href="../book_2/book_2582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Atormentada [11 de septiembre de 2024]</title>
+    <title>Atormentada [September 11, 2024]</title>
     <id>calibre:book:2581</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/Atormentada%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/Atormentada%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -333,11 +388,11 @@
     <link href="../book_2/book_2581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Añoranza del héroe [11 de septiembre de 2024]</title>
+    <title>Añoranza del héroe [September 11, 2024]</title>
     <id>calibre:book:2579</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Jose%20Ovejero/Anoranza%20del%20heroe%20%282579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Ovejero/Anoranza%20del%20heroe%20%282579%29/Anoranza%20del%20heroe%20-%20Jose%20Ovejero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="365 KB" />
+    <link href="../../Jose%20Ovejero/Anoranza%20del%20heroe%20%282579%29/Anoranza%20del%20heroe%20-%20Jose%20Ovejero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
     <author>
       <name>José Ovejero</name>
       <uri>../authors_1/authors_1697_Page_1.xml</uri>
@@ -351,11 +406,11 @@
     <link href="../book_2/book_2579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El día que sientas el latir de las estrellas [11 de septiembre de 2024]</title>
+    <title>El día que sientas el latir de las estrellas [September 11, 2024]</title>
     <id>calibre:book:2578</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="376 KB" />
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
     <author>
       <name>Paola Calasanz</name>
       <uri>../authors_1/authors_1696_Page_1.xml</uri>
@@ -368,11 +423,11 @@
     <link href="../book_2/book_2578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Hopeless. Tocando el cielo [11 de septiembre de 2024]</title>
+    <title>Hopeless. Tocando el cielo [September 11, 2024]</title>
     <id>calibre:book:2580</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -388,11 +443,11 @@
     <link href="../book_2/book_2580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El clan [11 de septiembre de 2024]</title>
+    <title>El clan [September 11, 2024]</title>
     <id>calibre:book:2573</id>
     <updated>2024-09-26T00:25:38Z</updated>
     <link href="../../Carmen%20Mola/El%20clan%20%282573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/El%20clan%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/El%20clan%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
     <author>
       <name>Carmen Mola</name>
       <uri>../authors_0/authors_68_Page_1.xml</uri>
@@ -405,59 +460,7 @@
     <summary>Inspectora Elena Blanco [5]: Magnífica, brutal y enormemente adictiva, Carmen Mola se supera en el esperado desenlace de la serie Inspectora Elena Blanco.Cuando morir no importa, todo está permitido. Elena Blanco , inspectora de la Brigada de Análisi...</summary>
     <link href="../book_2/book_2573.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Invencible [11 de septiembre de 2024]</title>
-    <id>calibre:book:2577</id>
-    <updated>2024-09-11T03:29:02Z</updated>
-    <link href="../../Pascal%20Ruter/Invencible%20%282577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pascal%20Ruter/Invencible%20%282577%29/Invencible%20-%20Pascal%20Ruter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="360 KB" />
-    <author>
-      <name>Pascal Ruter</name>
-      <uri>../authors_1/authors_1695_Page_1.xml</uri>
-    </author>
-    <published>2019-04-24T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La tierna complicidad entre un anciano rebelde y su nieto los embarcará en una aventura entrañable en la que juntos se rebelarán  contra todo lo que resta diversión a la vida. Todos los nietos adoran a sus abuelos, pero no todos los abuelos son  como...</summary>
-    <link href="../book_2/book_2577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>No quieras nada vil [11 de septiembre de 2024]</title>
-    <id>calibre:book:2574</id>
-    <updated>2024-09-11T03:29:01Z</updated>
-    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Florencia%20Bonelli/No%20quieras%20nada%20vil%20%282574%29/No%20quieras%20nada%20vil%20-%20Florencia%20Bonelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="591 KB" />
-    <author>
-      <name>Florencia Bonelli</name>
-      <uri>../authors_1/authors_1693_Page_1.xml</uri>
-    </author>
-    <published>2024-05-27T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Planteta</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="La casa neville" />
-    <summary>La casa neville [2]: La continuación de una historia de traiciones, engaños y un amor que resiste.Decidida y sagaz, Manon Neville se consolida como la cabeza de la poderosa Casa Neville. Al tiempo que su influencia se extiende, sus enemigos urden nue...</summary>
-    <link href="../book_2/book_2574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Playa Bagdad [11 de septiembre de 2024]</title>
-    <id>calibre:book:2575</id>
-    <updated>2024-09-11T03:29:01Z</updated>
-    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/Playa%20Bagdad%20-%20Antonio%20Ramos%20Revillas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Antonio Ramos Revillas</name>
-      <uri>../authors_1/authors_1694_Page_1.xml</uri>
-    </author>
-    <published>2024-07-15T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«¿Qué es la memoria? Un barril semienterrado en la arena, agua dulceque se enreda con salada, tramos de arena sucia que nadie ha pisado.»Marcelo y Miguel, los hermanos Santiago, están unidos por una complicidad que solo surge al compartir los primero...</summary>
-    <link href="../book_2/book_2575.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Michael Connelly</title>
+  <title>All books by Michael Connelly</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,23 +8,23 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_229_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Michael Connelly" />
+  <link href="./authors_229_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Michael Connelly" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="./authors_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Michael Connelly" />
   <entry>
     <title>El eco negro</title>
     <id>calibre:book:968</id>
     <updated>2023-08-16T05:29:00Z</updated>
     <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/El%20eco%20negro%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="794 KB" />
+    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/El%20eco%20negro%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="794 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -42,7 +42,7 @@
     <id>calibre:book:2815</id>
     <updated>2025-01-20T11:21:17Z</updated>
     <link href="../../Michael%20Connelly/La%20espera%20%282815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/La%20espera%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="431 KB" />
+    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/La%20espera%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="431 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -59,7 +59,7 @@
     <id>calibre:book:976</id>
     <updated>2023-08-16T05:29:08Z</updated>
     <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/Estrella%20del%20desierto%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/Estrella%20del%20desierto%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="546 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -77,7 +77,7 @@
     <id>calibre:book:323</id>
     <updated>2023-02-16T07:13:42Z</updated>
     <link href="../../Michael%20Connelly/Las%20horas%20oscuras%20%28323%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/Las%20horas%20oscuras%20%28323%29/Las%20horas%20oscuras%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="601 KB" />
+    <link href="../../Michael%20Connelly/Las%20horas%20oscuras%20%28323%29/Las%20horas%20oscuras%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="601 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -94,7 +94,7 @@
     <id>calibre:book:995</id>
     <updated>2023-08-23T02:48:36Z</updated>
     <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/Noche%20sagrada%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <link href="../../Michael%20Connelly/Noche%20sagrada%20%28995%29/Noche%20sagrada%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>
@@ -111,7 +111,7 @@
     <id>calibre:book:2819</id>
     <updated>2025-01-20T11:21:18Z</updated>
     <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/El%20quinto%20testigo%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <link href="../../Michael%20Connelly/El%20quinto%20testigo%20%282819%29/El%20quinto%20testigo%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
     <author>
       <name>Michael Connelly</name>
       <uri>../authors_0/authors_229_Page_1.xml</uri>

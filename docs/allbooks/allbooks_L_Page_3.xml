@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por L</title>
+  <title>Books starting with L</title>
   <id>Calibre2opds:allbooks:L</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por L" />
+  <link href="./allbooks_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with L" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por L" />
-  <link href="../allbooks/allbooks_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
+  <link href="../allbooks/allbooks_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 7)" />
   <entry>
     <title>Legado mortal</title>
     <id>calibre:book:1633</id>
     <updated>2024-06-22T02:04:40Z</updated>
     <link href="../../Mary%20Higgins%20Clark/Legado%20mortal%20%281633%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mary%20Higgins%20Clark/Legado%20mortal%20%281633%29/Legado%20mortal%20-%20Mary%20Higgins%20Clark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="350 KB" />
+    <link href="../../Mary%20Higgins%20Clark/Legado%20mortal%20%281633%29/Legado%20mortal%20-%20Mary%20Higgins%20Clark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="350 KB" />
     <author>
       <name>Mary Higgins Clark</name>
       <uri>../authors_1/authors_1179_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:2072</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Washington%20Irving/The%20Legend%20of%20Sleepy%20Hollow%20%282072%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Washington%20Irving/The%20Legend%20of%20Sleepy%20Hollow%20%282072%29/The%20Legend%20of%20Sleepy%20Hollow%20-%20Washington%20Irving.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="95 KB" />
+    <link href="../../Washington%20Irving/The%20Legend%20of%20Sleepy%20Hollow%20%282072%29/The%20Legend%20of%20Sleepy%20Hollow%20-%20Washington%20Irving.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="95 KB" />
     <author>
       <name>Washington Irving</name>
       <uri>../authors_1/authors_1483_Page_1.xml</uri>
@@ -62,7 +62,7 @@
     <id>calibre:book:147</id>
     <updated>2023-01-19T08:55:24Z</updated>
     <link href="../../Luz%20Gabas/Lejos%20de%20Luisiana%20%28147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luz%20Gabas/Lejos%20de%20Luisiana%20%28147%29/Lejos%20de%20Luisiana%20-%20Luz%20Gabas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Luz%20Gabas/Lejos%20de%20Luisiana%20%28147%29/Lejos%20de%20Luisiana%20-%20Luz%20Gabas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Luz Gabás</name>
       <uri>../authors_0/authors_94_Page_1.xml</uri>
@@ -79,7 +79,7 @@
     <id>calibre:book:1784</id>
     <updated>2024-08-26T10:56:15Z</updated>
     <link href="../../Mick%20Herron/Leones%20muertos%20%281784%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mick%20Herron/Leones%20muertos%20%281784%29/Leones%20muertos%20-%20Mick%20Herron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <link href="../../Mick%20Herron/Leones%20muertos%20%281784%29/Leones%20muertos%20-%20Mick%20Herron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="565 KB" />
     <author>
       <name>Mick Herron</name>
       <uri>../authors_1/authors_1283_Page_1.xml</uri>
@@ -97,7 +97,7 @@
     <id>calibre:book:2491</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/Les%20Miserables%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/Les%20Miserables%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -113,7 +113,7 @@
     <id>calibre:book:452</id>
     <updated>2023-03-23T11:00:42Z</updated>
     <link href="../../Andrew%20Sean%20Greer/Less%20esta%20perdido%20%28452%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrew%20Sean%20Greer/Less%20esta%20perdido%20%28452%29/Less%20esta%20perdido%20-%20Andrew%20Sean%20Greer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="728 KB" />
+    <link href="../../Andrew%20Sean%20Greer/Less%20esta%20perdido%20%28452%29/Less%20esta%20perdido%20-%20Andrew%20Sean%20Greer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="728 KB" />
     <author>
       <name>Andrew Sean Greer</name>
       <uri>../authors_0/authors_337_Page_1.xml</uri>
@@ -130,7 +130,7 @@
     <id>calibre:book:2537</id>
     <updated>2024-09-09T10:34:52Z</updated>
     <link href="../../Voltaire/Letters%20on%20England%20%282537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="159 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -164,7 +164,7 @@
     <id>calibre:book:2047</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../Gustavo%20Adolfo%20Becquer/Leyendas%20%282047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gustavo%20Adolfo%20Becquer/Leyendas%20%282047%29/Leyendas%20-%20Gustavo%20Adolfo%20Becquer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <link href="../../Gustavo%20Adolfo%20Becquer/Leyendas%20%282047%29/Leyendas%20-%20Gustavo%20Adolfo%20Becquer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
     <author>
       <name>Gustavo Adolfo Bécquer</name>
       <uri>../authors_1/authors_1471_Page_1.xml</uri>
@@ -182,7 +182,7 @@
     <id>calibre:book:2225</id>
     <updated>2024-09-06T02:21:38Z</updated>
     <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/Leyendas%20de%20las%20calles%20de%20Mejic%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="390 KB" />
+    <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/Leyendas%20de%20las%20calles%20de%20Mejic%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="390 KB" />
     <author>
       <name>Juan de Dios Peza</name>
       <uri>../authors_1/authors_1539_Page_1.xml</uri>
@@ -198,7 +198,7 @@
     <id>calibre:book:1303</id>
     <updated>2024-03-15T09:08:17Z</updated>
     <link href="../../Inaki%20Pinuel/Libertad%20Zero%20%281303%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Inaki%20Pinuel/Libertad%20Zero%20%281303%29/Libertad%20Zero%20-%20Inaki%20Pinuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="387 KB" />
+    <link href="../../Inaki%20Pinuel/Libertad%20Zero%20%281303%29/Libertad%20Zero%20-%20Inaki%20Pinuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="387 KB" />
     <author>
       <name>Iñaki Piñuel</name>
       <uri>../authors_0/authors_947_Page_1.xml</uri>
@@ -215,7 +215,7 @@
     <id>calibre:book:557</id>
     <updated>2023-04-11T09:33:26Z</updated>
     <link href="../../Lea%20Ypi/Libre%20%28557%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lea%20Ypi/Libre%20%28557%29/Libre%20-%20Lea%20Ypi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <link href="../../Lea%20Ypi/Libre%20%28557%29/Libre%20-%20Lea%20Ypi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="543 KB" />
     <author>
       <name>Lea Ypi</name>
       <uri>../authors_0/authors_413_Page_1.xml</uri>
@@ -232,7 +232,7 @@
     <id>calibre:book:115</id>
     <updated>2023-01-18T00:43:30Z</updated>
     <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/El%20Libro%20de%20los%20Baltimore%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="638 KB" />
+    <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/El%20Libro%20de%20los%20Baltimore%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="638 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -249,7 +249,7 @@
     <id>calibre:book:137</id>
     <updated>2023-01-18T06:28:18Z</updated>
     <link href="../../Federico%20Garcia%20Lorca/Libro%20de%20poemas%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/Libro%20de%20poemas%20%28137%29/Libro%20de%20poemas%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Federico%20Garcia%20Lorca/Libro%20de%20poemas%20%28137%29/Libro%20de%20poemas%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Federico García Lorca</name>
       <uri>../authors_0/authors_85_Page_1.xml</uri>
@@ -265,7 +265,7 @@
     <id>calibre:book:2352</id>
     <updated>2024-09-09T10:34:13Z</updated>
     <link href="../../Fernando%20Pessoa/Libro%20del%20desasosiego%20%282352%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Pessoa/Libro%20del%20desasosiego%20%282352%29/Libro%20del%20desasosiego%20-%20Fernando%20Pessoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="365 KB" />
+    <link href="../../Fernando%20Pessoa/Libro%20del%20desasosiego%20%282352%29/Libro%20del%20desasosiego%20-%20Fernando%20Pessoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
     <author>
       <name>Fernando Pessoa</name>
       <uri>../authors_1/authors_1630_Page_1.xml</uri>
@@ -283,7 +283,7 @@
     <id>calibre:book:740</id>
     <updated>2023-05-17T02:00:10Z</updated>
     <link href="../../Bego%20La%20Ordenatriz/Limpieza%2C%20orden%20y%20felicidad%20%28740%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bego%20La%20Ordenatriz/Limpieza%2C%20orden%20y%20felicidad%20%28740%29/Limpieza%2C%20orden%20y%20felicidad%20-%20Bego%20La%20Ordenatriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Bego%20La%20Ordenatriz/Limpieza%2C%20orden%20y%20felicidad%20%28740%29/Limpieza%2C%20orden%20y%20felicidad%20-%20Bego%20La%20Ordenatriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Bego La Ordenatriz</name>
       <uri>../authors_0/authors_554_Page_1.xml</uri>
@@ -301,7 +301,7 @@
     <id>calibre:book:2066</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Helen%20Bannerman/Little%20Black%20Sambo%20%282066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Helen%20Bannerman/Little%20Black%20Sambo%20%282066%29/Little%20Black%20Sambo%20-%20Helen%20Bannerman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Helen%20Bannerman/Little%20Black%20Sambo%20%282066%29/Little%20Black%20Sambo%20-%20Helen%20Bannerman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Helen Bannerman</name>
       <uri>../authors_1/authors_1481_Page_1.xml</uri>
@@ -330,7 +330,7 @@
     <id>calibre:book:2065</id>
     <updated>2024-09-06T02:09:06Z</updated>
     <link href="../../Florence%20White%20Williams/The%20Little%20Red%20Hen%20_%20An%20Old%20English%20%282065%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Florence%20White%20Williams/The%20Little%20Red%20Hen%20_%20An%20Old%20English%20%282065%29/The%20Little%20Red%20Hen%20_%20An%20Old%20Eng%20-%20Florence%20White%20Williams.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Florence%20White%20Williams/The%20Little%20Red%20Hen%20_%20An%20Old%20English%20%282065%29/The%20Little%20Red%20Hen%20_%20An%20Old%20Eng%20-%20Florence%20White%20Williams.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Florence White Williams</name>
       <uri>../authors_1/authors_1480_Page_1.xml</uri>
@@ -353,7 +353,7 @@
     <id>calibre:book:2069</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/Little%20Women%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="517 KB" />
+    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/Little%20Women%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="517 KB" />
     <author>
       <name>Louisa May Alcott</name>
       <uri>../authors_1/authors_1467_Page_1.xml</uri>
@@ -389,7 +389,7 @@
     <id>calibre:book:1310</id>
     <updated>2024-03-21T00:44:04Z</updated>
     <link href="../../Kate%20London/Llamada%20de%20emergencia%20%281310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kate%20London/Llamada%20de%20emergencia%20%281310%29/Llamada%20de%20emergencia%20-%20Kate%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="754 KB" />
+    <link href="../../Kate%20London/Llamada%20de%20emergencia%20%281310%29/Llamada%20de%20emergencia%20-%20Kate%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="754 KB" />
     <author>
       <name>Kate London</name>
       <uri>../authors_0/authors_952_Page_1.xml</uri>
@@ -407,7 +407,7 @@
     <id>calibre:book:1386</id>
     <updated>2024-04-03T00:30:06Z</updated>
     <link href="../../Santiago%20Diaz%20Morlan/Llovera%20tierra%20seca%20sobre%20Annual%20%281386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santiago%20Diaz%20Morlan/Llovera%20tierra%20seca%20sobre%20Annual%20%281386%29/Llovera%20tierra%20seca%20sobre%20Annua%20-%20Santiago%20Diaz%20Morlan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Santiago%20Diaz%20Morlan/Llovera%20tierra%20seca%20sobre%20Annual%20%281386%29/Llovera%20tierra%20seca%20sobre%20Annua%20-%20Santiago%20Diaz%20Morlan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Santiago Díaz Morlán</name>
       <uri>../authors_1/authors_1019_Page_1.xml</uri>
@@ -422,7 +422,7 @@
     <id>calibre:book:1361</id>
     <updated>2024-04-03T00:29:59Z</updated>
     <link href="../../Luis%20Landero/Lluvia%20fina%20%281361%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Landero/Lluvia%20fina%20%281361%29/Lluvia%20fina%20-%20Luis%20Landero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="394 KB" />
+    <link href="../../Luis%20Landero/Lluvia%20fina%20%281361%29/Lluvia%20fina%20-%20Luis%20Landero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
     <author>
       <name>Luis Landero</name>
       <uri>../authors_0/authors_996_Page_1.xml</uri>
@@ -439,7 +439,7 @@
     <id>calibre:book:1451</id>
     <updated>2024-04-20T05:29:27Z</updated>
     <link href="../../Maria%20Neves/Llevame%20toda%20la%20noche%20%281451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Neves/Llevame%20toda%20la%20noche%20%281451%29/Llevame%20toda%20la%20noche%20-%20Maria%20Neves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="93 KB" />
+    <link href="../../Maria%20Neves/Llevame%20toda%20la%20noche%20%281451%29/Llevame%20toda%20la%20noche%20-%20Maria%20Neves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="93 KB" />
     <author>
       <name>Maria Neves</name>
       <uri>../authors_1/authors_1059_Page_1.xml</uri>
@@ -455,7 +455,7 @@
     <id>calibre:book:1301</id>
     <updated>2024-03-15T09:08:17Z</updated>
     <link href="../../Dra.%20Vidales/Lo%20mio%20no%20es%20hambre%2C%20es%20ansiedad%20%281301%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dra.%20Vidales/Lo%20mio%20no%20es%20hambre%2C%20es%20ansiedad%20%281301%29/Lo%20mio%20no%20es%20hambre%2C%20es%20ansieda%20-%20Dra.%20Vidales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="198 KB" />
+    <link href="../../Dra.%20Vidales/Lo%20mio%20no%20es%20hambre%2C%20es%20ansiedad%20%281301%29/Lo%20mio%20no%20es%20hambre%2C%20es%20ansieda%20-%20Dra.%20Vidales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="198 KB" />
     <author>
       <name>Dra. Vidales</name>
       <uri>../authors_0/authors_945_Page_1.xml</uri>
@@ -474,7 +474,7 @@
     <id>calibre:book:1230</id>
     <updated>2024-02-22T06:03:56Z</updated>
     <link href="../../Peter%20Cameron/Lo%20que%20pasa%20de%20noche%20%281230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Peter%20Cameron/Lo%20que%20pasa%20de%20noche%20%281230%29/Lo%20que%20pasa%20de%20noche%20-%20Peter%20Cameron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Peter%20Cameron/Lo%20que%20pasa%20de%20noche%20%281230%29/Lo%20que%20pasa%20de%20noche%20-%20Peter%20Cameron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Peter Cameron</name>
       <uri>../authors_0/authors_895_Page_1.xml</uri>
@@ -491,7 +491,7 @@
     <id>calibre:book:331</id>
     <updated>2023-02-16T07:17:46Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/Loba%20negra%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="622 KB" />
+    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/Loba%20negra%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="622 KB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>

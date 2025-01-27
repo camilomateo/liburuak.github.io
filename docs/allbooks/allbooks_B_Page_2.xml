@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por B</title>
+  <title>Books starting with B</title>
   <id>Calibre2opds:allbooks:B</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por B" />
+  <link href="./allbooks_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with B" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por B" />
-  <link href="../allbooks/allbooks_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 3)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with B" />
+  <link href="../allbooks/allbooks_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Blues para un planeta azul</title>
+    <id>calibre:book:212</id>
+    <updated>2023-01-27T10:32:28Z</updated>
+    <link href="../../Juan%20Fueyo/Blues%20para%20un%20planeta%20azul%20%28212%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Fueyo/Blues%20para%20un%20planeta%20azul%20%28212%29/Blues%20para%20un%20planeta%20azul%20-%20Juan%20Fueyo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="942 KB" />
+    <author>
+      <name>Juan Fueyo</name>
+      <uri>../authors_0/authors_139_Page_1.xml</uri>
+    </author>
+    <published>2022-09-02T08:01:12Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Cómo impacta el cambio climático en la salud y en el cáncer?Por el autor de Viral. Escrito con una claridad extraordinaria, Blues para un planeta azul plantea, de modo conmovedor y elocuente, uno de los problemas más apremiantes de la actualidad. En...</summary>
+    <link href="../book_0/book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Bodas de sangre</title>
     <id>calibre:book:2191</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Federico%20Garcia%20Lorca/Bodas%20de%20sangre%20%282191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/Bodas%20de%20sangre%20%282191%29/Bodas%20de%20sangre%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="92 KB" />
+    <link href="../../Federico%20Garcia%20Lorca/Bodas%20de%20sangre%20%282191%29/Bodas%20de%20sangre%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="92 KB" />
     <author>
       <name>Federico García Lorca</name>
       <uri>../authors_0/authors_85_Page_1.xml</uri>
@@ -37,7 +54,7 @@
     <id>calibre:book:1579</id>
     <updated>2024-06-02T10:59:52Z</updated>
     <link href="../../Sofia%20Balbuena/Borracha%20menor%20%281579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofia%20Balbuena/Borracha%20menor%20%281579%29/Borracha%20menor%20-%20Sofia%20Balbuena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="375 KB" />
+    <link href="../../Sofia%20Balbuena/Borracha%20menor%20%281579%29/Borracha%20menor%20-%20Sofia%20Balbuena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
     <author>
       <name>Sofía Balbuena</name>
       <uri>../authors_1/authors_1151_Page_1.xml</uri>
@@ -54,7 +71,7 @@
     <id>calibre:book:1145</id>
     <updated>2024-01-16T06:00:20Z</updated>
     <link href="../../Jose%20A.%20Kapelo/Bossi_%20Jaque%20mate%20%281145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20A.%20Kapelo/Bossi_%20Jaque%20mate%20%281145%29/Bossi_%20Jaque%20mate%20-%20Jose%20A.%20Kapelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="8 MB" />
+    <link href="../../Jose%20A.%20Kapelo/Bossi_%20Jaque%20mate%20%281145%29/Bossi_%20Jaque%20mate%20-%20Jose%20A.%20Kapelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="8 MB" />
     <author>
       <name>José A. Kapelo</name>
       <uri>../authors_0/authors_835_Page_1.xml</uri>
@@ -72,7 +89,7 @@
     <id>calibre:book:1561</id>
     <updated>2024-06-02T10:59:47Z</updated>
     <link href="../../Fernando%20Garcia%20de%20Cortazar/Breve%20historia%20de%20Espana%20%281561%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Garcia%20de%20Cortazar/Breve%20historia%20de%20Espana%20%281561%29/Breve%20historia%20de%20Espana%20-%20Fernando%20Garcia%20de%20Cortazar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Fernando%20Garcia%20de%20Cortazar/Breve%20historia%20de%20Espana%20%281561%29/Breve%20historia%20de%20Espana%20-%20Fernando%20Garcia%20de%20Cortazar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Fernando García de Cortázar</name>
       <uri>../authors_1/authors_1139_Page_1.xml</uri>
@@ -93,7 +110,7 @@
     <id>calibre:book:1710</id>
     <updated>2024-08-06T10:52:12Z</updated>
     <link href="../../Sara%20Rattaro/Brilla%20todo%20lo%20que%20puedas%20%281710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sara%20Rattaro/Brilla%20todo%20lo%20que%20puedas%20%281710%29/Brilla%20todo%20lo%20que%20puedas%20-%20Sara%20Rattaro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <link href="../../Sara%20Rattaro/Brilla%20todo%20lo%20que%20puedas%20%281710%29/Brilla%20todo%20lo%20que%20puedas%20-%20Sara%20Rattaro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
     <author>
       <name>Sara Rattaro</name>
       <uri>../authors_1/authors_1225_Page_1.xml</uri>
@@ -110,7 +127,7 @@
     <id>calibre:book:846</id>
     <updated>2023-06-12T01:23:28Z</updated>
     <link href="../../Jesus%20Terres/Buscaba%20la%20belleza%20%28846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jesus%20Terres/Buscaba%20la%20belleza%20%28846%29/Buscaba%20la%20belleza%20-%20Jesus%20Terres.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <link href="../../Jesus%20Terres/Buscaba%20la%20belleza%20%28846%29/Buscaba%20la%20belleza%20-%20Jesus%20Terres.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
     <author>
       <name>Jesús Terrés</name>
       <uri>../authors_0/authors_636_Page_1.xml</uri>
@@ -127,7 +144,7 @@
     <id>calibre:book:371</id>
     <updated>2023-03-03T08:31:26Z</updated>
     <link href="../../Danielle%20Steel/Buscando%20a%20Ashley%20%28371%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Danielle%20Steel/Buscando%20a%20Ashley%20%28371%29/Buscando%20a%20Ashley%20-%20Danielle%20Steel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <link href="../../Danielle%20Steel/Buscando%20a%20Ashley%20%28371%29/Buscando%20a%20Ashley%20-%20Danielle%20Steel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="684 KB" />
     <author>
       <name>Danielle Steel</name>
       <uri>../authors_0/authors_265_Page_1.xml</uri>
@@ -144,7 +161,7 @@
     <id>calibre:book:2161</id>
     <updated>2024-09-06T02:21:26Z</updated>
     <link href="../../Francisco%20de%20Quevedo/El%20Buscon%20%282161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20de%20Quevedo/El%20Buscon%20%282161%29/El%20Buscon%20-%20Francisco%20de%20Quevedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="187 KB" />
+    <link href="../../Francisco%20de%20Quevedo/El%20Buscon%20%282161%29/El%20Buscon%20-%20Francisco%20de%20Quevedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="187 KB" />
     <author>
       <name>Francisco de Quevedo</name>
       <uri>../authors_1/authors_1530_Page_1.xml</uri>
@@ -162,7 +179,7 @@
     <id>calibre:book:1611</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Matilde%20Serao/La%20bailarina%20%281611%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Matilde%20Serao/La%20bailarina%20%281611%29/La%20bailarina%20-%20Matilde%20Serao.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="913 KB" />
+    <link href="../../Matilde%20Serao/La%20bailarina%20%281611%29/La%20bailarina%20-%20Matilde%20Serao.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="913 KB" />
     <author>
       <name>Matilde Serao</name>
       <uri>../authors_1/authors_1170_Page_1.xml</uri>
@@ -180,7 +197,7 @@
     <id>calibre:book:208</id>
     <updated>2023-01-27T08:44:28Z</updated>
     <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/El%20baile%20de%20la%20niebla%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="696 KB" />
+    <link href="../../Kamilla%20Oresvard/El%20baile%20de%20la%20niebla%20%28208%29/El%20baile%20de%20la%20niebla%20-%20Kamilla%20Oresvard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="696 KB" />
     <author>
       <name>Kamilla Oresvärd</name>
       <uri>../authors_0/authors_135_Page_1.xml</uri>
@@ -198,7 +215,7 @@
     <id>calibre:book:2299</id>
     <updated>2024-09-09T10:34:02Z</updated>
     <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/El%20baile%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="83 KB" />
+    <link href="../../Irene%20Nemirovsky/El%20baile%20%282299%29/El%20baile%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="83 KB" />
     <author>
       <name>Irène Némirovsky</name>
       <uri>../authors_1/authors_1037_Page_1.xml</uri>
@@ -216,7 +233,7 @@
     <id>calibre:book:228</id>
     <updated>2023-01-27T00:04:02Z</updated>
     <link href="../../Mario%20Viciosa/Las%20ballenas%20cantan%20jazz%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Viciosa/Las%20ballenas%20cantan%20jazz%20%28228%29/Las%20ballenas%20cantan%20jazz%20-%20Mario%20Viciosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="19 MB" />
+    <link href="../../Mario%20Viciosa/Las%20ballenas%20cantan%20jazz%20%28228%29/Las%20ballenas%20cantan%20jazz%20-%20Mario%20Viciosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="19 MB" />
     <author>
       <name>Mario Viciosa</name>
       <uri>../authors_0/authors_155_Page_1.xml</uri>
@@ -233,7 +250,7 @@
     <id>calibre:book:1167</id>
     <updated>2024-01-25T08:39:52Z</updated>
     <link href="../../Pilar%20Sanchez%20Vicente/La%20banda%20del%20botox%20%281167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pilar%20Sanchez%20Vicente/La%20banda%20del%20botox%20%281167%29/La%20banda%20del%20botox%20-%20Pilar%20Sanchez%20Vicente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="232 KB" />
+    <link href="../../Pilar%20Sanchez%20Vicente/La%20banda%20del%20botox%20%281167%29/La%20banda%20del%20botox%20-%20Pilar%20Sanchez%20Vicente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="232 KB" />
     <author>
       <name>Pilar Sánchez Vicente</name>
       <uri>../authors_0/authors_851_Page_1.xml</uri>
@@ -250,7 +267,7 @@
     <id>calibre:book:2196</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Payno%2C%20Manuel/Los%20bandidos%20de%20Rio%20Frio%20%282196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Payno%2C%20Manuel/Los%20bandidos%20de%20Rio%20Frio%20%282196%29/Los%20bandidos%20de%20Rio%20Frio%20-%20Payno%2C%20Manuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Payno%2C%20Manuel/Los%20bandidos%20de%20Rio%20Frio%20%282196%29/Los%20bandidos%20de%20Rio%20Frio%20-%20Payno%2C%20Manuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Payno, Manuel</name>
       <uri>../authors_1/authors_1554_Page_1.xml</uri>
@@ -268,7 +285,7 @@
     <id>calibre:book:1962</id>
     <updated>2024-09-05T06:10:26Z</updated>
     <link href="../../Platon/El%20banquete%20%281962%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Platon/El%20banquete%20%281962%29/El%20banquete%20-%20Platon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="100 KB" />
+    <link href="../../Platon/El%20banquete%20%281962%29/El%20banquete%20-%20Platon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="100 KB" />
     <author>
       <name>Platón</name>
       <uri>../authors_0/authors_84_Page_1.xml</uri>
@@ -286,7 +303,7 @@
     <id>calibre:book:425</id>
     <updated>2023-03-14T04:53:28Z</updated>
     <link href="../../Agustin%20Laje/La%20batalla%20cultural%20%28425%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Agustin%20Laje/La%20batalla%20cultural%20%28425%29/La%20batalla%20cultural%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <link href="../../Agustin%20Laje/La%20batalla%20cultural%20%28425%29/La%20batalla%20cultural%20-%20Agustin%20Laje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
     <author>
       <name>Agustin Laje</name>
       <uri>../authors_0/authors_313_Page_1.xml</uri>
@@ -302,7 +319,7 @@
     <id>calibre:book:1327</id>
     <updated>2024-03-21T01:00:29Z</updated>
     <link href="../../Sergi%20Rufi/La%20belleza%20de%20la%20rareza%20%281327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergi%20Rufi/La%20belleza%20de%20la%20rareza%20%281327%29/La%20belleza%20de%20la%20rareza%20-%20Sergi%20Rufi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="690 KB" />
+    <link href="../../Sergi%20Rufi/La%20belleza%20de%20la%20rareza%20%281327%29/La%20belleza%20de%20la%20rareza%20-%20Sergi%20Rufi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="690 KB" />
     <author>
       <name>Sergi Rufi</name>
       <uri>../authors_0/authors_968_Page_1.xml</uri>
@@ -319,7 +336,7 @@
     <id>calibre:book:51</id>
     <updated>2023-01-17T10:49:48Z</updated>
     <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/Los%20besos%20en%20el%20pan%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="476 KB" />
+    <link href="../../Almudena%20Grandes/Los%20besos%20en%20el%20pan%20%2851%29/Los%20besos%20en%20el%20pan%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -332,11 +349,28 @@
     <link href="../book_0/book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>La biblioteca feminista de Virginia Woolf</title>
+    <id>calibre:book:2833</id>
+    <updated>2025-01-26T11:50:53Z</updated>
+    <link href="../../Virginia%20Woolf/La%20biblioteca%20feminista%20de%20Virginia%20%282833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginia%20Woolf/La%20biblioteca%20feminista%20de%20Virginia%20%282833%29/La%20biblioteca%20feminista%20de%20Virg%20-%20Virginia%20Woolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Virginia Woolf</name>
+      <uri>../authors_1/authors_1260_Page_1.xml</uri>
+    </author>
+    <published>2024-12-14T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SAGA Egmont</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Esta colección imprescindible reúne siete de las obras más emblemáticas de Virginia Woolf, una de las figuras literarias más influyentes del siglo XX. Cada novela ofrece una ventana única al innovador estilo narrativo y la profunda exploración psicol...</summary>
+    <link href="../book_2/book_2833.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Un bien relativo</title>
     <id>calibre:book:1417</id>
     <updated>2024-04-09T11:16:46Z</updated>
     <link href="../../Teresa%20Cardona/Un%20bien%20relativo%20%281417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Teresa%20Cardona/Un%20bien%20relativo%20%281417%29/Un%20bien%20relativo%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="483 KB" />
+    <link href="../../Teresa%20Cardona/Un%20bien%20relativo%20%281417%29/Un%20bien%20relativo%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="483 KB" />
     <author>
       <name>Teresa Cardona</name>
       <uri>../authors_0/authors_4_Page_1.xml</uri>
@@ -353,7 +387,7 @@
     <id>calibre:book:33</id>
     <updated>2023-01-17T10:20:14Z</updated>
     <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/El%20blanco%20circulo%20del%20miedo%20-%20Rafael%20Escuredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+    <link href="../../Rafael%20Escuredo/El%20blanco%20circulo%20del%20miedo%20%2833%29/El%20blanco%20circulo%20del%20miedo%20-%20Rafael%20Escuredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="590 KB" />
     <author>
       <name>Rafael Escuredo</name>
       <uri>../authors_0/authors_26_Page_1.xml</uri>
@@ -370,7 +404,7 @@
     <id>calibre:book:2108</id>
     <updated>2024-09-06T02:21:16Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/La%20bodega%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="304 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/La%20bodega%20%282108%29/La%20bodega%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="304 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -397,7 +431,7 @@
     <id>calibre:book:881</id>
     <updated>2023-06-22T03:04:24Z</updated>
     <link href="../../Eloy%20Moreno/El%20boligrafo%20de%20gel%20verde%20%28881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eloy%20Moreno/El%20boligrafo%20de%20gel%20verde%20%28881%29/El%20boligrafo%20de%20gel%20verde%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <link href="../../Eloy%20Moreno/El%20boligrafo%20de%20gel%20verde%20%28881%29/El%20boligrafo%20de%20gel%20verde%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
     <author>
       <name>Eloy Moreno</name>
       <uri>../authors_0/authors_377_Page_1.xml</uri>
@@ -416,7 +450,7 @@
     <id>calibre:book:1871</id>
     <updated>2024-09-02T04:41:23Z</updated>
     <link href="../../Eleanor%20Catton/El%20bosque%20Birnam%20%281871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eleanor%20Catton/El%20bosque%20Birnam%20%281871%29/El%20bosque%20Birnam%20-%20Eleanor%20Catton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <link href="../../Eleanor%20Catton/El%20bosque%20Birnam%20%281871%29/El%20bosque%20Birnam%20-%20Eleanor%20Catton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="518 KB" />
     <author>
       <name>Eleanor Catton</name>
       <uri>../authors_1/authors_1330_Page_1.xml</uri>
@@ -427,43 +461,6 @@
     <category term="Lang:es" />
     <summary>La autora de Las luminarias , galardonada con el Premio Booker, nos trae El Bosque Birnam , un thriller fascinante cargado de fuerza dramática y una visión caleidoscópica de lo que nos motiva a sobrevivir.Un desprendimiento de tierra ha cerrado el pa...</summary>
     <link href="../book_1/book_1871.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El bosque de los cuatro vientos</title>
-    <id>calibre:book:92</id>
-    <updated>2023-01-18T00:09:28Z</updated>
-    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/El%20bosque%20de%20los%20cuatro%20vientos%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
-    <author>
-      <name>María Oruña</name>
-      <uri>../authors_0/authors_12_Page_1.xml</uri>
-    </author>
-    <published>2020-08-24T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Histórico" />
-    <category term="Lang:es" />
-    <summary>A comienzos del siglo XIX, el doctor Vallejo viaja de Valladolid a Galicia junto con su hija Marina para servir como médico en un poderoso monasterio de Ourense. Allí descubrirán unas costumbres muy particulares y vivirán la caída de la Iglesia. Mari...</summary>
-    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El bosque en silencio</title>
-    <id>calibre:book:868</id>
-    <updated>2023-06-19T05:31:22Z</updated>
-    <link href="../../Monica%20Subietas/El%20bosque%20en%20silencio%20%28868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Subietas/El%20bosque%20en%20silencio%20%28868%29/El%20bosque%20en%20silencio%20-%20Monica%20Subietas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="602 KB" />
-    <author>
-      <name>Mónica Subietas</name>
-      <uri>../authors_0/authors_652_Page_1.xml</uri>
-    </author>
-    <published>2023-06-07T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El debut de Mónica Subietas es una conmovedora novela que nos habla de amor, amistad y traición, de tiempos oscuros y días felices.Suiza, 1942. En plena Segunda Guerra Mundial, el Gobierno Federal decide cerrar la frontera a los refugiados. Hermann M...</summary>
-    <link href="../book_0/book_868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
 </feed>

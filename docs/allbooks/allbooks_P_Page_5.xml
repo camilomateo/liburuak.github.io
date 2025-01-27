@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por P</title>
+  <title>Books starting with P</title>
   <id>Calibre2opds:allbooks:P</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,53 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="./allbooks_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por P" />
-  <link href="../allbooks/allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
+  <link href="../allbooks/allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 8)" />
+  <entry>
+    <title>Puente a ningún sitio</title>
+    <id>calibre:book:27</id>
+    <updated>2023-01-17T10:16:54Z</updated>
+    <link href="../../Carlos%20Laredo/Puente%20a%20ningun%20sitio%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Puente%20a%20ningun%20sitio%20%2827%29/Puente%20a%20ningun%20sitio%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2022-09-30T11:05:26Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Carlos Laredo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El cabo primero José Souto está disgustado porque no consigue avanzar en la investigación del triple asesinato cometido en la aldea de Lires hace más de un año. Una familia entera, fríamente asesinada una noche, sin motivo aparente. No hay huellas, n...</summary>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Puente</title>
+    <id>calibre:book:1892</id>
+    <updated>2024-09-03T09:33:54Z</updated>
+    <link href="../../Matt%20Brolly/El%20Puente%20%281892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matt%20Brolly/El%20Puente%20%281892%29/El%20Puente%20-%20Matt%20Brolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="298 KB" />
+    <author>
+      <name>Matt Brolly</name>
+      <uri>../authors_1/authors_1348_Page_1.xml</uri>
+    </author>
+    <published>2024-08-30T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Oblong Books</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Cuando el cuerpo de una joven es descubierto en un contenedor de carga en Bristol, la policía sospecha que era una inmigrante ilegal cuya muerte fue un trágico accidente. Pero su teoría es desmentida por dos piezas de evidencia: el contenedor estaba ...</summary>
+    <link href="../book_1/book_1892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Puerto escondido</title>
     <id>calibre:book:14</id>
     <updated>2023-01-17T10:10:00Z</updated>
     <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/Puerto%20escondido%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <link href="../../Maria%20Oruna/Puerto%20escondido%20%2814%29/Puerto%20escondido%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
     <author>
       <name>María Oruña</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -37,7 +72,7 @@
     <id>calibre:book:163</id>
     <updated>2023-01-23T07:45:28Z</updated>
     <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/Pulgarcito.rtf%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Charles%20Perrault/Pulgarcito.rtf%20%28163%29/Pulgarcito.rtf%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>
@@ -54,7 +89,7 @@
     <id>calibre:book:1333</id>
     <updated>2024-03-21T01:00:31Z</updated>
     <link href="../../Margarita%20Leoz/Punta%20Albatros%20%281333%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Margarita%20Leoz/Punta%20Albatros%20%281333%29/Punta%20Albatros%20-%20Margarita%20Leoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Margarita%20Leoz/Punta%20Albatros%20%281333%29/Punta%20Albatros%20-%20Margarita%20Leoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Margarita Leoz</name>
       <uri>../authors_0/authors_974_Page_1.xml</uri>
@@ -71,7 +106,7 @@
     <id>calibre:book:66</id>
     <updated>2023-01-17T11:46:10Z</updated>
     <link href="../../Paula%20Hawkins/Punto%20ciego%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paula%20Hawkins/Punto%20ciego%20%2866%29/Punto%20ciego%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
+    <link href="../../Paula%20Hawkins/Punto%20ciego%20%2866%29/Punto%20ciego%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
       <name>Paula Hawkins</name>
       <uri>../authors_0/authors_43_Page_1.xml</uri>
@@ -88,7 +123,7 @@
     <id>calibre:book:1514</id>
     <updated>2024-05-22T06:46:45Z</updated>
     <link href="../../Davide%20Longo/Pura%20rabia%20%281514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Davide%20Longo/Pura%20rabia%20%281514%29/Pura%20rabia%20-%20Davide%20Longo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="915 KB" />
+    <link href="../../Davide%20Longo/Pura%20rabia%20%281514%29/Pura%20rabia%20-%20Davide%20Longo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="915 KB" />
     <author>
       <name>Davide Longo</name>
       <uri>../authors_0/authors_368_Page_1.xml</uri>
@@ -109,7 +144,7 @@
     <id>calibre:book:1279</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Noelia%20Lorenzo%20Pino/Purasangre%20%281279%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noelia%20Lorenzo%20Pino/Purasangre%20%281279%29/Purasangre%20-%20Noelia%20Lorenzo%20Pino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="529 KB" />
+    <link href="../../Noelia%20Lorenzo%20Pino/Purasangre%20%281279%29/Purasangre%20-%20Noelia%20Lorenzo%20Pino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="529 KB" />
     <author>
       <name>Noelia Lorenzo Pino</name>
       <uri>../authors_0/authors_77_Page_1.xml</uri>
@@ -127,7 +162,7 @@
     <id>calibre:book:76</id>
     <updated>2023-01-18T00:02:44Z</updated>
     <link href="../../Jon%20Sistiaga/Purgatorio%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jon%20Sistiaga/Purgatorio%20%2876%29/Purgatorio%20-%20Jon%20Sistiaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="667 KB" />
+    <link href="../../Jon%20Sistiaga/Purgatorio%20%2876%29/Purgatorio%20-%20Jon%20Sistiaga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="667 KB" />
     <author>
       <name>Jon Sistiaga</name>
       <uri>../authors_0/authors_53_Page_1.xml</uri>
@@ -144,7 +179,7 @@
     <id>calibre:book:375</id>
     <updated>2023-03-03T08:34:22Z</updated>
     <link href="../../Georgina%20Orellano/Puta%20feminista%20%28375%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Georgina%20Orellano/Puta%20feminista%20%28375%29/Puta%20feminista%20-%20Georgina%20Orellano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <link href="../../Georgina%20Orellano/Puta%20feminista%20%28375%29/Puta%20feminista%20-%20Georgina%20Orellano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="505 KB" />
     <author>
       <name>Georgina Orellano</name>
       <uri>../authors_0/authors_269_Page_1.xml</uri>
@@ -161,7 +196,7 @@
     <id>calibre:book:1499</id>
     <updated>2024-05-10T08:43:26Z</updated>
     <link href="../../Xavier%20Colas/Putinistan%20%281499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Colas/Putinistan%20%281499%29/Putinistan%20-%20Xavier%20Colas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <link href="../../Xavier%20Colas/Putinistan%20%281499%29/Putinistan%20-%20Xavier%20Colas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="456 KB" />
     <author>
       <name>Xavier Colas</name>
       <uri>../authors_1/authors_1096_Page_1.xml</uri>
@@ -178,7 +213,7 @@
     <id>calibre:book:1022</id>
     <updated>2023-09-12T07:25:26Z</updated>
     <link href="../../Programming%20Languages%20Academy/Python%20para%20Principiantes_%202%20Libros%20%281022%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Programming%20Languages%20Academy/Python%20para%20Principiantes_%202%20Libros%20%281022%29/Python%20para%20Principiantes_%202%20Li%20-%20Programming%20Languages%20Academy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="315 KB" />
+    <link href="../../Programming%20Languages%20Academy/Python%20para%20Principiantes_%202%20Libros%20%281022%29/Python%20para%20Principiantes_%202%20Li%20-%20Programming%20Languages%20Academy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="315 KB" />
     <author>
       <name>Programming Languages Academy</name>
       <uri>../authors_0/authors_754_Page_1.xml</uri>
@@ -193,7 +228,7 @@
     <id>calibre:book:657</id>
     <updated>2023-05-15T05:51:12Z</updated>
     <link href="../../Lorenzo%20Silva/Pua%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/Pua%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/Pua%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -210,7 +245,7 @@
     <id>calibre:book:559</id>
     <updated>2023-04-17T01:30:20Z</updated>
     <link href="../../Alex%20Michaelides/La%20paciente%20silenciosa%20%28559%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alex%20Michaelides/La%20paciente%20silenciosa%20%28559%29/La%20paciente%20silenciosa%20-%20Alex%20Michaelides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="510 KB" />
+    <link href="../../Alex%20Michaelides/La%20paciente%20silenciosa%20%28559%29/La%20paciente%20silenciosa%20-%20Alex%20Michaelides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="510 KB" />
     <author>
       <name>Alex Michaelides</name>
       <uri>../authors_0/authors_414_Page_1.xml</uri>
@@ -227,7 +262,7 @@
     <id>calibre:book:1227</id>
     <updated>2024-02-22T06:03:56Z</updated>
     <link href="../../Laura%20Azcona/El%20pacto%20de%20las%20colonias%20%281227%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Azcona/El%20pacto%20de%20las%20colonias%20%281227%29/El%20pacto%20de%20las%20colonias%20-%20Laura%20Azcona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Laura%20Azcona/El%20pacto%20de%20las%20colonias%20%281227%29/El%20pacto%20de%20las%20colonias%20-%20Laura%20Azcona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Laura Azcona</name>
       <uri>../authors_0/authors_893_Page_1.xml</uri>
@@ -244,7 +279,7 @@
     <id>calibre:book:1377</id>
     <updated>2024-04-03T00:30:03Z</updated>
     <link href="../../Olcese%2C%20Juan%20Manuel/El%20pais%20de%20las%20lagrimas%20%281377%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Olcese%2C%20Juan%20Manuel/El%20pais%20de%20las%20lagrimas%20%281377%29/El%20pais%20de%20las%20lagrimas%20-%20Olcese%2C%20Juan%20Manuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="876 KB" />
+    <link href="../../Olcese%2C%20Juan%20Manuel/El%20pais%20de%20las%20lagrimas%20%281377%29/El%20pais%20de%20las%20lagrimas%20-%20Olcese%2C%20Juan%20Manuel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="876 KB" />
     <author>
       <name>Olcese, Juan Manuel</name>
       <uri>../authors_1/authors_1010_Page_1.xml</uri>
@@ -260,7 +295,7 @@
     <id>calibre:book:125</id>
     <updated>2023-01-18T00:43:38Z</updated>
     <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20inocencia%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20inocencia%20%28125%29/El%20palacio%20de%20la%20inocencia%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20inocencia%20%28125%29/El%20palacio%20de%20la%20inocencia%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -277,7 +312,7 @@
     <id>calibre:book:124</id>
     <updated>2023-01-18T00:43:36Z</updated>
     <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20mala%20suerte%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20mala%20suerte%20%28124%29/El%20palacio%20de%20la%20mala%20suerte%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Raul%20Garbantes/El%20palacio%20de%20la%20mala%20suerte%20%28124%29/El%20palacio%20de%20la%20mala%20suerte%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -294,7 +329,7 @@
     <id>calibre:book:1088</id>
     <updated>2023-12-12T08:20:57Z</updated>
     <link href="../../Jason%20Matthews/El%20palacio%20de%20la%20traicion%20%281088%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jason%20Matthews/El%20palacio%20de%20la%20traicion%20%281088%29/El%20palacio%20de%20la%20traicion%20-%20Jason%20Matthews.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <link href="../../Jason%20Matthews/El%20palacio%20de%20la%20traicion%20%281088%29/El%20palacio%20de%20la%20traicion%20-%20Jason%20Matthews.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
     <author>
       <name>Jason Matthews</name>
       <uri>../authors_0/authors_791_Page_1.xml</uri>
@@ -312,7 +347,7 @@
     <id>calibre:book:1886</id>
     <updated>2024-09-03T09:33:51Z</updated>
     <link href="../../Jeffrey%20Hamelman/El%20pan_%20Manual%20de%20tecnicas%20y%20receta%20%281886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeffrey%20Hamelman/El%20pan_%20Manual%20de%20tecnicas%20y%20receta%20%281886%29/El%20pan_%20Manual%20de%20tecnicas%20y%20re%20-%20Jeffrey%20Hamelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+    <link href="../../Jeffrey%20Hamelman/El%20pan_%20Manual%20de%20tecnicas%20y%20receta%20%281886%29/El%20pan_%20Manual%20de%20tecnicas%20y%20re%20-%20Jeffrey%20Hamelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
     <author>
       <name>Jeffrey Hamelman</name>
       <uri>../authors_1/authors_1342_Page_1.xml</uri>
@@ -329,7 +364,7 @@
     <id>calibre:book:2384</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="75 KB" />
     <author>
       <name>Émile Zola</name>
       <uri>../authors_1/authors_1607_Page_1.xml</uri>
@@ -349,7 +384,7 @@
     <id>calibre:book:1480</id>
     <updated>2024-04-30T05:13:18Z</updated>
     <link href="../../Daniel%20Barbadillo%20Dubon/Los%20paraisos%20fingidos%20%281480%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Barbadillo%20Dubon/Los%20paraisos%20fingidos%20%281480%29/Los%20paraisos%20fingidos%20-%20Daniel%20Barbadillo%20Dubon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <link href="../../Daniel%20Barbadillo%20Dubon/Los%20paraisos%20fingidos%20%281480%29/Los%20paraisos%20fingidos%20-%20Daniel%20Barbadillo%20Dubon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
     <author>
       <name>Daniel Barbadillo Dubon</name>
       <uri>../authors_1/authors_1083_Page_1.xml</uri>
@@ -366,7 +401,7 @@
     <id>calibre:book:673</id>
     <updated>2023-05-15T05:51:28Z</updated>
     <link href="../../Shari%20Lapena/La%20pareja%20de%20al%20lado%20%28673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shari%20Lapena/La%20pareja%20de%20al%20lado%20%28673%29/La%20pareja%20de%20al%20lado%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Shari%20Lapena/La%20pareja%20de%20al%20lado%20%28673%29/La%20pareja%20de%20al%20lado%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Shari Lapena</name>
       <uri>../authors_0/authors_500_Page_1.xml</uri>
@@ -383,7 +418,7 @@
     <id>calibre:book:2788</id>
     <updated>2025-01-09T08:19:02Z</updated>
     <link href="../../Jackie%20Kabler/La%20pareja%20perfecta%20%282788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jackie%20Kabler/La%20pareja%20perfecta%20%282788%29/La%20pareja%20perfecta%20-%20Jackie%20Kabler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Jackie%20Kabler/La%20pareja%20perfecta%20%282788%29/La%20pareja%20perfecta%20-%20Jackie%20Kabler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Jackie Kabler</name>
       <uri>../authors_1/authors_1825_Page_1.xml</uri>
@@ -400,7 +435,7 @@
     <id>calibre:book:1716</id>
     <updated>2024-08-06T04:16:31Z</updated>
     <link href="../../Lorena%20Franco/La%20pareja%20perfecta%20%281716%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorena%20Franco/La%20pareja%20perfecta%20%281716%29/La%20pareja%20perfecta%20-%20Lorena%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="243 KB" />
+    <link href="../../Lorena%20Franco/La%20pareja%20perfecta%20%281716%29/La%20pareja%20perfecta%20-%20Lorena%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="243 KB" />
     <author>
       <name>Lorena Franco</name>
       <uri>../authors_0/authors_416_Page_1.xml</uri>
@@ -410,39 +445,6 @@
     <category term="Lang:es" />
     <summary>Lucía se convierte, en menos de dos meses, en la cuarta víctima del escurridizo Asesino del Guante.Información filtrada a la prensa y muchas especulaciones, pero nada lo suficientemente revelador para los inspectores Vega Martín y Daniel Haro, hasta ...</summary>
     <link href="../book_1/book_1716.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La pareja perfecta</title>
-    <id>calibre:book:1679</id>
-    <updated>2024-07-22T06:21:12Z</updated>
-    <link href="../../Elin%20Hilderbrand/La%20pareja%20perfecta%20%281679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elin%20Hilderbrand/La%20pareja%20perfecta%20%281679%29/La%20pareja%20perfecta%20-%20Elin%20Hilderbrand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="473 KB" />
-    <author>
-      <name>Elin Hilderbrand</name>
-      <uri>../authors_1/authors_1204_Page_1.xml</uri>
-    </author>
-    <published>2024-07-03T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Elin Hilderbrand, la autora cuyos libros han alcanzado continuamente la lista de más vendidos de The New York Times , nos regala una adictiva novela perfecta para el verano. Una boda por todo lo alto. Una pareja ideal. A veces, el amor de la familia ...</summary>
-    <link href="../book_1/book_1679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los parientes ricos</title>
-    <id>calibre:book:2114</id>
-    <updated>2024-09-06T02:21:17Z</updated>
-    <link href="../../Rafel%20Delgado/Los%20parientes%20ricos%20%282114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafel%20Delgado/Los%20parientes%20ricos%20%282114%29/Los%20parientes%20ricos%20-%20Rafel%20Delgado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
-    <author>
-      <name>Rafel Delgado</name>
-      <uri>../authors_1/authors_1502_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 8)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

@@ -6,12 +6,12 @@
   <link href="./book_2361.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vuelo nocturno" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../authors_0/authors_989_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Antoine de Saint-Exupéry" />
   <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="110 KB" />
+  <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="110 KB" />
   <author>
     <name>Antoine de Saint-Exupéry</name>
     <uri>../authors_0/authors_989_Page_1.xml</uri>
@@ -26,17 +26,17 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 169 en la Biblioteca PruébaT serie
+      Book 169 in the Biblioteca PruébaT series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Aventuras, Drama, Lang:es
     </p>
   </content>
-  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 169 en la Biblioteca PruébaT serie" />
-  <link href="../authors_0/authors_989_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Antoine de Saint-Exupéry" />
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 169 in the Biblioteca PruébaT series" />
+  <link href="../authors_0/authors_989_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Antoine de Saint-Exupéry" />
 </entry>

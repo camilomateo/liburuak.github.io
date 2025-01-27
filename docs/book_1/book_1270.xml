@@ -6,12 +6,12 @@
   <link href="./book_1270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El prisionero del cielo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
   <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Carlos Ruiz Zafón" />
   <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/El%20prisionero%20del%20cielo%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+  <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/El%20prisionero%20del%20cielo%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="606 KB" />
   <author>
     <name>Carlos Ruiz Zafón</name>
     <uri>../authors_0/authors_897_Page_1.xml</uri>
@@ -26,18 +26,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 3 en la El Cementerio de los Libros Olvidados serie
+      Book 3 in the El Cementerio de los Libros Olvidados series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">
       Barcelona, 1957. Daniel Sempere y su amigo Fermín, los
@@ -64,6 +64,6 @@
     Olvidados.
     </p>
   </content>
-  <link href="../series_0/series_155_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la El Cementerio de los Libros Olvidados serie" />
-  <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Carlos Ruiz Zafón" />
+  <link href="../series_0/series_155_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 3 in the El Cementerio de los Libros Olvidados series" />
+  <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Carlos Ruiz Zafón" />
 </entry>

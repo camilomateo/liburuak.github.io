@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Emilia Pardo Bazán</title>
+  <title>All books by Emilia Pardo Bazán</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1523_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Emilia Pardo Bazán" />
+  <link href="./authors_1523_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Emilia Pardo Bazán" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
-  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
   <link href="./authors_1523_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Emilia Pardo Bazán" />
   <entry>
     <title>Cuentos de amor</title>
     <id>calibre:book:2208</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/Cuentos%20de%20amor%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/Cuentos%20de%20amor%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:2386</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/Dona%20Milagros%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="247 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Dona%20Milagros%20%282386%29/Dona%20Milagros%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:2145</id>
     <updated>2024-09-06T02:21:23Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/La%20gota%20de%20sangre%20%282145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/La%20gota%20de%20sangre%20%282145%29/La%20gota%20de%20sangre%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="106 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20gota%20de%20sangre%20%282145%29/La%20gota%20de%20sangre%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="106 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -71,7 +71,7 @@
     <id>calibre:book:2281</id>
     <updated>2024-09-09T10:33:58Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/El%20saludo%20de%20las%20brujas%20%282281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/El%20saludo%20de%20las%20brujas%20%282281%29/El%20saludo%20de%20las%20brujas%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="249 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/El%20saludo%20de%20las%20brujas%20%282281%29/El%20saludo%20de%20las%20brujas%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="249 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -89,7 +89,7 @@
     <id>calibre:book:2387</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="203 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:2218</id>
     <updated>2024-09-06T02:21:37Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/Un%20viaje%20de%20novios%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="258 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Un%20viaje%20de%20novios%20%282218%29/Un%20viaje%20de%20novios%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="258 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>

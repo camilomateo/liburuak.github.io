@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Robert Dugoni</title>
+  <title>All books by Robert Dugoni</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_222_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Robert Dugoni" />
+  <link href="./authors_222_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Robert Dugoni" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="./authors_222_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robert Dugoni" />
   <entry>
     <title>Una muerte en la colina</title>
     <id>calibre:book:2744</id>
     <updated>2024-12-18T08:33:28Z</updated>
     <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/Una%20muerte%20en%20la%20colina%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Robert%20Dugoni/Una%20muerte%20en%20la%20colina%20%282744%29/Una%20muerte%20en%20la%20colina%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:547</id>
     <updated>2023-04-11T09:33:22Z</updated>
     <link href="../../Robert%20Dugoni/La%20octava%20hermana%20%28547%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/La%20octava%20hermana%20%28547%29/La%20octava%20hermana%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Robert%20Dugoni/La%20octava%20hermana%20%28547%29/La%20octava%20hermana%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:316</id>
     <updated>2023-02-16T08:39:02Z</updated>
     <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/El%20tercer%20hombre%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="628 KB" />
+    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/El%20tercer%20hombre%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="628 KB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:1085</id>
     <updated>2023-12-12T08:20:57Z</updated>
     <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/Todo%20tiene%20su%20precio%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+    <link href="../../Robert%20Dugoni/Todo%20tiene%20su%20precio%20%281085%29/Todo%20tiene%20su%20precio%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="647 KB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>
@@ -91,7 +91,7 @@
     <id>calibre:book:1605</id>
     <updated>2024-06-02T10:59:59Z</updated>
     <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/La%20tumba%20de%20Sarah%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="787 KB" />
+    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/La%20tumba%20de%20Sarah%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="787 KB" />
     <author>
       <name>Robert Dugoni</name>
       <uri>../authors_0/authors_222_Page_1.xml</uri>

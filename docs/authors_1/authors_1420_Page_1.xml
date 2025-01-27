@@ -11,15 +11,15 @@
   <link href="./authors_1420_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Victor Hugo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <entry>
-    <title>Todos los libros de Victor Hugo</title>
+    <title>All books by Victor Hugo</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 7 libros</content>
+    <content type="text">Alphabetical index of the 7 books</content>
     <link href="../authors_1/authors_1420_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -27,7 +27,7 @@
   <entry>
     <title>Series: Biblioteca PruébaT</title>
     <id>Calibre2opds:authors:1420series:225</id>
-    <content type="text">5 libros</content>
+    <content type="text">5 books</content>
     <link href="../authors_1/authors_1420_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -37,7 +37,7 @@
     <id>calibre:book:2491</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/Les%20Miserables%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Victor%20Hugo/Les%20Miserables%20%282491%29/Les%20Miserables%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:2033</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/Nuestra%20Senora%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Victor%20Hugo/Nuestra%20Senora%20de%20Paris%20%282033%29/Nuestra%20Senora%20de%20Paris%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_1/authors_1420_Page_1.xml</uri>

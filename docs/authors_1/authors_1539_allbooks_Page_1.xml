@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Juan de Dios Peza</title>
+  <title>All books by Juan de Dios Peza</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,19 +8,19 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1539_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Juan de Dios Peza" />
+  <link href="./authors_1539_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Juan de Dios Peza" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_1539_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan de Dios Peza" />
   <entry>
     <title>Cuentos y recuerdos personales</title>
     <id>calibre:book:2173</id>
     <updated>2024-09-06T02:21:28Z</updated>
     <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/Cuentos%20y%20recuerdos%20personales%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/Cuentos%20y%20recuerdos%20personales%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
     <author>
       <name>Juan de Dios Peza</name>
       <uri>../authors_1/authors_1539_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:2225</id>
     <updated>2024-09-06T02:21:38Z</updated>
     <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/Leyendas%20de%20las%20calles%20de%20Mejic%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="390 KB" />
+    <link href="../../Juan%20de%20Dios%20Peza/Leyendas%20de%20las%20calles%20de%20Mejico%20%282225%29/Leyendas%20de%20las%20calles%20de%20Mejic%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="390 KB" />
     <author>
       <name>Juan de Dios Peza</name>
       <uri>../authors_1/authors_1539_Page_1.xml</uri>

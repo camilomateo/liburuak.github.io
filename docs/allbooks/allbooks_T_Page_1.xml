@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 8)" />
   <entry>
     <title>Take five: Historia de un robo</title>
     <id>calibre:book:107</id>
     <updated>2023-01-18T00:43:26Z</updated>
     <link href="../../Francesc%20Mari/Take%20five_%20Historia%20de%20un%20robo%20%28107%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francesc%20Mari/Take%20five_%20Historia%20de%20un%20robo%20%28107%29/Take%20five_%20Historia%20de%20un%20robo%20-%20Francesc%20Mari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="824 KB" />
+    <link href="../../Francesc%20Mari/Take%20five_%20Historia%20de%20un%20robo%20%28107%29/Take%20five_%20Historia%20de%20un%20robo%20-%20Francesc%20Mari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="824 KB" />
     <author>
       <name>Francesc Marí</name>
       <uri>../authors_0/authors_72_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:2064</id>
     <updated>2024-09-06T02:09:06Z</updated>
     <link href="../../Beatrix%20Potter/The%20Tale%20of%20Benjamin%20Bunny%20%282064%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Benjamin%20Bunny%20%282064%29/The%20Tale%20of%20Benjamin%20Bunny%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="944 KB" />
+    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Benjamin%20Bunny%20%282064%29/The%20Tale%20of%20Benjamin%20Bunny%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="944 KB" />
     <author>
       <name>Beatrix Potter</name>
       <uri>../authors_1/authors_1477_Page_1.xml</uri>
@@ -57,7 +57,7 @@
     <id>calibre:book:2068</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Beatrix%20Potter/The%20Tale%20of%20Mrs.%20Tiggy-Winkle%20%282068%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Mrs.%20Tiggy-Winkle%20%282068%29/The%20Tale%20of%20Mrs.%20Tiggy-Winkle%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="677 KB" />
+    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Mrs.%20Tiggy-Winkle%20%282068%29/The%20Tale%20of%20Mrs.%20Tiggy-Winkle%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="677 KB" />
     <author>
       <name>Beatrix Potter</name>
       <uri>../authors_1/authors_1477_Page_1.xml</uri>
@@ -79,7 +79,7 @@
     <id>calibre:book:2058</id>
     <updated>2024-09-06T02:09:05Z</updated>
     <link href="../../Beatrix%20Potter/The%20Tale%20of%20Peter%20Rabbit%20%282058%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Peter%20Rabbit%20%282058%29/The%20Tale%20of%20Peter%20Rabbit%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Peter%20Rabbit%20%282058%29/The%20Tale%20of%20Peter%20Rabbit%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Beatrix Potter</name>
       <uri>../authors_1/authors_1477_Page_1.xml</uri>
@@ -97,7 +97,7 @@
     <id>calibre:book:2063</id>
     <updated>2024-09-06T02:09:06Z</updated>
     <link href="../../Beatrix%20Potter/The%20Tale%20of%20Squirrel%20Nutkin%20%282063%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Squirrel%20Nutkin%20%282063%29/The%20Tale%20of%20Squirrel%20Nutkin%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="744 KB" />
+    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Squirrel%20Nutkin%20%282063%29/The%20Tale%20of%20Squirrel%20Nutkin%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
     <author>
       <name>Beatrix Potter</name>
       <uri>../authors_1/authors_1477_Page_1.xml</uri>
@@ -119,7 +119,7 @@
     <id>calibre:book:2061</id>
     <updated>2024-09-06T02:09:06Z</updated>
     <link href="../../Beatrix%20Potter/The%20Tale%20of%20Tom%20Kitten%20%282061%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Tom%20Kitten%20%282061%29/The%20Tale%20of%20Tom%20Kitten%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1005 KB" />
+    <link href="../../Beatrix%20Potter/The%20Tale%20of%20Tom%20Kitten%20%282061%29/The%20Tale%20of%20Tom%20Kitten%20-%20Beatrix%20Potter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1005 KB" />
     <author>
       <name>Beatrix Potter</name>
       <uri>../authors_1/authors_1477_Page_1.xml</uri>
@@ -142,7 +142,7 @@
     <id>calibre:book:2067</id>
     <updated>2024-09-06T02:09:07Z</updated>
     <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>
@@ -170,7 +170,7 @@
     <id>calibre:book:236</id>
     <updated>2023-01-29T00:32:44Z</updated>
     <link href="../../Santiago%20Diaz/Talion%20%28236%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santiago%20Diaz/Talion%20%28236%29/Talion%20-%20Santiago%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <link href="../../Santiago%20Diaz/Talion%20%28236%29/Talion%20-%20Santiago%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
     <author>
       <name>Santiago Díaz</name>
       <uri>../authors_0/authors_162_Page_1.xml</uri>
@@ -187,7 +187,7 @@
     <id>calibre:book:2451</id>
     <updated>2024-09-09T10:34:33Z</updated>
     <link href="../../William%20Shakespeare/The%20Taming%20of%20the%20Shrew%20%282451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Taming%20of%20the%20Shrew%20%282451%29/The%20Taming%20of%20the%20Shrew%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="129 KB" />
+    <link href="../../William%20Shakespeare/The%20Taming%20of%20the%20Shrew%20%282451%29/The%20Taming%20of%20the%20Shrew%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="129 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -205,7 +205,7 @@
     <id>calibre:book:748</id>
     <updated>2023-05-22T05:06:48Z</updated>
     <link href="../../Juan%20Vila/Tan%20dificil%20como%20raro%20%28748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Vila/Tan%20dificil%20como%20raro%20%28748%29/Tan%20dificil%20como%20raro%20-%20Juan%20Vila.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Juan%20Vila/Tan%20dificil%20como%20raro%20%28748%29/Tan%20dificil%20como%20raro%20-%20Juan%20Vila.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Juan Vilá</name>
       <uri>../authors_0/authors_557_Page_1.xml</uri>
@@ -222,7 +222,7 @@
     <id>calibre:book:1516</id>
     <updated>2024-05-22T06:46:46Z</updated>
     <link href="../../Carlos%20Salem/Tango%20del%20torturador%20arrepentido%20%281516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Salem/Tango%20del%20torturador%20arrepentido%20%281516%29/Tango%20del%20torturador%20arrepentid%20-%20Carlos%20Salem.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <link href="../../Carlos%20Salem/Tango%20del%20torturador%20arrepentido%20%281516%29/Tango%20del%20torturador%20arrepentid%20-%20Carlos%20Salem.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="505 KB" />
     <author>
       <name>Carlos Salem</name>
       <uri>../authors_0/authors_715_Page_1.xml</uri>
@@ -239,7 +239,7 @@
     <id>calibre:book:2318</id>
     <updated>2024-09-09T10:34:07Z</updated>
     <link href="../../Edgar%20Rice%20Burroughs/Tarzan%20de%20los%20Monos%20%282318%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgar%20Rice%20Burroughs/Tarzan%20de%20los%20Monos%20%282318%29/Tarzan%20de%20los%20Monos%20-%20Edgar%20Rice%20Burroughs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="305 KB" />
+    <link href="../../Edgar%20Rice%20Burroughs/Tarzan%20de%20los%20Monos%20%282318%29/Tarzan%20de%20los%20Monos%20-%20Edgar%20Rice%20Burroughs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="305 KB" />
     <author>
       <name>Edgar Rice Burroughs</name>
       <uri>../authors_1/authors_1615_Page_1.xml</uri>
@@ -257,7 +257,7 @@
     <id>calibre:book:1636</id>
     <updated>2024-06-22T02:04:41Z</updated>
     <link href="../../Carlos%20Zanon/Taxi%20%281636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Zanon/Taxi%20%281636%29/Taxi%20-%20Carlos%20Zanon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="374 KB" />
+    <link href="../../Carlos%20Zanon/Taxi%20%281636%29/Taxi%20-%20Carlos%20Zanon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
     <author>
       <name>Carlos Zanón</name>
       <uri>../authors_1/authors_1182_Page_1.xml</uri>
@@ -274,7 +274,7 @@
     <id>calibre:book:1225</id>
     <updated>2024-02-20T04:17:36Z</updated>
     <link href="../../Buenaventura%20del%20Charco%20Olea/Te%20estas%20jodiendo%20la%20vida%20%281225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Buenaventura%20del%20Charco%20Olea/Te%20estas%20jodiendo%20la%20vida%20%281225%29/Te%20estas%20jodiendo%20la%20vida%20-%20Buenaventura%20del%20Charco%20Olea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="765 KB" />
+    <link href="../../Buenaventura%20del%20Charco%20Olea/Te%20estas%20jodiendo%20la%20vida%20%281225%29/Te%20estas%20jodiendo%20la%20vida%20-%20Buenaventura%20del%20Charco%20Olea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="765 KB" />
     <author>
       <name>Buenaventura del Charco Olea</name>
       <uri>../authors_0/authors_891_Page_1.xml</uri>
@@ -292,7 +292,7 @@
     <id>calibre:book:724</id>
     <updated>2023-05-17T01:11:04Z</updated>
     <link href="../../Amalia%20de%20Tena/Te%20regalo%20un%20caballo%20blanco%20%28724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amalia%20de%20Tena/Te%20regalo%20un%20caballo%20blanco%20%28724%29/Te%20regalo%20un%20caballo%20blanco%20-%20Amalia%20de%20Tena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="585 KB" />
+    <link href="../../Amalia%20de%20Tena/Te%20regalo%20un%20caballo%20blanco%20%28724%29/Te%20regalo%20un%20caballo%20blanco%20-%20Amalia%20de%20Tena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="585 KB" />
     <author>
       <name>Amalia de Tena</name>
       <uri>../authors_0/authors_540_Page_1.xml</uri>
@@ -309,7 +309,7 @@
     <id>calibre:book:324</id>
     <updated>2023-02-16T07:13:42Z</updated>
     <link href="../../Susana%20Rodriguez%20Lezaun/Te%20vere%20esta%20noche%20%28324%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Susana%20Rodriguez%20Lezaun/Te%20vere%20esta%20noche%20%28324%29/Te%20vere%20esta%20noche%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <link href="../../Susana%20Rodriguez%20Lezaun/Te%20vere%20esta%20noche%20%28324%29/Te%20vere%20esta%20noche%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
     <author>
       <name>Susana Rodríguez Lezaun</name>
       <uri>../authors_0/authors_230_Page_1.xml</uri>
@@ -327,7 +327,7 @@
     <id>calibre:book:1957</id>
     <updated>2024-09-05T06:10:25Z</updated>
     <link href="../../Benito%20Jeronimo%20Feijoo/Teatro%20critico%20universal%20%281957%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Jeronimo%20Feijoo/Teatro%20critico%20universal%20%281957%29/Teatro%20critico%20universal%20-%20Benito%20Jeronimo%20Feijoo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Benito%20Jeronimo%20Feijoo/Teatro%20critico%20universal%20%281957%29/Teatro%20critico%20universal%20-%20Benito%20Jeronimo%20Feijoo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Benito Jerónimo Feijoo</name>
       <uri>../authors_1/authors_1400_Page_1.xml</uri>
@@ -345,7 +345,7 @@
     <id>calibre:book:1224</id>
     <updated>2024-02-20T04:17:36Z</updated>
     <link href="../../Noni%20Manso/Tejido%20de%20sombras%20%281224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noni%20Manso/Tejido%20de%20sombras%20%281224%29/Tejido%20de%20sombras%20-%20Noni%20Manso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <link href="../../Noni%20Manso/Tejido%20de%20sombras%20%281224%29/Tejido%20de%20sombras%20-%20Noni%20Manso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="99 KB" />
     <author>
       <name>Noni Manso</name>
       <uri>../authors_0/authors_890_Page_1.xml</uri>
@@ -361,7 +361,7 @@
     <id>calibre:book:1391</id>
     <updated>2024-04-03T00:56:45Z</updated>
     <link href="../../Daniel%20Krauze/Tenebra%20%281391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Krauze/Tenebra%20%281391%29/Tenebra%20-%20Daniel%20Krauze.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Daniel%20Krauze/Tenebra%20%281391%29/Tenebra%20-%20Daniel%20Krauze.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Daniel Krauze</name>
       <uri>../authors_1/authors_1024_Page_1.xml</uri>
@@ -378,7 +378,7 @@
     <id>calibre:book:2821</id>
     <updated>2025-01-20T11:26:18Z</updated>
     <link href="../../Karla%20Cipriano/Tentacion%20%282821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karla%20Cipriano/Tentacion%20%282821%29/Tentacion%20-%20Karla%20Cipriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Karla%20Cipriano/Tentacion%20%282821%29/Tentacion%20-%20Karla%20Cipriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Karla Cipriano</name>
       <uri>../authors_1/authors_1846_Page_1.xml</uri>
@@ -395,7 +395,7 @@
     <id>calibre:book:1296</id>
     <updated>2024-03-15T09:02:27Z</updated>
     <link href="../../Christie%20Tate/Terapia%20de%20grupo%20%281296%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christie%20Tate/Terapia%20de%20grupo%20%281296%29/Terapia%20de%20grupo%20-%20Christie%20Tate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <link href="../../Christie%20Tate/Terapia%20de%20grupo%20%281296%29/Terapia%20de%20grupo%20-%20Christie%20Tate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="505 KB" />
     <author>
       <name>Christie Tate</name>
       <uri>../authors_0/authors_942_Page_1.xml</uri>
@@ -412,7 +412,7 @@
     <id>calibre:book:2679</id>
     <updated>2024-10-22T08:08:35Z</updated>
     <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/Terapia%20para%20llevar%20-%20Ana%20Perez%20__Naci%20dramatica__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/Terapia%20para%20llevar%20-%20Ana%20Perez%20__Naci%20dramatica__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Ana Pérez «Nací dramática»</name>
       <uri>../authors_1/authors_1763_Page_1.xml</uri>
@@ -432,7 +432,7 @@
     <id>calibre:book:1794</id>
     <updated>2024-08-26T10:56:16Z</updated>
     <link href="../../Matt%20Ruff/Territorio%20Lovecraft%20%281794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Matt%20Ruff/Territorio%20Lovecraft%20%281794%29/Territorio%20Lovecraft%20-%20Matt%20Ruff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="487 KB" />
+    <link href="../../Matt%20Ruff/Territorio%20Lovecraft%20%281794%29/Territorio%20Lovecraft%20-%20Matt%20Ruff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="487 KB" />
     <author>
       <name>Matt Ruff</name>
       <uri>../authors_1/authors_1289_Page_1.xml</uri>
@@ -449,7 +449,7 @@
     <id>calibre:book:248</id>
     <updated>2023-02-02T09:04:56Z</updated>
     <link href="../../Hillary%20Clinton/Terror%20de%20Estado%20%28248%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hillary%20Clinton/Terror%20de%20Estado%20%28248%29/Terror%20de%20Estado%20-%20Hillary%20Clinton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="850 KB" />
+    <link href="../../Hillary%20Clinton/Terror%20de%20Estado%20%28248%29/Terror%20de%20Estado%20-%20Hillary%20Clinton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="850 KB" />
     <author>
       <name>Hillary Clinton</name>
       <uri>../authors_0/authors_175_Page_1.xml</uri>
@@ -466,7 +466,7 @@
     <id>calibre:book:524</id>
     <updated>2023-04-05T00:40:06Z</updated>
     <link href="../../Victor%20Pavic%20Lundberg/Testigos%20ocultos%20%28524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20Pavic%20Lundberg/Testigos%20ocultos%20%28524%29/Testigos%20ocultos%20-%20Victor%20Pavic%20Lundberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="795 KB" />
+    <link href="../../Victor%20Pavic%20Lundberg/Testigos%20ocultos%20%28524%29/Testigos%20ocultos%20-%20Victor%20Pavic%20Lundberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="795 KB" />
     <author>
       <name>Victor Pavic Lundberg</name>
       <uri>../authors_0/authors_388_Page_1.xml</uri>
@@ -478,5 +478,5 @@
     <summary>Dos periodistas y antiguos amigos investigan una tragedia aérea ocurrida hace 20 años, donde murió gente que no debía estar allí, y se salvaron algunos que se supone estaban en el vuelo. Las familias más poderosas de Suecia están involucradas.</summary>
     <link href="../book_0/book_524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por S</title>
+  <title>Books starting with S</title>
   <id>Calibre2opds:allbooks:S</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,36 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="./allbooks_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por S" />
-  <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
+  <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
+  <entry>
+    <title>Los sertones</title>
+    <id>calibre:book:2014</id>
+    <updated>2024-09-06T01:57:45Z</updated>
+    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/Los%20sertones%20-%20Euclides%20Da%20Cunha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="217 KB" />
+    <author>
+      <name>Euclides Da Cunha</name>
+      <uri>../authors_1/authors_1445_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [38]:</summary>
+    <link href="../book_2/book_2014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El sexo y el fracaso del absoluto</title>
     <id>calibre:book:1869</id>
     <updated>2024-09-02T04:27:40Z</updated>
     <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/El%20sexo%20y%20el%20fracaso%20del%20absolu%20-%20Slavoj%20Zizek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="740 KB" />
+    <link href="../../Slavoj%20Zizek/El%20sexo%20y%20el%20fracaso%20del%20absoluto%20%281869%29/El%20sexo%20y%20el%20fracaso%20del%20absolu%20-%20Slavoj%20Zizek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="740 KB" />
     <author>
       <name>Slavoj Žižek</name>
       <uri>../authors_1/authors_1340_Page_1.xml</uri>
@@ -36,7 +54,7 @@
     <id>calibre:book:1591</id>
     <updated>2024-06-02T10:59:55Z</updated>
     <link href="../../Margot%20Douaihy/La%20senal%20de%20la%20cruz%20%281591%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Margot%20Douaihy/La%20senal%20de%20la%20cruz%20%281591%29/La%20senal%20de%20la%20cruz%20-%20Margot%20Douaihy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="433 KB" />
+    <link href="../../Margot%20Douaihy/La%20senal%20de%20la%20cruz%20%281591%29/La%20senal%20de%20la%20cruz%20-%20Margot%20Douaihy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="433 KB" />
     <author>
       <name>Margot Douaihy</name>
       <uri>../authors_1/authors_1158_Page_1.xml</uri>
@@ -53,7 +71,7 @@
     <id>calibre:book:214</id>
     <updated>2023-01-27T10:34:32Z</updated>
     <link href="../../Nate%20Silver/La%20senal%20y%20el%20ruido%20%28214%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nate%20Silver/La%20senal%20y%20el%20ruido%20%28214%29/La%20senal%20y%20el%20ruido%20-%20Nate%20Silver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Nate%20Silver/La%20senal%20y%20el%20ruido%20%28214%29/La%20senal%20y%20el%20ruido%20-%20Nate%20Silver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Nate Silver</name>
       <uri>../authors_0/authors_141_Page_1.xml</uri>
@@ -70,7 +88,7 @@
     <id>calibre:book:1706</id>
     <updated>2024-08-06T10:52:11Z</updated>
     <link href="../../A.%20B.%20Yehoshua/El%20senor%20Mani%20%281706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../A.%20B.%20Yehoshua/El%20senor%20Mani%20%281706%29/El%20senor%20Mani%20-%20A.%20B.%20Yehoshua.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="388 KB" />
+    <link href="../../A.%20B.%20Yehoshua/El%20senor%20Mani%20%281706%29/El%20senor%20Mani%20-%20A.%20B.%20Yehoshua.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="388 KB" />
     <author>
       <name>A. B. Yehoshua</name>
       <uri>../authors_1/authors_1221_Page_1.xml</uri>
@@ -87,7 +105,7 @@
     <id>calibre:book:1387</id>
     <updated>2024-04-03T00:30:06Z</updated>
     <link href="../../Anabel%20Hernandez/Los%20senores%20del%20narco%20%281387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anabel%20Hernandez/Los%20senores%20del%20narco%20%281387%29/Los%20senores%20del%20narco%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Anabel%20Hernandez/Los%20senores%20del%20narco%20%281387%29/Los%20senores%20del%20narco%20-%20Anabel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Anabel Hernández</name>
       <uri>../authors_1/authors_1020_Page_1.xml</uri>
@@ -106,7 +124,7 @@
     <id>calibre:book:604</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20senores%20del%20tiempo%20%28604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20senores%20del%20tiempo%20%28604%29/Los%20senores%20del%20tiempo%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="956 KB" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20senores%20del%20tiempo%20%28604%29/Los%20senores%20del%20tiempo%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
     <author>
       <name>Eva García Saénz de Urturi</name>
       <uri>../authors_0/authors_375_Page_1.xml</uri>
@@ -124,7 +142,7 @@
     <id>calibre:book:1306</id>
     <updated>2024-03-21T00:44:04Z</updated>
     <link href="../../M.%20W.%20Craven/El%20show%20de%20las%20marionetas%20%281306%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../M.%20W.%20Craven/El%20show%20de%20las%20marionetas%20%281306%29/El%20show%20de%20las%20marionetas%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../M.%20W.%20Craven/El%20show%20de%20las%20marionetas%20%281306%29/El%20show%20de%20las%20marionetas%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>M. W. Craven</name>
       <uri>../authors_0/authors_449_Page_1.xml</uri>
@@ -141,7 +159,7 @@
     <id>calibre:book:1601</id>
     <updated>2024-06-02T10:59:58Z</updated>
     <link href="../../Matteo%20Strukul/Las%20siete%20dinastias%20%281601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Matteo%20Strukul/Las%20siete%20dinastias%20%281601%29/Las%20siete%20dinastias%20-%20Matteo%20Strukul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="737 KB" />
+    <link href="../../Matteo%20Strukul/Las%20siete%20dinastias%20%281601%29/Las%20siete%20dinastias%20-%20Matteo%20Strukul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="737 KB" />
     <author>
       <name>Matteo Strukul</name>
       <uri>../authors_0/authors_477_Page_1.xml</uri>
@@ -164,7 +182,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:2151</id>
     <updated>2024-09-06T02:21:24Z</updated>
     <link href="../../Roberto%20Arlt/Los%20siete%20locos%20%282151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Arlt/Los%20siete%20locos%20%282151%29/Los%20siete%20locos%20-%20Roberto%20Arlt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <link href="../../Roberto%20Arlt/Los%20siete%20locos%20%282151%29/Los%20siete%20locos%20-%20Roberto%20Arlt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
     <author>
       <name>Roberto Arlt</name>
       <uri>../authors_1/authors_1526_Page_1.xml</uri>
@@ -183,7 +201,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:2562</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/Las%20siete%20-%20Rose%20Wilding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="346 KB" />
+    <link href="../../Rose%20Wilding/Las%20siete%20%282562%29/Las%20siete%20-%20Rose%20Wilding.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="346 KB" />
     <author>
       <name>Rose Wilding</name>
       <uri>../authors_1/authors_1686_Page_1.xml</uri>
@@ -200,7 +218,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:2330</id>
     <updated>2024-09-09T10:34:09Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/El%20signo%20de%20los%20cuatro%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/El%20signo%20de%20los%20cuatro%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -220,7 +238,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1836</id>
     <updated>2024-08-30T02:04:06Z</updated>
     <link href="../../Antonio%20Monegal/El%20silencio%20de%20la%20guerra%20%281836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Monegal/El%20silencio%20de%20la%20guerra%20%281836%29/El%20silencio%20de%20la%20guerra%20-%20Antonio%20Monegal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Antonio%20Monegal/El%20silencio%20de%20la%20guerra%20%281836%29/El%20silencio%20de%20la%20guerra%20-%20Antonio%20Monegal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Antonio Monegal</name>
       <uri>../authors_1/authors_1313_Page_1.xml</uri>
@@ -237,7 +255,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1441</id>
     <updated>2024-04-20T05:25:36Z</updated>
     <link href="../../Jose%20Saramago/El%20silencio%20del%20agua%20%281441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Saramago/El%20silencio%20del%20agua%20%281441%29/El%20silencio%20del%20agua%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="15 MB" />
+    <link href="../../Jose%20Saramago/El%20silencio%20del%20agua%20%281441%29/El%20silencio%20del%20agua%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="15 MB" />
     <author>
       <name>José Saramago</name>
       <uri>../authors_1/authors_1053_Page_1.xml</uri>
@@ -254,7 +272,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1470</id>
     <updated>2024-04-30T05:13:16Z</updated>
     <link href="../../Armando%20Lucas%20Correa/El%20silencio%20en%20sus%20ojos%20%281470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Armando%20Lucas%20Correa/El%20silencio%20en%20sus%20ojos%20%281470%29/El%20silencio%20en%20sus%20ojos%20-%20Armando%20Lucas%20Correa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="504 KB" />
+    <link href="../../Armando%20Lucas%20Correa/El%20silencio%20en%20sus%20ojos%20%281470%29/El%20silencio%20en%20sus%20ojos%20-%20Armando%20Lucas%20Correa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="504 KB" />
     <author>
       <name>Armando Lucas Correa</name>
       <uri>../authors_1/authors_1076_Page_1.xml</uri>
@@ -269,7 +287,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:366</id>
     <updated>2023-02-27T01:47:50Z</updated>
     <link href="../../John%20Banville/Las%20singularidades%20%28366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Banville/Las%20singularidades%20%28366%29/Las%20singularidades%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../John%20Banville/Las%20singularidades%20%28366%29/Las%20singularidades%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>John Banville</name>
       <uri>../authors_0/authors_261_Page_1.xml</uri>
@@ -286,7 +304,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1494</id>
     <updated>2024-05-10T08:31:14Z</updated>
     <link href="../../Leandro%20Perez/La%20sirena%20de%20Gibraltar%20%281494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leandro%20Perez/La%20sirena%20de%20Gibraltar%20%281494%29/La%20sirena%20de%20Gibraltar%20-%20Leandro%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="399 KB" />
+    <link href="../../Leandro%20Perez/La%20sirena%20de%20Gibraltar%20%281494%29/La%20sirena%20de%20Gibraltar%20-%20Leandro%20Perez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="399 KB" />
     <author>
       <name>Leandro Pérez</name>
       <uri>../authors_1/authors_1092_Page_1.xml</uri>
@@ -303,7 +321,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:2387</id>
     <updated>2024-09-09T10:34:20Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="203 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -323,7 +341,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:731</id>
     <updated>2023-05-17T01:32:52Z</updated>
     <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/El%20sobrepeso%20emocional%20-%20Anna%20Sibel%20y%20Bea%20campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/El%20sobrepeso%20emocional%20-%20Anna%20Sibel%20y%20Bea%20campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Anna Sibel y Bea campos</name>
       <uri>../authors_0/authors_546_Page_1.xml</uri>
@@ -342,7 +360,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1438</id>
     <updated>2024-04-20T05:13:31Z</updated>
     <link href="../../Elia%20Barcelo/La%20soga%20de%20cristal%20%281438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elia%20Barcelo/La%20soga%20de%20cristal%20%281438%29/La%20soga%20de%20cristal%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="581 KB" />
+    <link href="../../Elia%20Barcelo/La%20soga%20de%20cristal%20%281438%29/La%20soga%20de%20cristal%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="581 KB" />
     <author>
       <name>Elia Barceló</name>
       <uri>../authors_0/authors_245_Page_1.xml</uri>
@@ -358,11 +376,28 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <link href="../book_1/book_1438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>La soledad de un cielo sin estrellas</title>
+    <id>calibre:book:2846</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../Elena%20Montagud/La%20soledad%20de%20un%20cielo%20sin%20estrella%20%282846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elena%20Montagud/La%20soledad%20de%20un%20cielo%20sin%20estrella%20%282846%29/La%20soledad%20de%20un%20cielo%20sin%20estr%20-%20Elena%20Montagud.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="778 KB" />
+    <author>
+      <name>Elena Montagud</name>
+      <uri>../authors_1/authors_1862_Page_1.xml</uri>
+    </author>
+    <published>2024-12-12T00:10:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Enamórate con la nueva promesa de new adult.¿Puede el amor de dos mundos opuestos perdurar en el tiempo?Emma Jones nunca habría imaginado que volvería a encontrarse con el chico del que se enamoró. Y quien le rompió el corazón en tantos pedazos que n...</summary>
+    <link href="../book_2/book_2846.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La soledad del perro</title>
     <id>calibre:book:927</id>
     <updated>2023-07-04T02:12:22Z</updated>
     <link href="../../Julio%20Cesar%20Cano/La%20soledad%20del%20perro%20%28927%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Cesar%20Cano/La%20soledad%20del%20perro%20%28927%29/La%20soledad%20del%20perro%20-%20Julio%20Cesar%20Cano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Julio%20Cesar%20Cano/La%20soledad%20del%20perro%20%28927%29/La%20soledad%20del%20perro%20-%20Julio%20Cesar%20Cano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Julio César Cano</name>
       <uri>../authors_0/authors_695_Page_1.xml</uri>
@@ -380,7 +415,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:982</id>
     <updated>2023-08-23T00:29:04Z</updated>
     <link href="../../Alvaro%20Arbina/Los%20solitarios%20%28982%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvaro%20Arbina/Los%20solitarios%20%28982%29/Los%20solitarios%20-%20Alvaro%20Arbina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="605 KB" />
+    <link href="../../Alvaro%20Arbina/Los%20solitarios%20%28982%29/Los%20solitarios%20-%20Alvaro%20Arbina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="605 KB" />
     <author>
       <name>Álvaro Arbina</name>
       <uri>../authors_0/authors_204_Page_1.xml</uri>
@@ -397,7 +432,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1459</id>
     <updated>2024-04-30T04:46:09Z</updated>
     <link href="../../Carme%20Riera/Una%20sombra%20blanca%20%281459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carme%20Riera/Una%20sombra%20blanca%20%281459%29/Una%20sombra%20blanca%20-%20Carme%20Riera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../Carme%20Riera/Una%20sombra%20blanca%20%281459%29/Una%20sombra%20blanca%20-%20Carme%20Riera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>Carme Riera</name>
       <uri>../authors_1/authors_1067_Page_1.xml</uri>
@@ -414,7 +449,7 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <id>calibre:book:1024</id>
     <updated>2023-09-12T07:25:30Z</updated>
     <link href="../../Angela%20Banzas/La%20sombra%20de%20la%20rosa%20%281024%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angela%20Banzas/La%20sombra%20de%20la%20rosa%20%281024%29/La%20sombra%20de%20la%20rosa%20-%20Angela%20Banzas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Angela%20Banzas/La%20sombra%20de%20la%20rosa%20%281024%29/La%20sombra%20de%20la%20rosa%20-%20Angela%20Banzas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Ángela Banzas</name>
       <uri>../authors_0/authors_756_Page_1.xml</uri>
@@ -425,40 +460,6 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <category term="Lang:es" />
     <summary>Un asesino en serie obsesionado con los crímenes de la literatura. Una profesora en el centro de una investigación. Una experiencia de lectura sin tregua. VUELVE ÁNGELA BANZASLA VOZ DEL THRILLER GALLEGOUn asesino envuelto en sombras, una rosa, una ca...</summary>
     <link href="../book_1/book_1024.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La sombra de la tierra</title>
-    <id>calibre:book:351</id>
-    <updated>2023-02-23T01:18:58Z</updated>
-    <link href="../../Elvira%20Minguez/La%20sombra%20de%20la%20tierra%20%28351%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elvira%20Minguez/La%20sombra%20de%20la%20tierra%20%28351%29/La%20sombra%20de%20la%20tierra%20-%20Elvira%20Minguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="529 KB" />
-    <author>
-      <name>Elvira Mínguez</name>
-      <uri>../authors_0/authors_246_Page_1.xml</uri>
-    </author>
-    <published>2023-01-11T03:03:14Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Serán los hijos los que se conjuren contra el silencio de los padres para arrancar a la tierra de su sombra»La sombra de la tierra es la historia de dos mujeres o, mejor dicho, de la escalada al poder de una de ellas y la pérdida del mismo de la otr...</summary>
-    <link href="../book_0/book_351.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La sombra de los sueños</title>
-    <id>calibre:book:1308</id>
-    <updated>2024-03-21T00:44:04Z</updated>
-    <link href="../../Gonzalo%20Giner/La%20sombra%20de%20los%20suenos%20%281308%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gonzalo%20Giner/La%20sombra%20de%20los%20suenos%20%281308%29/La%20sombra%20de%20los%20suenos%20-%20Gonzalo%20Giner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Gonzalo Giner</name>
-      <uri>../authors_0/authors_950_Page_1.xml</uri>
-    </author>
-    <published>2024-03-12T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Hay sueños que es mejor no cumplir. Una historia repleta de acción, aventura y conspiraciones en torno a la figura histórica de Saladino. Sarah Ludwig es una sofisticada ladrona de arte. Tras su último robo, un valioso Manet, contacta con ella el emi...</summary>
-    <link href="../book_1/book_1308.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 8)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por N</title>
+  <title>Books starting with N</title>
   <id>Calibre2opds:allbooks:N</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por N" />
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_N_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
     <title>Nada</title>
     <id>calibre:book:1711</id>
     <updated>2024-08-06T10:52:12Z</updated>
     <link href="../../Carmen%20Laforet/Nada%20%281711%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Laforet/Nada%20%281711%29/Nada%20-%20Carmen%20Laforet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="425 KB" />
+    <link href="../../Carmen%20Laforet/Nada%20%281711%29/Nada%20-%20Carmen%20Laforet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
     <author>
       <name>Carmen Laforet</name>
       <uri>../authors_1/authors_1226_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:2663</id>
     <updated>2024-10-22T07:58:42Z</updated>
     <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/Nada%20de%20esto%20es%20verdad%20-%20Lisa%20Jewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="383 KB" />
+    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/Nada%20de%20esto%20es%20verdad%20-%20Lisa%20Jewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="383 KB" />
     <author>
       <name>Lisa Jewell</name>
       <uri>../authors_0/authors_329_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:732</id>
     <updated>2023-05-17T01:40:58Z</updated>
     <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/Nada%20es%20lo%20que%20parece%20-%20Lucia%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+    <link href="../../Lucia%20Rivera/Nada%20es%20lo%20que%20parece%20%28732%29/Nada%20es%20lo%20que%20parece%20-%20Lucia%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="658 KB" />
     <author>
       <name>Lucía Rivera</name>
       <uri>../authors_0/authors_547_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:267</id>
     <updated>2023-02-03T08:30:20Z</updated>
     <link href="../../Victor%20del%20Arbol/Nadie%20en%20esta%20tierra%20%28267%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20del%20Arbol/Nadie%20en%20esta%20tierra%20%28267%29/Nadie%20en%20esta%20tierra%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <link href="../../Victor%20del%20Arbol/Nadie%20en%20esta%20tierra%20%28267%29/Nadie%20en%20esta%20tierra%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
     <author>
       <name>Víctor del Árbol</name>
       <uri>../authors_0/authors_180_Page_1.xml</uri>
@@ -89,7 +89,7 @@
     <id>calibre:book:1078</id>
     <updated>2023-11-20T08:26:23Z</updated>
     <link href="../../Jordi%20Sanchez%20Zaragoza/Nadie%20es%20normal%20%281078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sanchez%20Zaragoza/Nadie%20es%20normal%20%281078%29/Nadie%20es%20normal%20-%20Jordi%20Sanchez%20Zaragoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="386 KB" />
+    <link href="../../Jordi%20Sanchez%20Zaragoza/Nadie%20es%20normal%20%281078%29/Nadie%20es%20normal%20-%20Jordi%20Sanchez%20Zaragoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="386 KB" />
     <author>
       <name>Jordi Sánchez Zaragoza</name>
       <uri>../authors_0/authors_784_Page_1.xml</uri>
@@ -107,7 +107,7 @@
     <id>calibre:book:1413</id>
     <updated>2024-04-08T05:29:28Z</updated>
     <link href="../../Alicia%20Gimenez%20Bartlett/Nadie%20quiere%20saber%20%281413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alicia%20Gimenez%20Bartlett/Nadie%20quiere%20saber%20%281413%29/Nadie%20quiere%20saber%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <link href="../../Alicia%20Gimenez%20Bartlett/Nadie%20quiere%20saber%20%281413%29/Nadie%20quiere%20saber%20-%20Alicia%20Gimenez%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
       <name>Alicia Giménez Bartlett</name>
       <uri>../authors_0/authors_824_Page_1.xml</uri>
@@ -128,7 +128,7 @@
     <id>calibre:book:1807</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Kat%20Rosenfield/Nadie%20se%20acordara%20de%20ella%20%281807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kat%20Rosenfield/Nadie%20se%20acordara%20de%20ella%20%281807%29/Nadie%20se%20acordara%20de%20ella%20-%20Kat%20Rosenfield.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="345 KB" />
+    <link href="../../Kat%20Rosenfield/Nadie%20se%20acordara%20de%20ella%20%281807%29/Nadie%20se%20acordara%20de%20ella%20-%20Kat%20Rosenfield.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="345 KB" />
     <author>
       <name>Kat Rosenfield</name>
       <uri>../authors_1/authors_1296_Page_1.xml</uri>
@@ -147,7 +147,7 @@
     <id>calibre:book:943</id>
     <updated>2023-07-14T09:48:38Z</updated>
     <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/Nahum%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../J.%20J.%20Benitez/Nahum%20%28943%29/Nahum%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -165,7 +165,7 @@
     <id>calibre:book:2300</id>
     <updated>2024-09-09T10:34:03Z</updated>
     <link href="../../Emile%20Zola/Nana%20%282300%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emile%20Zola/Nana%20%282300%29/Nana%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <link href="../../Emile%20Zola/Nana%20%282300%29/Nana%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
     <author>
       <name>Émile Zola</name>
       <uri>../authors_1/authors_1607_Page_1.xml</uri>
@@ -183,7 +183,7 @@
     <id>calibre:book:108</id>
     <updated>2023-01-18T00:43:26Z</updated>
     <link href="../../Robin%20Cook/Nano%20%28108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robin%20Cook/Nano%20%28108%29/Nano%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Robin%20Cook/Nano%20%28108%29/Nano%20-%20Robin%20Cook.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Robin Cook</name>
       <uri>../authors_0/authors_73_Page_1.xml</uri>
@@ -201,7 +201,7 @@
     <id>calibre:book:141</id>
     <updated>2023-01-19T08:55:16Z</updated>
     <link href="../../Antonio%20Nieto%2C%20David%20Fuentes%2C%20Sandr/Narco%20CDMX%20%28141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Nieto%2C%20David%20Fuentes%2C%20Sandr/Narco%20CDMX%20%28141%29/Narco%20CDMX%20-%20Antonio%20Nieto%2C%20David%20Fuentes%2C%20S.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <link href="../../Antonio%20Nieto%2C%20David%20Fuentes%2C%20Sandr/Narco%20CDMX%20%28141%29/Narco%20CDMX%20-%20Antonio%20Nieto%2C%20David%20Fuentes%2C%20S.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="681 KB" />
     <author>
       <name>Antonio Nieto, David Fuentes, Sandra Romandía</name>
       <uri>../authors_0/authors_88_Page_1.xml</uri>
@@ -220,7 +220,7 @@
     <id>calibre:book:546</id>
     <updated>2023-04-06T09:50:08Z</updated>
     <link href="../../Paco%20Gomez%20Escribano/Narcopiso%20%28546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paco%20Gomez%20Escribano/Narcopiso%20%28546%29/Narcopiso%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Paco%20Gomez%20Escribano/Narcopiso%20%28546%29/Narcopiso%20-%20Paco%20Gomez%20Escribano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>Paco Gómez Escribano</name>
       <uri>../authors_0/authors_403_Page_1.xml</uri>
@@ -237,7 +237,7 @@
     <id>calibre:book:1287</id>
     <updated>2024-03-15T08:54:01Z</updated>
     <link href="../../Emilio%20Bueso/Naturaleza%20muerta%20%281287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilio%20Bueso/Naturaleza%20muerta%20%281287%29/Naturaleza%20muerta%20-%20Emilio%20Bueso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <link href="../../Emilio%20Bueso/Naturaleza%20muerta%20%281287%29/Naturaleza%20muerta%20-%20Emilio%20Bueso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
     <author>
       <name>Emilio Bueso</name>
       <uri>../authors_0/authors_935_Page_1.xml</uri>
@@ -254,7 +254,7 @@
     <id>calibre:book:2002</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Alvar%20Nunez%20Cabeza%20de%20Vaca/Naufragios%20%282002%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvar%20Nunez%20Cabeza%20de%20Vaca/Naufragios%20%282002%29/Naufragios%20-%20Alvar%20Nunez%20Cabeza%20de%20Vaca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="160 KB" />
+    <link href="../../Alvar%20Nunez%20Cabeza%20de%20Vaca/Naufragios%20%282002%29/Naufragios%20-%20Alvar%20Nunez%20Cabeza%20de%20Vaca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="160 KB" />
     <author>
       <name>Álvar Núñez Cabeza de Vaca</name>
       <uri>../authors_1/authors_1434_Page_1.xml</uri>
@@ -270,7 +270,7 @@
     <id>calibre:book:2353</id>
     <updated>2024-09-09T10:34:13Z</updated>
     <link href="../../Ignacio%20Manuel%20Altamirano/Navidad%20en%20las%20montanas%20%282353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Manuel%20Altamirano/Navidad%20en%20las%20montanas%20%282353%29/Navidad%20en%20las%20montanas%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+    <link href="../../Ignacio%20Manuel%20Altamirano/Navidad%20en%20las%20montanas%20%282353%29/Navidad%20en%20las%20montanas%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="113 KB" />
     <author>
       <name>Ignacio Manuel Altamirano</name>
       <uri>../authors_1/authors_1429_Page_1.xml</uri>
@@ -288,7 +288,7 @@
     <id>calibre:book:939</id>
     <updated>2023-07-07T01:51:22Z</updated>
     <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/Nazaret%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="985 KB" />
+    <link href="../../J.%20J.%20Benitez/Nazaret%20%28939%29/Nazaret%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="985 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -306,7 +306,7 @@
     <id>calibre:book:2584</id>
     <updated>2024-09-12T03:39:18Z</updated>
     <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/Nela%201979%20-%20Juan%20Trejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="281 KB" />
+    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/Nela%201979%20-%20Juan%20Trejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="281 KB" />
     <author>
       <name>Juan Trejo</name>
       <uri>../authors_1/authors_1700_Page_1.xml</uri>
@@ -323,7 +323,7 @@
     <id>calibre:book:1166</id>
     <updated>2024-01-25T08:39:52Z</updated>
     <link href="../../Nazareth%20Castellanos/Neurociencia%20del%20cuerpo%20%281166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nazareth%20Castellanos/Neurociencia%20del%20cuerpo%20%281166%29/Neurociencia%20del%20cuerpo%20-%20Nazareth%20Castellanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Nazareth%20Castellanos/Neurociencia%20del%20cuerpo%20%281166%29/Neurociencia%20del%20cuerpo%20-%20Nazareth%20Castellanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Nazareth Castellanos</name>
       <uri>../authors_0/authors_850_Page_1.xml</uri>
@@ -338,7 +338,7 @@
     <id>calibre:book:2534</id>
     <updated>2024-09-09T10:34:51Z</updated>
     <link href="../../Francis%20Bacon/New%20Atlantis%20%282534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francis%20Bacon/New%20Atlantis%20%282534%29/New%20Atlantis%20-%20Francis%20Bacon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="91 KB" />
+    <link href="../../Francis%20Bacon/New%20Atlantis%20%282534%29/New%20Atlantis%20-%20Francis%20Bacon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
     <author>
       <name>Francis Bacon</name>
       <uri>../authors_1/authors_1675_Page_1.xml</uri>
@@ -360,7 +360,7 @@
     <id>calibre:book:2674</id>
     <updated>2024-10-22T08:08:32Z</updated>
     <link href="../../Yuval%20Noah%20Harari/Nexus%20%282674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yuval%20Noah%20Harari/Nexus%20%282674%29/Nexus%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="643 KB" />
+    <link href="../../Yuval%20Noah%20Harari/Nexus%20%282674%29/Nexus%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="643 KB" />
     <author>
       <name>Yuval Noah Harari</name>
       <uri>../authors_1/authors_1758_Page_1.xml</uri>
@@ -379,7 +379,7 @@
     <id>calibre:book:965</id>
     <updated>2023-08-16T05:28:58Z</updated>
     <link href="../../Carlos%20Heredia%20Ruiz/Ni%20fu%20ni%20fuck%20%28965%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Heredia%20Ruiz/Ni%20fu%20ni%20fuck%20%28965%29/Ni%20fu%20ni%20fuck%20-%20Carlos%20Heredia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="816 KB" />
+    <link href="../../Carlos%20Heredia%20Ruiz/Ni%20fu%20ni%20fuck%20%28965%29/Ni%20fu%20ni%20fuck%20-%20Carlos%20Heredia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="816 KB" />
     <author>
       <name>Carlos Heredia Ruiz</name>
       <uri>../authors_0/authors_719_Page_1.xml</uri>
@@ -400,7 +400,7 @@
     <id>calibre:book:1334</id>
     <updated>2024-03-21T01:00:31Z</updated>
     <link href="../../Raquel%20Oliva/Ni%20una%20sola%20gota%20%281334%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raquel%20Oliva/Ni%20una%20sola%20gota%20%281334%29/Ni%20una%20sola%20gota%20-%20Raquel%20Oliva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Raquel%20Oliva/Ni%20una%20sola%20gota%20%281334%29/Ni%20una%20sola%20gota%20-%20Raquel%20Oliva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Raquel Oliva</name>
       <uri>../authors_0/authors_975_Page_1.xml</uri>
@@ -419,7 +419,7 @@ La incontinencia urinaria afecta a un 15 por ciento de mujeres en España. Es un
     <id>calibre:book:665</id>
     <updated>2023-05-15T05:51:20Z</updated>
     <link href="../../Jesus%20Fernandez%20Ubeda/Nido%20de%20piratas%20%28665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jesus%20Fernandez%20Ubeda/Nido%20de%20piratas%20%28665%29/Nido%20de%20piratas%20-%20Jesus%20Fernandez%20Ubeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Jesus%20Fernandez%20Ubeda/Nido%20de%20piratas%20%28665%29/Nido%20de%20piratas%20-%20Jesus%20Fernandez%20Ubeda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Jesús Fernández Úbeda</name>
       <uri>../authors_0/authors_493_Page_1.xml</uri>
@@ -436,7 +436,7 @@ La incontinencia urinaria afecta a un 15 por ciento de mujeres en España. Es un
     <id>calibre:book:2207</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/Niebla%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="209 KB" />
+    <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/Niebla%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="209 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -454,7 +454,7 @@ La incontinencia urinaria afecta a un 15 por ciento de mujeres en España. Es un
     <id>calibre:book:1236</id>
     <updated>2024-02-23T08:42:57Z</updated>
     <link href="../../Laura%20Baeza/Niebla%20ardiente%20%281236%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Baeza/Niebla%20ardiente%20%281236%29/Niebla%20ardiente%20-%20Laura%20Baeza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="341 KB" />
+    <link href="../../Laura%20Baeza/Niebla%20ardiente%20%281236%29/Niebla%20ardiente%20-%20Laura%20Baeza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="341 KB" />
     <author>
       <name>Laura Baeza</name>
       <uri>../authors_0/authors_899_Page_1.xml</uri>

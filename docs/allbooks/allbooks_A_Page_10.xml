@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,34 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <entry>
+    <title>El ángel de la muerte</title>
+    <id>calibre:book:39</id>
+    <updated>2023-01-17T10:23:16Z</updated>
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/El%20angel%20de%20la%20muerte%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="511 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2022-12-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid" />
+    <summary>Crímenes de Madrid [4]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El ángel vacío</title>
     <id>calibre:book:2627</id>
     <updated>2024-10-16T09:57:39Z</updated>
     <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="469 KB" />
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="469 KB" />
     <author>
       <name>Reyes Martínez</name>
       <uri>../authors_0/authors_679_Page_1.xml</uri>
@@ -37,7 +54,7 @@ Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón est�
     <id>calibre:book:1952</id>
     <updated>2024-09-05T06:10:24Z</updated>
     <link href="../../Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%281952%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%281952%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%281952%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Pío Baroja</name>
       <uri>../authors_1/authors_1396_Page_1.xml</uri>

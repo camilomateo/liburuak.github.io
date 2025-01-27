@@ -6,12 +6,12 @@
   <link href="./book_328.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los inocentes" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por B" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
   <link href="../authors_0/authors_231_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Baldacci" />
   <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/Los%20inocentes%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="521 KB" />
+  <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/Los%20inocentes%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="521 KB" />
   <author>
     <name>David Baldacci</name>
     <uri>../authors_0/authors_231_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Will Robie serie
+      Book 1 in the Will Robie series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Intriga, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Estados Unidos tiene enemigos, algunos de ellos personas sin
     escrúpulos a quienes no pueden detener ni la policía
@@ -57,6 +57,6 @@
     profesionales, Robie decide salir de las sombras para salvar la
     vida de la muchacha… y tal vez la suya propia.</p>
   </content>
-  <link href="../series_0/series_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Will Robie serie" />
-  <link href="../authors_0/authors_231_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de David Baldacci" />
+  <link href="../series_0/series_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 1 in the Will Robie series" />
+  <link href="../authors_0/authors_231_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by David Baldacci" />
 </entry>

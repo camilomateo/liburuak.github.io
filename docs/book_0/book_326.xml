@@ -6,13 +6,13 @@
   <link href="./book_326.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Deudas del frío" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="../authors_0/authors_230_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Susana Rodríguez Lezaun" />
   <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/Deudas%20del%20frio%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+  <link href="../../Susana%20Rodriguez%20Lezaun/Deudas%20del%20frio%20%28326%29/Deudas%20del%20frio%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
   <author>
     <name>Susana Rodríguez Lezaun</name>
     <uri>../authors_0/authors_230_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 2 en la Inspector David Vázquez serie
+      Book 2 in the Inspector David Vázquez series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <span itemprop="description" style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">
@@ -74,6 +74,6 @@
       <br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);" />
     </div>
   </content>
-  <link href="../series_0/series_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Inspector David Vázquez serie" />
-  <link href="../authors_0/authors_230_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Susana Rodríguez Lezaun" />
+  <link href="../series_0/series_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 2 in the Inspector David Vázquez series" />
+  <link href="../authors_0/authors_230_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Susana Rodríguez Lezaun" />
 </entry>

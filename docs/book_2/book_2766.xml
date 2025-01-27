@@ -6,12 +6,12 @@
   <link href="./book_2766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La muerte no existe" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/La%20muerte%20no%20existe%20-%20Stephane%20Allix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="385 KB" />
+  <link href="../../Stephane%20Allix/La%20muerte%20no%20existe%20%282766%29/La%20muerte%20no%20existe%20-%20Stephane%20Allix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="385 KB" />
   <author>
     <name>Stéphane Allix</name>
     <uri>../authors_1/authors_1806_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">¿QUÉ OCURRE CUANDO MORIMOS?</p>
     <p xmlns="">¿QUÉ PASA CON NUESTRA CONSCIENCIA?</p>
@@ -53,5 +53,5 @@
     el alivio que ha sentido tras su viaje a las fronteras de la
     vida.</p>
   </content>
-  <link href="../authors_1/authors_1806_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stéphane Allix" />
+  <link href="../authors_1/authors_1806_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Stéphane Allix" />
 </entry>

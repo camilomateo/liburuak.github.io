@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Jordi Sierra i Fabra</title>
+  <title>All books by Jordi Sierra i Fabra</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_10_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Jordi Sierra i Fabra" />
+  <link href="./authors_10_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Jordi Sierra i Fabra" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por F" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
   <link href="./authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jordi Sierra i Fabra" />
   <entry>
     <title>Algunos días de abril</title>
     <id>calibre:book:445</id>
     <updated>2023-03-23T11:00:40Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/Algunos%20dias%20de%20abril%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/Algunos%20dias%20de%20abril%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1407</id>
     <updated>2024-04-08T04:38:20Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="513 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:1097</id>
     <updated>2023-12-28T03:38:21Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/Cien%20historias%20en%20torno%20a%20The%20B%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/Cien%20historias%20en%20torno%20a%20The%20B%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:12</id>
     <updated>2023-01-17T10:08:22Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/Historia%20del%20Rock%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/Historia%20del%20Rock%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -89,7 +89,7 @@
     <id>calibre:book:1233</id>
     <updated>2024-02-23T08:42:57Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/Manicomio%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="418 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/Manicomio%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="418 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -106,7 +106,7 @@
     <id>calibre:book:1608</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/La%20verdad%20oculta%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/La%20verdad%20oculta%20%281608%29/La%20verdad%20oculta%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="373 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>

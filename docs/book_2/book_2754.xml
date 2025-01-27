@@ -6,11 +6,11 @@
   <link href="./book_2754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tinta y ceniza" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
+  <link href="../../Andrea%20Tome/Tinta%20y%20ceniza%20%282754%29/Tinta%20y%20ceniza%20-%20Andrea%20Tome.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="672 KB" />
   <author>
     <name>Andrea Tomé</name>
     <uri>../authors_1/authors_1801_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">La guerra parecía una amenaza lejana, pero pronto se
     convirtió en una realidad que teñiría sus vidas
@@ -48,5 +48,5 @@
     y pasión durante la guerra que enfrentó a Europa
     entera, truncando los destinos de toda una generación.</p>
   </content>
-  <link href="../authors_1/authors_1801_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Andrea Tomé" />
+  <link href="../authors_1/authors_1801_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Andrea Tomé" />
 </entry>

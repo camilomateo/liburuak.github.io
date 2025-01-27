@@ -6,11 +6,11 @@
   <link href="./book_453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los girasoles indolentes" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with I" />
   <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/Los%20girasoles%20indolentes%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+  <link href="../../Max%20Ibarrola/Los%20girasoles%20indolentes%20%28453%29/Los%20girasoles%20indolentes%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
   <author>
     <name>Max Ibarrola</name>
     <uri>../authors_0/authors_338_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Dos personas, trabajadores del Circo Robertson actualmente
@@ -54,5 +54,5 @@
       del espectáculo ambulante más famoso.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Max Ibarrola" />
+  <link href="../authors_0/authors_338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Max Ibarrola" />
 </entry>

@@ -11,13 +11,13 @@
   <link href="./authors_1462_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lewis Carroll" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <entry>
-    <title>Todos los libros de Lewis Carroll</title>
+    <title>All books by Lewis Carroll</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 4 libros</content>
+    <content type="text">Alphabetical index of the 4 books</content>
     <link href="../authors_1/authors_1462_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -25,7 +25,7 @@
   <entry>
     <title>Series: Biblioteca PruébaT</title>
     <id>Calibre2opds:authors:1462series:225</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1462_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -35,7 +35,7 @@
     <id>calibre:book:2034</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/Alicia%20en%20el%20pais%20de%20las%20maravi%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="129 KB" />
+    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/Alicia%20en%20el%20pais%20de%20las%20maravi%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="129 KB" />
     <author>
       <name>Lewis Carroll</name>
       <uri>../authors_1/authors_1462_Page_1.xml</uri>
@@ -51,7 +51,7 @@
     <id>calibre:book:2054</id>
     <updated>2024-09-06T02:09:04Z</updated>
     <link href="../../Lewis%20Carroll/La%20Caza%20del%20Snark%20%282054%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lewis%20Carroll/La%20Caza%20del%20Snark%20%282054%29/La%20Caza%20del%20Snark%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="69 KB" />
+    <link href="../../Lewis%20Carroll/La%20Caza%20del%20Snark%20%282054%29/La%20Caza%20del%20Snark%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="69 KB" />
     <author>
       <name>Lewis Carroll</name>
       <uri>../authors_1/authors_1462_Page_1.xml</uri>

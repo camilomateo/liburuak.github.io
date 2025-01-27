@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,148 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 of 14)" />
+  <entry>
+    <title>La ciudad</title>
+    <id>calibre:book:400</id>
+    <updated>2023-03-09T00:08:58Z</updated>
+    <link href="../../Luis%20Zueco/La%20ciudad%20%28400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Zueco/La%20ciudad%20%28400%29/La%20ciudad%20-%20Luis%20Zueco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Luis Zueco</name>
+      <uri>../authors_0/authors_264_Page_1.xml</uri>
+    </author>
+    <published>2016-10-19T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Medieval" />
+    <summary>Medieval [2]: Luis Zueco continúa con la construcción de su épica trilogía medieval con esta obra, un thriller histórico que nos sumerge  en la vida cotidiana de la Edad Media a través de una trama llena de suspense de la que los lectores no podrán e...</summary>
+    <link href="../book_0/book_400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El clan</title>
+    <id>calibre:book:2573</id>
+    <updated>2024-09-26T00:25:38Z</updated>
+    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Mola/El%20clan%20%282573%29/El%20clan%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
+    <author>
+      <name>Carmen Mola</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2023-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Elena Blanco" />
+    <summary>Inspectora Elena Blanco [5]: Magnífica, brutal y enormemente adictiva, Carmen Mola se supera en el esperado desenlace de la serie Inspectora Elena Blanco.Cuando morir no importa, todo está permitido. Elena Blanco , inspectora de la Brigada de Análisi...</summary>
+    <link href="../book_2/book_2573.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La clase envenenada</title>
+    <id>calibre:book:1448</id>
+    <updated>2024-04-20T05:25:37Z</updated>
+    <link href="../../Lucas%20Pogrzebny/La%20clase%20envenenada%20%281448%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucas%20Pogrzebny/La%20clase%20envenenada%20%281448%29/La%20clase%20envenenada%20-%20Lucas%20Pogrzebny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
+    <author>
+      <name>Lucas Pogrzebny</name>
+      <uri>../authors_1/authors_1057_Page_1.xml</uri>
+    </author>
+    <published>2024-03-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Misterios de Café Levin" />
+    <summary>Misterios de Café Levin: De la mano de un autor Preseleccionado para el Premio CWA/Margery Allingham de Misterio Corto, llega un heredero moderno de Holmes, Poirot, Queen y Columbo. Un colegio secundario enredado en una telaraña de sospechas… Tantos ...</summary>
+    <link href="../book_1/book_1448.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un clavado a tu cerebro</title>
+    <id>calibre:book:56</id>
+    <updated>2023-01-17T10:58:46Z</updated>
+    <link href="../../Eduardo%20Calixto/Un%20clavado%20a%20tu%20cerebro%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eduardo%20Calixto/Un%20clavado%20a%20tu%20cerebro%20%2856%29/Un%20clavado%20a%20tu%20cerebro%20-%20Eduardo%20Calixto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="739 KB" />
+    <author>
+      <name>Eduardo Calixto</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>2017-02-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Encuentra las respuestas a todas las preguntas relacionadas con tus pensamientos, tus emociones, en síntesis: con la forma maravillosa en que funciona tu cerebro.¿Por qué sientes celos, ansiedad, angustia? ¿Sabías que existen áreas cerebrales de la ...</summary>
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El clavo</title>
+    <id>calibre:book:2131</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/El%20clavo%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="776 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El club mefisto</title>
+    <id>calibre:book:18</id>
+    <updated>2023-01-17T10:11:54Z</updated>
+    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/El%20club%20mefisto%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
+    <author>
+      <name>Tess Gerritsen</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2022-11-28T05:19:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El Club Mefisto es el sexto libro de la afamada serie Rizzoli &amp; Isles y la inspiración detrás de el éxito televisivo.'HE PECADO'Las palabras están escritas con sangre en la escena del crimen más atroz que la patóloga forense Maura Isles y la detectiv...</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cocina probiótica</title>
+    <id>calibre:book:297</id>
+    <updated>2023-02-13T08:25:36Z</updated>
+    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/La%20cocina%20probiotica%20-%20Nerea%20Zorokiain%20Garin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
+    <author>
+      <name>Nerea Zorokiain Garín</name>
+      <uri>../authors_0/authors_205_Page_1.xml</uri>
+    </author>
+    <published>2022-06-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro de cocina para cuidar tu microbiota.La alimentación probiótica es aquella que está pensada para preservar el hábitat y las condiciones de vida que los microorganismos beneficiosos para nuestro sistema digestivo necesitan. Gracias a la micro...</summary>
+    <link href="../book_0/book_297.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La cocinera irlandesa</title>
     <id>calibre:book:864</id>
     <updated>2023-06-14T05:48:36Z</updated>
     <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/La%20cocinera%20irlandesa%20-%20Mary%20Beth%20Keane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/La%20cocinera%20irlandesa%20-%20Mary%20Beth%20Keane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
     <author>
       <name>Mary Beth Keane</name>
       <uri>../authors_0/authors_649_Page_1.xml</uri>
@@ -38,7 +168,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:437</id>
     <updated>2023-03-20T05:50:08Z</updated>
     <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/Las%20cocineras%20de%20Fenley%20-%20Jennifer%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="554 KB" />
+    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/Las%20cocineras%20de%20Fenley%20-%20Jennifer%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
     <author>
       <name>Jennifer Ryan</name>
       <uri>../authors_0/authors_326_Page_1.xml</uri>
@@ -55,7 +185,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:683</id>
     <updated>2023-05-15T06:09:52Z</updated>
     <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/La%20cofradia%20de%20las%20viudas%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/La%20cofradia%20de%20las%20viudas%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Mónica Hernández</name>
       <uri>../authors_0/authors_507_Page_1.xml</uri>
@@ -72,7 +202,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:317</id>
     <updated>2023-02-16T08:41:10Z</updated>
     <link href="../../Abel%20Viotti/El%20coleccionista%20de%20mascaras%20%28317%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Abel%20Viotti/El%20coleccionista%20de%20mascaras%20%28317%29/El%20coleccionista%20de%20mascaras%20-%20Abel%20Viotti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <link href="../../Abel%20Viotti/El%20coleccionista%20de%20mascaras%20%28317%29/El%20coleccionista%20de%20mascaras%20-%20Abel%20Viotti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="620 KB" />
     <author>
       <name>Abel Viotti</name>
       <uri>../authors_0/authors_223_Page_1.xml</uri>
@@ -89,7 +219,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:1355</id>
     <updated>2024-03-27T01:25:09Z</updated>
     <link href="../../Daniel%20Silva/El%20coleccionista%20%281355%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Silva/El%20coleccionista%20%281355%29/El%20coleccionista%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Daniel%20Silva/El%20coleccionista%20%281355%29/El%20coleccionista%20-%20Daniel%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Daniel Silva</name>
       <uri>../authors_0/authors_415_Page_1.xml</uri>
@@ -103,7 +233,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:717</id>
     <updated>2023-05-17T01:10:50Z</updated>
     <link href="../../Victoria%20Christopher%20Murray/La%20coleccionista%20%28717%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victoria%20Christopher%20Murray/La%20coleccionista%20%28717%29/La%20coleccionista%20-%20Victoria%20Christopher%20Murray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <link href="../../Victoria%20Christopher%20Murray/La%20coleccionista%20%28717%29/La%20coleccionista%20-%20Victoria%20Christopher%20Murray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
     <author>
       <name>Victoria Christopher Murray</name>
       <uri>../authors_0/authors_534_Page_1.xml</uri>
@@ -124,7 +254,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:2441</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/El%20collar%20de%20la%20Reina%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="703 KB" />
+    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/El%20collar%20de%20la%20Reina%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="703 KB" />
     <author>
       <name>Alejandro Dumas</name>
       <uri>../authors_1/authors_1593_Page_1.xml</uri>
@@ -144,7 +274,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:370</id>
     <updated>2023-03-03T08:31:26Z</updated>
     <link href="../../Pierre%20Lemaitre/Los%20colores%20del%20incendio%20%28370%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Lemaitre/Los%20colores%20del%20incendio%20%28370%29/Los%20colores%20del%20incendio%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <link href="../../Pierre%20Lemaitre/Los%20colores%20del%20incendio%20%28370%29/Los%20colores%20del%20incendio%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="551 KB" />
     <author>
       <name>Pierre Lemaitre</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -161,7 +291,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:1062</id>
     <updated>2023-11-05T04:16:29Z</updated>
     <link href="../../Ken%20Follett/Una%20columna%20de%20fuego%20%281062%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ken%20Follett/Una%20columna%20de%20fuego%20%281062%29/Una%20columna%20de%20fuego%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ken%20Follett/Una%20columna%20de%20fuego%20%281062%29/Una%20columna%20de%20fuego%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ken Follett</name>
       <uri>../authors_0/authors_425_Page_1.xml</uri>
@@ -180,7 +310,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:293</id>
     <updated>2023-02-10T03:54:52Z</updated>
     <link href="../../Anne%20Stern/La%20comadrona%20de%20Berlin%20%28293%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Stern/La%20comadrona%20de%20Berlin%20%28293%29/La%20comadrona%20de%20Berlin%20-%20Anne%20Stern.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Anne%20Stern/La%20comadrona%20de%20Berlin%20%28293%29/La%20comadrona%20de%20Berlin%20-%20Anne%20Stern.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Anne Stern</name>
       <uri>../authors_0/authors_201_Page_1.xml</uri>
@@ -197,7 +327,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:343</id>
     <updated>2023-02-21T01:25:00Z</updated>
     <link href="../../Anne%20Rice/La%20comunidad%20de%20la%20sangre%20%28Cronicas%20%28343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Rice/La%20comunidad%20de%20la%20sangre%20%28Cronicas%20%28343%29/La%20comunidad%20de%20la%20sangre%20%28Cron%20-%20Anne%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Anne%20Rice/La%20comunidad%20de%20la%20sangre%20%28Cronicas%20%28343%29/La%20comunidad%20de%20la%20sangre%20%28Cron%20-%20Anne%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Anne Rice</name>
       <uri>../authors_0/authors_239_Page_1.xml</uri>
@@ -214,7 +344,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:791</id>
     <updated>2023-05-31T01:04:22Z</updated>
     <link href="../../Andrea%20Camilleri/La%20conciencia%20de%20Montalbano%20%28791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Camilleri/La%20conciencia%20de%20Montalbano%20%28791%29/La%20conciencia%20de%20Montalbano%20-%20Andrea%20Camilleri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <link href="../../Andrea%20Camilleri/La%20conciencia%20de%20Montalbano%20%28791%29/La%20conciencia%20de%20Montalbano%20-%20Andrea%20Camilleri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
     <author>
       <name>Andrea Camilleri</name>
       <uri>../authors_0/authors_399_Page_1.xml</uri>
@@ -232,7 +362,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:2271</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Alejandro%20Dumas/El%20conde%20de%20Montecristo%20%282271%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandro%20Dumas/El%20conde%20de%20Montecristo%20%282271%29/El%20conde%20de%20Montecristo%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Alejandro%20Dumas/El%20conde%20de%20Montecristo%20%282271%29/El%20conde%20de%20Montecristo%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Alejandro Dumas</name>
       <uri>../authors_1/authors_1593_Page_1.xml</uri>
@@ -250,7 +380,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:1202</id>
     <updated>2024-02-06T06:13:11Z</updated>
     <link href="../../Marco%20De%20Franchi/La%20condena%20de%20los%20vivos%20%281202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marco%20De%20Franchi/La%20condena%20de%20los%20vivos%20%281202%29/La%20condena%20de%20los%20vivos%20-%20Marco%20De%20Franchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="652 KB" />
+    <link href="../../Marco%20De%20Franchi/La%20condena%20de%20los%20vivos%20%281202%29/La%20condena%20de%20los%20vivos%20-%20Marco%20De%20Franchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
     <author>
       <name>Marco De Franchi</name>
       <uri>../authors_0/authors_872_Page_1.xml</uri>
@@ -267,7 +397,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:2285</id>
     <updated>2024-09-09T10:33:59Z</updated>
     <link href="../../Franz%20Kafka/La%20condena%20%282285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Franz%20Kafka/La%20condena%20%282285%29/La%20condena%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="90 KB" />
+    <link href="../../Franz%20Kafka/La%20condena%20%282285%29/La%20condena%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="90 KB" />
     <author>
       <name>Franz Kafka</name>
       <uri>../authors_1/authors_1575_Page_1.xml</uri>
@@ -285,7 +415,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:1008</id>
     <updated>2023-08-27T03:30:30Z</updated>
     <link href="../../Roberto%20Dominguez%20Moro/El%20confinado%20%281008%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Dominguez%20Moro/El%20confinado%20%281008%29/El%20confinado%20-%20Roberto%20Dominguez%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Roberto%20Dominguez%20Moro/El%20confinado%20%281008%29/El%20confinado%20-%20Roberto%20Dominguez%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Roberto Domínguez Moro</name>
       <uri>../authors_0/authors_747_Page_1.xml</uri>
@@ -303,7 +433,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:969</id>
     <updated>2023-08-16T05:29:02Z</updated>
     <link href="../../Miguel%20Conde-Lobato/La%20congregacion%20%28969%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Conde-Lobato/La%20congregacion%20%28969%29/La%20congregacion%20-%20Miguel%20Conde-Lobato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="571 KB" />
+    <link href="../../Miguel%20Conde-Lobato/La%20congregacion%20%28969%29/La%20congregacion%20-%20Miguel%20Conde-Lobato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="571 KB" />
     <author>
       <name>Miguel Conde-Lobato</name>
       <uri>../authors_0/authors_722_Page_1.xml</uri>
@@ -320,7 +450,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <id>calibre:book:527</id>
     <updated>2023-04-05T00:40:10Z</updated>
     <link href="../../Petros%20Markaris/La%20conjura%20de%20los%20suicidas%20%28527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Petros%20Markaris/La%20conjura%20de%20los%20suicidas%20%28527%29/La%20conjura%20de%20los%20suicidas%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <link href="../../Petros%20Markaris/La%20conjura%20de%20los%20suicidas%20%28527%29/La%20conjura%20de%20los%20suicidas%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="594 KB" />
     <author>
       <name>Petros Márkaris</name>
       <uri>../authors_0/authors_391_Page_1.xml</uri>
@@ -333,128 +463,7 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <summary>Kostas Jaritos [14]: El suicidio de un anciano durante la pandemia de covid revela a una sociedad que ha llegado al límite de sus fuerzas y de su paciencia. En Atenas, durante la pandemia de covid, la mayoría de las tiendas y de los bares permanecen ...</summary>
     <link href="../book_0/book_527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El consejo del búho y otros cuentos</title>
-    <id>calibre:book:2177</id>
-    <updated>2024-09-06T02:21:28Z</updated>
-    <link href="../../Maria%20Enriqueta/El%20consejo%20del%20buho%20y%20otros%20cuentos%20%282177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Enriqueta/El%20consejo%20del%20buho%20y%20otros%20cuentos%20%282177%29/El%20consejo%20del%20buho%20y%20otros%20cue%20-%20Maria%20Enriqueta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="191 KB" />
-    <author>
-      <name>María Enriqueta</name>
-      <uri>../authors_1/authors_1542_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [89]:</summary>
-    <link href="../book_2/book_2177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El corazón de las tinieblas</title>
-    <id>calibre:book:2270</id>
-    <updated>2024-09-09T10:33:57Z</updated>
-    <link href="../../Joseph%20Conrad/El%20corazon%20de%20las%20tinieblas%20%282270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/El%20corazon%20de%20las%20tinieblas%20%282270%29/El%20corazon%20de%20las%20tinieblas%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="151 KB" />
-    <author>
-      <name>Joseph Conrad</name>
-      <uri>../authors_1/authors_1592_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [7]:</summary>
-    <link href="../book_2/book_2270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La cortesana de León</title>
-    <id>calibre:book:797</id>
-    <updated>2023-05-31T01:04:28Z</updated>
-    <link href="../../Francisco%20Sempere/La%20cortesana%20de%20Leon%20%28797%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Sempere/La%20cortesana%20de%20Leon%20%28797%29/La%20cortesana%20de%20Leon%20-%20Francisco%20Sempere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
-    <author>
-      <name>Francisco Sempere</name>
-      <uri>../authors_0/authors_593_Page_1.xml</uri>
-    </author>
-    <published>2023-05-24T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una vida de lucha por el trono. Una batalla de reyes en la que se alzará una reina. 1100 d. C. La turbulenta línea de sucesión de los reinos de León, Castilla y Galicia obliga a doña Urraca de Zamora, hermana y mano derecha del rey Alfonso VI, a aseg...</summary>
-    <link href="../book_0/book_797.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las cosas que nunca se cuentan</title>
-    <id>calibre:book:1534</id>
-    <updated>2024-06-02T10:59:40Z</updated>
-    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/Las%20cosas%20que%20nunca%20se%20cuentan%20-%20Antonella%20Lattanzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="273 KB" />
-    <author>
-      <name>Antonella Lattanzi</name>
-      <uri>../authors_1/authors_1116_Page_1.xml</uri>
-    </author>
-    <published>2024-05-08T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Reservoir Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>UN RELATO HONESTO, DEVASTADOR, NECESARIO Y «PROFUNDAMENTE CONMOVEDOR» (NICOLA LAGIOIA) SOBRE LOS CLAROSCUROS DE LA MATERNIDAD, INMEDIATAMENTE ACLAMADO POR LA CRÍTICA Y EL MUNDO LITERARIO «Una historia de dolor físico y mental que palpita en cada líne...</summary>
-    <link href="../book_1/book_1534.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las coéforas</title>
-    <id>calibre:book:2342</id>
-    <updated>2024-09-09T10:34:11Z</updated>
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="97 KB" />
-    <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [150]:</summary>
-    <link href="../book_2/book_2342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un crimen bretón</title>
-    <id>calibre:book:1568</id>
-    <updated>2024-06-02T10:59:49Z</updated>
-    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/Un%20crimen%20breton%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
-    <author>
-      <name>Jean-Luc Bannalec</name>
-      <uri>../authors_1/authors_1101_Page_1.xml</uri>
-    </author>
-    <published>2015-06-10T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Comisario Dupin" />
-    <summary>Comisario Dupin [3]: Unas salinas donde ronda la muerte, un oscuro secreto y un comisario de ciudad que ha sido desterrado a una pequeña población de la Bretaña francesa.Un crimen Bretón es el tercer caso del comisario Dupin, protagonista de la serie...</summary>
-    <link href="../book_1/book_1568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un crimen brillante</title>
-    <id>calibre:book:1776</id>
-    <updated>2024-08-26T10:56:12Z</updated>
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2021-12-07T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>Fama, deudas, amantes y un montón de secretos.La desaparición de un famoso actor de cine pone a Maldonado como principal sospechoso de una investigación.El detective pronto descubrirá que nadie está interesado en encontrar al actor con vida.Dar con é...</summary>
-    <link href="../book_1/book_1776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

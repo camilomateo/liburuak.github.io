@@ -6,12 +6,12 @@
   <link href="./book_429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Samsón y Nadiezhda" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
-  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por K" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../authorlist/authorlist_K_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
   <link href="../../Andrei%20Kurkov/Samson%20y%20Nadiezhda%20%28429%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Andrei%20Kurkov/Samson%20y%20Nadiezhda%20%28429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Andrei%20Kurkov/Samson%20y%20Nadiezhda%20%28429%29/Samson%20y%20Nadiezhda%20-%20Andrei%20Kurkov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="806 KB" />
+  <link href="../../Andrei%20Kurkov/Samson%20y%20Nadiezhda%20%28429%29/Samson%20y%20Nadiezhda%20-%20Andrei%20Kurkov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="806 KB" />
   <author>
     <name>Andrei Kurkov</name>
     <uri>../authors_0/authors_318_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>UN SHERLOCK HOLMES EN KIEV Por el premiado Andréi
@@ -95,5 +95,5 @@
       maravillosos».Michael Palin</p>
     </div>
   </content>
-  <link href="../authors_0/authors_318_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Andrei Kurkov" />
+  <link href="../authors_0/authors_318_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Andrei Kurkov" />
 </entry>

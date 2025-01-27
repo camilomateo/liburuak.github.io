@@ -6,11 +6,11 @@
   <link href="./book_882.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las horas crueles" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/Las%20horas%20crueles%20-%20Marto%20Pariente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+  <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/Las%20horas%20crueles%20-%20Marto%20Pariente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
   <author>
     <name>Marto Pariente</name>
     <uri>../authors_0/authors_661_Page_1.xml</uri>
@@ -20,10 +20,10 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Se irá a la tumba sin confesar. Un country noir
     que nos sorprende por su prosa tan ágil como gamberra y
@@ -45,5 +45,5 @@
     Desaparecidos, una agencia que continúa buscando cuando a
     la policía se le agotan los recursos.Frank...</p>
   </content>
-  <link href="../authors_0/authors_661_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Marto Pariente" />
+  <link href="../authors_0/authors_661_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Marto Pariente" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por H</title>
+  <title>Books starting with H</title>
   <id>Calibre2opds:allbooks:H</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por H" />
+  <link href="./allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with H" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por H" />
-  <link href="../allbooks/allbooks_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
+  <link href="../allbooks/allbooks_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
+  <entry>
+    <title>Historia absurda de España</title>
+    <id>calibre:book:2583</id>
+    <updated>2024-09-12T03:39:17Z</updated>
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ad%20Absurdum/Historia%20absurda%20de%20Espana%20%282583%29/Historia%20absurda%20de%20Espana%20-%20Ad%20Absurdum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Ad Absurdum</name>
+      <uri>../authors_1/authors_1699_Page_1.xml</uri>
+    </author>
+    <published>2017-04-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Es un consuelo ver como una nueva generación de historiadores nos cuenta la Historia con humor y sin rollos para que los demás la disfrutemos. Un fantástico libro»Nieves Concostrina, autora de Menudas historias de la Historia «Si te interesa la hist...</summary>
+    <link href="../book_2/book_2583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Historia de dos ciudades</title>
     <id>calibre:book:2391</id>
     <updated>2024-09-09T10:34:21Z</updated>
     <link href="../../Charles%20Dickens/Historia%20de%20dos%20ciudades%20%282391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/Historia%20de%20dos%20ciudades%20%282391%29/Historia%20de%20dos%20ciudades%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="457 KB" />
+    <link href="../../Charles%20Dickens/Historia%20de%20dos%20ciudades%20%282391%29/Historia%20de%20dos%20ciudades%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="457 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -38,7 +55,7 @@
     <id>calibre:book:2003</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Pedro%20Jose%20Guiteras/Historia%20de%20la%20Conquista%20de%20la%20Haba%20%282003%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Jose%20Guiteras/Historia%20de%20la%20Conquista%20de%20la%20Haba%20%282003%29/Historia%20de%20la%20Conquista%20de%20la%20-%20Pedro%20Jose%20Guiteras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="219 KB" />
+    <link href="../../Pedro%20Jose%20Guiteras/Historia%20de%20la%20Conquista%20de%20la%20Haba%20%282003%29/Historia%20de%20la%20Conquista%20de%20la%20-%20Pedro%20Jose%20Guiteras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
     <author>
       <name>Pedro José Guiteras</name>
       <uri>../authors_1/authors_1435_Page_1.xml</uri>
@@ -54,7 +71,7 @@
     <id>calibre:book:707</id>
     <updated>2023-05-17T01:10:28Z</updated>
     <link href="../../Manuel%20Villatoro/Historia%20de%20la%20Segunda%20Guerra%20Mundi%20%28707%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Villatoro/Historia%20de%20la%20Segunda%20Guerra%20Mundi%20%28707%29/Historia%20de%20la%20Segunda%20Guerra%20M%20-%20Manuel%20Villatoro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="931 KB" />
+    <link href="../../Manuel%20Villatoro/Historia%20de%20la%20Segunda%20Guerra%20Mundi%20%28707%29/Historia%20de%20la%20Segunda%20Guerra%20M%20-%20Manuel%20Villatoro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="931 KB" />
     <author>
       <name>Manuel Villatoro</name>
       <uri>../authors_0/authors_527_Page_1.xml</uri>
@@ -71,7 +88,7 @@
     <id>calibre:book:1770</id>
     <updated>2024-08-26T10:56:11Z</updated>
     <link href="../../Lionello%20Venturi/Historia%20de%20la%20critica%20del%20arte%20%281770%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lionello%20Venturi/Historia%20de%20la%20critica%20del%20arte%20%281770%29/Historia%20de%20la%20critica%20del%20arte%20-%20Lionello%20Venturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="614 KB" />
+    <link href="../../Lionello%20Venturi/Historia%20de%20la%20critica%20del%20arte%20%281770%29/Historia%20de%20la%20critica%20del%20arte%20-%20Lionello%20Venturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="614 KB" />
     <author>
       <name>Lionello Venturi</name>
       <uri>../authors_1/authors_1270_Page_1.xml</uri>
@@ -88,7 +105,7 @@
     <id>calibre:book:1998</id>
     <updated>2024-09-06T01:57:42Z</updated>
     <link href="../../Fray%20Bartolome%20de%20las%20Casas/Historia%20de%20las%20Indias.%20Tomo%20I%20%281998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fray%20Bartolome%20de%20las%20Casas/Historia%20de%20las%20Indias.%20Tomo%20I%20%281998%29/Historia%20de%20las%20Indias.%20Tomo%20I%20-%20Fray%20Bartolome%20de%20las%20Casas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="957 KB" />
+    <link href="../../Fray%20Bartolome%20de%20las%20Casas/Historia%20de%20las%20Indias.%20Tomo%20I%20%281998%29/Historia%20de%20las%20Indias.%20Tomo%20I%20-%20Fray%20Bartolome%20de%20las%20Casas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="957 KB" />
     <author>
       <name>Fray Bartolomé de las Casas</name>
       <uri>../authors_1/authors_1430_Page_1.xml</uri>
@@ -104,7 +121,7 @@
     <id>calibre:book:394</id>
     <updated>2023-03-09T00:08:54Z</updated>
     <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/Historia%20de%20una%20mujer%20soltera%20-%20Chiyo%20Uno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/Historia%20de%20una%20mujer%20soltera%20-%20Chiyo%20Uno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
     <author>
       <name>Chiyo Uno</name>
       <uri>../authors_0/authors_287_Page_1.xml</uri>
@@ -121,7 +138,7 @@
     <id>calibre:book:12</id>
     <updated>2023-01-17T10:08:22Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/Historia%20del%20Rock%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Historia%20del%20Rock%20%2812%29/Historia%20del%20Rock%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -138,7 +155,7 @@
     <id>calibre:book:222</id>
     <updated>2023-01-27T11:59:16Z</updated>
     <link href="../../Johann%20Joachim%20Winckelmann/Historia%20del%20arte%20de%20la%20Antigue%20%28222%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Johann%20Joachim%20Winckelmann/Historia%20del%20arte%20de%20la%20Antigue%20%28222%29/Historia%20del%20arte%20de%20la%20Antigue%20-%20Johann%20Joachim%20Winckelmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Johann%20Joachim%20Winckelmann/Historia%20del%20arte%20de%20la%20Antigue%20%28222%29/Historia%20del%20arte%20de%20la%20Antigue%20-%20Johann%20Joachim%20Winckelmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Johann Joachim Winckelmann</name>
       <uri>../authors_0/authors_149_Page_1.xml</uri>
@@ -153,7 +170,7 @@
     <id>calibre:book:1895</id>
     <updated>2024-09-03T09:33:55Z</updated>
     <link href="../../Francisco%20Calvo/Historia%20del%20mundo%20y%20del%20arte%20en%20Oc%20%281895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Calvo/Historia%20del%20mundo%20y%20del%20arte%20en%20Oc%20%281895%29/Historia%20del%20mundo%20y%20del%20arte%20e%20-%20Francisco%20Calvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="23 MB" />
+    <link href="../../Francisco%20Calvo/Historia%20del%20mundo%20y%20del%20arte%20en%20Oc%20%281895%29/Historia%20del%20mundo%20y%20del%20arte%20e%20-%20Francisco%20Calvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="23 MB" />
     <author>
       <name>Francisco Calvo</name>
       <uri>../authors_1/authors_1350_Page_1.xml</uri>
@@ -174,7 +191,7 @@
     <id>calibre:book:2016</id>
     <updated>2024-09-06T01:57:46Z</updated>
     <link href="../../Plinio%20el%20Viejo/Historia%20natural%20Libros%20I-II%20%282016%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Plinio%20el%20Viejo/Historia%20natural%20Libros%20I-II%20%282016%29/Historia%20natural%20Libros%20I-II%20-%20Plinio%20el%20Viejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="277 KB" />
+    <link href="../../Plinio%20el%20Viejo/Historia%20natural%20Libros%20I-II%20%282016%29/Historia%20natural%20Libros%20I-II%20-%20Plinio%20el%20Viejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="277 KB" />
     <author>
       <name>Plinio el Viejo</name>
       <uri>../authors_1/authors_1447_Page_1.xml</uri>
@@ -192,7 +209,7 @@
     <id>calibre:book:2015</id>
     <updated>2024-09-06T01:57:45Z</updated>
     <link href="../../Jose%20de%20Acosta/Historia%20natural%20y%20moral%20de%20las%20Ind%20%282015%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20de%20Acosta/Historia%20natural%20y%20moral%20de%20las%20Ind%20%282015%29/Historia%20natural%20y%20moral%20de%20las%20-%20Jose%20de%20Acosta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <link href="../../Jose%20de%20Acosta/Historia%20natural%20y%20moral%20de%20las%20Ind%20%282015%29/Historia%20natural%20y%20moral%20de%20las%20-%20Jose%20de%20Acosta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="620 KB" />
     <author>
       <name>José de Acosta</name>
       <uri>../authors_1/authors_1446_Page_1.xml</uri>
@@ -210,7 +227,7 @@
     <id>calibre:book:1445</id>
     <updated>2024-04-20T05:25:37Z</updated>
     <link href="../../Edouard%20Manceau/Una%20Historia%20%281445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edouard%20Manceau/Una%20Historia%20%281445%29/Una%20Historia%20-%20Edouard%20Manceau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="13 MB" />
+    <link href="../../Edouard%20Manceau/Una%20Historia%20%281445%29/Una%20Historia%20-%20Edouard%20Manceau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="13 MB" />
     <author>
       <name>Edouard Manceau</name>
       <uri>../authors_1/authors_1060_Page_1.xml</uri>
@@ -225,7 +242,7 @@
     <id>calibre:book:146</id>
     <updated>2023-01-19T08:55:22Z</updated>
     <link href="../../Cristina%20Campos/Historias%20de%20mujeres%20casadas%20%28146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristina%20Campos/Historias%20de%20mujeres%20casadas%20%28146%29/Historias%20de%20mujeres%20casadas%20-%20Cristina%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Cristina%20Campos/Historias%20de%20mujeres%20casadas%20%28146%29/Historias%20de%20mujeres%20casadas%20-%20Cristina%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Cristina Campos</name>
       <uri>../authors_0/authors_93_Page_1.xml</uri>
@@ -242,7 +259,7 @@
     <id>calibre:book:663</id>
     <updated>2023-05-15T05:51:18Z</updated>
     <link href="../../El%20Pirata/Historias%20del%20Rock%20%28663%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../El%20Pirata/Historias%20del%20Rock%20%28663%29/Historias%20del%20Rock%20-%20El%20Pirata.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="8 MB" />
+    <link href="../../El%20Pirata/Historias%20del%20Rock%20%28663%29/Historias%20del%20Rock%20-%20El%20Pirata.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="8 MB" />
     <author>
       <name>El Pirata</name>
       <uri>../authors_0/authors_490_Page_1.xml</uri>
@@ -260,7 +277,7 @@
     <id>calibre:book:2668</id>
     <updated>2024-10-22T08:04:36Z</updated>
     <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/Hojas%20de%20hierba%20-%20Walt%20Whitman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="817 KB" />
+    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/Hojas%20de%20hierba%20-%20Walt%20Whitman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="817 KB" />
     <author>
       <name>Walt Whitman</name>
       <uri>../authors_1/authors_1756_Page_1.xml</uri>
@@ -280,7 +297,7 @@
     <id>calibre:book:1034</id>
     <updated>2023-10-20T01:12:30Z</updated>
     <link href="../../Stephen%20King/Holly%20%281034%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Holly%20%281034%29/Holly%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Stephen%20King/Holly%20%281034%29/Holly%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -297,7 +314,7 @@
     <id>calibre:book:628</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Catherine%20Ryan%20Howard/El%20Hombre%20Nada%20%28628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Catherine%20Ryan%20Howard/El%20Hombre%20Nada%20%28628%29/El%20Hombre%20Nada%20-%20Catherine%20Ryan%20Howard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Catherine%20Ryan%20Howard/El%20Hombre%20Nada%20%28628%29/El%20Hombre%20Nada%20-%20Catherine%20Ryan%20Howard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Catherine Ryan Howard</name>
       <uri>../authors_0/authors_466_Page_1.xml</uri>
@@ -314,7 +331,7 @@
     <id>calibre:book:1360</id>
     <updated>2024-04-03T00:29:59Z</updated>
     <link href="../../Mohamed%20Mbougar%20Sarr/Hombres%20puros%20%281360%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mohamed%20Mbougar%20Sarr/Hombres%20puros%20%281360%29/Hombres%20puros%20-%20Mohamed%20Mbougar%20Sarr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="158 KB" />
+    <link href="../../Mohamed%20Mbougar%20Sarr/Hombres%20puros%20%281360%29/Hombres%20puros%20-%20Mohamed%20Mbougar%20Sarr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="158 KB" />
     <author>
       <name>Mohamed Mbougar Sarr</name>
       <uri>../authors_0/authors_995_Page_1.xml</uri>
@@ -331,7 +348,7 @@
     <id>calibre:book:2817</id>
     <updated>2025-01-20T11:21:17Z</updated>
     <link href="../../Juan%20Carlos%20Galindo/Hontoria%20%282817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Carlos%20Galindo/Hontoria%20%282817%29/Hontoria%20-%20Juan%20Carlos%20Galindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <link href="../../Juan%20Carlos%20Galindo/Hontoria%20%282817%29/Hontoria%20-%20Juan%20Carlos%20Galindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="435 KB" />
     <author>
       <name>Juan Carlos Galindo</name>
       <uri>../authors_1/authors_1843_Page_1.xml</uri>
@@ -348,7 +365,7 @@
     <id>calibre:book:2580</id>
     <updated>2024-09-11T03:29:02Z</updated>
     <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -368,7 +385,7 @@
     <id>calibre:book:691</id>
     <updated>2023-05-16T08:56:30Z</updated>
     <link href="../../James%20Hilton/Horizontes%20perdidos%20%28691%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Hilton/Horizontes%20perdidos%20%28691%29/Horizontes%20perdidos%20-%20James%20Hilton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../James%20Hilton/Horizontes%20perdidos%20%28691%29/Horizontes%20perdidos%20-%20James%20Hilton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>James Hilton</name>
       <uri>../authors_0/authors_516_Page_1.xml</uri>
@@ -385,7 +402,7 @@
     <id>calibre:book:2274</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Guy%20de%20Maupassant/El%20Horla%20%282274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guy%20de%20Maupassant/El%20Horla%20%282274%29/El%20Horla%20-%20Guy%20de%20Maupassant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <link href="../../Guy%20de%20Maupassant/El%20Horla%20%282274%29/El%20Horla%20-%20Guy%20de%20Maupassant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="86 KB" />
     <author>
       <name>Guy de Maupassant</name>
       <uri>../authors_1/authors_1594_Page_1.xml</uri>
@@ -403,7 +420,7 @@
     <id>calibre:book:2462</id>
     <updated>2024-09-09T10:34:36Z</updated>
     <link href="../../Guy%20de%20Maupassant/The%20Horla%20%282462%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guy%20de%20Maupassant/The%20Horla%20%282462%29/The%20Horla%20-%20Guy%20de%20Maupassant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <link href="../../Guy%20de%20Maupassant/The%20Horla%20%282462%29/The%20Horla%20-%20Guy%20de%20Maupassant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="82 KB" />
     <author>
       <name>Guy de Maupassant</name>
       <uri>../authors_1/authors_1594_Page_1.xml</uri>
@@ -421,7 +438,7 @@
     <id>calibre:book:853</id>
     <updated>2023-06-12T02:02:10Z</updated>
     <link href="../../Antonio%20Herrera%20Merchan/Hoy%2C%20Manana%2C%20Ayer%20%28853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Herrera%20Merchan/Hoy%2C%20Manana%2C%20Ayer%20%28853%29/Hoy%2C%20Manana%2C%20Ayer%20-%20Antonio%20Herrera%20Merchan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <link href="../../Antonio%20Herrera%20Merchan/Hoy%2C%20Manana%2C%20Ayer%20%28853%29/Hoy%2C%20Manana%2C%20Ayer%20-%20Antonio%20Herrera%20Merchan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
     <author>
       <name>Antonio Herrera Merchán</name>
       <uri>../authors_0/authors_641_Page_1.xml</uri>
@@ -433,23 +450,6 @@
     <category term="Lang:es" />
     <summary>Luis camina con una nota inquietante sobre un descubrimiento científico que hará cambiar la historia de la humanidad, la ciencia y la propia evolución. Los periodistas Pablo y Sofía son invitados a casa de Manolo, investigador responsable de esa nota...</summary>
     <link href="../book_0/book_853.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Hyde</title>
-    <id>calibre:book:1821</id>
-    <updated>2024-10-26T00:33:17Z</updated>
-    <link href="../../Craig%20Russell/Hyde%20%281821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Craig%20Russell/Hyde%20%281821%29/Hyde%20-%20Craig%20Russell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="389 KB" />
-    <author>
-      <name>Craig Russell</name>
-      <uri>../authors_1/authors_1302_Page_1.xml</uri>
-    </author>
-    <published>2021-09-14T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Por el autor best seller internacional Craig Russell, llega    esta pieza maestra de terror gótico moderno.  «Gloriosamente diabólica. Un terrorífico paseo repleto de emoción y    suspense a través de los abismos ocultos del alma humana.» Chris Bro...</summary>
-    <link href="../book_1/book_1821.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
   <link href="../allbooks/allbooks_H_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />

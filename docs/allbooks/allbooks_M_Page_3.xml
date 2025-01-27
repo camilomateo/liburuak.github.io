@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por M</title>
+  <title>Books starting with M</title>
   <id>Calibre2opds:allbooks:M</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="./allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
+  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 10)" />
   <entry>
     <title>Memorias de un vigilante</title>
     <id>calibre:book:2124</id>
     <updated>2024-09-06T02:21:19Z</updated>
     <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/Memorias%20de%20un%20vigilante%20-%20Jose%20S.%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/Memorias%20de%20un%20vigilante%20-%20Jose%20S.%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="125 KB" />
     <author>
       <name>José S. Alvarez</name>
       <uri>../authors_1/authors_1508_Page_1.xml</uri>
@@ -41,7 +41,7 @@
     <id>calibre:book:2438</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/Memorias%20del%20subsuelo%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="151 KB" />
+    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/Memorias%20del%20subsuelo%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="151 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -62,7 +62,7 @@
     <id>calibre:book:1251</id>
     <updated>2024-02-23T09:42:00Z</updated>
     <link href="../../Unai%20Ansejo%20Barra/Menos%20costes%2C%20mas%20rentabilidad%20%281251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Unai%20Ansejo%20Barra/Menos%20costes%2C%20mas%20rentabilidad%20%281251%29/Menos%20costes%2C%20mas%20rentabilidad%20-%20Unai%20Ansejo%20Barra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Unai%20Ansejo%20Barra/Menos%20costes%2C%20mas%20rentabilidad%20%281251%29/Menos%20costes%2C%20mas%20rentabilidad%20-%20Unai%20Ansejo%20Barra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Unai Ansejo Barra</name>
       <uri>../authors_0/authors_913_Page_1.xml</uri>
@@ -79,7 +79,7 @@
     <id>calibre:book:1696</id>
     <updated>2024-07-29T11:15:47Z</updated>
     <link href="../../Jorge%20Caneda/Mentira%20sin%20limite%20%281696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Caneda/Mentira%20sin%20limite%20%281696%29/Mentira%20sin%20limite%20-%20Jorge%20Caneda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <link href="../../Jorge%20Caneda/Mentira%20sin%20limite%20%281696%29/Mentira%20sin%20limite%20-%20Jorge%20Caneda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="203 KB" />
     <author>
       <name>Jorge Caneda</name>
       <uri>../authors_1/authors_1214_Page_1.xml</uri>
@@ -96,7 +96,7 @@
     <id>calibre:book:90</id>
     <updated>2023-01-18T00:09:26Z</updated>
     <link href="../../Yrsa%20Sigurdardottir/Mentiras%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yrsa%20Sigurdardottir/Mentiras%20%2890%29/Mentiras%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <link href="../../Yrsa%20Sigurdardottir/Mentiras%20%2890%29/Mentiras%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
     <author>
       <name>Yrsa Sigurdardóttir</name>
       <uri>../authors_0/authors_63_Page_1.xml</uri>
@@ -113,7 +113,7 @@
     <id>calibre:book:1667</id>
     <updated>2024-07-07T03:36:27Z</updated>
     <link href="../../Michael%20Hjorth/Mentiras%20consentidas%20%281667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Hjorth/Mentiras%20consentidas%20%281667%29/Mentiras%20consentidas%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="504 KB" />
+    <link href="../../Michael%20Hjorth/Mentiras%20consentidas%20%281667%29/Mentiras%20consentidas%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="504 KB" />
     <author>
       <name>Michael Hjorth</name>
       <uri>../authors_0/authors_852_Page_1.xml</uri>
@@ -135,7 +135,7 @@
     <id>calibre:book:1378</id>
     <updated>2024-04-03T00:30:04Z</updated>
     <link href="../../Liudmila%20Ulitskaya/Mentiras%20de%20mujeres%20%281378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Liudmila%20Ulitskaya/Mentiras%20de%20mujeres%20%281378%29/Mentiras%20de%20mujeres%20-%20Liudmila%20Ulitskaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="748 KB" />
+    <link href="../../Liudmila%20Ulitskaya/Mentiras%20de%20mujeres%20%281378%29/Mentiras%20de%20mujeres%20-%20Liudmila%20Ulitskaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="748 KB" />
     <author>
       <name>Liudmila Ulítskaya</name>
       <uri>../authors_1/authors_1011_Page_1.xml</uri>
@@ -149,7 +149,7 @@
     <id>calibre:book:936</id>
     <updated>2023-07-04T02:12:36Z</updated>
     <link href="../../Daniela%20Droscher/Mentiras%20sobre%20mi%20madre%20%28936%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniela%20Droscher/Mentiras%20sobre%20mi%20madre%20%28936%29/Mentiras%20sobre%20mi%20madre%20-%20Daniela%20Droscher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <link href="../../Daniela%20Droscher/Mentiras%20sobre%20mi%20madre%20%28936%29/Mentiras%20sobre%20mi%20madre%20-%20Daniela%20Droscher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
     <author>
       <name>Daniela Dröscher</name>
       <uri>../authors_0/authors_703_Page_1.xml</uri>
@@ -166,7 +166,7 @@
     <id>calibre:book:2499</id>
     <updated>2024-09-09T10:34:43Z</updated>
     <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/Los%20Merodeadores%20de%20Fronteras%20-%20Gustave%20Aimard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/Los%20Merodeadores%20de%20Fronteras%20-%20Gustave%20Aimard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="296 KB" />
     <author>
       <name>Gustave Aimard</name>
       <uri>../authors_1/authors_1657_Page_1.xml</uri>
@@ -190,7 +190,7 @@
     <id>calibre:book:2512</id>
     <updated>2024-09-09T10:34:46Z</updated>
     <link href="../../Franz%20Kafka/Metamorphosis%20%282512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Franz%20Kafka/Metamorphosis%20%282512%29/Metamorphosis%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <link href="../../Franz%20Kafka/Metamorphosis%20%282512%29/Metamorphosis%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="99 KB" />
     <author>
       <name>Franz Kafka</name>
       <uri>../authors_1/authors_1575_Page_1.xml</uri>
@@ -210,7 +210,7 @@
     <id>calibre:book:1340</id>
     <updated>2024-03-21T01:00:32Z</updated>
     <link href="../../Angel%20Exposito%20Mora/Mi%20abuela%20si%20que%20era%20feminista%20%281340%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angel%20Exposito%20Mora/Mi%20abuela%20si%20que%20era%20feminista%20%281340%29/Mi%20abuela%20si%20que%20era%20feminista%20-%20Angel%20Exposito%20Mora.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="317 KB" />
+    <link href="../../Angel%20Exposito%20Mora/Mi%20abuela%20si%20que%20era%20feminista%20%281340%29/Mi%20abuela%20si%20que%20era%20feminista%20-%20Angel%20Exposito%20Mora.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="317 KB" />
     <author>
       <name>Ángel Expósito Mora</name>
       <uri>../authors_0/authors_981_Page_1.xml</uri>
@@ -227,7 +227,7 @@
     <id>calibre:book:1329</id>
     <updated>2024-03-21T01:00:30Z</updated>
     <link href="../../Igiaba%20Scego/Mi%20casa%20esta%20donde%20estoy%20yo%20%281329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Igiaba%20Scego/Mi%20casa%20esta%20donde%20estoy%20yo%20%281329%29/Mi%20casa%20esta%20donde%20estoy%20yo%20-%20Igiaba%20Scego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Igiaba%20Scego/Mi%20casa%20esta%20donde%20estoy%20yo%20%281329%29/Mi%20casa%20esta%20donde%20estoy%20yo%20-%20Igiaba%20Scego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Igiaba Scego</name>
       <uri>../authors_0/authors_970_Page_1.xml</uri>
@@ -244,7 +244,7 @@
     <id>calibre:book:203</id>
     <updated>2023-01-26T07:24:42Z</updated>
     <link href="../../Dietrich%20von%20Hildebrand/Mi%20lucha%20contra%20Hitler%20%28203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dietrich%20von%20Hildebrand/Mi%20lucha%20contra%20Hitler%20%28203%29/Mi%20lucha%20contra%20Hitler%20-%20Dietrich%20von%20Hildebrand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="868 KB" />
+    <link href="../../Dietrich%20von%20Hildebrand/Mi%20lucha%20contra%20Hitler%20%28203%29/Mi%20lucha%20contra%20Hitler%20-%20Dietrich%20von%20Hildebrand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="868 KB" />
     <author>
       <name>Dietrich von Hildebrand</name>
       <uri>../authors_0/authors_130_Page_1.xml</uri>
@@ -261,7 +261,7 @@
     <id>calibre:book:2561</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/Mi%20nombre%20en%20el%20viento%20-%20Alessandro%20Rivali.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="363 KB" />
+    <link href="../../Alessandro%20Rivali/Mi%20nombre%20en%20el%20viento%20%282561%29/Mi%20nombre%20en%20el%20viento%20-%20Alessandro%20Rivali.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
     <author>
       <name>Alessandro Rivali</name>
       <uri>../authors_1/authors_1685_Page_1.xml</uri>
@@ -278,7 +278,7 @@
     <id>calibre:book:1970</id>
     <updated>2024-09-05T06:10:28Z</updated>
     <link href="../../Luisa%20Capetillo/Mi%20opinion%20%281970%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luisa%20Capetillo/Mi%20opinion%20%281970%29/Mi%20opinion%20-%20Luisa%20Capetillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="175 KB" />
+    <link href="../../Luisa%20Capetillo/Mi%20opinion%20%281970%29/Mi%20opinion%20-%20Luisa%20Capetillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="175 KB" />
     <author>
       <name>Luisa Capetillo</name>
       <uri>../authors_1/authors_1412_Page_1.xml</uri>
@@ -296,7 +296,7 @@
     <id>calibre:book:440</id>
     <updated>2023-03-20T05:50:08Z</updated>
     <link href="../../Bethan%20Roberts/Mi%20policia%20%28440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bethan%20Roberts/Mi%20policia%20%28440%29/Mi%20policia%20-%20Bethan%20Roberts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="852 KB" />
+    <link href="../../Bethan%20Roberts/Mi%20policia%20%28440%29/Mi%20policia%20-%20Bethan%20Roberts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="852 KB" />
     <author>
       <name>Bethan Roberts</name>
       <uri>../authors_0/authors_328_Page_1.xml</uri>
@@ -313,7 +313,7 @@
     <id>calibre:book:2684</id>
     <updated>2024-10-22T08:11:23Z</updated>
     <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/Mi%20querida%20Lucia%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/Mi%20querida%20Lucia%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
       <name>La Vecina Rubia</name>
       <uri>../authors_0/authors_708_Page_1.xml</uri>
@@ -332,7 +332,7 @@
     <id>calibre:book:1545</id>
     <updated>2024-06-02T10:59:43Z</updated>
     <link href="../../John%20Doerr/Mide%20lo%20que%20importa%20%281545%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Doerr/Mide%20lo%20que%20importa%20%281545%29/Mide%20lo%20que%20importa%20-%20John%20Doerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../John%20Doerr/Mide%20lo%20que%20importa%20%281545%29/Mide%20lo%20que%20importa%20-%20John%20Doerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>John Doerr</name>
       <uri>../authors_1/authors_1127_Page_1.xml</uri>
@@ -349,7 +349,7 @@
     <id>calibre:book:207</id>
     <updated>2023-01-26T07:25:44Z</updated>
     <link href="../../Alnoor%20Ebrahim/Midiendo%20el%20cambio%20social%20%28207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alnoor%20Ebrahim/Midiendo%20el%20cambio%20social%20%28207%29/Midiendo%20el%20cambio%20social%20-%20Alnoor%20Ebrahim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Alnoor%20Ebrahim/Midiendo%20el%20cambio%20social%20%28207%29/Midiendo%20el%20cambio%20social%20-%20Alnoor%20Ebrahim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Alnoor Ebrahim</name>
       <uri>../authors_0/authors_134_Page_1.xml</uri>
@@ -367,7 +367,7 @@
     <id>calibre:book:1848</id>
     <updated>2024-09-02T04:12:35Z</updated>
     <link href="../../Raul%20Garbantes/Miedo%20en%20mis%20manos%20%281848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Miedo%20en%20mis%20manos%20%281848%29/Miedo%20en%20mis%20manos%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <link href="../../Raul%20Garbantes/Miedo%20en%20mis%20manos%20%281848%29/Miedo%20en%20mis%20manos%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="609 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -384,7 +384,7 @@
     <id>calibre:book:1810</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/Miedo%20en%20tu%20cadaver%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/Miedo%20en%20tu%20cadaver%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="530 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -401,7 +401,7 @@
     <id>calibre:book:421</id>
     <updated>2023-03-14T04:30:32Z</updated>
     <link href="../../Ruth%20Druart/Mientras%20Paris%20dormia%20%28421%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ruth%20Druart/Mientras%20Paris%20dormia%20%28421%29/Mientras%20Paris%20dormia%20-%20Ruth%20Druart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../Ruth%20Druart/Mientras%20Paris%20dormia%20%28421%29/Mientras%20Paris%20dormia%20-%20Ruth%20Druart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>Ruth Druart</name>
       <uri>../authors_0/authors_311_Page_1.xml</uri>
@@ -418,7 +418,7 @@
     <id>calibre:book:793</id>
     <updated>2023-05-31T01:04:24Z</updated>
     <link href="../../Carmen%20Conde%20Veiga/Mientras%20alguien%20nos%20recuerda%20%28793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Conde%20Veiga/Mientras%20alguien%20nos%20recuerda%20%28793%29/Mientras%20alguien%20nos%20recuerda%20-%20Carmen%20Conde%20Veiga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <link href="../../Carmen%20Conde%20Veiga/Mientras%20alguien%20nos%20recuerda%20%28793%29/Mientras%20alguien%20nos%20recuerda%20-%20Carmen%20Conde%20Veiga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
     <author>
       <name>Carmen Conde Veiga</name>
       <uri>../authors_0/authors_590_Page_1.xml</uri>
@@ -435,7 +435,7 @@
     <id>calibre:book:1849</id>
     <updated>2024-09-02T04:12:35Z</updated>
     <link href="../../Jean-Claude%20Rabate/Miguel%20de%20Unamuno.%20Biografia%20%281849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Claude%20Rabate/Miguel%20de%20Unamuno.%20Biografia%20%281849%29/Miguel%20de%20Unamuno.%20Biografia%20-%20Jean-Claude%20Rabate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="817 KB" />
+    <link href="../../Jean-Claude%20Rabate/Miguel%20de%20Unamuno.%20Biografia%20%281849%29/Miguel%20de%20Unamuno.%20Biografia%20-%20Jean-Claude%20Rabate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="817 KB" />
     <author>
       <name>Jean-Claude Rabaté</name>
       <uri>../authors_1/authors_1322_Page_1.xml</uri>
@@ -456,7 +456,7 @@
     <id>calibre:book:1592</id>
     <updated>2024-06-02T10:59:55Z</updated>
     <link href="../../Juan%20Manuel%20De%20Prada/Mil%20ojos%20esconde%20la%20noche%20%281592%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Manuel%20De%20Prada/Mil%20ojos%20esconde%20la%20noche%20%281592%29/Mil%20ojos%20esconde%20la%20noche%20-%20Juan%20Manuel%20De%20Prada.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="915 KB" />
+    <link href="../../Juan%20Manuel%20De%20Prada/Mil%20ojos%20esconde%20la%20noche%20%281592%29/Mil%20ojos%20esconde%20la%20noche%20-%20Juan%20Manuel%20De%20Prada.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="915 KB" />
     <author>
       <name>Juan Manuel De Prada</name>
       <uri>../authors_1/authors_1159_Page_1.xml</uri>

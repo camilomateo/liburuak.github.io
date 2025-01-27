@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,69 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 14)" />
+  <entry>
+    <title>Con la luz encendida</title>
+    <id>calibre:book:2566</id>
+    <updated>2024-09-09T03:24:00Z</updated>
+    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/Con%20la%20luz%20encendida%20-%20Monica%20de%20Cristobal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="796 KB" />
+    <author>
+      <name>Mónica de Cristóbal</name>
+      <uri>../authors_1/authors_1690_Page_1.xml</uri>
+    </author>
+    <published>2024-09-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>NdeNovela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Quién decide qué está bien y qué está mal? Dos madres enfrentadas a sus miedos. Un acto de amor puro.Tras el fallecimiento de su marido, Celia Fuertes se enfrenta a la difícil tarea de criar sola a sus tres hijos mientras sigue adelante con su carre...</summary>
+    <link href="../book_2/book_2566.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Con mucha hambre y poco tiempo</title>
+    <id>calibre:book:1466</id>
+    <updated>2024-04-30T04:46:10Z</updated>
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/Con%20mucha%20hambre%20y%20poco%20tiempo%20-%20Ismael%20Salamanca%20%28%40ismaelcocini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="32 MB" />
+    <author>
+      <name>Ismael Salamanca (@ismaelcocinillas)</name>
+      <uri>../authors_1/authors_1072_Page_1.xml</uri>
+    </author>
+    <published>2023-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Eres de los que tienen siempre mucha hambre y poco tiempo? ¿Te apetece probar sabores nuevos como el katsu sando o el falso risotto? ¿Te pirra el queso y quieres cocinar combinaciones imposibles, como las palomitas de parmesano? ¿No te resistes a un...</summary>
+    <link href="../book_1/book_1466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conexiones perdidas</title>
+    <id>calibre:book:1258</id>
+    <updated>2024-03-01T02:15:57Z</updated>
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/Conexiones%20perdidas%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Johann Hari</name>
+      <uri>../authors_0/authors_860_Page_1.xml</uri>
+    </author>
+    <published>2020-03-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Capitán Swing</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hari sufrió de depresión desde niño y comenzó a tomar antidepresivos cuando era adolescente. Como a toda su generación, le dijeron que la causa de su problema era un desequilibrio químico en su cerebro. Pero años más tarde comenzó a investigar y apre...</summary>
+    <link href="../book_1/book_1258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Confesiones de San Agustín. Tomo I</title>
     <id>calibre:book:1948</id>
     <updated>2024-09-05T06:10:23Z</updated>
     <link href="../../San%20Agustin/Confesiones%20de%20San%20Agustin.%20Tomo%20I%20%281948%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../San%20Agustin/Confesiones%20de%20San%20Agustin.%20Tomo%20I%20%281948%29/Confesiones%20de%20San%20Agustin.%20Tom%20-%20San%20Agustin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="254 KB" />
+    <link href="../../San%20Agustin/Confesiones%20de%20San%20Agustin.%20Tomo%20I%20%281948%29/Confesiones%20de%20San%20Agustin.%20Tom%20-%20San%20Agustin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="254 KB" />
     <author>
       <name>San Agustín</name>
       <uri>../authors_1/authors_1392_Page_1.xml</uri>
@@ -37,7 +88,7 @@
     <id>calibre:book:1037</id>
     <updated>2023-10-20T01:12:31Z</updated>
     <link href="../../Maria%20Soto/Confianza%20cien%2C%20expectativa%20cero%20%281037%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Soto/Confianza%20cien%2C%20expectativa%20cero%20%281037%29/Confianza%20cien%2C%20expectativa%20cer%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Maria%20Soto/Confianza%20cien%2C%20expectativa%20cero%20%281037%29/Confianza%20cien%2C%20expectativa%20cer%20-%20Maria%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>María Soto</name>
       <uri>../authors_0/authors_419_Page_1.xml</uri>
@@ -54,7 +105,7 @@
     <id>calibre:book:2592</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/Conseguirlo%20Juntos%20-%20Shelby%20Rhodes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Shelby%20Rhodes/Conseguirlo%20Juntos%20%282592%29/Conseguirlo%20Juntos%20-%20Shelby%20Rhodes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Shelby Rhodes</name>
       <uri>../authors_1/authors_1705_Page_1.xml</uri>
@@ -70,7 +121,7 @@
     <id>calibre:book:744</id>
     <updated>2023-05-22T05:06:44Z</updated>
     <link href="../../Dani%20Fontecha/La%20Constitucion%2C%20explicada%20superfac%20%28744%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dani%20Fontecha/La%20Constitucion%2C%20explicada%20superfac%20%28744%29/La%20Constitucion%2C%20explicada%20supe%20-%20Dani%20Fontecha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Dani%20Fontecha/La%20Constitucion%2C%20explicada%20superfac%20%28744%29/La%20Constitucion%2C%20explicada%20supe%20-%20Dani%20Fontecha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Dani Fontecha</name>
       <uri>../authors_0/authors_555_Page_1.xml</uri>
@@ -87,7 +138,7 @@
     <id>calibre:book:946</id>
     <updated>2023-07-14T09:48:40Z</updated>
     <link href="../../La%20Vecina%20Rubia/Contando%20atardeceres%20%28946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../La%20Vecina%20Rubia/Contando%20atardeceres%20%28946%29/Contando%20atardeceres%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <link href="../../La%20Vecina%20Rubia/Contando%20atardeceres%20%28946%29/Contando%20atardeceres%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
     <author>
       <name>La Vecina Rubia</name>
       <uri>../authors_0/authors_708_Page_1.xml</uri>
@@ -104,7 +155,7 @@
     <id>calibre:book:2212</id>
     <updated>2024-09-06T02:21:35Z</updated>
     <link href="../../Manuel%20Eduardo%20de%20Gorostiza/Contigo%20pan%20y%20cebolla%20%282212%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Eduardo%20de%20Gorostiza/Contigo%20pan%20y%20cebolla%20%282212%29/Contigo%20pan%20y%20cebolla%20-%20Manuel%20Eduardo%20de%20Gorostiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="161 KB" />
+    <link href="../../Manuel%20Eduardo%20de%20Gorostiza/Contigo%20pan%20y%20cebolla%20%282212%29/Contigo%20pan%20y%20cebolla%20-%20Manuel%20Eduardo%20de%20Gorostiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="161 KB" />
     <author>
       <name>Manuel Eduardo de Gorostiza</name>
       <uri>../authors_1/authors_1561_Page_1.xml</uri>
@@ -120,7 +171,7 @@
     <id>calibre:book:2795</id>
     <updated>2025-01-09T08:28:27Z</updated>
     <link href="../../Empar%20Fernandez/Contra%20el%20dolor%20%282795%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Empar%20Fernandez/Contra%20el%20dolor%20%282795%29/Contra%20el%20dolor%20-%20Empar%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="312 KB" />
+    <link href="../../Empar%20Fernandez/Contra%20el%20dolor%20%282795%29/Contra%20el%20dolor%20-%20Empar%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
     <author>
       <name>Empar Fernández</name>
       <uri>../authors_1/authors_1198_Page_1.xml</uri>
@@ -137,7 +188,7 @@
     <id>calibre:book:676</id>
     <updated>2023-05-15T05:51:30Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -157,7 +208,7 @@
     <id>calibre:book:135</id>
     <updated>2023-01-18T06:08:26Z</updated>
     <link href="../../Karl%20Marx/Contribucion%20a%20la%20critica%20de%20la%20eco%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karl%20Marx/Contribucion%20a%20la%20critica%20de%20la%20eco%20%28135%29/Contribucion%20a%20la%20critica%20de%20la%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="277 KB" />
+    <link href="../../Karl%20Marx/Contribucion%20a%20la%20critica%20de%20la%20eco%20%28135%29/Contribucion%20a%20la%20critica%20de%20la%20-%20Karl%20Marx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="277 KB" />
     <author>
       <name>Karl Marx</name>
       <uri>../authors_0/authors_83_Page_1.xml</uri>
@@ -172,7 +223,7 @@
     <id>calibre:book:1006</id>
     <updated>2023-08-27T03:13:06Z</updated>
     <link href="../../John%20Verdon/Controlare%20tus%20suenos%20%281006%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Verdon/Controlare%20tus%20suenos%20%281006%29/Controlare%20tus%20suenos%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <link href="../../John%20Verdon/Controlare%20tus%20suenos%20%281006%29/Controlare%20tus%20suenos%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="582 KB" />
     <author>
       <name>John Verdon</name>
       <uri>../authors_0/authors_638_Page_1.xml</uri>
@@ -190,7 +241,7 @@
     <id>calibre:book:827</id>
     <updated>2023-06-06T10:53:50Z</updated>
     <link href="../../Miguel%20Cane/Corazon%20canibal%20%28827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Cane/Corazon%20canibal%20%28827%29/Corazon%20canibal%20-%20Miguel%20Cane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Miguel%20Cane/Corazon%20canibal%20%28827%29/Corazon%20canibal%20-%20Miguel%20Cane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Miguel Cane</name>
       <uri>../authors_0/authors_618_Page_1.xml</uri>
@@ -207,7 +258,7 @@
     <id>calibre:book:2432</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/Corazon%20de%20perro%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="148 KB" />
+    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/Corazon%20de%20perro%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="148 KB" />
     <author>
       <name>Mijaíl Bulgákov</name>
       <uri>../authors_1/authors_1647_Page_1.xml</uri>
@@ -227,7 +278,7 @@
     <id>calibre:book:981</id>
     <updated>2023-08-23T00:29:04Z</updated>
     <link href="../../Caz%20Frear/Corazon%20despiadado%20%28981%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Caz%20Frear/Corazon%20despiadado%20%28981%29/Corazon%20despiadado%20-%20Caz%20Frear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <link href="../../Caz%20Frear/Corazon%20despiadado%20%28981%29/Corazon%20despiadado%20-%20Caz%20Frear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
       <name>Caz Frear</name>
       <uri>../authors_0/authors_727_Page_1.xml</uri>
@@ -244,7 +295,7 @@
     <id>calibre:book:2748</id>
     <updated>2024-12-18T08:33:29Z</updated>
     <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="662 KB" />
+    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="662 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -261,7 +312,7 @@
     <id>calibre:book:1263</id>
     <updated>2024-03-01T02:15:58Z</updated>
     <link href="../../Peru%20Camara/Cordelia%20%281263%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Peru%20Camara/Cordelia%20%281263%29/Cordelia%20-%20Peru%20Camara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="871 KB" />
+    <link href="../../Peru%20Camara/Cordelia%20%281263%29/Cordelia%20-%20Peru%20Camara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="871 KB" />
     <author>
       <name>Peru Cámara</name>
       <uri>../authors_0/authors_923_Page_1.xml</uri>
@@ -278,7 +329,7 @@
     <id>calibre:book:792</id>
     <updated>2023-05-31T01:04:24Z</updated>
     <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/Cosecharas%20tempestades%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="629 KB" />
+    <link href="../../Donna%20Leon/Cosecharas%20tempestades%20%28792%29/Cosecharas%20tempestades%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="629 KB" />
     <author>
       <name>Donna Leon</name>
       <uri>../authors_0/authors_589_Page_1.xml</uri>
@@ -296,7 +347,7 @@
     <id>calibre:book:1960</id>
     <updated>2024-09-05T06:10:25Z</updated>
     <link href="../../Alexander%20von%20Humboldt/Cosmos%20%281960%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexander%20von%20Humboldt/Cosmos%20%281960%29/Cosmos%20-%20Alexander%20von%20Humboldt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="91 KB" />
+    <link href="../../Alexander%20von%20Humboldt/Cosmos%20%281960%29/Cosmos%20-%20Alexander%20von%20Humboldt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
     <author>
       <name>Alexander von Humboldt</name>
       <uri>../authors_1/authors_1403_Page_1.xml</uri>
@@ -314,7 +365,7 @@
     <id>calibre:book:1996</id>
     <updated>2024-09-06T01:57:42Z</updated>
     <link href="../../Manuel%20Payno/Costumbres%20mexicanas%20%281996%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Payno/Costumbres%20mexicanas%20%281996%29/Costumbres%20mexicanas%20-%20Manuel%20Payno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="266 KB" />
+    <link href="../../Manuel%20Payno/Costumbres%20mexicanas%20%281996%29/Costumbres%20mexicanas%20-%20Manuel%20Payno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="266 KB" />
     <author>
       <name>Manuel Payno</name>
       <uri>../authors_1/authors_1428_Page_1.xml</uri>
@@ -330,7 +381,7 @@
     <id>calibre:book:2469</id>
     <updated>2024-09-09T10:34:37Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/The%20Count%20of%20Monte%20Cristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="46 MB" />
+    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/The%20Count%20of%20Monte%20Cristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="46 MB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -350,7 +401,7 @@
     <id>calibre:book:1114</id>
     <updated>2024-01-08T09:16:14Z</updated>
     <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/Creatividad%2C%20S.A_%20-%20Edwin%20Catmull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="878 KB" />
+    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/Creatividad%2C%20S.A_%20-%20Edwin%20Catmull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="878 KB" />
     <author>
       <name>Edwin Catmull</name>
       <uri>../authors_0/authors_817_Page_1.xml</uri>
@@ -367,7 +418,7 @@
     <id>calibre:book:2475</id>
     <updated>2024-09-09T10:34:38Z</updated>
     <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/Crime%20and%20Punishment%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/Crime%20and%20Punishment%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>Fyodor Dostoyevsky</name>
       <uri>../authors_1/authors_1651_Page_1.xml</uri>
@@ -396,7 +447,7 @@
     <id>calibre:book:2195</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/Crimen%20-%20Agustin%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/Crimen%20-%20Agustin%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
     <author>
       <name>Agustín Espinosa</name>
       <uri>../authors_1/authors_1553_Page_1.xml</uri>
@@ -412,60 +463,7 @@
     <summary>Biblioteca PruébaT [15]:</summary>
     <link href="../book_2/book_2195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Crimen en directo</title>
-    <id>calibre:book:1396</id>
-    <updated>2024-04-08T02:39:41Z</updated>
-    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/Crimen%20en%20directo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
-    <author>
-      <name>Camilla Läckberg</name>
-      <uri>../authors_0/authors_369_Page_1.xml</uri>
-    </author>
-    <published>2006-04-15T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Fjällbacka" />
-    <summary>Fjällbacka [4]: Patrik y Erica siguen disfrutando de su idilio en el pueblo de Fjällbacka, ahora acompañados por su bebé, la pequeña Maja, que ya tiene ocho meses. Mientras la joven pareja está plenamente volcada en los preparativos de su próxima bod...</summary>
-    <link href="../book_1/book_1396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Crimen fuera de escena</title>
-    <id>calibre:book:1865</id>
-    <updated>2024-09-02T04:27:39Z</updated>
-    <link href="../../Luis%20A.%20Santamaria/Crimen%20fuera%20de%20escena%20%281865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20A.%20Santamaria/Crimen%20fuera%20de%20escena%20%281865%29/Crimen%20fuera%20de%20escena%20-%20Luis%20A.%20Santamaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Luis A. Santamaría</name>
-      <uri>../authors_1/authors_1337_Page_1.xml</uri>
-    </author>
-    <published>2024-08-28T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <summary>El primer gran triunfo del escritor Toni Galán en su nueva vida en Los Ángeles es convertirse en guionista de una popular serie de televisión. Todo parece ir viento en popa hasta que una mujer es encontrada sin vida. Las particulares circunstancias q...</summary>
-    <link href="../book_1/book_1865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Crimen y castigo</title>
-    <id>calibre:book:2241</id>
-    <updated>2024-09-09T10:33:51Z</updated>
-    <link href="../../Fiodor%20Dostoyevski/Crimen%20y%20castigo%20%282241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/Crimen%20y%20castigo%20%282241%29/Crimen%20y%20castigo%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="611 KB" />
-    <author>
-      <name>Fiódor Dostoyevski</name>
-      <uri>../authors_1/authors_1417_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

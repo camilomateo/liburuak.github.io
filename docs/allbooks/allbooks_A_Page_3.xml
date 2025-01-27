@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por A</title>
+  <title>Books starting with A</title>
   <id>Calibre2opds:allbooks:A</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="./allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
-  <link href="../allbooks/allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
+  <link href="../allbooks/allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 10)" />
   <entry>
     <title>Alas de hierro</title>
     <id>calibre:book:1228</id>
     <updated>2024-02-22T06:03:56Z</updated>
     <link href="../../Rebecca%20Yarros/Alas%20de%20hierro%20%281228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rebecca%20Yarros/Alas%20de%20hierro%20%281228%29/Alas%20de%20hierro%20-%20Rebecca%20Yarros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Rebecca%20Yarros/Alas%20de%20hierro%20%281228%29/Alas%20de%20hierro%20-%20Rebecca%20Yarros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Rebecca Yarros</name>
       <uri>../authors_0/authors_894_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:1397</id>
     <updated>2024-04-08T02:39:41Z</updated>
     <link href="../../Camilla%20Lackberg/Alas%20de%20plata%20%281397%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/Alas%20de%20plata%20%281397%29/Alas%20de%20plata%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="604 KB" />
+    <link href="../../Camilla%20Lackberg/Alas%20de%20plata%20%281397%29/Alas%20de%20plata%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="604 KB" />
     <author>
       <name>Camilla Läckberg</name>
       <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:195</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/Alegrame%20la%20vista%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/Alegrame%20la%20vista%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
     <author>
       <name>Megan Maxwell</name>
       <uri>../authors_0/authors_90_Page_1.xml</uri>
@@ -74,7 +74,7 @@
     <id>calibre:book:951</id>
     <updated>2023-07-14T09:48:46Z</updated>
     <link href="../../Manuel%20Vilas/Alegria%20%28951%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Vilas/Alegria%20%28951%29/Alegria%20-%20Manuel%20Vilas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <link href="../../Manuel%20Vilas/Alegria%20%28951%29/Alegria%20-%20Manuel%20Vilas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
     <author>
       <name>Manuel Vilas</name>
       <uri>../authors_0/authors_193_Page_1.xml</uri>
@@ -91,7 +91,7 @@
     <id>calibre:book:2726</id>
     <updated>2024-12-11T08:23:55Z</updated>
     <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="432 KB" />
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="432 KB" />
     <author>
       <name>Pablo Illanes</name>
       <uri>../authors_1/authors_1783_Page_1.xml</uri>
@@ -111,7 +111,7 @@ La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá en
     <id>calibre:book:1768</id>
     <updated>2024-08-26T10:56:10Z</updated>
     <link href="../../Fran%20Barrero/Alfil%20Azul%20%281768%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fran%20Barrero/Alfil%20Azul%20%281768%29/Alfil%20Azul%20-%20Fran%20Barrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="354 KB" />
+    <link href="../../Fran%20Barrero/Alfil%20Azul%20%281768%29/Alfil%20Azul%20-%20Fran%20Barrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="354 KB" />
     <author>
       <name>Fran Barrero</name>
       <uri>../authors_1/authors_1269_Page_1.xml</uri>
@@ -130,7 +130,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:1426</id>
     <updated>2024-04-09T11:16:20Z</updated>
     <link href="../../Fernando%20Navarro/Algo%20que%20sirva%20como%20luz%20%281426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Navarro/Algo%20que%20sirva%20como%20luz%20%281426%29/Algo%20que%20sirva%20como%20luz%20-%20Fernando%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <link href="../../Fernando%20Navarro/Algo%20que%20sirva%20como%20luz%20%281426%29/Algo%20que%20sirva%20como%20luz%20-%20Fernando%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
     <author>
       <name>Fernando Navarro</name>
       <uri>../authors_1/authors_1043_Page_1.xml</uri>
@@ -147,7 +147,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:984</id>
     <updated>2023-08-23T02:48:16Z</updated>
     <link href="../../Shari%20Lapena/Alguien%20a%20quien%20conoces%20%28984%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shari%20Lapena/Alguien%20a%20quien%20conoces%20%28984%29/Alguien%20a%20quien%20conoces%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Shari%20Lapena/Alguien%20a%20quien%20conoces%20%28984%29/Alguien%20a%20quien%20conoces%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Shari Lapena</name>
       <uri>../authors_0/authors_500_Page_1.xml</uri>
@@ -164,7 +164,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:197</id>
     <updated>2023-01-26T07:27:26Z</updated>
     <link href="../../Lara%20Smirnov/Algunas%20desayunan%20con%20diamantes%2C%20yo%20%28197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lara%20Smirnov/Algunas%20desayunan%20con%20diamantes%2C%20yo%20%28197%29/Algunas%20desayunan%20con%20diamantes%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="665 KB" />
+    <link href="../../Lara%20Smirnov/Algunas%20desayunan%20con%20diamantes%2C%20yo%20%28197%29/Algunas%20desayunan%20con%20diamantes%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="665 KB" />
     <author>
       <name>Lara Smirnov</name>
       <uri>../authors_0/authors_123_Page_1.xml</uri>
@@ -182,7 +182,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:445</id>
     <updated>2023-03-23T11:00:40Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/Algunos%20dias%20de%20abril%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20abril%20%28445%29/Algunos%20dias%20de%20abril%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -200,7 +200,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:1407</id>
     <updated>2024-04-08T04:38:20Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="513 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Algunos%20dias%20de%20mayo%20y%20uno%20de%20junio%20%281407%29/Algunos%20dias%20de%20mayo%20y%20uno%20de%20j%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -217,7 +217,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:693</id>
     <updated>2023-05-16T09:12:38Z</updated>
     <link href="../../Sergio%20Marchi/Algun%20tiempo%20atras.%20La%20vida%20de%20Gust%20%28693%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergio%20Marchi/Algun%20tiempo%20atras.%20La%20vida%20de%20Gust%20%28693%29/Algun%20tiempo%20atras.%20La%20vida%20de%20-%20Sergio%20Marchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Sergio%20Marchi/Algun%20tiempo%20atras.%20La%20vida%20de%20Gust%20%28693%29/Algun%20tiempo%20atras.%20La%20vida%20de%20-%20Sergio%20Marchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Sergio Marchi</name>
       <uri>../authors_0/authors_517_Page_1.xml</uri>
@@ -234,7 +234,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2075</id>
     <updated>2024-09-06T02:09:08Z</updated>
     <link href="../../Lewis%20Carroll/Alice%27s%20Adventures%20in%20Wonderland%20%282075%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lewis%20Carroll/Alice%27s%20Adventures%20in%20Wonderland%20%282075%29/Alice%27s%20Adventures%20in%20Wonderlan%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../Lewis%20Carroll/Alice%27s%20Adventures%20in%20Wonderland%20%282075%29/Alice%27s%20Adventures%20in%20Wonderlan%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>Lewis Carroll</name>
       <uri>../authors_1/authors_1462_Page_1.xml</uri>
@@ -265,7 +265,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2034</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/Alicia%20en%20el%20pais%20de%20las%20maravi%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="129 KB" />
+    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20pais%20de%20las%20maravillas%20%282034%29/Alicia%20en%20el%20pais%20de%20las%20maravi%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="129 KB" />
     <author>
       <name>Lewis Carroll</name>
       <uri>../authors_1/authors_1462_Page_1.xml</uri>
@@ -281,7 +281,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:1902</id>
     <updated>2024-09-03T09:33:59Z</updated>
     <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/Alli%20donde%20nace%20el%20dia%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="790 KB" />
+    <link href="../../Sarah%20Lark/Alli%20donde%20nace%20el%20dia%20%281902%29/Alli%20donde%20nace%20el%20dia%20-%20Sarah%20Lark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="790 KB" />
     <author>
       <name>Sarah Lark</name>
       <uri>../authors_0/authors_92_Page_1.xml</uri>
@@ -298,7 +298,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2807</id>
     <updated>2025-01-16T08:08:29Z</updated>
     <link href="../../Ibon%20Martin/Alma%20negra%20%282807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ibon%20Martin/Alma%20negra%20%282807%29/Alma%20negra%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="741 KB" />
+    <link href="../../Ibon%20Martin/Alma%20negra%20%282807%29/Alma%20negra%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="741 KB" />
     <author>
       <name>Ibon Martín</name>
       <uri>../authors_0/authors_13_Page_1.xml</uri>
@@ -315,7 +315,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2793</id>
     <updated>2025-01-09T08:28:25Z</updated>
     <link href="../../Lloyd%20Devereux%20Richards/Almas%20de%20piedra%20%282793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lloyd%20Devereux%20Richards/Almas%20de%20piedra%20%282793%29/Almas%20de%20piedra%20-%20Lloyd%20Devereux%20Richards.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="370 KB" />
+    <link href="../../Lloyd%20Devereux%20Richards/Almas%20de%20piedra%20%282793%29/Almas%20de%20piedra%20-%20Lloyd%20Devereux%20Richards.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="370 KB" />
     <author>
       <name>Lloyd Devereux Richards</name>
       <uri>../authors_1/authors_1828_Page_1.xml</uri>
@@ -332,7 +332,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:893</id>
     <updated>2023-06-23T01:09:48Z</updated>
     <link href="../../Miguel%20de%20Leon/Almas%20en%20el%20paramo%20%28893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Leon/Almas%20en%20el%20paramo%20%28893%29/Almas%20en%20el%20paramo%20-%20Miguel%20de%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="536 KB" />
+    <link href="../../Miguel%20de%20Leon/Almas%20en%20el%20paramo%20%28893%29/Almas%20en%20el%20paramo%20-%20Miguel%20de%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="536 KB" />
     <author>
       <name>Miguel de León</name>
       <uri>../authors_0/authors_669_Page_1.xml</uri>
@@ -349,7 +349,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2487</id>
     <updated>2024-09-09T10:34:41Z</updated>
     <link href="../../Ricardo%20J.%20Catarineu/Almas%20errantes%20%282487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ricardo%20J.%20Catarineu/Almas%20errantes%20%282487%29/Almas%20errantes%20-%20Ricardo%20J.%20Catarineu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="112 KB" />
+    <link href="../../Ricardo%20J.%20Catarineu/Almas%20errantes%20%282487%29/Almas%20errantes%20-%20Ricardo%20J.%20Catarineu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="112 KB" />
     <author>
       <name>Ricardo J. Catarineu</name>
       <uri>../authors_1/authors_1653_Page_1.xml</uri>
@@ -365,7 +365,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2364</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/Almohada%20de%20hierba%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/Almohada%20de%20hierba%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
     <author>
       <name>Natsume Sōseki</name>
       <uri>../authors_1/authors_1633_Page_1.xml</uri>
@@ -383,7 +383,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:345</id>
     <updated>2023-02-21T01:25:02Z</updated>
     <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/Almuerzo%20en%20el%20cafe%20Gotham%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/Almuerzo%20en%20el%20cafe%20Gotham%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -401,7 +401,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2374</id>
     <updated>2024-09-09T10:34:18Z</updated>
     <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/Alrededor%20de%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
+    <link href="../../Julio%20Verne/Alrededor%20de%20la%20Luna%20%282374%29/Alrededor%20de%20la%20Luna%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
     <author>
       <name>Julio Verne</name>
       <uri>../authors_1/authors_1468_Page_1.xml</uri>
@@ -420,7 +420,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:216</id>
     <updated>2023-01-27T11:54:38Z</updated>
     <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/Alrededores%20del%20ser%20-%20Gianni%20Vattimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="727 KB" />
+    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/Alrededores%20del%20ser%20-%20Gianni%20Vattimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
     <author>
       <name>Gianni Vattimo</name>
       <uri>../authors_0/authors_143_Page_1.xml</uri>
@@ -438,7 +438,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:2593</id>
     <updated>2024-09-12T03:39:21Z</updated>
     <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/Alta%20cocina%20en%20tu%20mesa%20-%20Le%20Cordon%20Bleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="38 MB" />
+    <link href="../../Le%20Cordon%20Bleu/Alta%20cocina%20en%20tu%20mesa%20%282593%29/Alta%20cocina%20en%20tu%20mesa%20-%20Le%20Cordon%20Bleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="38 MB" />
     <author>
       <name>Le Cordon Bleu</name>
       <uri>../authors_1/authors_1706_Page_1.xml</uri>
@@ -455,7 +455,7 @@ Pasan unos años y e...</summary>
     <id>calibre:book:1486</id>
     <updated>2024-05-03T02:01:58Z</updated>
     <link href="../../Xavi%20Guimera/Ama%20tus%20miedos%20%281486%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavi%20Guimera/Ama%20tus%20miedos%20%281486%29/Ama%20tus%20miedos%20-%20Xavi%20Guimera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="14 MB" />
+    <link href="../../Xavi%20Guimera/Ama%20tus%20miedos%20%281486%29/Ama%20tus%20miedos%20-%20Xavi%20Guimera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
     <author>
       <name>Xavi Guimerà</name>
       <uri>../authors_1/authors_1086_Page_1.xml</uri>

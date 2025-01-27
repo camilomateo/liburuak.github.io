@@ -11,14 +11,14 @@
   <link href="./authors_1580_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Walter Scott" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
-    <title>Todos los libros de Walter Scott</title>
+    <title>All books by Walter Scott</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_1/authors_1580_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -36,7 +36,7 @@
     <id>calibre:book:2543</id>
     <updated>2024-09-09T10:34:53Z</updated>
     <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Walter Scott</name>
       <uri>../authors_1/authors_1580_Page_1.xml</uri>
@@ -61,7 +61,7 @@
     <id>calibre:book:2252</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Walter%20Scott/The%20Lady%20of%20the%20Lake%20%282252%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Scott/The%20Lady%20of%20the%20Lake%20%282252%29/The%20Lady%20of%20the%20Lake%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="271 KB" />
+    <link href="../../Walter%20Scott/The%20Lady%20of%20the%20Lake%20%282252%29/The%20Lady%20of%20the%20Lake%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="271 KB" />
     <author>
       <name>Walter Scott</name>
       <uri>../authors_1/authors_1580_Page_1.xml</uri>

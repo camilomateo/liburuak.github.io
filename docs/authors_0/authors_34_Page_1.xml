@@ -11,13 +11,13 @@
   <link href="./authors_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joël Dicker" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
-  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../authorlist/authorlist_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <entry>
-    <title>Todos los libros de Joël Dicker</title>
+    <title>All books by Joël Dicker</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 6 libros</content>
+    <content type="text">Alphabetical index of the 6 books</content>
     <link href="../authors_0/authors_34_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -35,7 +35,7 @@
     <id>calibre:book:1401</id>
     <updated>2024-04-08T02:46:19Z</updated>
     <link href="../../Joel%20Dicker/Un%20animal%20salvaje%20%281401%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/Un%20animal%20salvaje%20%281401%29/Un%20animal%20salvaje%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../Joel%20Dicker/Un%20animal%20salvaje%20%281401%29/Un%20animal%20salvaje%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:42</id>
     <updated>2023-01-17T10:24:48Z</updated>
     <link href="../../Joel%20Dicker/La%20desaparicion%20de%20Stephanie%20Mailer%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/La%20desaparicion%20de%20Stephanie%20Mailer%20%2842%29/La%20desaparicion%20de%20Stephanie%20Ma%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="717 KB" />
+    <link href="../../Joel%20Dicker/La%20desaparicion%20de%20Stephanie%20Mailer%20%2842%29/La%20desaparicion%20de%20Stephanie%20Ma%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="717 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:706</id>
     <updated>2023-05-17T01:10:24Z</updated>
     <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/El%20enigma%20de%20la%20habitacion%20622%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="734 KB" />
+    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/El%20enigma%20de%20la%20habitacion%20622%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="734 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -86,7 +86,7 @@
     <id>calibre:book:115</id>
     <updated>2023-01-18T00:43:30Z</updated>
     <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/El%20Libro%20de%20los%20Baltimore%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="638 KB" />
+    <link href="../../Joel%20Dicker/El%20Libro%20de%20los%20Baltimore%20%28115%29/El%20Libro%20de%20los%20Baltimore%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="638 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -103,7 +103,7 @@
     <id>calibre:book:558</id>
     <updated>2023-04-13T06:49:48Z</updated>
     <link href="../../Joel%20Dicker/Los%20ultimos%20dias%20de%20nuestros%20padres%20%28558%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/Los%20ultimos%20dias%20de%20nuestros%20padres%20%28558%29/Los%20ultimos%20dias%20de%20nuestros%20pa%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Joel%20Dicker/Los%20ultimos%20dias%20de%20nuestros%20padres%20%28558%29/Los%20ultimos%20dias%20de%20nuestros%20pa%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>

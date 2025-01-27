@@ -6,11 +6,11 @@
   <link href="./book_394.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Historia de una mujer soltera" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with U" />
   <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/Historia%20de%20una%20mujer%20soltera%20-%20Chiyo%20Uno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+  <link href="../../Chiyo%20Uno/Historia%20de%20una%20mujer%20soltera%20%28394%29/Historia%20de%20una%20mujer%20soltera%20-%20Chiyo%20Uno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
   <author>
     <name>Chiyo Uno</name>
     <uri>../authors_0/authors_287_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>
@@ -95,5 +95,5 @@
       </p>
     </div>
   </content>
-  <link href="../authors_0/authors_287_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Chiyo Uno" />
+  <link href="../authors_0/authors_287_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Chiyo Uno" />
 </entry>

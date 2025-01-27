@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,87 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 14)" />
+  <entry>
+    <title>Cuando nadie nos ve</title>
+    <id>calibre:book:1549</id>
+    <updated>2024-06-02T10:59:44Z</updated>
+    <link href="../../Sergio%20Sarria/Cuando%20nadie%20nos%20ve%20%281549%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sergio%20Sarria/Cuando%20nadie%20nos%20ve%20%281549%29/Cuando%20nadie%20nos%20ve%20-%20Sergio%20Sarria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="594 KB" />
+    <author>
+      <name>Sergio Sarria</name>
+      <uri>../authors_1/authors_1130_Page_1.xml</uri>
+    </author>
+    <published>2019-04-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Comienza la Semana Santa en Morón de la Frontera (Sevilla). Lucía Gutiérrez, sargento de la Guardia Civil, tiene una reunión de emergencia con la alcaldesa del pueblo, debido a varios incidentes que relacionan a jóvenes costaleros con el consumo de d...</summary>
+    <link href="../book_1/book_1549.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando nadie te ve</title>
+    <id>calibre:book:959</id>
+    <updated>2023-08-01T05:26:14Z</updated>
+    <link href="../../Jose%20Ignacio%20Valenzuela/Cuando%20nadie%20te%20ve%20%28959%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ignacio%20Valenzuela/Cuando%20nadie%20te%20ve%20%28959%29/Cuando%20nadie%20te%20ve%20-%20Jose%20Ignacio%20Valenzuela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
+    <author>
+      <name>José Ignacio Valenzuela</name>
+      <uri>../authors_0/authors_713_Page_1.xml</uri>
+    </author>
+    <published>2023-07-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Un thriller que devorarás de principio a fin». Juan Gómez-Jurado Por el creador de ¿Quien mató a Sara?, uno de los mayores éxitos de la historia de Netflix en español. «Los que habitan en Pinomar aseguran que la vida transcurre plácida. Que los prob...</summary>
+    <link href="../book_0/book_959.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando sale la reclusa</title>
+    <id>calibre:book:1414</id>
+    <updated>2024-04-08T05:29:29Z</updated>
+    <link href="../../Fred%20Vargas/Cuando%20sale%20la%20reclusa%20%281414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fred%20Vargas/Cuando%20sale%20la%20reclusa%20%281414%29/Cuando%20sale%20la%20reclusa%20-%20Fred%20Vargas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="619 KB" />
+    <author>
+      <name>Fred Vargas</name>
+      <uri>../authors_0/authors_782_Page_1.xml</uri>
+    </author>
+    <published>2018-02-13T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Jean-Baptiste Adamsberg" />
+    <summary>Comisario Jean-Baptiste Adamsberg [12]: La obra más ambiciosa y lograda de la reina de la novela negra europea.«Cuando sale la reclusa, su novela decimocuarta y la novena protagonizada por el intuitivo comisario Jean-Baptiste Adamsberg, colma las exp...</summary>
+    <link href="../book_1/book_1414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando salí de Cuba</title>
+    <id>calibre:book:938</id>
+    <updated>2023-07-04T02:12:40Z</updated>
+    <link href="../../Chanel%20Cleeton/Cuando%20sali%20de%20Cuba%20%28938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chanel%20Cleeton/Cuando%20sali%20de%20Cuba%20%28938%29/Cuando%20sali%20de%20Cuba%20-%20Chanel%20Cleeton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Chanel Cleeton</name>
+      <uri>../authors_0/authors_705_Page_1.xml</uri>
+    </author>
+    <published>2023-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando salí de Cuba: Una mujer entre el amor, la nostalgia por su país y el deseo de venganzaPalm Beach, 1960. Beatriz Pérez, una chica rebelde e independiente, vive en Estados Unidos desde que tuvo que exiliarse de Cuba junto a su familia. Sin embar...</summary>
+    <link href="../book_0/book_938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Cuando te falte el aire</title>
     <id>calibre:book:563</id>
     <updated>2023-04-17T01:30:22Z</updated>
     <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
     <author>
       <name>Úrsula Campos</name>
       <uri>../authors_0/authors_417_Page_1.xml</uri>
@@ -40,7 +109,7 @@
     <id>calibre:book:805</id>
     <updated>2023-05-31T01:30:26Z</updated>
     <link href="../../Laura%20Vidal/Cuando%20ya%20no%20estas%20%28805%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Vidal/Cuando%20ya%20no%20estas%20%28805%29/Cuando%20ya%20no%20estas%20-%20Laura%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="652 KB" />
+    <link href="../../Laura%20Vidal/Cuando%20ya%20no%20estas%20%28805%29/Cuando%20ya%20no%20estas%20-%20Laura%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
     <author>
       <name>Laura Vidal</name>
       <uri>../authors_0/authors_600_Page_1.xml</uri>
@@ -58,7 +127,7 @@
     <id>calibre:book:654</id>
     <updated>2023-05-10T04:29:14Z</updated>
     <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/Cuando%20ya%20no%20sea%20yo%20-%20Carme%20Elias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/Cuando%20ya%20no%20sea%20yo%20-%20Carme%20Elias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
     <author>
       <name>Carme Elias</name>
       <uri>../authors_0/authors_482_Page_1.xml</uri>
@@ -76,7 +145,7 @@
     <id>calibre:book:430</id>
     <updated>2023-03-14T04:53:30Z</updated>
     <link href="../../Melba%20Escobar/Cuando%20eramos%20felices%20pero%20no%20lo%20sa%20%28430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Melba%20Escobar/Cuando%20eramos%20felices%20pero%20no%20lo%20sa%20%28430%29/Cuando%20eramos%20felices%20pero%20no%20l%20-%20Melba%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="670 KB" />
+    <link href="../../Melba%20Escobar/Cuando%20eramos%20felices%20pero%20no%20lo%20sa%20%28430%29/Cuando%20eramos%20felices%20pero%20no%20l%20-%20Melba%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="670 KB" />
     <author>
       <name>Melba Escobar</name>
       <uri>../authors_0/authors_319_Page_1.xml</uri>
@@ -93,7 +162,7 @@
     <id>calibre:book:718</id>
     <updated>2023-05-17T01:10:52Z</updated>
     <link href="../../J.%20D.%20Barker/El%20Cuarto%20Mono%20%28718%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20D.%20Barker/El%20Cuarto%20Mono%20%28718%29/El%20Cuarto%20Mono%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="955 KB" />
+    <link href="../../J.%20D.%20Barker/El%20Cuarto%20Mono%20%28718%29/El%20Cuarto%20Mono%20-%20J.%20D.%20Barker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="955 KB" />
     <author>
       <name>J. D. Barker</name>
       <uri>../authors_0/authors_166_Page_1.xml</uri>
@@ -111,7 +180,7 @@
     <id>calibre:book:1042</id>
     <updated>2023-10-20T01:12:32Z</updated>
     <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/Cucarachas%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Jo%20Nesbo/Cucarachas%20%281042%29/Cucarachas%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Jo Nesbø</name>
       <uri>../authors_0/authors_266_Page_1.xml</uri>
@@ -129,7 +198,7 @@
     <id>calibre:book:1477</id>
     <updated>2024-04-30T05:13:17Z</updated>
     <link href="../../Salman%20Rushdie/Cuchillo%20%281477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Salman%20Rushdie/Cuchillo%20%281477%29/Cuchillo%20-%20Salman%20Rushdie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Salman%20Rushdie/Cuchillo%20%281477%29/Cuchillo%20-%20Salman%20Rushdie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Salman Rushdie</name>
       <uri>../authors_0/authors_251_Page_1.xml</uri>
@@ -146,7 +215,7 @@
     <id>calibre:book:1923</id>
     <updated>2024-09-05T06:03:55Z</updated>
     <link href="../../Charles%20Dickens/Cuento%20de%20Navidad%20%281923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/Cuento%20de%20Navidad%20%281923%29/Cuento%20de%20Navidad%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <link href="../../Charles%20Dickens/Cuento%20de%20Navidad%20%281923%29/Cuento%20de%20Navidad%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="127 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -162,7 +231,7 @@
     <id>calibre:book:348</id>
     <updated>2023-02-21T01:29:32Z</updated>
     <link href="../../Stephen%20King/Cuento%20de%20hadas%20%28348%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Cuento%20de%20hadas%20%28348%29/Cuento%20de%20hadas%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Stephen%20King/Cuento%20de%20hadas%20%28348%29/Cuento%20de%20hadas%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -185,7 +254,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2163</id>
     <updated>2024-09-06T02:21:26Z</updated>
     <link href="../../Fernan%20Caballero/Cuentos%20adivinanzas%20y%20refranes%20popu%20%282163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernan%20Caballero/Cuentos%20adivinanzas%20y%20refranes%20popu%20%282163%29/Cuentos%20adivinanzas%20y%20refranes%20-%20Fernan%20Caballero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="190 KB" />
+    <link href="../../Fernan%20Caballero/Cuentos%20adivinanzas%20y%20refranes%20popu%20%282163%29/Cuentos%20adivinanzas%20y%20refranes%20-%20Fernan%20Caballero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="190 KB" />
     <author>
       <name>Fernán Caballero</name>
       <uri>../authors_1/authors_1466_Page_1.xml</uri>
@@ -205,7 +274,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2392</id>
     <updated>2024-09-09T10:34:21Z</updated>
     <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/Cuentos%20completos%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/Cuentos%20completos%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="264 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>
@@ -223,7 +292,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2210</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Horacio%20Quiroga/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20Muer%20%282210%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Horacio%20Quiroga/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20Muer%20%282210%29/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20-%20Horacio%20Quiroga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
+    <link href="../../Horacio%20Quiroga/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20Muer%20%282210%29/Cuentos%20de%20Amor%20de%20Locura%20y%20de%20-%20Horacio%20Quiroga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="218 KB" />
     <author>
       <name>Horacio Quiroga</name>
       <uri>../authors_1/authors_1519_Page_1.xml</uri>
@@ -239,7 +308,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2182</id>
     <updated>2024-09-06T02:21:29Z</updated>
     <link href="../../Ignacio%20Manuel%20Altamirano/Cuentos%20de%20Invierno%20%282182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Manuel%20Altamirano/Cuentos%20de%20Invierno%20%282182%29/Cuentos%20de%20Invierno%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="246 KB" />
+    <link href="../../Ignacio%20Manuel%20Altamirano/Cuentos%20de%20Invierno%20%282182%29/Cuentos%20de%20Invierno%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="246 KB" />
     <author>
       <name>Ignacio Manuel Altamirano</name>
       <uri>../authors_1/authors_1429_Page_1.xml</uri>
@@ -257,7 +326,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2208</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/Cuentos%20de%20amor%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <link href="../../Emilia%20Pardo%20Bazan/Cuentos%20de%20amor%20%282208%29/Cuentos%20de%20amor%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
     <author>
       <name>Emilia Pardo Bazán</name>
       <uri>../authors_1/authors_1523_Page_1.xml</uri>
@@ -273,7 +342,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2175</id>
     <updated>2024-09-06T02:21:28Z</updated>
     <link href="../../Manuel%20Jose%20Othon/Cuentos%20de%20espantos%20y%20novelas%20rusti%20%282175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Jose%20Othon/Cuentos%20de%20espantos%20y%20novelas%20rusti%20%282175%29/Cuentos%20de%20espantos%20y%20novelas%20r%20-%20Manuel%20Jose%20Othon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <link href="../../Manuel%20Jose%20Othon/Cuentos%20de%20espantos%20y%20novelas%20rusti%20%282175%29/Cuentos%20de%20espantos%20y%20novelas%20r%20-%20Manuel%20Jose%20Othon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="149 KB" />
     <author>
       <name>Manuel José Othón</name>
       <uri>../authors_1/authors_1541_Page_1.xml</uri>
@@ -291,7 +360,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2287</id>
     <updated>2024-09-09T10:33:59Z</updated>
     <link href="../../Ambrose%20Bierce/Cuentos%20de%20horror%20%282287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ambrose%20Bierce/Cuentos%20de%20horror%20%282287%29/Cuentos%20de%20horror%20-%20Ambrose%20Bierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="88 KB" />
+    <link href="../../Ambrose%20Bierce/Cuentos%20de%20horror%20%282287%29/Cuentos%20de%20horror%20-%20Ambrose%20Bierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="88 KB" />
     <author>
       <name>Ambrose Bierce</name>
       <uri>../authors_1/authors_1599_Page_1.xml</uri>
@@ -310,7 +379,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2110</id>
     <updated>2024-09-06T02:21:17Z</updated>
     <link href="../../Rufino%20Blanco-Fombona/Cuentos%20de%20poeta%20%282110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rufino%20Blanco-Fombona/Cuentos%20de%20poeta%20%282110%29/Cuentos%20de%20poeta%20-%20Rufino%20Blanco-Fombona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <link href="../../Rufino%20Blanco-Fombona/Cuentos%20de%20poeta%20%282110%29/Cuentos%20de%20poeta%20-%20Rufino%20Blanco-Fombona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="126 KB" />
     <author>
       <name>Rufino Blanco-Fombona</name>
       <uri>../authors_1/authors_1497_Page_1.xml</uri>
@@ -330,7 +399,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:1936</id>
     <updated>2024-09-05T06:03:57Z</updated>
     <link href="../../George%20Sand/Cuentos%20de%20una%20abuela%20%281936%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Sand/Cuentos%20de%20una%20abuela%20%281936%29/Cuentos%20de%20una%20abuela%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="182 KB" />
+    <link href="../../George%20Sand/Cuentos%20de%20una%20abuela%20%281936%29/Cuentos%20de%20una%20abuela%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="182 KB" />
     <author>
       <name>George Sand</name>
       <uri>../authors_1/authors_1382_Page_1.xml</uri>
@@ -350,7 +419,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2176</id>
     <updated>2024-09-06T02:21:28Z</updated>
     <link href="../../Vicente%20Riva%20Palacio/Cuentos%20del%20general%20%282176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Riva%20Palacio/Cuentos%20del%20general%20%282176%29/Cuentos%20del%20general%20-%20Vicente%20Riva%20Palacio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="143 KB" />
+    <link href="../../Vicente%20Riva%20Palacio/Cuentos%20del%20general%20%282176%29/Cuentos%20del%20general%20-%20Vicente%20Riva%20Palacio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="143 KB" />
     <author>
       <name>Vicente Riva Palacio</name>
       <uri>../authors_1/authors_1451_Page_1.xml</uri>
@@ -368,7 +437,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:2126</id>
     <updated>2024-09-06T02:21:20Z</updated>
     <link href="../../Manuel%20Gutierrez%20Najera/Cuentos%20fragiles%20%282126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Gutierrez%20Najera/Cuentos%20fragiles%20%282126%29/Cuentos%20fragiles%20-%20Manuel%20Gutierrez%20Najera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="144 KB" />
+    <link href="../../Manuel%20Gutierrez%20Najera/Cuentos%20fragiles%20%282126%29/Cuentos%20fragiles%20-%20Manuel%20Gutierrez%20Najera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="144 KB" />
     <author>
       <name>Manuel Gutiérrez Nájera</name>
       <uri>../authors_1/authors_1410_Page_1.xml</uri>
@@ -384,7 +453,7 @@ Charlie Reade parece un estudiant...</summary>
     <id>calibre:book:1362</id>
     <updated>2024-04-03T00:30:00Z</updated>
     <link href="../../T.%20C.%20Boyle/Cuentos%20incompletos%20%281362%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../T.%20C.%20Boyle/Cuentos%20incompletos%20%281362%29/Cuentos%20incompletos%20-%20T.%20C.%20Boyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="929 KB" />
+    <link href="../../T.%20C.%20Boyle/Cuentos%20incompletos%20%281362%29/Cuentos%20incompletos%20-%20T.%20C.%20Boyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="929 KB" />
     <author>
       <name>T. C. Boyle</name>
       <uri>../authors_0/authors_997_Page_1.xml</uri>
@@ -396,82 +465,7 @@ Charlie Reade parece un estudiant...</summary>
     <summary>Un chef atormentado por una crítica gastronómica, un asalto nocturno a una granja de pavos, una casa llena de ardillas lisiadas, un joven que sale de fiesta con Jane Austen. Esta colección reúne todo lo que, a lo largo de muchas décadas, ha pasado po...</summary>
     <link href="../book_1/book_1362.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Cuentos nerviosos</title>
-    <id>calibre:book:2174</id>
-    <updated>2024-09-06T02:21:28Z</updated>
-    <link href="../../Carlos%20Diaz%20Dufoo/Cuentos%20nerviosos%20%282174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Diaz%20Dufoo/Cuentos%20nerviosos%20%282174%29/Cuentos%20nerviosos%20-%20Carlos%20Diaz%20Dufoo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="109 KB" />
-    <author>
-      <name>Carlos Díaz Dufóo</name>
-      <uri>../authors_1/authors_1540_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [88]:</summary>
-    <link href="../book_2/book_2174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuentos y recuerdos personales</title>
-    <id>calibre:book:2173</id>
-    <updated>2024-09-06T02:21:28Z</updated>
-    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/Cuentos%20y%20recuerdos%20personales%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
-    <author>
-      <name>Juan de Dios Peza</name>
-      <uri>../authors_1/authors_1539_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [90]:</summary>
-    <link href="../book_2/book_2173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Culpa</title>
-    <id>calibre:book:1799</id>
-    <updated>2024-08-26T10:56:17Z</updated>
-    <link href="../../Juan%20Yanni/Culpa%20%281799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Yanni/Culpa%20%281799%29/Culpa%20-%20Juan%20Yanni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="274 KB" />
-    <author>
-      <name>Juan Yanni</name>
-      <uri>../authors_1/authors_1292_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galobart Nueva Narrativa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>CULPA es una obra que comienza con una pista terrible de una muerte. A partir de ese momento, el autor nos sitúa en la etapa inicial del Camino de Santiago, Saint Jean Pied de Port en la Aquitania francesa, una de las más duras y peligrosas del recor...</summary>
-    <link href="../book_1/book_1799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Culpas Compartidas</title>
-    <id>calibre:book:1659</id>
-    <updated>2024-07-07T03:32:36Z</updated>
-    <link href="../../Michael%20Hjorth/Culpas%20Compartidas%20%281659%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Hjorth/Culpas%20Compartidas%20%281659%29/Culpas%20Compartidas%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
-    <author>
-      <name>Michael Hjorth</name>
-      <uri>../authors_0/authors_852_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Hans Rosenfeldt</name>
-      <uri>../authors_0/authors_848_Page_1.xml</uri>
-    </author>
-    <published>2023-09-17T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Sebastian Bergman" />
-    <summary>Sebastian Bergman [8]: La espera se ha acabado: Vuelve Sebastian Bergman. Vuelve la adicción. Déjate sorprender por la serie de novela negra que ha conquistado a más de 7.000.000 de lectores en todo el mundo. La Unidad de Homicidios de Estocolmo se h...</summary>
-    <link href="../book_1/book_1659.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

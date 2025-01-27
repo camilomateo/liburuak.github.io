@@ -6,11 +6,11 @@
   <link href="./book_385.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Aprender a volar" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/Aprender%20a%20volar%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="647 KB" />
+  <link href="../../Alberto%20Garcia-Salido/Aprender%20a%20volar%20%28385%29/Aprender%20a%20volar%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="647 KB" />
   <author>
     <name>Alberto García-Salido</name>
     <uri>../authors_0/authors_277_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>HAGAMOS UN TRATO, EMPECEMOS A VIVIR. Una emotiva novela
@@ -50,5 +50,5 @@
       vuelo y empezar a vivir.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alberto García-Salido" />
+  <link href="../authors_0/authors_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alberto García-Salido" />
 </entry>

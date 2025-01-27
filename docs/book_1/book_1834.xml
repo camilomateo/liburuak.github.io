@@ -6,12 +6,12 @@
   <link href="./book_1834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Víctor Ros y los secretos de ultramar" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
-  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../authorlist/authorlist_T_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/Victor%20Ros%20y%20los%20secretos%20de%20ul%20-%20Jeronimo%20Tristante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+  <link href="../../Jeronimo%20Tristante/Victor%20Ros%20y%20los%20secretos%20de%20ultram%20%281834%29/Victor%20Ros%20y%20los%20secretos%20de%20ul%20-%20Jeronimo%20Tristante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="563 KB" />
   <author>
     <name>Jerónimo Tristante</name>
     <uri>../authors_1/authors_1311_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p style="font-weight: bold">Víctor Ros, el mejor
@@ -65,5 +65,5 @@
       fantasmas del pasado.</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1311_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jerónimo Tristante" />
+  <link href="../authors_1/authors_1311_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jerónimo Tristante" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
-  <link href="../allbooks/allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <link href="../allbooks/allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 8)" />
+  <entry>
+    <title>Todos aquellos mares</title>
+    <id>calibre:book:2585</id>
+    <updated>2024-09-12T03:39:18Z</updated>
+    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laia%20Aguilar/Todos%20aquellos%20mares%20%282585%29/Todos%20aquellos%20mares%20-%20Laia%20Aguilar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="241 KB" />
+    <author>
+      <name>Laia Aguilar</name>
+      <uri>../authors_1/authors_1701_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tres generaciones de mujeres marcadas por un pasado común en la isla de Formentera. Greta, marcada por la desaparición de Julieta, su hermana pequeña, vuelve a Formentera para cuidar a su querida abuela Matilde, el pilar de la familia, que mantiene v...</summary>
+    <link href="../book_2/book_2585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Todos en mi familia han matado a alguien</title>
     <id>calibre:book:571</id>
     <updated>2023-04-23T10:17:34Z</updated>
     <link href="../../Benjamin%20Stevenson/Todos%20en%20mi%20familia%20han%20matado%20a%20al%20%28571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Stevenson/Todos%20en%20mi%20familia%20han%20matado%20a%20al%20%28571%29/Todos%20en%20mi%20familia%20han%20matado%20-%20Benjamin%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="982 KB" />
+    <link href="../../Benjamin%20Stevenson/Todos%20en%20mi%20familia%20han%20matado%20a%20al%20%28571%29/Todos%20en%20mi%20familia%20han%20matado%20-%20Benjamin%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="982 KB" />
     <author>
       <name>Benjamin Stevenson</name>
       <uri>../authors_0/authors_424_Page_1.xml</uri>
@@ -32,11 +49,28 @@
     <link href="../book_0/book_571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Todos los colores de la oscuridad</title>
+    <id>calibre:book:2827</id>
+    <updated>2025-01-23T02:00:53Z</updated>
+    <link href="../../Chris%20Whitaker/Todos%20los%20colores%20de%20la%20oscuridad%20%282827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chris%20Whitaker/Todos%20los%20colores%20de%20la%20oscuridad%20%282827%29/Todos%20los%20colores%20de%20la%20oscurid%20-%20Chris%20Whitaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
+    <author>
+      <name>Chris Whitaker</name>
+      <uri>../authors_1/authors_1850_Page_1.xml</uri>
+    </author>
+    <published>2025-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras alcanzar un éxito sensacional entre la crítica y el público con Empezamos por el final, Chris Whitaker vuelve a conquistarnos con Todos los colores de la oscuridad, una ambiciosa novela que combina el misterio, el thriller y una arrebatadora his...</summary>
+    <link href="../book_2/book_2827.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Todos los demonios</title>
     <id>calibre:book:1576</id>
     <updated>2024-06-02T10:59:51Z</updated>
     <link href="../../Luis%20Roso/Todos%20los%20demonios%20%281576%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Roso/Todos%20los%20demonios%20%281576%29/Todos%20los%20demonios%20-%20Luis%20Roso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="421 KB" />
+    <link href="../../Luis%20Roso/Todos%20los%20demonios%20%281576%29/Todos%20los%20demonios%20-%20Luis%20Roso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="421 KB" />
     <author>
       <name>Luis Roso</name>
       <uri>../authors_1/authors_1138_Page_1.xml</uri>
@@ -54,7 +88,7 @@
     <id>calibre:book:2713</id>
     <updated>2024-11-22T00:06:51Z</updated>
     <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/Todos%20los%20finales%20felices%20se%20pa%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="401 KB" />
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/Todos%20los%20finales%20felices%20se%20pa%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="401 KB" />
     <author>
       <name>Alberto García-Salido</name>
       <uri>../authors_0/authors_277_Page_1.xml</uri>
@@ -71,7 +105,7 @@
     <id>calibre:book:1053</id>
     <updated>2023-11-01T07:27:32Z</updated>
     <link href="../../Javier%20Menendez%20Flores/Todos%20nosotros%20%281053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Menendez%20Flores/Todos%20nosotros%20%281053%29/Todos%20nosotros%20-%20Javier%20Menendez%20Flores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <link href="../../Javier%20Menendez%20Flores/Todos%20nosotros%20%281053%29/Todos%20nosotros%20-%20Javier%20Menendez%20Flores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
     <author>
       <name>Javier Menéndez Flores</name>
       <uri>../authors_0/authors_771_Page_1.xml</uri>
@@ -84,11 +118,29 @@
     <link href="../book_1/book_1053.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Todos nuestros fuegos</title>
+    <id>calibre:book:2848</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../Karen%20Codner/Todos%20nuestros%20fuegos%20%282848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karen%20Codner/Todos%20nuestros%20fuegos%20%282848%29/Todos%20nuestros%20fuegos%20-%20Karen%20Codner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="489 KB" />
+    <author>
+      <name>Karen Codner</name>
+      <uri>../authors_1/authors_1864_Page_1.xml</uri>
+    </author>
+    <published>2024-02-26T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela que desafía las expectativas. Adéntrate en un laberinto emocional con Todos nuestros fuegos.
+Olivia Schtern –antes Rivka– vive en su pequeño departamento en Nueva York junto a su perro George. Desde los catorce años su existencia ha sido u...</summary>
+    <link href="../book_2/book_2848.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Todos tienen razón</title>
     <id>calibre:book:2587</id>
     <updated>2024-09-12T03:39:19Z</updated>
     <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/Todos%20tienen%20razon%20-%20Paolo%20Sorrentino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="338 KB" />
+    <link href="../../Paolo%20Sorrentino/Todos%20tienen%20razon%20%282587%29/Todos%20tienen%20razon%20-%20Paolo%20Sorrentino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
     <author>
       <name>Paolo Sorrentino</name>
       <uri>../authors_1/authors_1703_Page_1.xml</uri>
@@ -105,7 +157,7 @@
     <id>calibre:book:1133</id>
     <updated>2024-01-08T09:16:17Z</updated>
     <link href="../../David%20Peace/Tokio%20Redux%20%281133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Peace/Tokio%20Redux%20%281133%29/Tokio%20Redux%20-%20David%20Peace.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="838 KB" />
+    <link href="../../David%20Peace/Tokio%20Redux%20%281133%29/Tokio%20Redux%20-%20David%20Peace.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="838 KB" />
     <author>
       <name>David Peace</name>
       <uri>../authors_0/authors_831_Page_1.xml</uri>
@@ -126,7 +178,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:2024</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Frias%2C%20Heriberto/Tomochic%20%282024%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Frias%2C%20Heriberto/Tomochic%20%282024%29/Tomochic%20-%20Frias%2C%20Heriberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="253 KB" />
+    <link href="../../Frias%2C%20Heriberto/Tomochic%20%282024%29/Tomochic%20-%20Frias%2C%20Heriberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="253 KB" />
     <author>
       <name>Frías, Heriberto</name>
       <uri>../authors_1/authors_1454_Page_1.xml</uri>
@@ -144,7 +196,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1086</id>
     <updated>2023-12-12T08:20:57Z</updated>
     <link href="../../Sergio%20Ramirez/Tongolele%20no%20sabia%20bailar%20%281086%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sergio%20Ramirez/Tongolele%20no%20sabia%20bailar%20%281086%29/Tongolele%20no%20sabia%20bailar%20-%20Sergio%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Sergio%20Ramirez/Tongolele%20no%20sabia%20bailar%20%281086%29/Tongolele%20no%20sabia%20bailar%20-%20Sergio%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Sergio Ramirez</name>
       <uri>../authors_0/authors_790_Page_1.xml</uri>
@@ -162,7 +214,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1653</id>
     <updated>2024-07-07T03:32:35Z</updated>
     <link href="../../Carles%20Porta/Tor.%20El%20fuego%20que%20no%20se%20apaga%20%281653%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carles%20Porta/Tor.%20El%20fuego%20que%20no%20se%20apaga%20%281653%29/Tor.%20El%20fuego%20que%20no%20se%20apaga%20-%20Carles%20Porta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Carles%20Porta/Tor.%20El%20fuego%20que%20no%20se%20apaga%20%281653%29/Tor.%20El%20fuego%20que%20no%20se%20apaga%20-%20Carles%20Porta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Carles Porta</name>
       <uri>../authors_1/authors_1190_Page_1.xml</uri>
@@ -179,7 +231,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1259</id>
     <updated>2024-03-01T02:15:57Z</updated>
     <link href="../../Triona%20Walsh/Tormenta%20de%20nieve%20%281259%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Triona%20Walsh/Tormenta%20de%20nieve%20%281259%29/Tormenta%20de%20nieve%20-%20Triona%20Walsh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="474 KB" />
+    <link href="../../Triona%20Walsh/Tormenta%20de%20nieve%20%281259%29/Tormenta%20de%20nieve%20-%20Triona%20Walsh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
     <author>
       <name>Tríona Walsh</name>
       <uri>../authors_0/authors_919_Page_1.xml</uri>
@@ -196,7 +248,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:2007</id>
     <updated>2024-09-06T01:57:44Z</updated>
     <link href="../../Ricardo%20Palma/Tradiciones%20Peruanas%20I%20%282007%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ricardo%20Palma/Tradiciones%20Peruanas%20I%20%282007%29/Tradiciones%20Peruanas%20I%20-%20Ricardo%20Palma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="229 KB" />
+    <link href="../../Ricardo%20Palma/Tradiciones%20Peruanas%20I%20%282007%29/Tradiciones%20Peruanas%20I%20-%20Ricardo%20Palma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="229 KB" />
     <author>
       <name>Ricardo Palma</name>
       <uri>../authors_1/authors_1438_Page_1.xml</uri>
@@ -214,7 +266,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:988</id>
     <updated>2023-08-23T02:48:22Z</updated>
     <link href="../../Rhys%20Bowen/Traicion%20en%20Farleigh%20Place%20%28988%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rhys%20Bowen/Traicion%20en%20Farleigh%20Place%20%28988%29/Traicion%20en%20Farleigh%20Place%20-%20Rhys%20Bowen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="544 KB" />
+    <link href="../../Rhys%20Bowen/Traicion%20en%20Farleigh%20Place%20%28988%29/Traicion%20en%20Farleigh%20Place%20-%20Rhys%20Bowen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="544 KB" />
     <author>
       <name>Rhys Bowen</name>
       <uri>../authors_0/authors_733_Page_1.xml</uri>
@@ -231,7 +283,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1290</id>
     <updated>2024-03-15T08:56:25Z</updated>
     <link href="../../Istha%20Natimo/Tras%20las%20caras%20del%20poliedro%20%281290%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Istha%20Natimo/Tras%20las%20caras%20del%20poliedro%20%281290%29/Tras%20las%20caras%20del%20poliedro%20-%20Istha%20Natimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <link href="../../Istha%20Natimo/Tras%20las%20caras%20del%20poliedro%20%281290%29/Tras%20las%20caras%20del%20poliedro%20-%20Istha%20Natimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
     <author>
       <name>Istha Natimo</name>
       <uri>../authors_0/authors_937_Page_1.xml</uri>
@@ -248,7 +300,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1974</id>
     <updated>2024-09-05T06:10:28Z</updated>
     <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/Tratado%20del%20hombre%20-%20Rene%20Descartes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="971 KB" />
+    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/Tratado%20del%20hombre%20-%20Rene%20Descartes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="971 KB" />
     <author>
       <name>René Descartes</name>
       <uri>../authors_0/authors_46_Page_1.xml</uri>
@@ -269,7 +321,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:106</id>
     <updated>2023-01-18T00:43:26Z</updated>
     <link href="../../Mario%20Vargas%20Llosa/Travesuras%20de%20la%20nina%20mala%20%28106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Vargas%20Llosa/Travesuras%20de%20la%20nina%20mala%20%28106%29/Travesuras%20de%20la%20nina%20mala%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <link href="../../Mario%20Vargas%20Llosa/Travesuras%20de%20la%20nina%20mala%20%28106%29/Travesuras%20de%20la%20nina%20mala%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
     <author>
       <name>Mario Vargas Llosa</name>
       <uri>../authors_0/authors_71_Page_1.xml</uri>
@@ -289,7 +341,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:2479</id>
     <updated>2024-09-09T10:34:39Z</updated>
     <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/Treasure%20Island%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <link href="../../Robert%20Louis%20Stevenson/Treasure%20Island%20%282479%29/Treasure%20Island%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
     <author>
       <name>Robert Louis Stevenson</name>
       <uri>../authors_1/authors_1413_Page_1.xml</uri>
@@ -305,7 +357,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1665</id>
     <updated>2024-07-07T03:32:37Z</updated>
     <link href="../../Kotaro%20Isaka/Tren%20bala%20%281665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kotaro%20Isaka/Tren%20bala%20%281665%29/Tren%20bala%20-%20Kotaro%20Isaka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <link href="../../Kotaro%20Isaka/Tren%20bala%20%281665%29/Tren%20bala%20-%20Kotaro%20Isaka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
     <author>
       <name>Kotaro Isaka</name>
       <uri>../authors_0/authors_469_Page_1.xml</uri>
@@ -322,7 +374,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:2111</id>
     <updated>2024-09-06T02:21:17Z</updated>
     <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/Tres%20Comedias%20Modernas%20_%20en%20un%20-%20Mariano%20Barranco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/Tres%20Comedias%20Modernas%20_%20en%20un%20-%20Mariano%20Barranco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
     <author>
       <name>Mariano Barranco</name>
       <uri>../authors_1/authors_1498_Page_1.xml</uri>
@@ -353,7 +405,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:631</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Kotaro%20Isaka/Tres%20asesinos%20%28631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kotaro%20Isaka/Tres%20asesinos%20%28631%29/Tres%20asesinos%20-%20Kotaro%20Isaka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="705 KB" />
+    <link href="../../Kotaro%20Isaka/Tres%20asesinos%20%28631%29/Tres%20asesinos%20-%20Kotaro%20Isaka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="705 KB" />
     <author>
       <name>Kotaro Isaka</name>
       <uri>../authors_0/authors_469_Page_1.xml</uri>
@@ -370,7 +422,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1174</id>
     <updated>2024-01-30T06:17:56Z</updated>
     <link href="../../Eduardo%20Mendoza/Tres%20enigmas%20para%20la%20Organizacion%20%281174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eduardo%20Mendoza/Tres%20enigmas%20para%20la%20Organizacion%20%281174%29/Tres%20enigmas%20para%20la%20Organizaci%20-%20Eduardo%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <link href="../../Eduardo%20Mendoza/Tres%20enigmas%20para%20la%20Organizacion%20%281174%29/Tres%20enigmas%20para%20la%20Organizaci%20-%20Eduardo%20Mendoza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
     <author>
       <name>Eduardo Mendoza</name>
       <uri>../authors_0/authors_855_Page_1.xml</uri>
@@ -387,7 +439,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:2000</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Carlos%20Maria%20de%20Bustamante/Tres%20estudios%20sobre%20don%20Jose%20Maria%20%282000%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Maria%20de%20Bustamante/Tres%20estudios%20sobre%20don%20Jose%20Maria%20%282000%29/Tres%20estudios%20sobre%20don%20Jose%20Ma%20-%20Carlos%20Maria%20de%20Bustamante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <link href="../../Carlos%20Maria%20de%20Bustamante/Tres%20estudios%20sobre%20don%20Jose%20Maria%20%282000%29/Tres%20estudios%20sobre%20don%20Jose%20Ma%20-%20Carlos%20Maria%20de%20Bustamante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="120 KB" />
     <author>
       <name>Carlos María de Bustamante</name>
       <uri>../authors_1/authors_1432_Page_1.xml</uri>
@@ -405,7 +457,7 @@ presidente de la Empresa...</summary>
     <id>calibre:book:1797</id>
     <updated>2024-08-26T10:56:17Z</updated>
     <link href="../../Laura%20Marshall/Tres%20pequenas%20mentiras%20%281797%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Marshall/Tres%20pequenas%20mentiras%20%281797%29/Tres%20pequenas%20mentiras%20-%20Laura%20Marshall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <link href="../../Laura%20Marshall/Tres%20pequenas%20mentiras%20%281797%29/Tres%20pequenas%20mentiras%20-%20Laura%20Marshall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
     <author>
       <name>Laura Marshall</name>
       <uri>../authors_1/authors_1291_Page_1.xml</uri>
@@ -417,58 +469,7 @@ presidente de la Empresa...</summary>
     <summary>DOS MEJORES AMIGAS. UNA FATÍDICA NOCHE. Y NADA MÁS PODEROSO QUE UNA MENTIRA. EXCEPTO TRES MENTIRAS.La nueva novela de Laura Marshall, el thriller más adictivo que leerás este año. Diez años atrás, un horrible acontecimiento sacudió sus vidas, pero no...</summary>
     <link href="../book_1/book_1797.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Trilogía El Club de los Incomprendidos</title>
-    <id>calibre:book:1255</id>
-    <updated>2024-02-24T07:41:12Z</updated>
-    <link href="../../Blue%20Jeans/Trilogia%20El%20Club%20de%20los%20Incomprendi%20%281255%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blue%20Jeans/Trilogia%20El%20Club%20de%20los%20Incomprendi%20%281255%29/Trilogia%20El%20Club%20de%20los%20Incompr%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Blue Jeans</name>
-      <uri>../authors_0/authors_15_Page_1.xml</uri>
-    </author>
-    <published>2012-04-20T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Únete al fenómeno Blue Jeans, el autor español de novela juvenil romántica más importante de los últimos años con más de medio millón de lectores. ¡Descúbrelo!Valeria, Raúl, María, Bruno, Ester y Eli formaron El Club de los Incomprendidos para apoya...</summary>
-    <link href="../book_1/book_1255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Trilogía La novia gitana</title>
-    <id>calibre:book:1136</id>
-    <updated>2024-01-08T09:16:18Z</updated>
-    <link href="../../Carmen%20Mola/Trilogia%20La%20novia%20gitana%20%281136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Mola/Trilogia%20La%20novia%20gitana%20%281136%29/Trilogia%20La%20novia%20gitana%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Carmen Mola</name>
-      <uri>../authors_0/authors_68_Page_1.xml</uri>
-    </author>
-    <published>2020-10-23T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>LA SERIE DE NOVELA NEGRA MÁS EXTREMA Y EXITOSA DE LOS ÚLTIMOS AÑOS MÁS DE 600.000 LECTORES «¿La Elena Ferrante española? Carmen Mola irrumpe con fuerza en el panorama de la novela negra.»Juan Carlos Galindo, El País Ensalzada unánimemente por la crít...</summary>
-    <link href="../book_1/book_1136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Trilogía Montgomery</title>
-    <id>calibre:book:1169</id>
-    <updated>2024-01-25T08:51:59Z</updated>
-    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Banville/Trilogia%20Montgomery%20%281169%29/Trilogia%20Montgomery%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="842 KB" />
-    <author>
-      <name>John Banville</name>
-      <uri>../authors_0/authors_261_Page_1.xml</uri>
-    </author>
-    <published>2020-02-03T09:04:30Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En un único volumen dos novelas inéditas del Premio Príncipe de Asturias de las Letrasjunto a El libro de las pruebas. «Una gran obra en la que cada suave momento detona en voz bajapara mostrar un mortífero destello interior.»Don  DeLillo Esta trilog...</summary>
-    <link href="../book_1/book_1169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

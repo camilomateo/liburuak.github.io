@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
-  <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 8)" />
   <entry>
     <title>Enquiridión</title>
     <id>calibre:book:1990</id>
     <updated>2024-09-05T06:10:31Z</updated>
     <link href="../../Epicteto/Enquiridion%20%281990%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Epicteto/Enquiridion%20%281990%29/Enquiridion%20-%20Epicteto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="81 KB" />
+    <link href="../../Epicteto/Enquiridion%20%281990%29/Enquiridion%20-%20Epicteto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="81 KB" />
     <author>
       <name>Epicteto</name>
       <uri>../authors_1/authors_1426_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:529</id>
     <updated>2023-04-05T00:40:12Z</updated>
     <link href="../../Jorge%20Volpi/Enrabiados%20%28529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Volpi/Enrabiados%20%28529%29/Enrabiados%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="579 KB" />
+    <link href="../../Jorge%20Volpi/Enrabiados%20%28529%29/Enrabiados%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="579 KB" />
     <author>
       <name>Jorge Volpi</name>
       <uri>../authors_0/authors_168_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:1959</id>
     <updated>2024-09-05T06:10:25Z</updated>
     <link href="../../Francois%20Rene%20vicomte%20de%20Chateaubri/Ensayo%20sobre%20las%20revoluciones%20%281959%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francois%20Rene%20vicomte%20de%20Chateaubri/Ensayo%20sobre%20las%20revoluciones%20%281959%29/Ensayo%20sobre%20las%20revoluciones%20-%20Francois%20Rene%20vicomte%20de%20Chatea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="83 KB" />
+    <link href="../../Francois%20Rene%20vicomte%20de%20Chateaubri/Ensayo%20sobre%20las%20revoluciones%20%281959%29/Ensayo%20sobre%20las%20revoluciones%20-%20Francois%20Rene%20vicomte%20de%20Chatea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="83 KB" />
     <author>
       <name>François René vicomte de Chateaubriand</name>
       <uri>../authors_1/authors_1402_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:1015</id>
     <updated>2023-08-30T08:59:16Z</updated>
     <link href="../../Jose%20C.%20Vales/Ensenar%20a%20hablar%20a%20un%20monstruo%20%281015%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20C.%20Vales/Ensenar%20a%20hablar%20a%20un%20monstruo%20%281015%29/Ensenar%20a%20hablar%20a%20un%20monstruo%20-%20Jose%20C.%20Vales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+    <link href="../../Jose%20C.%20Vales/Ensenar%20a%20hablar%20a%20un%20monstruo%20%281015%29/Ensenar%20a%20hablar%20a%20un%20monstruo%20-%20Jose%20C.%20Vales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="624 KB" />
     <author>
       <name>José C. Vales</name>
       <uri>../authors_0/authors_750_Page_1.xml</uri>
@@ -87,7 +87,7 @@
     <id>calibre:book:803</id>
     <updated>2023-05-31T01:18:18Z</updated>
     <link href="../../Joel%20Minden/Ensenale%20a%20tu%20ansiedad%20quien%20manda%20%28803%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Minden/Ensenale%20a%20tu%20ansiedad%20quien%20manda%20%28803%29/Ensenale%20a%20tu%20ansiedad%20quien%20ma%20-%20Joel%20Minden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="874 KB" />
+    <link href="../../Joel%20Minden/Ensenale%20a%20tu%20ansiedad%20quien%20manda%20%28803%29/Ensenale%20a%20tu%20ansiedad%20quien%20ma%20-%20Joel%20Minden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="874 KB" />
     <author>
       <name>Joel Minden</name>
       <uri>../authors_0/authors_598_Page_1.xml</uri>
@@ -105,7 +105,7 @@
     <id>calibre:book:1365</id>
     <updated>2024-04-03T00:30:00Z</updated>
     <link href="../../Rafael%20Poch-de-Feliu/Entender%20la%20Rusia%20de%20Putin%20%281365%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Poch-de-Feliu/Entender%20la%20Rusia%20de%20Putin%20%281365%29/Entender%20la%20Rusia%20de%20Putin%20-%20Rafael%20Poch-de-Feliu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="475 KB" />
+    <link href="../../Rafael%20Poch-de-Feliu/Entender%20la%20Rusia%20de%20Putin%20%281365%29/Entender%20la%20Rusia%20de%20Putin%20-%20Rafael%20Poch-de-Feliu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="475 KB" />
     <author>
       <name>Rafael Poch-de-Feliu</name>
       <uri>../authors_1/authors_1000_Page_1.xml</uri>
@@ -123,7 +123,7 @@
     <id>calibre:book:533</id>
     <updated>2023-04-05T00:40:14Z</updated>
     <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/Entre%20los%20muertos%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <link href="../../Mikel%20Santiago/Entre%20los%20muertos%20%28533%29/Entre%20los%20muertos%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
     <author>
       <name>Mikel Santiago</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -141,7 +141,7 @@
     <id>calibre:book:189</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/Entre%20lineas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="906 KB" />
+    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/Entre%20lineas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="906 KB" />
     <author>
       <name>Noe Casado</name>
       <uri>../authors_0/authors_115_Page_1.xml</uri>
@@ -159,7 +159,7 @@
     <id>calibre:book:2156</id>
     <updated>2024-09-06T02:21:25Z</updated>
     <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/Entre%20naranjos%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/Entre%20naranjos%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Vicente Blasco Ibáñez</name>
       <uri>../authors_1/authors_1496_Page_1.xml</uri>
@@ -178,7 +178,7 @@
     <id>calibre:book:2712</id>
     <updated>2024-11-22T00:06:50Z</updated>
     <link href="../../Mario%20Escobar/Envidia%20%282712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Escobar/Envidia%20%282712%29/Envidia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="135 KB" />
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/Envidia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="135 KB" />
     <author>
       <name>Mario Escobar</name>
       <uri>../authors_0/authors_31_Page_1.xml</uri>
@@ -195,7 +195,7 @@
     <id>calibre:book:1302</id>
     <updated>2024-03-15T09:08:17Z</updated>
     <link href="../../Ismael%20Galancho/Equilibra%20tu%20glucosa%20%281302%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ismael%20Galancho/Equilibra%20tu%20glucosa%20%281302%29/Equilibra%20tu%20glucosa%20-%20Ismael%20Galancho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <link href="../../Ismael%20Galancho/Equilibra%20tu%20glucosa%20%281302%29/Equilibra%20tu%20glucosa%20-%20Ismael%20Galancho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Ismael Galancho</name>
       <uri>../authors_0/authors_946_Page_1.xml</uri>
@@ -211,7 +211,7 @@
     <id>calibre:book:2803</id>
     <updated>2025-01-16T08:08:28Z</updated>
     <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/Era%20un%20buen%20chico%20-%20Simonetta%20Agnello%20Hornby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/Era%20un%20buen%20chico%20-%20Simonetta%20Agnello%20Hornby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
     <author>
       <name>Simonetta Agnello Hornby</name>
       <uri>../authors_1/authors_1834_Page_1.xml</uri>
@@ -228,7 +228,7 @@
     <id>calibre:book:633</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Katrine%20Engberg/Error%20de%20calculo%20%28633%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Katrine%20Engberg/Error%20de%20calculo%20%28633%29/Error%20de%20calculo%20-%20Katrine%20Engberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
+    <link href="../../Katrine%20Engberg/Error%20de%20calculo%20%28633%29/Error%20de%20calculo%20-%20Katrine%20Engberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
       <name>Katrine Engberg</name>
       <uri>../authors_0/authors_471_Page_1.xml</uri>
@@ -243,7 +243,7 @@
     <id>calibre:book:552</id>
     <updated>2023-04-11T09:33:24Z</updated>
     <link href="../../Alex%20Claramunt%20Soto/Es%20necesario%20castigo%20%28552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alex%20Claramunt%20Soto/Es%20necesario%20castigo%20%28552%29/Es%20necesario%20castigo%20-%20Alex%20Claramunt%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="18 MB" />
+    <link href="../../Alex%20Claramunt%20Soto/Es%20necesario%20castigo%20%28552%29/Es%20necesario%20castigo%20-%20Alex%20Claramunt%20Soto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="18 MB" />
     <author>
       <name>Àlex Claramunt Soto</name>
       <uri>../authors_0/authors_408_Page_1.xml</uri>
@@ -256,11 +256,28 @@
     <link href="../book_0/book_552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Escenas de una infancia</title>
+    <id>calibre:book:2824</id>
+    <updated>2025-01-23T02:00:53Z</updated>
+    <link href="../../Jon%20Fosse/Escenas%20de%20una%20infancia%20%282824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Fosse/Escenas%20de%20una%20infancia%20%282824%29/Escenas%20de%20una%20infancia%20-%20Jon%20Fosse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="532 KB" />
+    <author>
+      <name>Jon Fosse</name>
+      <uri>../authors_1/authors_1848_Page_1.xml</uri>
+    </author>
+    <published>2024-11-26T05:14:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ellibro derelatos,algunos deellosautobiográficos, del Premio Nobel de Literatura Jon Fosse,célebrepor lacalidadminimalista einquietante desuescritura.«La obra de Fosse es un enigma que da vida y esperanza a quien la lee. Ilumina el alma humana como s...</summary>
+    <link href="../book_2/book_2824.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Escondida</title>
     <id>calibre:book:1729</id>
     <updated>2024-08-08T04:59:24Z</updated>
     <link href="../../Ross%20Armstrong/Escondida%20%281729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ross%20Armstrong/Escondida%20%281729%29/Escondida%20-%20Ross%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <link href="../../Ross%20Armstrong/Escondida%20%281729%29/Escondida%20-%20Ross%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="543 KB" />
     <author>
       <name>Ross Armstrong</name>
       <uri>../authors_1/authors_1238_Page_1.xml</uri>
@@ -277,7 +294,7 @@
     <id>calibre:book:67</id>
     <updated>2023-01-17T11:46:10Z</updated>
     <link href="../../Paula%20Hawkins/Escrito%20en%20el%20agua%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paula%20Hawkins/Escrito%20en%20el%20agua%20%2867%29/Escrito%20en%20el%20agua%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="604 KB" />
+    <link href="../../Paula%20Hawkins/Escrito%20en%20el%20agua%20%2867%29/Escrito%20en%20el%20agua%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="604 KB" />
     <author>
       <name>Paula Hawkins</name>
       <uri>../authors_0/authors_43_Page_1.xml</uri>
@@ -294,7 +311,7 @@
     <id>calibre:book:341</id>
     <updated>2023-02-21T01:18:08Z</updated>
     <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/Escrito%20en%20la%20piel%20del%20jaguar%20-%20Sara%20Jaramillo%20Klinkert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/Escrito%20en%20la%20piel%20del%20jaguar%20-%20Sara%20Jaramillo%20Klinkert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Sara Jaramillo Klinkert</name>
       <uri>../authors_0/authors_238_Page_1.xml</uri>
@@ -311,7 +328,7 @@
     <id>calibre:book:764</id>
     <updated>2023-05-25T00:54:18Z</updated>
     <link href="../../Mercedes%20Abad/Escuela%20de%20escritura%20%28764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mercedes%20Abad/Escuela%20de%20escritura%20%28764%29/Escuela%20de%20escritura%20-%20Mercedes%20Abad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <link href="../../Mercedes%20Abad/Escuela%20de%20escritura%20%28764%29/Escuela%20de%20escritura%20-%20Mercedes%20Abad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
     <author>
       <name>Mercedes Abad</name>
       <uri>../authors_0/authors_570_Page_1.xml</uri>
@@ -328,7 +345,7 @@
     <id>calibre:book:1288</id>
     <updated>2024-03-15T08:54:02Z</updated>
     <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/Ese%20lugar%20al%20que%20llamamos%20casa%20-%20Marta%20Orriols.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/Ese%20lugar%20al%20que%20llamamos%20casa%20-%20Marta%20Orriols.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="563 KB" />
     <author>
       <name>Marta Orriols</name>
       <uri>../authors_0/authors_936_Page_1.xml</uri>
@@ -345,7 +362,7 @@
     <id>calibre:book:1687</id>
     <updated>2024-07-29T11:15:45Z</updated>
     <link href="../../Tobie%20Nathan/Ese%20pais%20al%20que%20te%20pareces%20%281687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tobie%20Nathan/Ese%20pais%20al%20que%20te%20pareces%20%281687%29/Ese%20pais%20al%20que%20te%20pareces%20-%20Tobie%20Nathan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <link href="../../Tobie%20Nathan/Ese%20pais%20al%20que%20te%20pareces%20%281687%29/Ese%20pais%20al%20que%20te%20pareces%20-%20Tobie%20Nathan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="580 KB" />
     <author>
       <name>Tobie Nathan</name>
       <uri>../authors_1/authors_1208_Page_1.xml</uri>
@@ -364,7 +381,7 @@
     <id>calibre:book:1110</id>
     <updated>2024-01-08T09:16:13Z</updated>
     <link href="../../Greg%20McKeown/Esencialismo%20%281110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Greg%20McKeown/Esencialismo%20%281110%29/Esencialismo%20-%20Greg%20McKeown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Greg%20McKeown/Esencialismo%20%281110%29/Esencialismo%20-%20Greg%20McKeown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Greg McKeown</name>
       <uri>../authors_0/authors_814_Page_1.xml</uri>
@@ -381,7 +398,7 @@
     <id>calibre:book:763</id>
     <updated>2023-05-25T00:54:16Z</updated>
     <link href="../../Nieves%20Herrero/Esos%20dias%20azules%20%28763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nieves%20Herrero/Esos%20dias%20azules%20%28763%29/Esos%20dias%20azules%20-%20Nieves%20Herrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Nieves%20Herrero/Esos%20dias%20azules%20%28763%29/Esos%20dias%20azules%20-%20Nieves%20Herrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Nieves Herrero</name>
       <uri>../authors_0/authors_569_Page_1.xml</uri>
@@ -398,7 +415,7 @@
     <id>calibre:book:923</id>
     <updated>2023-07-04T02:12:14Z</updated>
     <link href="../../Antonio%20Perez%20Henares/La%20Espanola%20%28923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Perez%20Henares/La%20Espanola%20%28923%29/La%20Espanola%20-%20Antonio%20Perez%20Henares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+    <link href="../../Antonio%20Perez%20Henares/La%20Espanola%20%28923%29/La%20Espanola%20-%20Antonio%20Perez%20Henares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="606 KB" />
     <author>
       <name>Antonio Pérez Henares</name>
       <uri>../authors_0/authors_693_Page_1.xml</uri>
@@ -415,7 +432,7 @@
     <id>calibre:book:89</id>
     <updated>2023-01-18T00:09:26Z</updated>
     <link href="../../Dolores%20Redondo/Esperando%20al%20diluvio%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Redondo/Esperando%20al%20diluvio%20%2889%29/Esperando%20al%20diluvio%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Dolores%20Redondo/Esperando%20al%20diluvio%20%2889%29/Esperando%20al%20diluvio%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Dolores Redondo</name>
       <uri>../authors_0/authors_62_Page_1.xml</uri>
@@ -426,23 +443,6 @@
     <category term="Lang:es" />
     <summary>Entre los años 1968 y 1969, el asesino al que la prensa bautizaría como John Biblia mató a tres mujeres en Glasgow. Nunca fue identificado y el caso todavía sigue abierto hoy en día. En esta novela, a principios de los años ochenta, el investigador d...</summary>
     <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Espía accidental</title>
-    <id>calibre:book:1098</id>
-    <updated>2023-12-28T03:38:22Z</updated>
-    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/Espia%20accidental%20-%20Jorge%20Dezcallar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
-    <author>
-      <name>Jorge Dezcallar</name>
-      <uri>../authors_0/authors_800_Page_1.xml</uri>
-    </author>
-    <published>2021-09-15T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Asís está de vuelta en Damasco, la ciudad que le vio nacer, tras varios años pagando sus errores de juventud en la Legión Extranjera. Un agente del CNI le ha hecho una tentadora propuesta para trabajar con los servicios de inteligencia españoles, y e...</summary>
-    <link href="../book_1/book_1098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 8)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

@@ -6,13 +6,13 @@
   <link href="./book_915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Delitos de familia" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="../authors_0/authors_686_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tove Alsterdal" />
   <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/Delitos%20de%20familia%20-%20Tove%20Alsterdal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
+  <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/Delitos%20de%20familia%20-%20Tove%20Alsterdal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
   <author>
     <name>Tove Alsterdal</name>
     <uri>../authors_0/authors_686_Page_1.xml</uri>
@@ -27,18 +27,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 1 en la Costa Alta serie
+      Book 1 in the Costa Alta series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Novela, Policial, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Han pasado más de veinte años desde que Olof
     Hagström se fue de casa. Al regresar a la casa de su
@@ -56,5 +56,5 @@
     Olof fue enviado a un hogar de jóvenes y exiliado de su
     familia. Nunca había vuelto al pueblo. Hasta ahora.</p>
   </content>
-  <link href="../authors_0/authors_686_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Tove Alsterdal" />
+  <link href="../authors_0/authors_686_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Tove Alsterdal" />
 </entry>

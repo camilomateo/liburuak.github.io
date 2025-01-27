@@ -6,11 +6,11 @@
   <link href="./book_220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Razones para seguir viviendo" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/Razones%20para%20seguir%20viviendo%20-%20Matt%20Haig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+  <link href="../../Matt%20Haig/Razones%20para%20seguir%20viviendo%20%28220%29/Razones%20para%20seguir%20viviendo%20-%20Matt%20Haig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
   <author>
     <name>Matt Haig</name>
     <uri>../authors_0/authors_147_Page_1.xml</uri>
@@ -23,14 +23,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Autoayuda, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">
       <strong>¿Qué significa sentirse realmente
@@ -81,5 +81,5 @@
     </p>
     <p xmlns=""> </p>
   </content>
-  <link href="../authors_0/authors_147_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Matt Haig" />
+  <link href="../authors_0/authors_147_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Matt Haig" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 14)" />
   <entry>
     <title>EL CASERO</title>
     <id>calibre:book:1538</id>
     <updated>2024-06-02T10:59:41Z</updated>
     <link href="../../Ariel%20Zorion/EL%20CASERO%20%281538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Zorion/EL%20CASERO%20%281538%29/EL%20CASERO%20-%20Ariel%20Zorion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ariel%20Zorion/EL%20CASERO%20%281538%29/EL%20CASERO%20-%20Ariel%20Zorion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ariel Zorion</name>
       <uri>../authors_1/authors_1119_Page_1.xml</uri>
@@ -34,7 +34,7 @@
     <id>calibre:book:1028</id>
     <updated>2023-10-20T10:25:39Z</updated>
     <link href="../../Andreu%20Martin/Cabaret%20Pompeya%20%281028%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andreu%20Martin/Cabaret%20Pompeya%20%281028%29/Cabaret%20Pompeya%20-%20Andreu%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="660 KB" />
+    <link href="../../Andreu%20Martin/Cabaret%20Pompeya%20%281028%29/Cabaret%20Pompeya%20-%20Andreu%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
     <author>
       <name>Andreu Martín</name>
       <uri>../authors_0/authors_307_Page_1.xml</uri>
@@ -51,7 +51,7 @@
     <id>calibre:book:2801</id>
     <updated>2025-01-16T08:08:28Z</updated>
     <link href="../../Christiana%20Moreau/Cachemir%20rojo%20%282801%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christiana%20Moreau/Cachemir%20rojo%20%282801%29/Cachemir%20rojo%20-%20Christiana%20Moreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <link href="../../Christiana%20Moreau/Cachemir%20rojo%20%282801%29/Cachemir%20rojo%20-%20Christiana%20Moreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
     <author>
       <name>Christiana Moreau</name>
       <uri>../authors_1/authors_1832_Page_1.xml</uri>
@@ -68,7 +68,7 @@
     <id>calibre:book:357</id>
     <updated>2023-02-24T09:48:12Z</updated>
     <link href="../../Andrea%20Longarela/Cada%20amanecer%20%28357%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Longarela/Cada%20amanecer%20%28357%29/Cada%20amanecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="942 KB" />
+    <link href="../../Andrea%20Longarela/Cada%20amanecer%20%28357%29/Cada%20amanecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="942 KB" />
     <author>
       <name>Andrea Longarela</name>
       <uri>../authors_0/authors_252_Page_1.xml</uri>
@@ -86,7 +86,7 @@
     <id>calibre:book:383</id>
     <updated>2023-03-04T02:11:48Z</updated>
     <link href="../../Andrea%20Longarela/Cada%20atardecer%20%28383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Longarela/Cada%20atardecer%20%28383%29/Cada%20atardecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="978 KB" />
+    <link href="../../Andrea%20Longarela/Cada%20atardecer%20%28383%29/Cada%20atardecer%20-%20Andrea%20Longarela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="978 KB" />
     <author>
       <name>Andrea Longarela</name>
       <uri>../authors_0/authors_252_Page_1.xml</uri>
@@ -100,11 +100,28 @@
     <link href="../book_0/book_383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Café con aroma a calabaza</title>
+    <id>calibre:book:2847</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../Laurie%20Gilmore/Cafe%20con%20aroma%20a%20calabaza%20%282847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laurie%20Gilmore/Cafe%20con%20aroma%20a%20calabaza%20%282847%29/Cafe%20con%20aroma%20a%20calabaza%20-%20Laurie%20Gilmore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
+    <author>
+      <name>Laurie Gilmore</name>
+      <uri>../authors_1/authors_1863_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T08:19:44Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando Jeanie recibe el encargo de su querida tía Dot de llevar el Pumpkin Spice Café en el pequeño pueblo de Dream Harbor, decide aprovechar la oportunidad para empezar una nueva vida lejos de su estresante trabajo de oficina.Todos en el pueblo pare...</summary>
+    <link href="../book_2/book_2847.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Café hasta la muerte</title>
     <id>calibre:book:2751</id>
     <updated>2024-12-18T05:52:22Z</updated>
     <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Cleo Coyle</name>
       <uri>../authors_1/authors_1800_Page_1.xml</uri>
@@ -123,7 +140,7 @@
     <id>calibre:book:2092</id>
     <updated>2024-09-06T02:09:11Z</updated>
     <link href="../../Jack%20London/The%20Call%20of%20the%20Wild%20%282092%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jack%20London/The%20Call%20of%20the%20Wild%20%282092%29/The%20Call%20of%20the%20Wild%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="143 KB" />
+    <link href="../../Jack%20London/The%20Call%20of%20the%20Wild%20%282092%29/The%20Call%20of%20the%20Wild%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="143 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_1/authors_1470_Page_1.xml</uri>
@@ -141,7 +158,7 @@
     <id>calibre:book:1348</id>
     <updated>2024-03-21T01:00:34Z</updated>
     <link href="../../Dra.%20Faith%20G.%20Harper/Calma%20tu%20puta%20cabeza%20%281348%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dra.%20Faith%20G.%20Harper/Calma%20tu%20puta%20cabeza%20%281348%29/Calma%20tu%20puta%20cabeza%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="324 KB" />
+    <link href="../../Dra.%20Faith%20G.%20Harper/Calma%20tu%20puta%20cabeza%20%281348%29/Calma%20tu%20puta%20cabeza%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="324 KB" />
     <author>
       <name>Dra. Faith G. Harper</name>
       <uri>../authors_0/authors_987_Page_1.xml</uri>
@@ -158,7 +175,7 @@
     <id>calibre:book:2632</id>
     <updated>2024-10-21T04:01:14Z</updated>
     <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="192 KB" />
     <author>
       <name>Leticia Bianca</name>
       <uri>../authors_1/authors_1728_Page_1.xml</uri>
@@ -175,7 +192,7 @@
     <id>calibre:book:532</id>
     <updated>2023-04-05T00:40:14Z</updated>
     <link href="../../Almudena%20Cid/Caminar%20sin%20punteras%20%28532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Cid/Caminar%20sin%20punteras%20%28532%29/Caminar%20sin%20punteras%20-%20Almudena%20Cid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Almudena%20Cid/Caminar%20sin%20punteras%20%28532%29/Caminar%20sin%20punteras%20-%20Almudena%20Cid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Almudena Cid</name>
       <uri>../authors_0/authors_394_Page_1.xml</uri>
@@ -193,7 +210,7 @@
     <id>calibre:book:1944</id>
     <updated>2024-09-05T06:03:58Z</updated>
     <link href="../../Santa%20Teresa%20de%20Jesus/Camino%20de%20perfeccion%20%281944%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santa%20Teresa%20de%20Jesus/Camino%20de%20perfeccion%20%281944%29/Camino%20de%20perfeccion%20-%20Santa%20Teresa%20de%20Jesus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="187 KB" />
+    <link href="../../Santa%20Teresa%20de%20Jesus/Camino%20de%20perfeccion%20%281944%29/Camino%20de%20perfeccion%20-%20Santa%20Teresa%20de%20Jesus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="187 KB" />
     <author>
       <name>Santa Teresa de Jesus</name>
       <uri>../authors_1/authors_1389_Page_1.xml</uri>
@@ -211,7 +228,7 @@
     <id>calibre:book:2112</id>
     <updated>2024-09-06T02:21:17Z</updated>
     <link href="../../Pio%20Baroja/Los%20Caminos%20del%20Mundo%20%282112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pio%20Baroja/Los%20Caminos%20del%20Mundo%20%282112%29/Los%20Caminos%20del%20Mundo%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
+    <link href="../../Pio%20Baroja/Los%20Caminos%20del%20Mundo%20%282112%29/Los%20Caminos%20del%20Mundo%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="218 KB" />
     <author>
       <name>Pío Baroja</name>
       <uri>../authors_1/authors_1396_Page_1.xml</uri>
@@ -235,7 +252,7 @@
     <id>calibre:book:1607</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Percival%20Everett/Cancelado%20%281607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Percival%20Everett/Cancelado%20%281607%29/Cancelado%20-%20Percival%20Everett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="451 KB" />
+    <link href="../../Percival%20Everett/Cancelado%20%281607%29/Cancelado%20-%20Percival%20Everett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
     <author>
       <name>Percival Everett</name>
       <uri>../authors_1/authors_1167_Page_1.xml</uri>
@@ -252,7 +269,7 @@
     <id>calibre:book:2461</id>
     <updated>2024-09-09T10:34:36Z</updated>
     <link href="../../Voltaire/Candide%20%282461%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Candide%20%282461%29/Candide%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <link href="../../Voltaire/Candide%20%282461%29/Candide%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="156 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -270,7 +287,7 @@
     <id>calibre:book:2206</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Anonimo/Cantar%20de%20Mio%20Cid%20%282206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anonimo/Cantar%20de%20Mio%20Cid%20%282206%29/Cantar%20de%20Mio%20Cid%20-%20Anonimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="152 KB" />
+    <link href="../../Anonimo/Cantar%20de%20Mio%20Cid%20%282206%29/Cantar%20de%20Mio%20Cid%20-%20Anonimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="152 KB" />
     <author>
       <name>Anónimo</name>
       <uri>../authors_1/authors_1433_Page_1.xml</uri>
@@ -288,7 +305,7 @@
     <id>calibre:book:2457</id>
     <updated>2024-09-09T10:34:35Z</updated>
     <link href="../../Oscar%20Wilde/The%20Canterville%20Ghost%20%282457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/The%20Canterville%20Ghost%20%282457%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Oscar%20Wilde/The%20Canterville%20Ghost%20%282457%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>
@@ -306,7 +323,7 @@
     <id>calibre:book:2648</id>
     <updated>2024-10-22T07:50:35Z</updated>
     <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
     <author>
       <name>Gabriel Celaya</name>
       <uri>../authors_1/authors_1742_Page_1.xml</uri>
@@ -324,7 +341,7 @@
     <id>calibre:book:170</id>
     <updated>2023-01-23T07:50:16Z</updated>
     <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/Caperucita%20Roja%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="278 KB" />
+    <link href="../../Charles%20Perrault/Caperucita%20Roja%20%28170%29/Caperucita%20Roja%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="278 KB" />
     <author>
       <name>Charles Perrault</name>
       <uri>../authors_0/authors_105_Page_1.xml</uri>
@@ -341,7 +358,7 @@
     <id>calibre:book:1699</id>
     <updated>2024-07-29T11:15:47Z</updated>
     <link href="../../Javier%20Milei/Capitalismo%2C%20socialismo%20y%20la%20trampa%20%281699%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Milei/Capitalismo%2C%20socialismo%20y%20la%20trampa%20%281699%29/Capitalismo%2C%20socialismo%20y%20la%20tr%20-%20Javier%20Milei.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Javier%20Milei/Capitalismo%2C%20socialismo%20y%20la%20trampa%20%281699%29/Capitalismo%2C%20socialismo%20y%20la%20tr%20-%20Javier%20Milei.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Javier Milei</name>
       <uri>../authors_1/authors_1025_Page_1.xml</uri>
@@ -358,7 +375,7 @@
     <id>calibre:book:2324</id>
     <updated>2024-09-09T10:34:08Z</updated>
     <link href="../../Rudyard%20Kipling/Capitanes%20intrepidos%20%282324%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rudyard%20Kipling/Capitanes%20intrepidos%20%282324%29/Capitanes%20intrepidos%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="204 KB" />
+    <link href="../../Rudyard%20Kipling/Capitanes%20intrepidos%20%282324%29/Capitanes%20intrepidos%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="204 KB" />
     <author>
       <name>Rudyard Kipling</name>
       <uri>../authors_0/authors_112_Page_1.xml</uri>
@@ -377,7 +394,7 @@
     <id>calibre:book:2129</id>
     <updated>2024-09-06T02:21:20Z</updated>
     <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Capitan%20Veneno%20%282129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Capitan%20Veneno%20%282129%29/El%20Capitan%20Veneno%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="497 KB" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Capitan%20Veneno%20%282129%29/El%20Capitan%20Veneno%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="497 KB" />
     <author>
       <name>Pedro Antonio de Alarcón</name>
       <uri>../authors_1/authors_1509_Page_1.xml</uri>
@@ -394,7 +411,7 @@
     <id>calibre:book:874</id>
     <updated>2023-06-19T05:31:28Z</updated>
     <link href="../../Laura%20Santolaya/Cara%20de%20susto%20%28874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Santolaya/Cara%20de%20susto%20%28874%29/Cara%20de%20susto%20-%20Laura%20Santolaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="581 KB" />
+    <link href="../../Laura%20Santolaya/Cara%20de%20susto%20%28874%29/Cara%20de%20susto%20-%20Laura%20Santolaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="581 KB" />
     <author>
       <name>Laura Santolaya</name>
       <uri>../authors_0/authors_656_Page_1.xml</uri>
@@ -411,7 +428,7 @@
     <id>calibre:book:2027</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Jose%20Antonio%20de%20Alzate/Caracteres%20del%20indio%20de%20la%20Nueva%20Es%20%282027%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Antonio%20de%20Alzate/Caracteres%20del%20indio%20de%20la%20Nueva%20Es%20%282027%29/Caracteres%20del%20indio%20de%20la%20Nuev%20-%20Jose%20Antonio%20de%20Alzate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="142 KB" />
+    <link href="../../Jose%20Antonio%20de%20Alzate/Caracteres%20del%20indio%20de%20la%20Nueva%20Es%20%282027%29/Caracteres%20del%20indio%20de%20la%20Nuev%20-%20Jose%20Antonio%20de%20Alzate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="142 KB" />
     <author>
       <name>José Antonio de Alzate</name>
       <uri>../authors_1/authors_1457_Page_1.xml</uri>
@@ -429,7 +446,7 @@
     <id>calibre:book:2181</id>
     <updated>2024-09-06T02:21:29Z</updated>
     <link href="../../Pedro%20Castera/Carmen_%20Memorias%20de%20un%20corazon%20%282181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Castera/Carmen_%20Memorias%20de%20un%20corazon%20%282181%29/Carmen_%20Memorias%20de%20un%20corazon%20-%20Pedro%20Castera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="224 KB" />
+    <link href="../../Pedro%20Castera/Carmen_%20Memorias%20de%20un%20corazon%20%282181%29/Carmen_%20Memorias%20de%20un%20corazon%20-%20Pedro%20Castera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="224 KB" />
     <author>
       <name>Pedro Castera</name>
       <uri>../authors_1/authors_1545_Page_1.xml</uri>
@@ -442,22 +459,5 @@
     <summary>Biblioteca PruébaT [77]:</summary>
     <link href="../book_2/book_2181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Carne Gobernada</title>
-    <id>calibre:book:1249</id>
-    <updated>2024-02-23T09:41:59Z</updated>
-    <link href="../../Fernando%20Savater/Carne%20Gobernada%20%281249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Savater/Carne%20Gobernada%20%281249%29/Carne%20Gobernada%20-%20Fernando%20Savater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="474 KB" />
-    <author>
-      <name>Fernando Savater</name>
-      <uri>../authors_0/authors_911_Page_1.xml</uri>
-    </author>
-    <published>2023-12-19T03:17:52Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Ariel</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un Fernando Savater más libre e iconoclasta que nunca. Carne gobernada es posiblemente su obra más personal donde a través de un viaje por sus vivencias, reflexiona sobre la política actual, el deseo y la sensualidad en la madurez. Además de explicar...</summary>
-    <link href="../book_1/book_1249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por Z</title>
+  <title>Books starting with Z</title>
   <id>Calibre2opds:allbooks:Z</id>
   <author>
     <name>David Pierron</name>
@@ -8,16 +8,16 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por Z" />
+  <link href="./allbooks_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Z" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
     <title>El Zarco</title>
     <id>calibre:book:1997</id>
     <updated>2024-09-06T01:57:42Z</updated>
     <link href="../../Ignacio%20Manuel%20Altamirano/El%20Zarco%20%281997%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Manuel%20Altamirano/El%20Zarco%20%281997%29/El%20Zarco%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="199 KB" />
+    <link href="../../Ignacio%20Manuel%20Altamirano/El%20Zarco%20%281997%29/El%20Zarco%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="199 KB" />
     <author>
       <name>Ignacio Manuel Altamirano</name>
       <uri>../authors_1/authors_1429_Page_1.xml</uri>
@@ -33,7 +33,7 @@
     <id>calibre:book:700</id>
     <updated>2023-05-17T01:10:12Z</updated>
     <link href="../../Franz%20Cumont/Zodiaco%20%28700%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Franz%20Cumont/Zodiaco%20%28700%29/Zodiaco%20-%20Franz%20Cumont.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Franz%20Cumont/Zodiaco%20%28700%29/Zodiaco%20-%20Franz%20Cumont.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Franz Cumont</name>
       <uri>../authors_0/authors_522_Page_1.xml</uri>
@@ -50,7 +50,7 @@
     <id>calibre:book:606</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../M.%20W.%20Craven/Zona%20muerta%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../M.%20W.%20Craven/Zona%20muerta%20%28606%29/Zona%20muerta%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <link href="../../M.%20W.%20Craven/Zona%20muerta%20%28606%29/Zona%20muerta%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
     <author>
       <name>M. W. Craven</name>
       <uri>../authors_0/authors_449_Page_1.xml</uri>
@@ -68,7 +68,7 @@
     <id>calibre:book:1280</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Noemi%20Casquet/Zorras%20%281280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noemi%20Casquet/Zorras%20%281280%29/Zorras%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="745 KB" />
+    <link href="../../Noemi%20Casquet/Zorras%20%281280%29/Zorras%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="745 KB" />
     <author>
       <name>Noemí Casquet</name>
       <uri>../authors_0/authors_931_Page_1.xml</uri>
@@ -85,7 +85,7 @@
     <id>calibre:book:2166</id>
     <updated>2024-09-06T02:21:27Z</updated>
     <link href="../../Ramon%20Lopez%20Velarde/Zozobra%20%282166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ramon%20Lopez%20Velarde/Zozobra%20%282166%29/Zozobra%20-%20Ramon%20Lopez%20Velarde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="136 KB" />
+    <link href="../../Ramon%20Lopez%20Velarde/Zozobra%20%282166%29/Zozobra%20-%20Ramon%20Lopez%20Velarde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="136 KB" />
     <author>
       <name>Ramón López Velarde</name>
       <uri>../authors_1/authors_1533_Page_1.xml</uri>
@@ -103,7 +103,7 @@
     <id>calibre:book:2162</id>
     <updated>2024-09-06T02:21:26Z</updated>
     <link href="../../Federico%20Garcia%20Lorca/La%20zapatera%20prodigiosa%20%282162%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/La%20zapatera%20prodigiosa%20%282162%29/La%20zapatera%20prodigiosa%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="79 KB" />
+    <link href="../../Federico%20Garcia%20Lorca/La%20zapatera%20prodigiosa%20%282162%29/La%20zapatera%20prodigiosa%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="79 KB" />
     <author>
       <name>Federico García Lorca</name>
       <uri>../authors_0/authors_85_Page_1.xml</uri>
@@ -122,7 +122,7 @@
     <id>calibre:book:1888</id>
     <updated>2024-09-03T09:33:52Z</updated>
     <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/La%20zarina%20-%20Ellen%20Alpsten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ellen%20Alpsten/La%20zarina%20%281888%29/La%20zarina%20-%20Ellen%20Alpsten.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ellen Alpsten</name>
       <uri>../authors_1/authors_1344_Page_1.xml</uri>
@@ -139,7 +139,7 @@
     <id>calibre:book:1072</id>
     <updated>2023-11-20T08:26:22Z</updated>
     <link href="../../Stephen%20King/La%20zona%20muerta%20%281072%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/La%20zona%20muerta%20%281072%29/La%20zona%20muerta%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Stephen%20King/La%20zona%20muerta%20%281072%29/La%20zona%20muerta%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -158,7 +158,7 @@
     <id>calibre:book:2488</id>
     <updated>2024-09-09T10:34:41Z</updated>
     <link href="../../D.%20H.%20Lawrence/El%20zorro%20%282488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../D.%20H.%20Lawrence/El%20zorro%20%282488%29/El%20zorro%20-%20D.%20H.%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="131 KB" />
+    <link href="../../D.%20H.%20Lawrence/El%20zorro%20%282488%29/El%20zorro%20-%20D.%20H.%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="131 KB" />
     <author>
       <name>D. H. Lawrence</name>
       <uri>../authors_1/authors_1612_Page_1.xml</uri>

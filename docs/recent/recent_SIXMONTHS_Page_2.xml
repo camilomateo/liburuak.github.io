@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,80 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 15)" />
   <entry>
-    <title>Romper el círculo [22 de octubre de 2024]</title>
+    <title>La vegetariana [October 22, 2024]</title>
+    <id>calibre:book:2664</id>
+    <updated>2024-10-22T07:58:42Z</updated>
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/La%20vegetariana%20-%20Kang%20Han.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="670 KB" />
+    <author>
+      <name>Kang Han</name>
+      <uri>../authors_1/authors_1753_Page_1.xml</uri>
+    </author>
+    <published>2007-10-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Hacer preguntas, eso es para mí escribir. No escribo respuestas, simplemente me afano por redondear las preguntas, trato de permanecer mucho tiempo dentro de ellas. De rodillas, arrastrándome otras veces, espero llegar hasta el final, hasta el centro...</summary>
+    <link href="../book_2/book_2664.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nada de esto es verdad [October 22, 2024]</title>
+    <id>calibre:book:2663</id>
+    <updated>2024-10-22T07:58:42Z</updated>
+    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/Nada%20de%20esto%20es%20verdad%20-%20Lisa%20Jewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="383 KB" />
+    <author>
+      <name>Lisa Jewell</name>
+      <uri>../authors_0/authors_329_Page_1.xml</uri>
+    </author>
+    <published>2023-07-20T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Alix Summer, presentadora de un popular pódcast de true crime, celebra su cuadragésimo quinto cumpleaños en un pub. Allí conoce a Josie Fair, quien también está celebrando su cumpleaños, y descubren que nacieron el mismo día en el mismo hospital. Uno...</summary>
+    <link href="../book_2/book_2663.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Por qué fracasan los países [October 22, 2024]</title>
+    <id>calibre:book:2662</id>
+    <updated>2024-10-22T07:58:41Z</updated>
+    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/Por%20que%20fracasan%20los%20paises%20-%20Daron%20Acemoglu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Daron Acemoglu</name>
+      <uri>../authors_1/authors_1751_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>James A. Robinson</name>
+      <uri>../authors_1/authors_1752_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Ensayo" />
+    <category term="Lang:es" />
+    <summary>¿Qué determina que un país sea rico o pobre? ¿Cómo se explica que, en condiciones similares, en algunos países haya hambrunas y en otros no? ¿Qué papel juega la política en estas cuestiones?Nogales (Arizona) y Nogales (Sonora) tienen la misma poblaci...</summary>
+    <link href="../book_2/book_2662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Romper el círculo [October 22, 2024]</title>
     <id>calibre:book:2661</id>
     <updated>2024-10-22T07:58:41Z</updated>
     <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/Romper%20el%20circulo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/Romper%20el%20circulo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
       <name>Colleen Hoover</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -36,11 +98,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2661.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Stephen King [22 de octubre de 2024]</title>
+    <title>Stephen King [October 22, 2024]</title>
     <id>calibre:book:2651</id>
     <updated>2024-10-22T07:50:36Z</updated>
     <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Adolfo Pérez Agustí</name>
       <uri>../authors_1/authors_1744_Page_1.xml</uri>
@@ -57,11 +119,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Todo sobre Stephen King [22 de octubre de 2024]</title>
+    <title>Todo sobre Stephen King [October 22, 2024]</title>
     <id>calibre:book:2650</id>
     <updated>2024-10-22T07:50:36Z</updated>
     <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/Todo%20sobre%20Stephen%20King%20-%20Ariel%20Bosi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/Todo%20sobre%20Stephen%20King%20-%20Ariel%20Bosi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Ariel Bosi</name>
       <uri>../authors_1/authors_1743_Page_1.xml</uri>
@@ -77,11 +139,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2650.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La caja de los relatos de Stephen King [22 de octubre de 2024]</title>
+    <title>La caja de los relatos de Stephen King [October 22, 2024]</title>
     <id>calibre:book:2647</id>
     <updated>2024-10-22T07:50:35Z</updated>
     <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/La%20caja%20de%20los%20relatos%20de%20Steph%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/La%20caja%20de%20los%20relatos%20de%20Steph%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
     <author>
       <name>Claudio Hernández</name>
       <uri>../authors_1/authors_1741_Page_1.xml</uri>
@@ -96,11 +158,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Cantos iberos [22 de octubre de 2024]</title>
+    <title>Cantos iberos [October 22, 2024]</title>
     <id>calibre:book:2648</id>
     <updated>2024-10-22T07:50:35Z</updated>
     <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
     <author>
       <name>Gabriel Celaya</name>
       <uri>../authors_1/authors_1742_Page_1.xml</uri>
@@ -114,11 +176,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los inicios de Stephen King [22 de octubre de 2024]</title>
+    <title>Los inicios de Stephen King [October 22, 2024]</title>
     <id>calibre:book:2649</id>
     <updated>2024-10-22T07:50:36Z</updated>
     <link href="../../Claudio%20Hernandez/Los%20inicios%20de%20Stephen%20King%20%282649%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claudio%20Hernandez/Los%20inicios%20de%20Stephen%20King%20%282649%29/Los%20inicios%20de%20Stephen%20King%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="451 KB" />
+    <link href="../../Claudio%20Hernandez/Los%20inicios%20de%20Stephen%20King%20%282649%29/Los%20inicios%20de%20Stephen%20King%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
     <author>
       <name>Claudio Hernández</name>
       <uri>../authors_1/authors_1741_Page_1.xml</uri>
@@ -133,11 +195,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2649.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Steve Jobs &amp; Apple [21 de octubre de 2024]</title>
+    <title>Steve Jobs &amp; Apple [October 21, 2024]</title>
     <id>calibre:book:2646</id>
     <updated>2024-10-21T04:27:28Z</updated>
     <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="789 KB" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="789 KB" />
     <author>
       <name>Michael Moritz</name>
       <uri>../authors_1/authors_1740_Page_1.xml</uri>
@@ -153,11 +215,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Steve Jobs: Lecciones de liderazgo [21 de octubre de 2024]</title>
+    <title>Steve Jobs: Lecciones de liderazgo [October 21, 2024]</title>
     <id>calibre:book:2645</id>
     <updated>2024-10-26T00:32:32Z</updated>
     <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="252 KB" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="252 KB" />
     <author>
       <name>Walter Isaacson</name>
       <uri>../authors_0/authors_779_Page_1.xml</uri>
@@ -173,11 +235,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El joven Steve Jobs [21 de octubre de 2024]</title>
+    <title>El joven Steve Jobs [October 21, 2024]</title>
     <id>calibre:book:2643</id>
     <updated>2024-10-21T04:27:27Z</updated>
     <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/El%20joven%20Steve%20Jobs%20-%20Juan%20Brines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="354 KB" />
+    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/El%20joven%20Steve%20Jobs%20-%20Juan%20Brines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="354 KB" />
     <author>
       <name>Juan Brines</name>
       <uri>../authors_1/authors_1738_Page_1.xml</uri>
@@ -193,11 +255,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La sabiduría empresarial de Steve Jobs [21 de octubre de 2024]</title>
+    <title>La sabiduría empresarial de Steve Jobs [October 21, 2024]</title>
     <id>calibre:book:2644</id>
     <updated>2024-10-21T04:27:28Z</updated>
     <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/La%20sabiduria%20empresarial%20de%20Ste%20-%20Steve%20Jobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/La%20sabiduria%20empresarial%20de%20Ste%20-%20Steve%20Jobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="373 KB" />
     <author>
       <name>Steve Jobs</name>
       <uri>../authors_1/authors_1739_Page_1.xml</uri>
@@ -214,11 +276,11 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <link href="../book_2/book_2644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Diario de una madre que perdió su nombre [21 de octubre de 2024]</title>
+    <title>Diario de una madre que perdió su nombre [October 21, 2024]</title>
     <id>calibre:book:2641</id>
     <updated>2024-10-21T04:01:16Z</updated>
     <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Laura Demaría</name>
       <uri>../authors_1/authors_1736_Page_1.xml</uri>
@@ -233,11 +295,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El gato que cuidaba las bibliotecas [21 de octubre de 2024]</title>
+    <title>El gato que cuidaba las bibliotecas [October 21, 2024]</title>
     <id>calibre:book:2640</id>
     <updated>2024-10-21T04:01:16Z</updated>
     <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/El%20gato%20que%20cuidaba%20las%20bibliot%20-%20Sosuke%20Natsukawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/El%20gato%20que%20cuidaba%20las%20bibliot%20-%20Sosuke%20Natsukawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Sosuke Natsukawa</name>
       <uri>../authors_1/authors_1735_Page_1.xml</uri>
@@ -250,11 +312,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2640.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El secreto del rey cuervo [21 de octubre de 2024]</title>
+    <title>El secreto del rey cuervo [October 21, 2024]</title>
     <id>calibre:book:2642</id>
     <updated>2024-10-21T04:01:17Z</updated>
     <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Elly Griffiths</name>
       <uri>../authors_1/authors_1737_Page_1.xml</uri>
@@ -267,11 +329,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2642.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>A lomos del tigre [21 de octubre de 2024]</title>
+    <title>A lomos del tigre [October 21, 2024]</title>
     <id>calibre:book:2637</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/A%20lomos%20del%20tigre%20-%20Zulfu%20Livaneli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/A%20lomos%20del%20tigre%20-%20Zulfu%20Livaneli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="658 KB" />
     <author>
       <name>Zülfü Livaneli</name>
       <uri>../authors_1/authors_1732_Page_1.xml</uri>
@@ -284,11 +346,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Guerra de infancia y de España [21 de octubre de 2024]</title>
+    <title>Guerra de infancia y de España [October 21, 2024]</title>
     <id>calibre:book:2638</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
     <author>
       <name>Fabrizia Ramondino</name>
       <uri>../authors_1/authors_1733_Page_1.xml</uri>
@@ -301,11 +363,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las horas antiguas [21 de octubre de 2024]</title>
+    <title>Las horas antiguas [October 21, 2024]</title>
     <id>calibre:book:2639</id>
     <updated>2024-10-21T04:01:16Z</updated>
     <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/Las%20horas%20antiguas%20-%20Bible%20Michael.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/Las%20horas%20antiguas%20-%20Bible%20Michael.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Bible Michael</name>
       <uri>../authors_1/authors_1734_Page_1.xml</uri>
@@ -318,11 +380,11 @@ Este es un diario sin instrucciones, una confesión a corazón abierto. El relat
     <link href="../book_2/book_2639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Aires de libertad [21 de octubre de 2024]</title>
+    <title>Aires de libertad [October 21, 2024]</title>
     <id>calibre:book:2636</id>
     <updated>2024-10-21T04:01:15Z</updated>
     <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
+    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
       <name>Anne Jacobs</name>
       <uri>../authors_0/authors_194_Page_1.xml</uri>
@@ -337,11 +399,11 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Caía una lluvia intensa [21 de octubre de 2024]</title>
+    <title>Caía una lluvia intensa [October 21, 2024]</title>
     <id>calibre:book:2634</id>
     <updated>2024-10-21T04:01:14Z</updated>
     <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/Caia%20una%20lluvia%20intensa%20-%20Don%20Carpenter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/Caia%20una%20lluvia%20intensa%20-%20Don%20Carpenter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="423 KB" />
     <author>
       <name>Don Carpenter</name>
       <uri>../authors_1/authors_1730_Page_1.xml</uri>
@@ -354,11 +416,11 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2634.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El marido perfecto [21 de octubre de 2024]</title>
+    <title>El marido perfecto [October 21, 2024]</title>
     <id>calibre:book:2635</id>
     <updated>2024-10-21T04:01:14Z</updated>
     <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/El%20marido%20perfecto%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="976 KB" />
+    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/El%20marido%20perfecto%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="976 KB" />
     <author>
       <name>Lisa Gardner</name>
       <uri>../authors_1/authors_1731_Page_1.xml</uri>
@@ -371,11 +433,11 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2635.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La novia del viento [21 de octubre de 2024]</title>
+    <title>La novia del viento [October 21, 2024]</title>
     <id>calibre:book:2633</id>
     <updated>2024-10-21T04:01:14Z</updated>
     <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/La%20novia%20del%20viento%20-%20Brenna%20Watson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/La%20novia%20del%20viento%20-%20Brenna%20Watson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="506 KB" />
     <author>
       <name>Brenna Watson</name>
       <uri>../authors_1/authors_1729_Page_1.xml</uri>
@@ -388,11 +450,11 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2633.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Cama adentro [21 de octubre de 2024]</title>
+    <title>Cama adentro [October 21, 2024]</title>
     <id>calibre:book:2632</id>
     <updated>2024-10-21T04:01:14Z</updated>
     <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="192 KB" />
     <author>
       <name>Leticia Bianca</name>
       <uri>../authors_1/authors_1728_Page_1.xml</uri>
@@ -405,11 +467,11 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Centauros del Rif [16 de octubre de 2024]</title>
+    <title>Centauros del Rif [October 16, 2024]</title>
     <id>calibre:book:2631</id>
     <updated>2024-10-16T09:57:40Z</updated>
     <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/Centauros%20del%20Rif%20-%20David%20Gomez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/Centauros%20del%20Rif%20-%20David%20Gomez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>David Gómez</name>
       <uri>../authors_1/authors_1727_Page_1.xml</uri>
@@ -419,57 +481,6 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <summary>LA ÚLTIMA CARGA DEL ALCÁNTARAToque de carga. Y el regimiento de caballería Cazadores de Alcántara nº 14 responde de inmediato a la llamada.En plena retirada de Annual, lo que queda del ejército español del general Silvestre es hostigado por la tribus...</summary>
     <link href="../book_2/book_2631.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El faro de la sirena [16 de octubre de 2024]</title>
-    <id>calibre:book:2630</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/El%20faro%20de%20la%20sirena%20-%20Lucia%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Lucía Lago</name>
-      <uri>../authors_1/authors_1726_Page_1.xml</uri>
-    </author>
-    <published>2024-08-19T04:14:32Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un faro y una misteriosa sirena.Una vieja mansión indiana construida sobre las rocas.Una familia. Un terrible secreto.1920. Mairi vive con su padre en el faro de una pequeña aldea situada en la costa atlántica. Allí disfruta de una infancia solitaria...</summary>
-    <link href="../book_2/book_2630.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre del rio [16 de octubre de 2024]</title>
-    <id>calibre:book:2628</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/El%20hombre%20del%20rio%20-%20Javier%20Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="330 KB" />
-    <author>
-      <name>Javier Reverte</name>
-      <uri>../authors_1/authors_1724_Page_1.xml</uri>
-    </author>
-    <published>2024-09-05T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Quién fue Francisco de Orellana?Un relato al más puro estilo Reverte, en el que historia, viaje y memoria se dan la mano para hilvanar un libro especial con el imponente río Amazonas como escenario.El hombre del río es la historia de un joven que pa...</summary>
-    <link href="../book_2/book_2628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Todas las ventanas [16 de octubre de 2024]</title>
-    <id>calibre:book:2629</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/Todas%20las%20ventanas%20-%20Barbara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="392 KB" />
-    <author>
-      <name>Bárbara Sánchez</name>
-      <uri>../authors_1/authors_1725_Page_1.xml</uri>
-    </author>
-    <published>2024-07-05T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Todas las ventanas marca el prometedor debut de Bárbara Sánchez que, con una prosa exquisita cargada de ternura y emoción,cuenta la historia de un grupo de vecinas que deciden crear un pódcast en el que contar y compartir sus vidas.Seis mujeres, veci...</summary>
-    <link href="../book_2/book_2629.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

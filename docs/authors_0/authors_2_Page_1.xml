@@ -11,16 +11,16 @@
   <link href="./authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lorenzo Silva" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
-    <title>Todos los libros de Lorenzo Silva</title>
+    <title>All books by Lorenzo Silva</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 7 libros</content>
+    <content type="text">Alphabetical index of the 7 books</content>
     <link href="../authors_0/authors_2_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -54,7 +54,7 @@
     <id>calibre:book:780</id>
     <updated>2023-05-25T01:33:00Z</updated>
     <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -75,7 +75,7 @@
     <id>calibre:book:3</id>
     <updated>2023-01-17T09:10:34Z</updated>
     <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="609 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -92,7 +92,7 @@
     <id>calibre:book:657</id>
     <updated>2023-05-15T05:51:12Z</updated>
     <link href="../../Lorenzo%20Silva/Pua%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/Pua%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Lorenzo%20Silva/Pua%20%28657%29/Pua%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:1691</id>
     <updated>2024-07-29T11:15:46Z</updated>
     <link href="../../Lorenzo%20Silva/Recordaran%20tu%20nombre%20%281691%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/Recordaran%20tu%20nombre%20%281691%29/Recordaran%20tu%20nombre%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="886 KB" />
+    <link href="../../Lorenzo%20Silva/Recordaran%20tu%20nombre%20%281691%29/Recordaran%20tu%20nombre%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="886 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>

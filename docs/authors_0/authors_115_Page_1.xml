@@ -11,14 +11,14 @@
   <link href="./authors_115_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Noe Casado" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <entry>
-    <title>Todos los libros de Noe Casado</title>
+    <title>All books by Noe Casado</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 4 libros</content>
+    <content type="text">Alphabetical index of the 4 books</content>
     <link href="../authors_0/authors_115_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -26,7 +26,7 @@
   <entry>
     <title>Series: Ice Star</title>
     <id>Calibre2opds:authors:115series:27</id>
-    <content type="text">2 libros</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_115_series_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -36,7 +36,7 @@
     <id>calibre:book:189</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/Entre%20lineas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="906 KB" />
+    <link href="../../Noe%20Casado/Entre%20lineas%20%28189%29/Entre%20lineas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="906 KB" />
     <author>
       <name>Noe Casado</name>
       <uri>../authors_0/authors_115_Page_1.xml</uri>
@@ -54,7 +54,7 @@
     <id>calibre:book:438</id>
     <updated>2023-03-20T05:50:08Z</updated>
     <link href="../../Noe%20Casado/Ya%20no%20creo%20en%20tus%20promesas%20%28438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noe%20Casado/Ya%20no%20creo%20en%20tus%20promesas%20%28438%29/Ya%20no%20creo%20en%20tus%20promesas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <link href="../../Noe%20Casado/Ya%20no%20creo%20en%20tus%20promesas%20%28438%29/Ya%20no%20creo%20en%20tus%20promesas%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
     <author>
       <name>Noe Casado</name>
       <uri>../authors_0/authors_115_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Antoine de Saint-Exupéry</title>
+  <title>All books by Antoine de Saint-Exupéry</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_989_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Antoine de Saint-Exupéry" />
+  <link href="./authors_989_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Antoine de Saint-Exupéry" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="./authors_989_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Antoine de Saint-Exupéry" />
   <entry>
     <title>El Principito</title>
     <id>calibre:book:1350</id>
     <updated>2024-03-21T01:00:35Z</updated>
     <link href="../../Antoine%20de%20Saint-Exupery/El%20Principito%20%281350%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antoine%20de%20Saint-Exupery/El%20Principito%20%281350%29/El%20Principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <link href="../../Antoine%20de%20Saint-Exupery/El%20Principito%20%281350%29/El%20Principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="456 KB" />
     <author>
       <name>Antoine de Saint-Exupéry</name>
       <uri>../authors_0/authors_989_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:2361</id>
     <updated>2024-09-09T10:34:15Z</updated>
     <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="110 KB" />
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="110 KB" />
     <author>
       <name>Antoine de Saint-Exupéry</name>
       <uri>../authors_0/authors_989_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 14)" />
+  <entry>
+    <title>Caída libre</title>
+    <id>calibre:book:502</id>
+    <updated>2023-04-01T02:02:00Z</updated>
+    <link href="../../Nina%20Sadowsky/Caida%20libre%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nina%20Sadowsky/Caida%20libre%20%28502%29/Caida%20libre%20-%20Nina%20Sadowsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="524 KB" />
+    <author>
+      <name>Nina Sadowsky</name>
+      <uri>../authors_0/authors_371_Page_1.xml</uri>
+    </author>
+    <published>2017-01-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El thriller que estabas esperando. Una novela que atrapará a los lectores de Patricia Highsmith y Gillian Flynn.¿Qué harías si descubrieras que el amor de tu vida ha ensuciado sus manos con sangre? ¿Estarías dispuesta a matar por él? ¿Estarías dispue...</summary>
+    <link href="../book_0/book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Celos con celos se curan</title>
     <id>calibre:book:2204</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Tirso%20de%20Molina/Celos%20con%20celos%20se%20curan%20%282204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tirso%20de%20Molina/Celos%20con%20celos%20se%20curan%20%282204%29/Celos%20con%20celos%20se%20curan%20-%20Tirso%20de%20Molina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="207 KB" />
+    <link href="../../Tirso%20de%20Molina/Celos%20con%20celos%20se%20curan%20%282204%29/Celos%20con%20celos%20se%20curan%20-%20Tirso%20de%20Molina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="207 KB" />
     <author>
       <name>Tirso de Molina</name>
       <uri>../authors_1/authors_1559_Page_1.xml</uri>
@@ -37,7 +54,7 @@
     <id>calibre:book:446</id>
     <updated>2023-03-23T11:00:40Z</updated>
     <link href="../../Jose%20Antonio%20Perez%20Ledo/Cementerio%20de%20secretos%20%28446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Antonio%20Perez%20Ledo/Cementerio%20de%20secretos%20%28446%29/Cementerio%20de%20secretos%20-%20Jose%20Antonio%20Perez%20Ledo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="949 KB" />
+    <link href="../../Jose%20Antonio%20Perez%20Ledo/Cementerio%20de%20secretos%20%28446%29/Cementerio%20de%20secretos%20-%20Jose%20Antonio%20Perez%20Ledo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="949 KB" />
     <author>
       <name>José Antonio Pérez Ledo</name>
       <uri>../authors_0/authors_331_Page_1.xml</uri>
@@ -54,7 +71,7 @@
     <id>calibre:book:2631</id>
     <updated>2024-10-16T09:57:40Z</updated>
     <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/Centauros%20del%20Rif%20-%20David%20Gomez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/Centauros%20del%20Rif%20-%20David%20Gomez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>David Gómez</name>
       <uri>../authors_1/authors_1727_Page_1.xml</uri>
@@ -65,11 +82,33 @@
     <link href="../book_2/book_2631.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Cerbantes. El combate de las letras</title>
+    <id>calibre:book:2836</id>
+    <updated>2025-01-26T11:50:53Z</updated>
+    <link href="../../Alvaro%20Espina/Cerbantes.%20El%20combate%20de%20las%20letras%20%282836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Espina/Cerbantes.%20El%20combate%20de%20las%20letras%20%282836%29/Cerbantes.%20El%20combate%20de%20las%20le%20-%20Alvaro%20Espina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Álvaro Espina</name>
+      <uri>../authors_1/authors_1855_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="General" />
+    <category term="Biographical" />
+    <category term="Lang:es" />
+    <category term="Cerbantes" />
+    <summary>Cerbantes [3]: Álvaro Espina cierra con esta novela la trilogía Cerbantes. Esta obra, que cierra la trilogía Cerbantes, arranca con la vuelta de Miguel desde Lisboa a Salamanca, donde participa en la academia de la universidad salmantina. La primera ...</summary>
+    <link href="../book_2/book_2836.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Cerrado en invierno</title>
     <id>calibre:book:789</id>
     <updated>2023-05-31T01:04:20Z</updated>
     <link href="../../Jorn%20Lier%20Horst/Cerrado%20en%20invierno%20%28789%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorn%20Lier%20Horst/Cerrado%20en%20invierno%20%28789%29/Cerrado%20en%20invierno%20-%20Jorn%20Lier%20Horst.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <link href="../../Jorn%20Lier%20Horst/Cerrado%20en%20invierno%20%28789%29/Cerrado%20en%20invierno%20-%20Jorn%20Lier%20Horst.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="563 KB" />
     <author>
       <name>Jorn Lier Horst</name>
       <uri>../authors_0/authors_484_Page_1.xml</uri>
@@ -87,7 +126,7 @@
     <id>calibre:book:913</id>
     <updated>2023-07-04T02:11:56Z</updated>
     <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/Cesarea%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="913 KB" />
+    <link href="../../J.%20J.%20Benitez/Cesarea%20%28913%29/Cesarea%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="913 KB" />
     <author>
       <name>J. J. Benítez</name>
       <uri>../authors_0/authors_684_Page_1.xml</uri>
@@ -105,7 +144,7 @@
     <id>calibre:book:948</id>
     <updated>2023-07-14T09:48:42Z</updated>
     <link href="../../Patrick%20Modiano/Chevreuse%20%28948%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patrick%20Modiano/Chevreuse%20%28948%29/Chevreuse%20-%20Patrick%20Modiano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="529 KB" />
+    <link href="../../Patrick%20Modiano/Chevreuse%20%28948%29/Chevreuse%20-%20Patrick%20Modiano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="529 KB" />
     <author>
       <name>Patrick Modiano</name>
       <uri>../authors_0/authors_710_Page_1.xml</uri>
@@ -122,7 +161,7 @@
     <id>calibre:book:450</id>
     <updated>2023-03-23T11:00:42Z</updated>
     <link href="../../Linn%20Ullmann/Chica%2C%201983%20%28450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Linn%20Ullmann/Chica%2C%201983%20%28450%29/Chica%2C%201983%20-%20Linn%20Ullmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="612 KB" />
+    <link href="../../Linn%20Ullmann/Chica%2C%201983%20%28450%29/Chica%2C%201983%20-%20Linn%20Ullmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="612 KB" />
     <author>
       <name>Linn Ullmann</name>
       <uri>../authors_0/authors_335_Page_1.xml</uri>
@@ -139,7 +178,7 @@
     <id>calibre:book:2565</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/Chicas%20brillantes%20-%20Jessica%20Knoll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="954 KB" />
+    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/Chicas%20brillantes%20-%20Jessica%20Knoll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="954 KB" />
     <author>
       <name>Jessica Knoll</name>
       <uri>../authors_1/authors_1689_Page_1.xml</uri>
@@ -160,7 +199,7 @@
     <id>calibre:book:1491</id>
     <updated>2024-05-03T02:01:59Z</updated>
     <link href="../../Marcos%20Nieto%20Pallares/Choque%20de%20asesinos%20%281491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marcos%20Nieto%20Pallares/Choque%20de%20asesinos%20%281491%29/Choque%20de%20asesinos%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="417 KB" />
+    <link href="../../Marcos%20Nieto%20Pallares/Choque%20de%20asesinos%20%281491%29/Choque%20de%20asesinos%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="417 KB" />
     <author>
       <name>Marcos Nieto Pallarés</name>
       <uri>../authors_0/authors_359_Page_1.xml</uri>
@@ -177,7 +216,7 @@
     <id>calibre:book:2079</id>
     <updated>2024-09-06T02:09:09Z</updated>
     <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/A%20Christmas%20Carol%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/A%20Christmas%20Carol%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="125 KB" />
     <author>
       <name>Charles Dickens</name>
       <uri>../authors_1/authors_1370_Page_1.xml</uri>
@@ -211,7 +250,7 @@
     <id>calibre:book:816</id>
     <updated>2023-06-06T08:14:22Z</updated>
     <link href="../../David%20Sainz/Chusma%20%28816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Sainz/Chusma%20%28816%29/Chusma%20-%20David%20Sainz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../David%20Sainz/Chusma%20%28816%29/Chusma%20-%20David%20Sainz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>David Sainz</name>
       <uri>../authors_0/authors_608_Page_1.xml</uri>
@@ -228,7 +267,7 @@
     <id>calibre:book:568</id>
     <updated>2023-04-23T10:13:44Z</updated>
     <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/Cicatrices%20del%20desastre%20-%20Luis%20Bolivar%20Troya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="961 KB" />
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/Cicatrices%20del%20desastre%20-%20Luis%20Bolivar%20Troya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="961 KB" />
     <author>
       <name>Luis Bolívar Troya</name>
       <uri>../authors_0/authors_421_Page_1.xml</uri>
@@ -249,7 +288,7 @@
     <id>calibre:book:843</id>
     <updated>2023-06-27T08:29:36Z</updated>
     <link href="../../Ines%20Domenech%20del%20Rio/Cicatrices%20en%20el%20hielo%20%28843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ines%20Domenech%20del%20Rio/Cicatrices%20en%20el%20hielo%20%28843%29/Cicatrices%20en%20el%20hielo%20-%20Ines%20Domenech%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <link href="../../Ines%20Domenech%20del%20Rio/Cicatrices%20en%20el%20hielo%20%28843%29/Cicatrices%20en%20el%20hielo%20-%20Ines%20Domenech%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="574 KB" />
     <author>
       <name>Inés Doménech del Río</name>
       <uri>../authors_0/authors_633_Page_1.xml</uri>
@@ -266,7 +305,7 @@
     <id>calibre:book:396</id>
     <updated>2023-03-09T00:08:56Z</updated>
     <link href="../../Edgardo%20Cozarinsky/Cielo%20sucio%20%28396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edgardo%20Cozarinsky/Cielo%20sucio%20%28396%29/Cielo%20sucio%20-%20Edgardo%20Cozarinsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+    <link href="../../Edgardo%20Cozarinsky/Cielo%20sucio%20%28396%29/Cielo%20sucio%20-%20Edgardo%20Cozarinsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="658 KB" />
     <author>
       <name>Edgardo Cozarinsky</name>
       <uri>../authors_0/authors_288_Page_1.xml</uri>
@@ -283,7 +322,7 @@
     <id>calibre:book:1767</id>
     <updated>2024-08-26T10:56:10Z</updated>
     <link href="../../Carlos%20Bassas%20Del%20Rey/Cielos%20de%20plomo%20%281767%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Bassas%20Del%20Rey/Cielos%20de%20plomo%20%281767%29/Cielos%20de%20plomo%20-%20Carlos%20Bassas%20Del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="744 KB" />
+    <link href="../../Carlos%20Bassas%20Del%20Rey/Cielos%20de%20plomo%20%281767%29/Cielos%20de%20plomo%20-%20Carlos%20Bassas%20Del%20Rey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
     <author>
       <name>Carlos Bassas Del Rey</name>
       <uri>../authors_1/authors_1268_Page_1.xml</uri>
@@ -303,7 +342,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:711</id>
     <updated>2023-05-17T01:10:36Z</updated>
     <link href="../../Gustavo%20Rodriguez/Cien%20cuyes%20%28711%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gustavo%20Rodriguez/Cien%20cuyes%20%28711%29/Cien%20cuyes%20-%20Gustavo%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="586 KB" />
+    <link href="../../Gustavo%20Rodriguez/Cien%20cuyes%20%28711%29/Cien%20cuyes%20-%20Gustavo%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
     <author>
       <name>Gustavo Rodríguez</name>
       <uri>../authors_0/authors_530_Page_1.xml</uri>
@@ -320,7 +359,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:1097</id>
     <updated>2023-12-28T03:38:21Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/Cien%20historias%20en%20torno%20a%20The%20B%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Cien%20historias%20en%20torno%20a%20The%20Beatl%20%281097%29/Cien%20historias%20en%20torno%20a%20The%20B%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -338,7 +377,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:1175</id>
     <updated>2024-01-30T06:17:56Z</updated>
     <link href="../../Riley%20Sager/Cierra%20todas%20las%20puertas%20%281175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Riley%20Sager/Cierra%20todas%20las%20puertas%20%281175%29/Cierra%20todas%20las%20puertas%20-%20Riley%20Sager.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="826 KB" />
+    <link href="../../Riley%20Sager/Cierra%20todas%20las%20puertas%20%281175%29/Cierra%20todas%20las%20puertas%20-%20Riley%20Sager.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="826 KB" />
     <author>
       <name>Riley Sager</name>
       <uri>../authors_0/authors_856_Page_1.xml</uri>
@@ -355,7 +394,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:346</id>
     <updated>2023-02-21T01:25:02Z</updated>
     <link href="../../Silvia%20Moreno-Garcia/Ciertas%20cosas%20oscuras%20%28346%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Moreno-Garcia/Ciertas%20cosas%20oscuras%20%28346%29/Ciertas%20cosas%20oscuras%20-%20Silvia%20Moreno-Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="559 KB" />
+    <link href="../../Silvia%20Moreno-Garcia/Ciertas%20cosas%20oscuras%20%28346%29/Ciertas%20cosas%20oscuras%20-%20Silvia%20Moreno-Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
     <author>
       <name>Silvia Moreno-Garcia</name>
       <uri>../authors_0/authors_242_Page_1.xml</uri>
@@ -375,7 +414,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:289</id>
     <updated>2023-02-09T11:32:40Z</updated>
     <link href="../../Cinzia%20Giorgio/Cinco%20hermanas%20%28289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cinzia%20Giorgio/Cinco%20hermanas%20%28289%29/Cinco%20hermanas%20-%20Cinzia%20Giorgio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <link href="../../Cinzia%20Giorgio/Cinco%20hermanas%20%28289%29/Cinco%20hermanas%20-%20Cinzia%20Giorgio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
     <author>
       <name>Cinzia Giorgio</name>
       <uri>../authors_0/authors_196_Page_1.xml</uri>
@@ -392,7 +431,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:186</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/Cinco%20para%20una%20-%20Kayla%20Leiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/Cinco%20para%20una%20-%20Kayla%20Leiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="553 KB" />
     <author>
       <name>Kayla Leiz</name>
       <uri>../authors_0/authors_121_Page_1.xml</uri>
@@ -411,7 +450,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:812</id>
     <updated>2023-06-06T08:14:14Z</updated>
     <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="561 KB" />
+    <link href="../../Steve%20Cavanagh/Cincuenta%20Cincuenta%20%28812%29/Cincuenta%20Cincuenta%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="561 KB" />
     <author>
       <name>Steve Cavanagh</name>
       <uri>../authors_0/authors_604_Page_1.xml</uri>
@@ -429,7 +468,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <id>calibre:book:829</id>
     <updated>2023-06-06T10:53:52Z</updated>
     <link href="../../Keigo%20Higashino/Cisne%20y%20murcielago%20%28829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Keigo%20Higashino/Cisne%20y%20murcielago%20%28829%29/Cisne%20y%20murcielago%20-%20Keigo%20Higashino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="675 KB" />
+    <link href="../../Keigo%20Higashino/Cisne%20y%20murcielago%20%28829%29/Cisne%20y%20murcielago%20-%20Keigo%20Higashino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="675 KB" />
     <author>
       <name>Keigo Higashino</name>
       <uri>../authors_0/authors_620_Page_1.xml</uri>
@@ -441,41 +480,7 @@ Las murallas ahogan la ciudad y las chimeneas ll...</summary>
     <summary>El nuevo libro del mejor autor de novela negra en Japón.Un homenaje a Crimen y castigo en la compleja y contradictoria sociedad nipona.Tsutomu Godai, detective de la Sección de Delitos Violentos de la policía, investiga el asesinato de un abogado de ...</summary>
     <link href="../book_0/book_829.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Ciudad Victoria</title>
-    <id>calibre:book:356</id>
-    <updated>2023-02-24T09:48:12Z</updated>
-    <link href="../../Salman%20Rushdie/Ciudad%20Victoria%20%28356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Salman%20Rushdie/Ciudad%20Victoria%20%28356%29/Ciudad%20Victoria%20-%20Salman%20Rushdie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="607 KB" />
-    <author>
-      <name>Salman Rushdie</name>
-      <uri>../authors_0/authors_251_Page_1.xml</uri>
-    </author>
-    <published>2023-02-12T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Literatura Random House</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Ciudad Victoria es colosal y profunda, elevada y resplandeciente. Cada página es mágica, cada página es espléndida. Tratándose de una obra de arte significativa, no se parece a ninguna otranovela que pueda nombrar [...]. Un logro mayúsculo de uno de...</summary>
-    <link href="../book_0/book_356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La Ciudad de Vapor</title>
-    <id>calibre:book:1272</id>
-    <updated>2024-03-07T06:32:13Z</updated>
-    <link href="../../Carlos%20Ruiz%20Zafon/La%20Ciudad%20de%20Vapor%20%281272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Ruiz%20Zafon/La%20Ciudad%20de%20Vapor%20%281272%29/La%20Ciudad%20de%20Vapor%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
-    <author>
-      <name>Carlos Ruiz Zafón</name>
-      <uri>../authors_0/authors_897_Page_1.xml</uri>
-    </author>
-    <published>2020-11-16T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Carlos Ruiz Zafón concibió está obra como un reconocimiento a sus lectores, que le habían seguido a lo largo de la saga iniciada con La Sombra del Viento. «Puedo conjurar rostros de chiquillos del barrio de la Ribera con los que a veces jugaba o pele...</summary>
-    <link href="../book_1/book_1272.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

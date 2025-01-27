@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por M</title>
+  <title>Books starting with M</title>
   <id>Calibre2opds:allbooks:M</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="./allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
-  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
+  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 10)" />
   <entry>
     <title>Mucho ruido y pocas nueces</title>
     <id>calibre:book:2439</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="169 KB" />
+    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="169 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:2618</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/Muerte%20de%20una%20librera%20-%20Alice%20Slater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Alice%20Slater/Muerte%20de%20una%20librera%20%282618%29/Muerte%20de%20una%20librera%20-%20Alice%20Slater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Alice Slater</name>
       <uri>../authors_1/authors_1720_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:1612</id>
     <updated>2024-06-02T11:00:01Z</updated>
     <link href="../../Erica%20Ruth%20Neubauer/Muerte%20en%20El%20Cairo%20%281612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Erica%20Ruth%20Neubauer/Muerte%20en%20El%20Cairo%20%281612%29/Muerte%20en%20El%20Cairo%20-%20Erica%20Ruth%20Neubauer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="651 KB" />
+    <link href="../../Erica%20Ruth%20Neubauer/Muerte%20en%20El%20Cairo%20%281612%29/Muerte%20en%20El%20Cairo%20-%20Erica%20Ruth%20Neubauer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="651 KB" />
     <author>
       <name>Erica Ruth Neubauer</name>
       <uri>../authors_1/authors_1171_Page_1.xml</uri>
@@ -72,7 +72,7 @@
     <id>calibre:book:350</id>
     <updated>2023-02-22T05:53:26Z</updated>
     <link href="../../Elia%20Barcelo/Muerte%20en%20Santa%20Rita%20%28350%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elia%20Barcelo/Muerte%20en%20Santa%20Rita%20%28350%29/Muerte%20en%20Santa%20Rita%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <link href="../../Elia%20Barcelo/Muerte%20en%20Santa%20Rita%20%28350%29/Muerte%20en%20Santa%20Rita%20-%20Elia%20Barcelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
     <author>
       <name>Elia Barceló</name>
       <uri>../authors_0/authors_245_Page_1.xml</uri>
@@ -89,7 +89,7 @@
     <id>calibre:book:608</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Alan%20Parks/Muerte%20en%20abril%20%28608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alan%20Parks/Muerte%20en%20abril%20%28608%29/Muerte%20en%20abril%20-%20Alan%20Parks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="911 KB" />
+    <link href="../../Alan%20Parks/Muerte%20en%20abril%20%28608%29/Muerte%20en%20abril%20-%20Alan%20Parks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="911 KB" />
     <author>
       <name>Alan Parks</name>
       <uri>../authors_0/authors_450_Page_1.xml</uri>
@@ -106,7 +106,7 @@
     <id>calibre:book:1824</id>
     <updated>2024-08-28T00:55:05Z</updated>
     <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/Muerte%20en%20el%20Mediterraneo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="339 KB" />
+    <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/Muerte%20en%20el%20Mediterraneo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -124,7 +124,7 @@
     <id>calibre:book:543</id>
     <updated>2023-04-06T09:50:06Z</updated>
     <link href="../../Jean-Christophe%20Grange/Muerte%20en%20el%20Tercer%20Reich%20%28543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Christophe%20Grange/Muerte%20en%20el%20Tercer%20Reich%20%28543%29/Muerte%20en%20el%20Tercer%20Reich%20-%20Jean-Christophe%20Grange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Jean-Christophe%20Grange/Muerte%20en%20el%20Tercer%20Reich%20%28543%29/Muerte%20en%20el%20Tercer%20Reich%20-%20Jean-Christophe%20Grange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>Jean-Christophe Grangé</name>
       <uri>../authors_0/authors_400_Page_1.xml</uri>
@@ -141,7 +141,7 @@
     <id>calibre:book:1150</id>
     <updated>2024-01-18T03:42:43Z</updated>
     <link href="../../Carlota%20Suarez/Muerte%20en%20el%20meridiano%20%281150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlota%20Suarez/Muerte%20en%20el%20meridiano%20%281150%29/Muerte%20en%20el%20meridiano%20-%20Carlota%20Suarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="948 KB" />
+    <link href="../../Carlota%20Suarez/Muerte%20en%20el%20meridiano%20%281150%29/Muerte%20en%20el%20meridiano%20-%20Carlota%20Suarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="948 KB" />
     <author>
       <name>Carlota Suárez</name>
       <uri>../authors_0/authors_839_Page_1.xml</uri>
@@ -158,7 +158,7 @@
     <id>calibre:book:1388</id>
     <updated>2024-04-03T00:56:44Z</updated>
     <link href="../../Ricardo%20Uceda/Muerte%20en%20el%20pentagonito%20%281388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ricardo%20Uceda/Muerte%20en%20el%20pentagonito%20%281388%29/Muerte%20en%20el%20pentagonito%20-%20Ricardo%20Uceda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ricardo%20Uceda/Muerte%20en%20el%20pentagonito%20%281388%29/Muerte%20en%20el%20pentagonito%20-%20Ricardo%20Uceda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ricardo Uceda</name>
       <uri>../authors_1/authors_1021_Page_1.xml</uri>
@@ -175,7 +175,7 @@
     <id>calibre:book:1219</id>
     <updated>2024-02-20T04:09:06Z</updated>
     <link href="../../Cristian%20Schleu/Muerte%20en%20tres%20texturas%20%281219%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristian%20Schleu/Muerte%20en%20tres%20texturas%20%281219%29/Muerte%20en%20tres%20texturas%20-%20Cristian%20Schleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <link href="../../Cristian%20Schleu/Muerte%20en%20tres%20texturas%20%281219%29/Muerte%20en%20tres%20texturas%20-%20Cristian%20Schleu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="543 KB" />
     <author>
       <name>Cristian Schleu</name>
       <uri>../authors_0/authors_885_Page_1.xml</uri>
@@ -191,7 +191,7 @@
     <id>calibre:book:2571</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/Los%20Muertos%20Tambien%20Disparan%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Riccardo%20Braccaioli/Los%20Muertos%20Tambien%20Disparan%20%282571%29/Los%20Muertos%20Tambien%20Disparan%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Riccardo Braccaioli</name>
       <uri>../authors_1/authors_1084_Page_1.xml</uri>
@@ -209,7 +209,7 @@
     <id>calibre:book:1666</id>
     <updated>2024-07-07T03:32:38Z</updated>
     <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/Muertos%20prescindibles%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/Muertos%20prescindibles%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
     <author>
       <name>Michael Hjorth</name>
       <uri>../authors_0/authors_852_Page_1.xml</uri>
@@ -234,7 +234,7 @@
     <id>calibre:book:928</id>
     <updated>2023-07-04T02:12:24Z</updated>
     <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/Mujer%20equivocada%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/Mujer%20equivocada%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Mercedes Rosende</name>
       <uri>../authors_0/authors_696_Page_1.xml</uri>
@@ -252,7 +252,7 @@
     <id>calibre:book:931</id>
     <updated>2023-07-04T02:12:28Z</updated>
     <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/Mujer%20oceano%20-%20Vanesa%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="885 KB" />
+    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/Mujer%20oceano%20-%20Vanesa%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="885 KB" />
     <author>
       <name>Vanesa Martín</name>
       <uri>../authors_0/authors_699_Page_1.xml</uri>
@@ -269,7 +269,7 @@
     <id>calibre:book:2040</id>
     <updated>2024-09-06T02:09:02Z</updated>
     <link href="../../Louisa%20May%20Alcott/Mujercitas%20%282040%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Louisa%20May%20Alcott/Mujercitas%20%282040%29/Mujercitas%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <link href="../../Louisa%20May%20Alcott/Mujercitas%20%282040%29/Mujercitas%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
     <author>
       <name>Louisa May Alcott</name>
       <uri>../authors_1/authors_1467_Page_1.xml</uri>
@@ -285,7 +285,7 @@
     <id>calibre:book:671</id>
     <updated>2023-05-15T05:51:26Z</updated>
     <link href="../../Isabel%20Allende/Mujeres%20del%20alma%20mia%20%28671%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isabel%20Allende/Mujeres%20del%20alma%20mia%20%28671%29/Mujeres%20del%20alma%20mia%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <link href="../../Isabel%20Allende/Mujeres%20del%20alma%20mia%20%28671%29/Mujeres%20del%20alma%20mia%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
     <author>
       <name>Isabel Allende</name>
       <uri>../authors_0/authors_498_Page_1.xml</uri>
@@ -302,7 +302,7 @@
     <id>calibre:book:1751</id>
     <updated>2024-08-26T10:56:07Z</updated>
     <link href="../../Pilar%20Sanchez%20Vicente/Mujeres%20errantes%20%281751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pilar%20Sanchez%20Vicente/Mujeres%20errantes%20%281751%29/Mujeres%20errantes%20-%20Pilar%20Sanchez%20Vicente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="479 KB" />
+    <link href="../../Pilar%20Sanchez%20Vicente/Mujeres%20errantes%20%281751%29/Mujeres%20errantes%20-%20Pilar%20Sanchez%20Vicente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="479 KB" />
     <author>
       <name>Pilar Sánchez Vicente</name>
       <uri>../authors_0/authors_851_Page_1.xml</uri>
@@ -319,7 +319,7 @@
     <id>calibre:book:692</id>
     <updated>2023-05-16T09:12:36Z</updated>
     <link href="../../Camilla%20Lackberg/Mujeres%20que%20no%20perdonan%20%28692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/Mujeres%20que%20no%20perdonan%20%28692%29/Mujeres%20que%20no%20perdonan%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="665 KB" />
+    <link href="../../Camilla%20Lackberg/Mujeres%20que%20no%20perdonan%20%28692%29/Mujeres%20que%20no%20perdonan%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="665 KB" />
     <author>
       <name>Camilla Läckberg</name>
       <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -334,7 +334,7 @@
     <id>calibre:book:280</id>
     <updated>2023-02-03T08:39:20Z</updated>
     <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/El%20Mundo%20Amarillo%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="128 KB" />
+    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/El%20Mundo%20Amarillo%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="128 KB" />
     <author>
       <name>Albert Espinosa</name>
       <uri>../authors_0/authors_189_Page_1.xml</uri>
@@ -352,7 +352,7 @@
     <id>calibre:book:1172</id>
     <updated>2024-01-30T06:17:56Z</updated>
     <link href="../../Silvia%20Llop/Mandalo%20a%20la%20mierda%20%28mereces%20algo%20m%20%281172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Llop/Mandalo%20a%20la%20mierda%20%28mereces%20algo%20m%20%281172%29/Mandalo%20a%20la%20mierda%20%28mereces%20al%20-%20Silvia%20Llop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="339 KB" />
+    <link href="../../Silvia%20Llop/Mandalo%20a%20la%20mierda%20%28mereces%20algo%20m%20%281172%29/Mandalo%20a%20la%20mierda%20%28mereces%20al%20-%20Silvia%20Llop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
     <author>
       <name>Silvia Llop</name>
       <uri>../authors_0/authors_854_Page_1.xml</uri>
@@ -368,7 +368,7 @@
     <id>calibre:book:886</id>
     <updated>2023-06-23T01:09:38Z</updated>
     <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/Mas%20alla%20de%20los%20volcanes%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/Mas%20alla%20de%20los%20volcanes%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Yolanda Fidalgo</name>
       <uri>../authors_0/authors_537_Page_1.xml</uri>
@@ -385,7 +385,7 @@
     <id>calibre:book:998</id>
     <updated>2023-08-23T02:48:40Z</updated>
     <link href="../../Isabel%20Allende/Mas%20alla%20del%20invierno%20%28998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isabel%20Allende/Mas%20alla%20del%20invierno%20%28998%29/Mas%20alla%20del%20invierno%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Isabel%20Allende/Mas%20alla%20del%20invierno%20%28998%29/Mas%20alla%20del%20invierno%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Isabel Allende</name>
       <uri>../authors_0/authors_498_Page_1.xml</uri>
@@ -402,7 +402,7 @@
     <id>calibre:book:1934</id>
     <updated>2024-09-05T06:03:57Z</updated>
     <link href="../../Napoleon%20Bonaparte/Maximas%20y%20pensamientos%20%281934%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Napoleon%20Bonaparte/Maximas%20y%20pensamientos%20%281934%29/Maximas%20y%20pensamientos%20-%20Napoleon%20Bonaparte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <link href="../../Napoleon%20Bonaparte/Maximas%20y%20pensamientos%20%281934%29/Maximas%20y%20pensamientos%20-%20Napoleon%20Bonaparte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="87 KB" />
     <author>
       <name>Napoleón Bonaparte</name>
       <uri>../authors_1/authors_1380_Page_1.xml</uri>
@@ -420,7 +420,7 @@
     <id>calibre:book:327</id>
     <updated>2023-02-16T07:13:44Z</updated>
     <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/Maximo%20impacto%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="724 KB" />
+    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/Maximo%20impacto%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="724 KB" />
     <author>
       <name>David Baldacci</name>
       <uri>../authors_0/authors_231_Page_1.xml</uri>
@@ -439,7 +439,7 @@
     <id>calibre:book:433</id>
     <updated>2023-03-14T05:12:04Z</updated>
     <link href="../../Jeremey%20Donovan/Metodo%20TED%20para%20hablar%20en%20publico%20%28%20%28433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeremey%20Donovan/Metodo%20TED%20para%20hablar%20en%20publico%20%28%20%28433%29/Metodo%20TED%20para%20hablar%20en%20publi%20-%20Jeremey%20Donovan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <link href="../../Jeremey%20Donovan/Metodo%20TED%20para%20hablar%20en%20publico%20%28%20%28433%29/Metodo%20TED%20para%20hablar%20en%20publi%20-%20Jeremey%20Donovan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
     <author>
       <name>Jeremey Donovan</name>
       <uri>../authors_0/authors_322_Page_1.xml</uri>

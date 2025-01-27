@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por F</title>
+  <title>Books starting with F</title>
   <id>Calibre2opds:allbooks:F</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,37 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por F" />
+  <link href="./allbooks_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with F" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por F" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with F" />
+  <entry>
+    <title>El faro del silencio</title>
+    <id>calibre:book:776</id>
+    <updated>2023-05-25T01:32:56Z</updated>
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/El%20faro%20del%20silencio%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
+    <author>
+      <name>Ibon Martín</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Travel Bug</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Los crímenes del faro" />
+    <summary>Los crímenes del faro [1]: Una tarde de otoño, la noche llama a las puertas de un remoto faro de la costa vasca, el cuerpo de una mujer aparece a los pies de la torre de luz. El asesino se ha llevado la grasa de su abdomen. Leire, la escritora bilbaí...</summary>
+    <link href="../book_0/book_776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El favor</title>
     <id>calibre:book:850</id>
     <updated>2023-06-12T01:23:32Z</updated>
     <link href="../../John%20Verdon/El%20favor%20%28850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Verdon/El%20favor%20%28850%29/El%20favor%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <link href="../../John%20Verdon/El%20favor%20%28850%29/El%20favor%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="503 KB" />
     <author>
       <name>John Verdon</name>
       <uri>../authors_0/authors_638_Page_1.xml</uri>
@@ -36,7 +56,7 @@
     <id>calibre:book:705</id>
     <updated>2023-05-17T01:10:24Z</updated>
     <link href="../../Toshikazu%20Kawaguchi/La%20felicidad%20cabe%20en%20una%20taza%20de%20ca%20%28705%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Toshikazu%20Kawaguchi/La%20felicidad%20cabe%20en%20una%20taza%20de%20ca%20%28705%29/La%20felicidad%20cabe%20en%20una%20taza%20d%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="14 MB" />
+    <link href="../../Toshikazu%20Kawaguchi/La%20felicidad%20cabe%20en%20una%20taza%20de%20ca%20%28705%29/La%20felicidad%20cabe%20en%20una%20taza%20d%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
     <author>
       <name>Toshikazu Kawaguchi</name>
       <uri>../authors_0/authors_526_Page_1.xml</uri>
@@ -54,7 +74,7 @@
     <id>calibre:book:2258</id>
     <updated>2024-09-09T10:33:54Z</updated>
     <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="158 KB" />
+    <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="158 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -70,7 +90,7 @@
     <id>calibre:book:2400</id>
     <updated>2024-09-09T10:34:23Z</updated>
     <link href="../../Jose%20Rizal/El%20filibusterismo%20%282400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Rizal/El%20filibusterismo%20%282400%29/El%20filibusterismo%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="343 KB" />
+    <link href="../../Jose%20Rizal/El%20filibusterismo%20%282400%29/El%20filibusterismo%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="343 KB" />
     <author>
       <name>José Rizal</name>
       <uri>../authors_1/authors_1637_Page_1.xml</uri>
@@ -91,7 +111,7 @@
     <id>calibre:book:935</id>
     <updated>2023-07-04T02:12:34Z</updated>
     <link href="../../Nagore%20Suarez/El%20final%20de%20la%20fiesta%20%28935%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nagore%20Suarez/El%20final%20de%20la%20fiesta%20%28935%29/El%20final%20de%20la%20fiesta%20-%20Nagore%20Suarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <link href="../../Nagore%20Suarez/El%20final%20de%20la%20fiesta%20%28935%29/El%20final%20de%20la%20fiesta%20-%20Nagore%20Suarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="663 KB" />
     <author>
       <name>Nagore Suárez</name>
       <uri>../authors_0/authors_702_Page_1.xml</uri>
@@ -108,7 +128,7 @@
     <id>calibre:book:1131</id>
     <updated>2024-01-08T09:16:17Z</updated>
     <link href="../../Antonio%20Mercero/El%20final%20del%20hombre%20%281131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Mercero/El%20final%20del%20hombre%20%281131%29/El%20final%20del%20hombre%20-%20Antonio%20Mercero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="451 KB" />
+    <link href="../../Antonio%20Mercero/El%20final%20del%20hombre%20%281131%29/El%20final%20del%20hombre%20-%20Antonio%20Mercero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
     <author>
       <name>Antonio Mercero</name>
       <uri>../authors_0/authors_829_Page_1.xml</uri>
@@ -126,7 +146,7 @@
     <id>calibre:book:2041</id>
     <updated>2024-09-06T02:09:02Z</updated>
     <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="68 KB" />
+    <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="68 KB" />
     <author>
       <name>Hermanos Grimm</name>
       <uri>../authors_0/authors_109_Page_1.xml</uri>
@@ -142,7 +162,7 @@
     <id>calibre:book:2418</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Joseph%20Conrad/La%20flecha%20de%20oro%20%282418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/La%20flecha%20de%20oro%20%282418%29/La%20flecha%20de%20oro%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="315 KB" />
+    <link href="../../Joseph%20Conrad/La%20flecha%20de%20oro%20%282418%29/La%20flecha%20de%20oro%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="315 KB" />
     <author>
       <name>Joseph Conrad</name>
       <uri>../authors_1/authors_1592_Page_1.xml</uri>
@@ -161,7 +181,7 @@
     <id>calibre:book:617</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Juan%20Manuel%20Gil/La%20flor%20del%20rayo%20%28617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Manuel%20Gil/La%20flor%20del%20rayo%20%28617%29/La%20flor%20del%20rayo%20-%20Juan%20Manuel%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="688 KB" />
+    <link href="../../Juan%20Manuel%20Gil/La%20flor%20del%20rayo%20%28617%29/La%20flor%20del%20rayo%20-%20Juan%20Manuel%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
     <author>
       <name>Juan Manuel Gil</name>
       <uri>../authors_0/authors_458_Page_1.xml</uri>
@@ -178,7 +198,7 @@
     <id>calibre:book:2283</id>
     <updated>2024-09-09T10:33:59Z</updated>
     <link href="../../Charles%20Baudelaire/Las%20flores%20del%20mal%20%282283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charles%20Baudelaire/Las%20flores%20del%20mal%20%282283%29/Las%20flores%20del%20mal%20-%20Charles%20Baudelaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="205 KB" />
+    <link href="../../Charles%20Baudelaire/Las%20flores%20del%20mal%20%282283%29/Las%20flores%20del%20mal%20-%20Charles%20Baudelaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="205 KB" />
     <author>
       <name>Charles Baudelaire</name>
       <uri>../authors_1/authors_1597_Page_1.xml</uri>
@@ -196,7 +216,7 @@
     <id>calibre:book:1688</id>
     <updated>2024-07-29T11:15:45Z</updated>
     <link href="../../Alexis%20Ravelo/Las%20flores%20no%20sangran%20%281688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexis%20Ravelo/Las%20flores%20no%20sangran%20%281688%29/Las%20flores%20no%20sangran%20-%20Alexis%20Ravelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <link href="../../Alexis%20Ravelo/Las%20flores%20no%20sangran%20%281688%29/Las%20flores%20no%20sangran%20-%20Alexis%20Ravelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
     <author>
       <name>Alexis Ravelo</name>
       <uri>../authors_0/authors_823_Page_1.xml</uri>
@@ -213,7 +233,7 @@
     <id>calibre:book:780</id>
     <updated>2023-05-25T01:33:00Z</updated>
     <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <link href="../../Lorenzo%20Silva/La%20forja%20de%20una%20rebelde%20%28780%29/La%20forja%20de%20una%20rebelde%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -234,7 +254,7 @@
     <id>calibre:book:1603</id>
     <updated>2024-06-02T10:59:59Z</updated>
     <link href="../../Juan%20Gabriel%20Vasquez/La%20forma%20de%20las%20ruinas%20%281603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gabriel%20Vasquez/La%20forma%20de%20las%20ruinas%20%281603%29/La%20forma%20de%20las%20ruinas%20-%20Juan%20Gabriel%20Vasquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Juan%20Gabriel%20Vasquez/La%20forma%20de%20las%20ruinas%20%281603%29/La%20forma%20de%20las%20ruinas%20-%20Juan%20Gabriel%20Vasquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Juan Gabriel Vásquez</name>
       <uri>../authors_1/authors_1166_Page_1.xml</uri>
@@ -251,7 +271,7 @@
     <id>calibre:book:1905</id>
     <updated>2024-09-03T09:34:00Z</updated>
     <link href="../../Lucia%20Luengas/Una%20fortaleza%20en%20tu%20mente%20%281905%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Luengas/Una%20fortaleza%20en%20tu%20mente%20%281905%29/Una%20fortaleza%20en%20tu%20mente%20-%20Lucia%20Luengas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Lucia%20Luengas/Una%20fortaleza%20en%20tu%20mente%20%281905%29/Una%20fortaleza%20en%20tu%20mente%20-%20Lucia%20Luengas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Lucía Luengas</name>
       <uri>../authors_1/authors_1359_Page_1.xml</uri>
@@ -268,7 +288,7 @@
     <id>calibre:book:1571</id>
     <updated>2024-06-02T10:59:49Z</updated>
     <link href="../../Alvaro%20Pombo/La%20fortuna%20de%20Matilda%20Turpin%20%281571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvaro%20Pombo/La%20fortuna%20de%20Matilda%20Turpin%20%281571%29/La%20fortuna%20de%20Matilda%20Turpin%20-%20Alvaro%20Pombo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="400 KB" />
+    <link href="../../Alvaro%20Pombo/La%20fortuna%20de%20Matilda%20Turpin%20%281571%29/La%20fortuna%20de%20Matilda%20Turpin%20-%20Alvaro%20Pombo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="400 KB" />
     <author>
       <name>Álvaro Pombo</name>
       <uri>../authors_0/authors_197_Page_1.xml</uri>
@@ -285,7 +305,7 @@
     <id>calibre:book:1508</id>
     <updated>2024-05-22T06:46:44Z</updated>
     <link href="../../Don%20Winslow/La%20frontera%20%281508%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Winslow/La%20frontera%20%281508%29/La%20frontera%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Don%20Winslow/La%20frontera%20%281508%29/La%20frontera%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Don Winslow</name>
       <uri>../authors_0/authors_842_Page_1.xml</uri>
@@ -302,7 +322,7 @@
     <id>calibre:book:1708</id>
     <updated>2024-08-06T10:52:12Z</updated>
     <link href="../../Ingrid%20Rojas%20Contreras/La%20fruta%20del%20borrachero%20%281708%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ingrid%20Rojas%20Contreras/La%20fruta%20del%20borrachero%20%281708%29/La%20fruta%20del%20borrachero%20-%20Ingrid%20Rojas%20Contreras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="386 KB" />
+    <link href="../../Ingrid%20Rojas%20Contreras/La%20fruta%20del%20borrachero%20%281708%29/La%20fruta%20del%20borrachero%20-%20Ingrid%20Rojas%20Contreras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="386 KB" />
     <author>
       <name>Ingrid Rojas Contreras</name>
       <uri>../authors_1/authors_1223_Page_1.xml</uri>
@@ -319,7 +339,7 @@
     <id>calibre:book:999</id>
     <updated>2023-08-23T02:48:40Z</updated>
     <link href="../../Javier%20Sierra/El%20fuego%20invisible%20%28999%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Sierra/El%20fuego%20invisible%20%28999%29/El%20fuego%20invisible%20-%20Javier%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Javier%20Sierra/El%20fuego%20invisible%20%28999%29/El%20fuego%20invisible%20-%20Javier%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Javier Sierra</name>
       <uri>../authors_0/authors_741_Page_1.xml</uri>
@@ -336,7 +356,7 @@
     <id>calibre:book:1627</id>
     <updated>2024-06-13T06:06:43Z</updated>
     <link href="../../Donna%20Leon/El%20fuego%20purificador%20%281627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Donna%20Leon/El%20fuego%20purificador%20%281627%29/El%20fuego%20purificador%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="382 KB" />
+    <link href="../../Donna%20Leon/El%20fuego%20purificador%20%281627%29/El%20fuego%20purificador%20-%20Donna%20Leon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="382 KB" />
     <author>
       <name>Donna Leon</name>
       <uri>../authors_0/authors_589_Page_1.xml</uri>
@@ -354,7 +374,7 @@
     <id>calibre:book:2490</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../George%20Sand/Los%20fuegos%20fatuos%20%282490%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Sand/Los%20fuegos%20fatuos%20%282490%29/Los%20fuegos%20fatuos%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="63 KB" />
+    <link href="../../George%20Sand/Los%20fuegos%20fatuos%20%282490%29/Los%20fuegos%20fatuos%20-%20George%20Sand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="63 KB" />
     <author>
       <name>George Sand</name>
       <uri>../authors_1/authors_1382_Page_1.xml</uri>
@@ -370,7 +390,7 @@
     <id>calibre:book:609</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../El%20Gran%20Wyoming/La%20furia%20y%20los%20colores%20%28609%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../El%20Gran%20Wyoming/La%20furia%20y%20los%20colores%20%28609%29/La%20furia%20y%20los%20colores%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../El%20Gran%20Wyoming/La%20furia%20y%20los%20colores%20%28609%29/La%20furia%20y%20los%20colores%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>El Gran Wyoming</name>
       <uri>../authors_0/authors_451_Page_1.xml</uri>
@@ -387,7 +407,7 @@
     <id>calibre:book:32</id>
     <updated>2023-01-17T10:19:36Z</updated>
     <link href="../../Ibon%20Martin/La%20fabrica%20de%20las%20sombras%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ibon%20Martin/La%20fabrica%20de%20las%20sombras%20%2832%29/La%20fabrica%20de%20las%20sombras%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="696 KB" />
+    <link href="../../Ibon%20Martin/La%20fabrica%20de%20las%20sombras%20%2832%29/La%20fabrica%20de%20las%20sombras%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="696 KB" />
     <author>
       <name>Ibon Martín</name>
       <uri>../authors_0/authors_13_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Hans Christian Andersen</title>
+  <title>All books by Hans Christian Andersen</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_104_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Hans Christian Andersen" />
+  <link href="./authors_104_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Hans Christian Andersen" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="./authors_104_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Hans Christian Andersen" />
   <entry>
     <title>Jack y las habichuelas mágicas</title>
     <id>calibre:book:165</id>
     <updated>2023-01-23T07:46:46Z</updated>
     <link href="../../Hans%20Christian%20Andersen/Jack%20y%20las%20habichuelas%20magicas%20%28165%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hans%20Christian%20Andersen/Jack%20y%20las%20habichuelas%20magicas%20%28165%29/Jack%20y%20las%20habichuelas%20magicas%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Hans%20Christian%20Andersen/Jack%20y%20las%20habichuelas%20magicas%20%28165%29/Jack%20y%20las%20habichuelas%20magicas%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Hans Christian Andersen</name>
       <uri>../authors_0/authors_104_Page_1.xml</uri>
@@ -38,7 +38,7 @@
     <id>calibre:book:162</id>
     <updated>2023-01-23T07:45:02Z</updated>
     <link href="../../Hans%20Christian%20Andersen/El%20Patito%20Feo%20%28162%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hans%20Christian%20Andersen/El%20Patito%20Feo%20%28162%29/El%20Patito%20Feo%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1018 KB" />
+    <link href="../../Hans%20Christian%20Andersen/El%20Patito%20Feo%20%28162%29/El%20Patito%20Feo%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1018 KB" />
     <author>
       <name>Hans Christian Andersen</name>
       <uri>../authors_0/authors_104_Page_1.xml</uri>
@@ -55,7 +55,7 @@
     <id>calibre:book:2367</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/La%20Reina%20de%20las%20Nieves%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="88 KB" />
+    <link href="../../Hans%20Christian%20Andersen/La%20Reina%20de%20las%20Nieves%20%282367%29/La%20Reina%20de%20las%20Nieves%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="88 KB" />
     <author>
       <name>Hans Christian Andersen</name>
       <uri>../authors_0/authors_104_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:171</id>
     <updated>2023-01-23T07:50:54Z</updated>
     <link href="../../Hans%20Christian%20Andersen/La%20Sirenita%20%28171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hans%20Christian%20Andersen/La%20Sirenita%20%28171%29/La%20Sirenita%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Hans%20Christian%20Andersen/La%20Sirenita%20%28171%29/La%20Sirenita%20-%20Hans%20Christian%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Hans Christian Andersen</name>
       <uri>../authors_0/authors_104_Page_1.xml</uri>

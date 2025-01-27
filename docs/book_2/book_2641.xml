@@ -6,11 +6,11 @@
   <link href="./book_2641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Diario de una madre que perdió su nombre" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
   <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Laura Demaría</name>
     <uri>../authors_1/authors_1736_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">«Nunca imaginé una maternidad tan dura y
     descarnada. Tan construida sobre el desarraigo».</p>
@@ -48,5 +48,5 @@
     protagonista admite en un momento dado, «siento que formo
     parte de una especie en extinción».</p>
   </content>
-  <link href="../authors_1/authors_1736_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Laura Demaría" />
+  <link href="../authors_1/authors_1736_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Laura Demaría" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por E</title>
+  <title>Books starting with E</title>
   <id>Calibre2opds:allbooks:E</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="./allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
-  <link href="../allbooks/allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <link href="../allbooks/allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 8)" />
   <entry>
     <title>En el lado oscuro de la luna</title>
     <id>calibre:book:1215</id>
     <updated>2024-02-20T01:04:11Z</updated>
     <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/En%20el%20lado%20oscuro%20de%20la%20luna%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Mari%20Jungstedt/En%20el%20lado%20oscuro%20de%20la%20luna%20%281215%29/En%20el%20lado%20oscuro%20de%20la%20luna%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>
@@ -37,7 +37,7 @@
     <id>calibre:book:177</id>
     <updated>2023-01-26T07:16:18Z</updated>
     <link href="../../Noe%20Casado/En%20el%20punto%20de%20partida%20%28177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noe%20Casado/En%20el%20punto%20de%20partida%20%28177%29/En%20el%20punto%20de%20partida%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <link href="../../Noe%20Casado/En%20el%20punto%20de%20partida%20%28177%29/En%20el%20punto%20de%20partida%20-%20Noe%20Casado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
       <name>Noe Casado</name>
       <uri>../authors_0/authors_115_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:637</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Elvira%20Lindo/En%20la%20boca%20del%20lobo%20%28637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elvira%20Lindo/En%20la%20boca%20del%20lobo%20%28637%29/En%20la%20boca%20del%20lobo%20-%20Elvira%20Lindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="598 KB" />
+    <link href="../../Elvira%20Lindo/En%20la%20boca%20del%20lobo%20%28637%29/En%20la%20boca%20del%20lobo%20-%20Elvira%20Lindo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="598 KB" />
     <author>
       <name>Elvira Lindo</name>
       <uri>../authors_0/authors_156_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:1839</id>
     <updated>2024-08-30T02:13:10Z</updated>
     <link href="../../ANA%20MASAGO/En%20la%20calle%2024%20%281839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../ANA%20MASAGO/En%20la%20calle%2024%20%281839%29/En%20la%20calle%2024%20-%20ANA%20MASAGO.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="413 KB" />
+    <link href="../../ANA%20MASAGO/En%20la%20calle%2024%20%281839%29/En%20la%20calle%2024%20-%20ANA%20MASAGO.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
     <author>
       <name>ANA MASAGO</name>
       <uri>../authors_1/authors_1316_Page_1.xml</uri>
@@ -89,7 +89,7 @@
     <id>calibre:book:678</id>
     <updated>2023-05-15T05:51:32Z</updated>
     <link href="../../Sari%20Arponen/En%20la%20cocina%20con%20la%20doctora%20Arponen%20%28678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sari%20Arponen/En%20la%20cocina%20con%20la%20doctora%20Arponen%20%28678%29/En%20la%20cocina%20con%20la%20doctora%20Arp%20-%20Sari%20Arponen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Sari%20Arponen/En%20la%20cocina%20con%20la%20doctora%20Arponen%20%28678%29/En%20la%20cocina%20con%20la%20doctora%20Arp%20-%20Sari%20Arponen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Sari Arponen</name>
       <uri>../authors_0/authors_504_Page_1.xml</uri>
@@ -106,7 +106,7 @@
     <id>calibre:book:1779</id>
     <updated>2024-08-26T10:56:14Z</updated>
     <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="608 KB" />
     <author>
       <name>Lars Kepler</name>
       <uri>../authors_1/authors_1279_Page_1.xml</uri>
@@ -126,7 +126,7 @@
     <id>calibre:book:1134</id>
     <updated>2024-01-08T09:16:17Z</updated>
     <link href="../../Kieran%20Setiya/En%20la%20mitad%20de%20la%20vida%20%281134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kieran%20Setiya/En%20la%20mitad%20de%20la%20vida%20%281134%29/En%20la%20mitad%20de%20la%20vida%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="225 KB" />
+    <link href="../../Kieran%20Setiya/En%20la%20mitad%20de%20la%20vida%20%281134%29/En%20la%20mitad%20de%20la%20vida%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="225 KB" />
     <author>
       <name>Kieran Setiya</name>
       <uri>../authors_0/authors_748_Page_1.xml</uri>
@@ -143,7 +143,7 @@
     <id>calibre:book:402</id>
     <updated>2023-03-13T09:24:32Z</updated>
     <link href="../../Julie%20Otsuka/En%20la%20piscina%20%28402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julie%20Otsuka/En%20la%20piscina%20%28402%29/En%20la%20piscina%20-%20Julie%20Otsuka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Julie%20Otsuka/En%20la%20piscina%20%28402%29/En%20la%20piscina%20-%20Julie%20Otsuka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Julie Otsuka</name>
       <uri>../authors_0/authors_293_Page_1.xml</uri>
@@ -161,7 +161,7 @@
     <id>calibre:book:337</id>
     <updated>2023-02-20T10:02:18Z</updated>
     <link href="../../Susana%20Rodriguez%20Lezaun/En%20la%20sangre%20%28337%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Susana%20Rodriguez%20Lezaun/En%20la%20sangre%20%28337%29/En%20la%20sangre%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <link href="../../Susana%20Rodriguez%20Lezaun/En%20la%20sangre%20%28337%29/En%20la%20sangre%20-%20Susana%20Rodriguez%20Lezaun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
     <author>
       <name>Susana Rodríguez Lezaun</name>
       <uri>../authors_0/authors_230_Page_1.xml</uri>
@@ -178,7 +178,7 @@
     <id>calibre:book:138</id>
     <updated>2023-01-19T08:43:24Z</updated>
     <link href="../../Principe%20Harry/En%20la%20sombra%20%28138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Principe%20Harry/En%20la%20sombra%20%28138%29/En%20la%20sombra%20-%20Principe%20Harry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="687 KB" />
+    <link href="../../Principe%20Harry/En%20la%20sombra%20%28138%29/En%20la%20sombra%20-%20Principe%20Harry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="687 KB" />
     <author>
       <name>Príncipe Harry</name>
       <uri>../authors_0/authors_86_Page_1.xml</uri>
@@ -195,7 +195,7 @@
     <id>calibre:book:36</id>
     <updated>2023-01-17T10:21:54Z</updated>
     <link href="../../John%20Connolly/En%20lo%20mas%20profundo%20del%20sur%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Connolly/En%20lo%20mas%20profundo%20del%20sur%20%2836%29/En%20lo%20mas%20profundo%20del%20sur%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="739 KB" />
+    <link href="../../John%20Connolly/En%20lo%20mas%20profundo%20del%20sur%20%2836%29/En%20lo%20mas%20profundo%20del%20sur%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="739 KB" />
     <author>
       <name>John Connolly</name>
       <uri>../authors_0/authors_28_Page_1.xml</uri>
@@ -212,7 +212,7 @@
     <id>calibre:book:1316</id>
     <updated>2024-03-21T01:00:27Z</updated>
     <link href="../../Jenni%20Schaefer/En%20paz%20con%20la%20comida%20%281316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jenni%20Schaefer/En%20paz%20con%20la%20comida%20%281316%29/En%20paz%20con%20la%20comida%20-%20Jenni%20Schaefer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="799 KB" />
+    <link href="../../Jenni%20Schaefer/En%20paz%20con%20la%20comida%20%281316%29/En%20paz%20con%20la%20comida%20-%20Jenni%20Schaefer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="799 KB" />
     <author>
       <name>Jenni Schaefer</name>
       <uri>../authors_0/authors_958_Page_1.xml</uri>
@@ -229,7 +229,7 @@
     <id>calibre:book:570</id>
     <updated>2023-04-23T10:14:48Z</updated>
     <link href="../../Mikel%20Santiago/En%20plena%20noche%20%28570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mikel%20Santiago/En%20plena%20noche%20%28570%29/En%20plena%20noche%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Mikel%20Santiago/En%20plena%20noche%20%28570%29/En%20plena%20noche%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Mikel Santiago</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -247,7 +247,7 @@
     <id>calibre:book:25</id>
     <updated>2023-01-17T10:15:46Z</updated>
     <link href="../../Sam%20Christer/En%20su%20nombre%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sam%20Christer/En%20su%20nombre%20%2825%29/En%20su%20nombre%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Sam%20Christer/En%20su%20nombre%20%2825%29/En%20su%20nombre%20-%20Sam%20Christer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Sam Christer</name>
       <uri>../authors_0/authors_22_Page_1.xml</uri>
@@ -264,7 +264,7 @@
     <id>calibre:book:1890</id>
     <updated>2024-09-03T09:33:53Z</updated>
     <link href="../../Adrienne%20Miller/En%20tierra%20de%20hombres%20%281890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adrienne%20Miller/En%20tierra%20de%20hombres%20%281890%29/En%20tierra%20de%20hombres%20-%20Adrienne%20Miller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="628 KB" />
+    <link href="../../Adrienne%20Miller/En%20tierra%20de%20hombres%20%281890%29/En%20tierra%20de%20hombres%20-%20Adrienne%20Miller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="628 KB" />
     <author>
       <name>Adrienne Miller</name>
       <uri>../authors_1/authors_1346_Page_1.xml</uri>
@@ -280,7 +280,7 @@
     <id>calibre:book:1056</id>
     <updated>2023-11-01T07:27:33Z</updated>
     <link href="../../Jose%20Ramon%20Ayllon/En%20torno%20al%20hombre%20%281056%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Ramon%20Ayllon/En%20torno%20al%20hombre%20%281056%29/En%20torno%20al%20hombre%20-%20Jose%20Ramon%20Ayllon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="513 KB" />
+    <link href="../../Jose%20Ramon%20Ayllon/En%20torno%20al%20hombre%20%281056%29/En%20torno%20al%20hombre%20-%20Jose%20Ramon%20Ayllon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
     <author>
       <name>José Ramón Ayllón</name>
       <uri>../authors_0/authors_773_Page_1.xml</uri>
@@ -297,7 +297,7 @@
     <id>calibre:book:1476</id>
     <updated>2024-04-30T05:13:17Z</updated>
     <link href="../../Uri%20Levine/Enamorate%20del%20problema%2C%20no%20de%20la%20so%20%281476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Uri%20Levine/Enamorate%20del%20problema%2C%20no%20de%20la%20so%20%281476%29/Enamorate%20del%20problema%2C%20no%20de%20l%20-%20Uri%20Levine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Uri%20Levine/Enamorate%20del%20problema%2C%20no%20de%20la%20so%20%281476%29/Enamorate%20del%20problema%2C%20no%20de%20l%20-%20Uri%20Levine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Uri Levine</name>
       <uri>../authors_1/authors_1080_Page_1.xml</uri>
@@ -317,7 +317,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:2594</id>
     <updated>2024-09-17T00:25:56Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20Eslava%20%282594%29/Enciclopedia%20Eslava%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -334,7 +334,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:2568</id>
     <updated>2024-09-09T03:24:01Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="33 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="33 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -351,7 +351,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:182</id>
     <updated>2023-01-26T07:16:20Z</updated>
     <link href="../../Ana%20Forner/Encontrandonos%20%28182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Forner/Encontrandonos%20%28182%29/Encontrandonos%20-%20Ana%20Forner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1002 KB" />
+    <link href="../../Ana%20Forner/Encontrandonos%20%28182%29/Encontrandonos%20-%20Ana%20Forner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1002 KB" />
     <author>
       <name>Ana Forner</name>
       <uri>../authors_0/authors_119_Page_1.xml</uri>
@@ -370,7 +370,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:1243</id>
     <updated>2024-02-23T09:41:58Z</updated>
     <link href="../../Bettina%20Lemke/Encuentra%20tu%20ikigai%20%281243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bettina%20Lemke/Encuentra%20tu%20ikigai%20%281243%29/Encuentra%20tu%20ikigai%20-%20Bettina%20Lemke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <link href="../../Bettina%20Lemke/Encuentra%20tu%20ikigai%20%281243%29/Encuentra%20tu%20ikigai%20-%20Bettina%20Lemke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
     <author>
       <name>Bettina Lemke</name>
       <uri>../authors_0/authors_906_Page_1.xml</uri>
@@ -389,7 +389,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:574</id>
     <updated>2023-04-23T10:24:16Z</updated>
     <link href="../../Marian%20Rojas%20Estape/Encuentra%20tu%20persona%20vitamina%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marian%20Rojas%20Estape/Encuentra%20tu%20persona%20vitamina%20%28574%29/Encuentra%20tu%20persona%20vitamina%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Marian%20Rojas%20Estape/Encuentra%20tu%20persona%20vitamina%20%28574%29/Encuentra%20tu%20persona%20vitamina%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Marian Rojas Estapé</name>
       <uri>../authors_0/authors_427_Page_1.xml</uri>
@@ -407,7 +407,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:2297</id>
     <updated>2024-09-09T10:34:02Z</updated>
     <link href="../../Publio%20Virgilio%20Maron/Eneida%20%282297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Publio%20Virgilio%20Maron/Eneida%20%282297%29/Eneida%20-%20Publio%20Virgilio%20Maron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="377 KB" />
+    <link href="../../Publio%20Virgilio%20Maron/Eneida%20%282297%29/Eneida%20-%20Publio%20Virgilio%20Maron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="377 KB" />
     <author>
       <name>Publio Virgilio Marón</name>
       <uri>../authors_1/authors_1605_Page_1.xml</uri>
@@ -427,7 +427,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:301</id>
     <updated>2023-02-13T08:25:36Z</updated>
     <link href="../../Raul%20Balam%20Ruscalleda/Enganchado%20%28301%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Balam%20Ruscalleda/Enganchado%20%28301%29/Enganchado%20-%20Raul%20Balam%20Ruscalleda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Raul%20Balam%20Ruscalleda/Enganchado%20%28301%29/Enganchado%20-%20Raul%20Balam%20Ruscalleda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Raül Balam Ruscalleda</name>
       <uri>../authors_0/authors_209_Page_1.xml</uri>
@@ -445,7 +445,7 @@ Construir una start-up y conseguir financ...</summary>
     <id>calibre:book:674</id>
     <updated>2023-05-15T05:51:28Z</updated>
     <link href="../../Isabella%20Maldonado/Enigma%20%28674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isabella%20Maldonado/Enigma%20%28674%29/Enigma%20-%20Isabella%20Maldonado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Isabella%20Maldonado/Enigma%20%28674%29/Enigma%20-%20Isabella%20Maldonado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Isabella Maldonado</name>
       <uri>../authors_0/authors_501_Page_1.xml</uri>

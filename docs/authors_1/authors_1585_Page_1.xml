@@ -11,15 +11,15 @@
   <link href="./authors_1585_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="William Shakespeare" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
-  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
-    <title>Todos los libros de William Shakespeare</title>
+    <title>All books by William Shakespeare</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 20 libros</content>
+    <content type="text">Alphabetical index of the 20 books</content>
     <link href="../authors_1/authors_1585_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -27,7 +27,7 @@
   <entry>
     <title>Series: Biblioteca PruébaT</title>
     <id>Calibre2opds:authors:1585series:225</id>
-    <content type="text">13 libros</content>
+    <content type="text">13 books</content>
     <link href="../authors_1/authors_1585_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -37,7 +37,7 @@
     <id>calibre:book:2493</id>
     <updated>2024-09-09T10:34:42Z</updated>
     <link href="../../William%20Shakespeare/A%20buen%20fin%20no%20hay%20mal%20principio%20%282493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/A%20buen%20fin%20no%20hay%20mal%20principio%20%282493%29/A%20buen%20fin%20no%20hay%20mal%20principio%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <link href="../../William%20Shakespeare/A%20buen%20fin%20no%20hay%20mal%20principio%20%282493%29/A%20buen%20fin%20no%20hay%20mal%20principio%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:2258</id>
     <updated>2024-09-09T10:33:54Z</updated>
     <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="158 KB" />
+    <link href="../../William%20Shakespeare/La%20fierecilla%20domada%20%282258%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="158 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:2523</id>
     <updated>2024-09-09T10:34:48Z</updated>
     <link href="../../William%20Shakespeare/Julius%20Caesar%20%282523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Julius%20Caesar%20%282523%29/Julius%20Caesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="111 KB" />
+    <link href="../../William%20Shakespeare/Julius%20Caesar%20%282523%29/Julius%20Caesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="111 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -104,7 +104,7 @@
     <id>calibre:book:2522</id>
     <updated>2024-09-09T10:34:48Z</updated>
     <link href="../../William%20Shakespeare/Othello%2C%20the%20Moor%20of%20Venice%20%282522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Othello%2C%20the%20Moor%20of%20Venice%20%282522%29/Othello%2C%20the%20Moor%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <link href="../../William%20Shakespeare/Othello%2C%20the%20Moor%20of%20Venice%20%282522%29/Othello%2C%20the%20Moor%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="137 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -132,7 +132,7 @@
     <id>calibre:book:2519</id>
     <updated>2024-09-09T10:34:48Z</updated>
     <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/The%20Merchant%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/The%20Merchant%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -156,7 +156,7 @@
     <id>calibre:book:2516</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="108 KB" />
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="108 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -185,7 +185,7 @@
     <id>calibre:book:2517</id>
     <updated>2024-09-09T10:34:47Z</updated>
     <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="153 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>

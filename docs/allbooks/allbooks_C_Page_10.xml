@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,107 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (11 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (11 of 14)" />
+  <entry>
+    <title>Un capuchino mortal</title>
+    <id>calibre:book:2752</id>
+    <updated>2024-12-18T05:52:22Z</updated>
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/Un%20capuchino%20mortal%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
+    </author>
+    <published>2023-09-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Coffee Lovers Club" />
+    <summary>Coffee Lovers Club [1]: Clare Cosi es la encargada de la histórica cafetería Village Blend de Nueva York. Vive feliz junto a su gata Cafelito en un apartamento justo encima de la cafetería. Pero todo da un giro inesperado cuando descubre en la trasti...</summary>
+    <link href="../book_2/book_2752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cara norte del corazón</title>
+    <id>calibre:book:848</id>
+    <updated>2023-06-12T01:23:30Z</updated>
+    <link href="../../Dolores%20Redondo/La%20cara%20norte%20del%20corazon%20%28848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dolores%20Redondo/La%20cara%20norte%20del%20corazon%20%28848%29/La%20cara%20norte%20del%20corazon%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dolores Redondo</name>
+      <uri>../authors_0/authors_62_Page_1.xml</uri>
+    </author>
+    <published>2019-09-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Policiaca" />
+    <category term="Negra" />
+    <category term="Lang:es" />
+    <summary>"Cuando Amaia Salazar tenía doce años estuvo perdida en el bosque durante dieciséis horas. Era de madrugada cuando la encontraron a treinta kilómetros al norte del lugar donde se había despistado de la senda. Desvanecida bajo la intensa lluvia, la ro...</summary>
+    <link href="../book_0/book_848.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las caras</title>
+    <id>calibre:book:1376</id>
+    <updated>2024-04-03T00:30:03Z</updated>
+    <link href="../../Tove%20Ditlevsen/Las%20caras%20%281376%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tove%20Ditlevsen/Las%20caras%20%281376%29/Las%20caras%20-%20Tove%20Ditlevsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="388 KB" />
+    <author>
+      <name>Tove Ditlevsen</name>
+      <uri>../authors_1/authors_1009_Page_1.xml</uri>
+    </author>
+    <published>2023-02-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La continuación natural de Trilogía de Copenhague: una desgarradora novela sobre una mujer al límite, que lucha por convertirse en escritora mientras vive marcada por la enfermedad mental y su condición de madre y esposa.Copenhague, 1968. Lise, escr...</summary>
+    <link href="../book_1/book_1376.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El carmín y la sangre</title>
+    <id>calibre:book:257</id>
+    <updated>2023-02-02T09:06:34Z</updated>
+    <link href="../../Montero%20Glez/El%20carmin%20y%20la%20sangre%20%28257%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Montero%20Glez/El%20carmin%20y%20la%20sangre%20%28257%29/El%20carmin%20y%20la%20sangre%20-%20Montero%20Glez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="546 KB" />
+    <author>
+      <name>Montero Glez</name>
+      <uri>../authors_0/authors_178_Page_1.xml</uri>
+    </author>
+    <published>2016-10-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Novela de espionaje con trasfondo político e histórico: la Guerra Civil, la II Guerra Mundial y la lucha entre el comunismo, los Aliados y el fascismo. El comandante Ian Fleming que luego se hará famoso por ser el creador de James Bond es durante la ...</summary>
+    <link href="../book_0/book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El carnicero y el pájaro</title>
+    <id>calibre:book:849</id>
+    <updated>2023-06-12T01:23:30Z</updated>
+    <link href="../../Alaina%20Urquhart/El%20carnicero%20y%20el%20pajaro%20%28849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alaina%20Urquhart/El%20carnicero%20y%20el%20pajaro%20%28849%29/El%20carnicero%20y%20el%20pajaro%20-%20Alaina%20Urquhart.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
+    <author>
+      <name>Alaina Urquhart</name>
+      <uri>../authors_0/authors_637_Page_1.xml</uri>
+    </author>
+    <published>2023-05-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nadie conoce a un asesino mejor que sus víctimas. La primera novela de Alaina Urquhart, técnica de autopsias y creadora de Morbid, el pódcast de true crime más escuchado del mundo. «Como lector querrás cerrar los ojos, pero la lucha entre el asesino ...</summary>
+    <link href="../book_0/book_849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La casa de Bernarda Alba</title>
     <id>calibre:book:2193</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/La%20casa%20de%20Bernarda%20Alba%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/La%20casa%20de%20Bernarda%20Alba%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="75 KB" />
     <author>
       <name>Federico García Lorca</name>
       <uri>../authors_0/authors_85_Page_1.xml</uri>
@@ -40,7 +129,7 @@
     <id>calibre:book:845</id>
     <updated>2023-06-12T01:23:26Z</updated>
     <link href="../../Jessie%20Burton/La%20casa%20de%20la%20fortuna%20%28845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jessie%20Burton/La%20casa%20de%20la%20fortuna%20%28845%29/La%20casa%20de%20la%20fortuna%20-%20Jessie%20Burton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <link href="../../Jessie%20Burton/La%20casa%20de%20la%20fortuna%20%28845%29/La%20casa%20de%20la%20fortuna%20-%20Jessie%20Burton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="530 KB" />
     <author>
       <name>Jessie Burton</name>
       <uri>../authors_0/authors_635_Page_1.xml</uri>
@@ -58,7 +147,7 @@
     <id>calibre:book:1159</id>
     <updated>2024-01-25T08:39:51Z</updated>
     <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/La%20casa%20de%20la%20noche%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="693 KB" />
+    <link href="../../Jo%20Nesbo/La%20casa%20de%20la%20noche%20%281159%29/La%20casa%20de%20la%20noche%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -75,7 +164,7 @@
     <id>calibre:book:857</id>
     <updated>2023-06-12T02:02:14Z</updated>
     <link href="../../Jessie%20Burton/La%20casa%20de%20las%20miniaturas%20%28857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jessie%20Burton/La%20casa%20de%20las%20miniaturas%20%28857%29/La%20casa%20de%20las%20miniaturas%20-%20Jessie%20Burton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <link href="../../Jessie%20Burton/La%20casa%20de%20las%20miniaturas%20%28857%29/La%20casa%20de%20las%20miniaturas%20-%20Jessie%20Burton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="566 KB" />
     <author>
       <name>Jessie Burton</name>
       <uri>../authors_0/authors_635_Page_1.xml</uri>
@@ -92,7 +181,7 @@
     <id>calibre:book:1090</id>
     <updated>2023-12-12T08:20:58Z</updated>
     <link href="../../Jane%20Cockram/La%20casa%20de%20las%20novias%20%281090%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Cockram/La%20casa%20de%20las%20novias%20%281090%29/La%20casa%20de%20las%20novias%20-%20Jane%20Cockram.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="916 KB" />
+    <link href="../../Jane%20Cockram/La%20casa%20de%20las%20novias%20%281090%29/La%20casa%20de%20las%20novias%20-%20Jane%20Cockram.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="916 KB" />
     <author>
       <name>Jane Cockram</name>
       <uri>../authors_0/authors_793_Page_1.xml</uri>
@@ -109,7 +198,7 @@
     <id>calibre:book:1614</id>
     <updated>2024-06-02T11:00:01Z</updated>
     <link href="../../Donato%20Carrisi/La%20casa%20de%20las%20voces%20%281614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Donato%20Carrisi/La%20casa%20de%20las%20voces%20%281614%29/La%20casa%20de%20las%20voces%20-%20Donato%20Carrisi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="319 KB" />
+    <link href="../../Donato%20Carrisi/La%20casa%20de%20las%20voces%20%281614%29/La%20casa%20de%20las%20voces%20-%20Donato%20Carrisi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="319 KB" />
     <author>
       <name>Donato Carrisi</name>
       <uri>../authors_0/authors_198_Page_1.xml</uri>
@@ -126,7 +215,7 @@
     <id>calibre:book:1444</id>
     <updated>2024-04-20T05:25:37Z</updated>
     <link href="../../Olivia%20Wildenstein/La%20casa%20de%20los%20aleteos%20%281444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Olivia%20Wildenstein/La%20casa%20de%20los%20aleteos%20%281444%29/La%20casa%20de%20los%20aleteos%20-%20Olivia%20Wildenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="770 KB" />
+    <link href="../../Olivia%20Wildenstein/La%20casa%20de%20los%20aleteos%20%281444%29/La%20casa%20de%20los%20aleteos%20-%20Olivia%20Wildenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="770 KB" />
     <author>
       <name>Olivia Wildenstein</name>
       <uri>../authors_1/authors_1055_Page_1.xml</uri>
@@ -145,11 +234,28 @@
     <link href="../book_1/book_1444.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>La casa de los cien escalones</title>
+    <id>calibre:book:2845</id>
+    <updated>2025-01-27T00:40:27Z</updated>
+    <link href="../../David%20Jasso/La%20casa%20de%20los%20cien%20escalones%20%282845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Jasso/La%20casa%20de%20los%20cien%20escalones%20%282845%29/La%20casa%20de%20los%20cien%20escalones%20-%20David%20Jasso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>David Jasso</name>
+      <uri>../authors_1/authors_1861_Page_1.xml</uri>
+    </author>
+    <published>2024-10-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Obscura editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>David Jasso, el maestro del terror psicológico, vuelve con fuerza con su novela de terror más intensaCuando un escritor venido a menos empieza a intercambiar emails con otra escritora aficionada, esta le habla de los problemas personales que la tiene...</summary>
+    <link href="../book_2/book_2845.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La casa perfecta</title>
     <id>calibre:book:130</id>
     <updated>2023-01-18T00:43:40Z</updated>
     <link href="../../Blake%20Pierce/la%20casa%20perfecta%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Blake%20Pierce/la%20casa%20perfecta%20%28130%29/la%20casa%20perfecta%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="626 KB" />
+    <link href="../../Blake%20Pierce/la%20casa%20perfecta%20%28130%29/la%20casa%20perfecta%20-%20Blake%20Pierce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="626 KB" />
     <author>
       <name>Blake Pierce</name>
       <uri>../authors_0/authors_57_Page_1.xml</uri>
@@ -165,7 +271,7 @@
     <id>calibre:book:2605</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="641 KB" />
     <author>
       <name>Mabel Seeley</name>
       <uri>../authors_1/authors_1710_Page_1.xml</uri>
@@ -185,7 +291,7 @@
     <id>calibre:book:1359</id>
     <updated>2024-04-03T00:29:59Z</updated>
     <link href="../../Julien%20Gracq/La%20casa%20%281359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julien%20Gracq/La%20casa%20%281359%29/La%20casa%20-%20Julien%20Gracq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="430 KB" />
+    <link href="../../Julien%20Gracq/La%20casa%20%281359%29/La%20casa%20-%20Julien%20Gracq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="430 KB" />
     <author>
       <name>Julien Gracq</name>
       <uri>../authors_0/authors_994_Page_1.xml</uri>
@@ -202,7 +308,7 @@
     <id>calibre:book:2048</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../E.T.A.%20Hoffmann/El%20cascanueces%20y%20el%20rey%20de%20los%20rato%20%282048%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../E.T.A.%20Hoffmann/El%20cascanueces%20y%20el%20rey%20de%20los%20rato%20%282048%29/El%20cascanueces%20y%20el%20rey%20de%20los%20-%20E.T.A.%20Hoffmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <link href="../../E.T.A.%20Hoffmann/El%20cascanueces%20y%20el%20rey%20de%20los%20rato%20%282048%29/El%20cascanueces%20y%20el%20rey%20de%20los%20-%20E.T.A.%20Hoffmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="120 KB" />
     <author>
       <name>E.T.A. Hoffmann</name>
       <uri>../authors_1/authors_1472_Page_1.xml</uri>
@@ -220,7 +326,7 @@
     <id>calibre:book:109</id>
     <updated>2023-01-18T00:43:28Z</updated>
     <link href="../../Joel%20Dicker/El%20caso%20Alaska%20Sanders%20%28109%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20caso%20Alaska%20Sanders%20%28109%29/El%20caso%20Alaska%20Sanders%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="614 KB" />
+    <link href="../../Joel%20Dicker/El%20caso%20Alaska%20Sanders%20%28109%29/El%20caso%20Alaska%20Sanders%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="614 KB" />
     <author>
       <name>Joël Dicker</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -240,7 +346,7 @@
     <id>calibre:book:499</id>
     <updated>2023-04-01T02:02:00Z</updated>
     <link href="../../Davide%20Longo/El%20caso%20Bramard%20%28499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Davide%20Longo/El%20caso%20Bramard%20%28499%29/El%20caso%20Bramard%20-%20Davide%20Longo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="683 KB" />
+    <link href="../../Davide%20Longo/El%20caso%20Bramard%20%28499%29/El%20caso%20Bramard%20-%20Davide%20Longo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="683 KB" />
     <author>
       <name>Davide Longo</name>
       <uri>../authors_0/authors_368_Page_1.xml</uri>
@@ -257,7 +363,7 @@
     <id>calibre:book:814</id>
     <updated>2023-06-06T08:14:18Z</updated>
     <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/El%20caso%20Fitzgerald%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../John%20Grisham/El%20caso%20Fitzgerald%20%28814%29/El%20caso%20Fitzgerald%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -274,7 +380,7 @@
     <id>calibre:book:1458</id>
     <updated>2024-04-30T04:46:08Z</updated>
     <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/El%20caso%20Rawson%20-%20Roberto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/El%20caso%20Rawson%20-%20Roberto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="482 KB" />
     <author>
       <name>Roberto Villar</name>
       <uri>../authors_1/authors_1065_Page_1.xml</uri>
@@ -297,7 +403,7 @@
     <id>calibre:book:1671</id>
     <updated>2024-07-17T11:51:02Z</updated>
     <link href="../../Zygmunt%20Miloszewski/El%20caso%20Telak%20%281671%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Zygmunt%20Miloszewski/El%20caso%20Telak%20%281671%29/El%20caso%20Telak%20-%20Zygmunt%20Miloszewski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="398 KB" />
+    <link href="../../Zygmunt%20Miloszewski/El%20caso%20Telak%20%281671%29/El%20caso%20Telak%20-%20Zygmunt%20Miloszewski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="398 KB" />
     <author>
       <name>Zygmunt Miloszewski</name>
       <uri>../authors_1/authors_1200_Page_1.xml</uri>
@@ -314,7 +420,7 @@
     <id>calibre:book:1796</id>
     <updated>2024-08-26T10:56:17Z</updated>
     <link href="../../Raul%20Garbantes/El%20caso%20del%20asesino%20del%20clan%20%281796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/El%20caso%20del%20asesino%20del%20clan%20%281796%29/El%20caso%20del%20asesino%20del%20clan%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Raul%20Garbantes/El%20caso%20del%20asesino%20del%20clan%20%281796%29/El%20caso%20del%20asesino%20del%20clan%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -332,7 +438,7 @@
     <id>calibre:book:1594</id>
     <updated>2024-06-02T10:59:56Z</updated>
     <link href="../../Jean-Luc%20Bannalec/El%20caso%20del%20castillo%20de%20Comper%20%281594%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Luc%20Bannalec/El%20caso%20del%20castillo%20de%20Comper%20%281594%29/El%20caso%20del%20castillo%20de%20Comper%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <link href="../../Jean-Luc%20Bannalec/El%20caso%20del%20castillo%20de%20Comper%20%281594%29/El%20caso%20del%20castillo%20de%20Comper%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="506 KB" />
     <author>
       <name>Jean-Luc Bannalec</name>
       <uri>../authors_1/authors_1101_Page_1.xml</uri>
@@ -350,7 +456,7 @@
     <id>calibre:book:1609</id>
     <updated>2024-06-02T11:00:00Z</updated>
     <link href="../../Pierre%20Martin/El%20caso%20del%20ingles%20desaparecido%20%281609%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pierre%20Martin/El%20caso%20del%20ingles%20desaparecido%20%281609%29/El%20caso%20del%20ingles%20desaparecido%20-%20Pierre%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="876 KB" />
+    <link href="../../Pierre%20Martin/El%20caso%20del%20ingles%20desaparecido%20%281609%29/El%20caso%20del%20ingles%20desaparecido%20-%20Pierre%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="876 KB" />
     <author>
       <name>Pierre Martin</name>
       <uri>../authors_1/authors_1168_Page_1.xml</uri>
@@ -363,114 +469,7 @@
     <summary>Una comisaria en la Provenza [1]: Un pueblo idílico de la Provenza. Un misterioso asesinato. Un caso para la comisaria Isabelle Bonnet. Una serie con más de 1.500.000 lectores.Obligada a un período de descanso forzoso, la comisaria Isabelle Bonnet, d...</summary>
     <link href="../book_1/book_1609.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El caso del tarot</title>
-    <id>calibre:book:1788</id>
-    <updated>2024-08-26T10:56:15Z</updated>
-    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/El%20caso%20del%20tarot%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="359 KB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2022-02-21T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>Una pitonisa, varias desapariciones y un favor personal.Maldonado nunca ha cre&amp;iacute;do en el destino, pero el or&amp;aacute;culo de una vidente puede salvar la vida de una joven y poner fin a un macabro caso.&amp;iquest;Lograr&amp;aacute; el detective resolver...</summary>
-    <link href="../book_1/book_1788.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El castillo de Barbazul</title>
-    <id>calibre:book:1127</id>
-    <updated>2024-01-08T09:16:16Z</updated>
-    <link href="../../Javier%20Cercas/El%20castillo%20de%20Barbazul%20%281127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Cercas/El%20castillo%20de%20Barbazul%20%281127%29/El%20castillo%20de%20Barbazul%20-%20Javier%20Cercas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="759 KB" />
-    <author>
-      <name>Javier Cercas</name>
-      <uri>../authors_0/authors_827_Page_1.xml</uri>
-    </author>
-    <published>2022-03-01T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Vuelve Melchor Marín para enfrentarse al peor de sus miedos: la desaparición de su hija. Y para comprobar que un hombre solo no basta para defenderse del abuso de los poderosos.«Cercas cierra la trilogía con una trepidante brillantez para goce de lec...</summary>
-    <link href="../book_1/book_1127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El castillo de Lesley</title>
-    <id>calibre:book:2414</id>
-    <updated>2024-09-09T10:34:26Z</updated>
-    <link href="../../Jane%20Austen/El%20castillo%20de%20Lesley%20%282414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/El%20castillo%20de%20Lesley%20%282414%29/El%20castillo%20de%20Lesley%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
-    <author>
-      <name>Jane Austen</name>
-      <uri>../authors_1/authors_1484_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Otros" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [246]:</summary>
-    <link href="../book_2/book_2414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La caída de Martin Orchard</title>
-    <id>calibre:book:201</id>
-    <updated>2023-01-26T07:21:02Z</updated>
-    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/La%20caida%20de%20Martin%20Orchard%20-%20Martin%20Lundqvist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
-    <author>
-      <name>Martin Lundqvist</name>
-      <uri>../authors_0/authors_127_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Sebastian Llanos</name>
-      <uri>../authors_0/authors_128_Page_1.xml</uri>
-    </author>
-    <published>2020-05-05T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Martin Lundqvist</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <summary>'El Apocalipsis se acercaba. La Explosi&amp;oacute;n de Rayos Gamma era inminente y llegar&amp;iacute;a a la Tierra el 20 de octubre de 2131 y yo, Martin Orchard, necesitaba asegurarme de que la humanidad sobreviviera a este suceso sin precedentes.&amp;nbsp;En e...</summary>
-    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los caín</title>
-    <id>calibre:book:1674</id>
-    <updated>2024-07-22T06:21:11Z</updated>
-    <link href="../../Enrique%20Llamas/Los%20cain%20%281674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Enrique%20Llamas/Los%20cain%20%281674%29/Los%20cain%20-%20Enrique%20Llamas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="303 KB" />
-    <author>
-      <name>Enrique Llamas</name>
-      <uri>../authors_1/authors_1202_Page_1.xml</uri>
-    </author>
-    <published>2018-05-02T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un pueblo perdido en mitad de Castilla en las postrimerías del franquismo. Un joven maestro madrileño falto de experiencia y fuera de lugar. Una niña ahogada veinte años atrás. El fatal accidente de una adolescente para la que huir era la única salid...</summary>
-    <link href="../book_1/book_1674.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La celestina</title>
-    <id>calibre:book:2224</id>
-    <updated>2024-09-06T02:21:37Z</updated>
-    <link href="../../Fernando%20de%20Rojas/La%20celestina%20%282224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20de%20Rojas/La%20celestina%20%282224%29/La%20celestina%20-%20Fernando%20de%20Rojas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="248 KB" />
-    <author>
-      <name>Fernando de Rojas</name>
-      <uri>../authors_1/authors_1567_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

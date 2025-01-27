@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Pablo Poveda</title>
+  <title>All books by Pablo Poveda</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,20 +8,20 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_232_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Pablo Poveda" />
+  <link href="./authors_232_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Pablo Poveda" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
-  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pablo Poveda" />
   <entry>
     <title>El aprendiz</title>
     <id>calibre:book:2588</id>
     <updated>2024-09-12T03:39:19Z</updated>
     <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -42,7 +42,7 @@
     <id>calibre:book:2791</id>
     <updated>2025-01-09T08:22:46Z</updated>
     <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/Asesinato%20en%20Cannes%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/Asesinato%20en%20Cannes%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="649 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -62,7 +62,7 @@
     <id>calibre:book:1788</id>
     <updated>2024-08-26T10:56:15Z</updated>
     <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/El%20caso%20del%20tarot%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="359 KB" />
+    <link href="../../Pablo%20Poveda/El%20caso%20del%20tarot%20%281788%29/El%20caso%20del%20tarot%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="359 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -78,7 +78,7 @@
     <id>calibre:book:1776</id>
     <updated>2024-08-26T10:56:12Z</updated>
     <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -94,7 +94,7 @@
     <id>calibre:book:329</id>
     <updated>2023-02-16T07:13:44Z</updated>
     <link href="../../Pablo%20Poveda/Desaparecido%20%28329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Desaparecido%20%28329%29/Desaparecido%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="748 KB" />
+    <link href="../../Pablo%20Poveda/Desaparecido%20%28329%29/Desaparecido%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="748 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -113,7 +113,7 @@
     <id>calibre:book:1749</id>
     <updated>2024-08-26T10:56:07Z</updated>
     <link href="../../Pablo%20Poveda/Fuego%20cruzado%20%281749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Fuego%20cruzado%20%281749%29/Fuego%20cruzado%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="340 KB" />
+    <link href="../../Pablo%20Poveda/Fuego%20cruzado%20%281749%29/Fuego%20cruzado%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="340 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -130,7 +130,7 @@
     <id>calibre:book:1235</id>
     <updated>2024-02-23T08:42:57Z</updated>
     <link href="../../Pablo%20Poveda/El%20Laberinto%20del%20Diablo%20%281235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20Laberinto%20del%20Diablo%20%281235%29/El%20Laberinto%20del%20Diablo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <link href="../../Pablo%20Poveda/El%20Laberinto%20del%20Diablo%20%281235%29/El%20Laberinto%20del%20Diablo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -148,7 +148,7 @@
     <id>calibre:book:1789</id>
     <updated>2024-08-26T10:56:16Z</updated>
     <link href="../../Pablo%20Poveda/Matar%20o%20morir%20%281789%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Matar%20o%20morir%20%281789%29/Matar%20o%20morir%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="258 KB" />
+    <link href="../../Pablo%20Poveda/Matar%20o%20morir%20%281789%29/Matar%20o%20morir%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="258 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -167,7 +167,7 @@ La tensión del Brexit y los ataques...</summary>
     <id>calibre:book:1824</id>
     <updated>2024-08-28T00:55:05Z</updated>
     <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/Muerte%20en%20el%20Mediterraneo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="339 KB" />
+    <link href="../../Pablo%20Poveda/Muerte%20en%20el%20Mediterraneo%20%281824%29/Muerte%20en%20el%20Mediterraneo%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -185,7 +185,7 @@ La tensión del Brexit y los ataques...</summary>
     <id>calibre:book:2572</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="180 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -201,11 +201,28 @@ La tensión del Brexit y los ataques...</summary>
     <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Sangre y Raíces</title>
+    <id>calibre:book:2837</id>
+    <updated>2025-01-26T11:50:53Z</updated>
+    <link href="../../Pablo%20Poveda/Sangre%20y%20Raices%20%282837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Sangre%20y%20Raices%20%282837%29/Sangre%20y%20Raices%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="852 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2025-01-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Bajo Sospecha" />
+    <summary>Bajo Sospecha [1]: La lealtad se pone a prueba. El poder se disputa. La verdad puede matar.Cuando el inspector Javier Serrano se sumerge en un caso de asesinato vinculado al poderoso clan Bernabeu, desentierra secretos que podrían destruir tanto a la...</summary>
+    <link href="../book_2/book_2837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El secreto de la señora Avignon</title>
     <id>calibre:book:1808</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="482 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -221,7 +238,7 @@ La tensión del Brexit y los ataques...</summary>
     <id>calibre:book:2688</id>
     <updated>2024-10-25T00:02:42Z</updated>
     <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="812 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>

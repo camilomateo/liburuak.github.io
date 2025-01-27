@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos tres meses</title>
+  <title>Previous three months</title>
   <id>Calibre2opds:recent:THREEMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,16 +8,193 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos tres meses" />
+  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous three months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
-    <title>Persiguiendo a Bécquer [15 de noviembre de 2024]</title>
+    <title>El aprendiz [November 26, 2024]</title>
+    <id>calibre:book:2722</id>
+    <updated>2024-11-26T04:34:04Z</updated>
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/El%20aprendiz%20-%20Jon%20Echanove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="445 KB" />
+    <author>
+      <name>Jon Echanove</name>
+      <uri>../authors_1/authors_1781_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
+    <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una paz cruel [November 26, 2024]</title>
+    <id>calibre:book:2720</id>
+    <updated>2024-11-26T04:32:48Z</updated>
+    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Theodor%20Kallifatides/Una%20paz%20cruel%20%282720%29/Una%20paz%20cruel%20-%20Theodor%20Kallifatides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="326 KB" />
+    <author>
+      <name>Theodor Kallifatides</name>
+      <uri>../authors_0/authors_453_Page_1.xml</uri>
+    </author>
+    <published>2024-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las obras que encumbraron a Theodor Kallifatides como uno de los grandes escritores europeos de la segunda mitad del siglo XX fueron sus tres novelas Campesinos y señores (1973), El arado y la espada (1975) y Una paz cruel (1977), que ahora se traduc...</summary>
+    <link href="../book_2/book_2720.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El viento distante y otros relatos [November 26, 2024]</title>
+    <id>calibre:book:2721</id>
+    <updated>2024-11-26T04:32:49Z</updated>
+    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/El%20viento%20distante%20y%20otros%20rela%20-%20Jose%20Emilio%20Pacheco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>José Emilio Pacheco</name>
+      <uri>../authors_1/authors_1780_Page_1.xml</uri>
+    </author>
+    <published>2024-09-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta - México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una niña a quien un castigo del cielo convierte en tortuga y termina siendo la triste atracción de una feria, un parque de diversiones con elefantes que dan a luz a saltimbanquis, una cautiva emparedada en un monasterio, un sádico e infame revolucion...</summary>
+    <link href="../book_2/book_2721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Réquiem por todos los muertos [November 22, 2024]</title>
+    <id>calibre:book:2715</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colin%20Dexter/Requiem%20por%20todos%20los%20muertos%20%282715%29/Requiem%20por%20todos%20los%20muertos%20-%20Colin%20Dexter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="991 KB" />
+    <author>
+      <name>Colin Dexter</name>
+      <uri>../authors_0/authors_250_Page_1.xml</uri>
+    </author>
+    <published>2024-09-18T06:41:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Negra" />
+    <category term="Lang:es" />
+    <category term="Inspector Morse" />
+    <summary>Inspector Morse [1]: Vuelve Endeavour Morse, el mítico inspector de la policía de Oxford.El inspector Morse podría haber estado de vacaciones en Grecia en lugar de investigando un caso que la policía ha descartado hace tiempo. Pero el brutal asesinat...</summary>
+    <link href="../book_2/book_2715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sangre no perdona [November 22, 2024]</title>
+    <id>calibre:book:2714</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/La%20sangre%20no%20perdona%20-%20Charlie%20Donlea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Charlie Donlea</name>
+      <uri>../authors_0/authors_59_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <summary>El sol se oculta en Sugar Beach, Santa Lucía, una de las playas más hermosas del Caribe. Él la espera en un pequeño mirador en la montaña, con dos copas de champagne listas, para celebrar el momento más feliz de su vida. No escucha los pasos a sus es...</summary>
+    <link href="../book_2/book_2714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Victoria [November 22, 2024]</title>
+    <id>calibre:book:2716</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Paloma%20Sanchez-Garnica/Victoria%20%282716%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paloma%20Sanchez-Garnica/Victoria%20%282716%29/Victoria%20-%20Paloma%20Sanchez-Garnica.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Paloma Sánchez-Garnica</name>
+      <uri>../authors_1/authors_1779_Page_1.xml</uri>
+    </author>
+    <published>2024-10-21T03:31:52Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Se enfrentaron al horror y lucharon contra la injusticia. Pero nada reconcilia más que el amor.Recién terminada la Segunda Guerra Mundial, en un Berlín arrasado y sin futuro aparente, Victoria sobrevive cantando cada noche en el club Kassandra. Pese ...</summary>
+    <link href="../book_2/book_2716.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Envidia [November 22, 2024]</title>
+    <id>calibre:book:2712</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/Envidia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="135 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <summary>Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límit...</summary>
+    <link href="../book_2/book_2712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un momento de ternura y de piedad [November 22, 2024]</title>
+    <id>calibre:book:2710</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Irene%20Cuevas/Un%20momento%20de%20ternura%20y%20de%20piedad%20%282710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Irene%20Cuevas/Un%20momento%20de%20ternura%20y%20de%20piedad%20%282710%29/Un%20momento%20de%20ternura%20y%20de%20pied%20-%20Irene%20Cuevas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="477 KB" />
+    <author>
+      <name>Irene Cuevas</name>
+      <uri>../authors_1/authors_1777_Page_1.xml</uri>
+    </author>
+    <published>2024-09-07T03:08:11Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>ASESINAR CON TERNURA NO ES IMPOSIBLE
+
+Un descubrimiento original y rompedor sobre el amor y la familia que devorarás en lo que dura una merienda
+
+«De momento, mi novela femenina favorita del año. Y la más inesperada».
+Pedro Almodóvar
+
+«Humor, intelig...</summary>
+    <link href="../book_2/book_2710.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todos los finales felices se parecen [November 22, 2024]</title>
+    <id>calibre:book:2713</id>
+    <updated>2024-11-22T00:06:51Z</updated>
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alberto%20Garcia-Salido/Todos%20los%20finales%20felices%20se%20parece%20%282713%29/Todos%20los%20finales%20felices%20se%20pa%20-%20Alberto%20Garcia-Salido.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="401 KB" />
+    <author>
+      <name>Alberto García-Salido</name>
+      <uri>../authors_0/authors_277_Page_1.xml</uri>
+    </author>
+    <published>2024-03-20T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La segunda novela de Alberto García-Salido (@nopanaden). Una emotiva y divertida historia, con dosis de drama y de comedia de enredo, escrita con el pulso de la vida misma: a partir de aquellos momentos que no se pueden planear.La historia de Ismael ...</summary>
+    <link href="../book_2/book_2713.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las visitantes [November 22, 2024]</title>
+    <id>calibre:book:2711</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Yurieth%20Romero/Las%20visitantes%20%282711%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yurieth%20Romero/Las%20visitantes%20%282711%29/Las%20visitantes%20-%20Yurieth%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="195 KB" />
+    <author>
+      <name>Yurieth Romero</name>
+      <uri>../authors_1/authors_1778_Page_1.xml</uri>
+    </author>
+    <published>2024-07-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>"Hoy estamos aquí en la fila, lo mismo de siempre, una pegada a la otra. Odiándonos, pero unidas por una misma situación". Chiara es una mujer trans que sueña con un futuro feliz junto al hombre que ama. Rara es una trabajadora sexual que desea regre...</summary>
+    <link href="../book_2/book_2711.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Persiguiendo a Bécquer [November 15, 2024]</title>
     <id>calibre:book:2708</id>
     <updated>2024-11-15T04:07:05Z</updated>
     <link href="../../Miguel%20Lago/Persiguiendo%20a%20Becquer%20%282708%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Lago/Persiguiendo%20a%20Becquer%20%282708%29/Persiguiendo%20a%20Becquer%20-%20Miguel%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <link href="../../Miguel%20Lago/Persiguiendo%20a%20Becquer%20%282708%29/Persiguiendo%20a%20Becquer%20-%20Miguel%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="423 KB" />
     <author>
       <name>Miguel Lago</name>
       <uri>../authors_1/authors_1775_Page_1.xml</uri>
@@ -31,11 +208,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2708.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La abadesa de Barcelona [15 de noviembre de 2024]</title>
+    <title>La abadesa de Barcelona [November 15, 2024]</title>
     <id>calibre:book:2707</id>
     <updated>2024-11-15T04:07:05Z</updated>
     <link href="../../Francisco%20Sempere/La%20abadesa%20de%20Barcelona%20%282707%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Sempere/La%20abadesa%20de%20Barcelona%20%282707%29/La%20abadesa%20de%20Barcelona%20-%20Francisco%20Sempere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="431 KB" />
+    <link href="../../Francisco%20Sempere/La%20abadesa%20de%20Barcelona%20%282707%29/La%20abadesa%20de%20Barcelona%20-%20Francisco%20Sempere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="431 KB" />
     <author>
       <name>Francisco Sempere</name>
       <uri>../authors_0/authors_593_Page_1.xml</uri>
@@ -48,11 +225,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2707.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las que no duermen NASH (Los Valles Tranquilos) [15 de noviembre de 2024]</title>
+    <title>Las que no duermen NASH (Los Valles Tranquilos) [November 15, 2024]</title>
     <id>calibre:book:2706</id>
     <updated>2024-11-15T04:07:04Z</updated>
     <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Dolores%20Redondo/Las%20que%20no%20duermen%20NASH%20%28Los%20Valles%20%282706%29/Las%20que%20no%20duermen%20NASH%20%28Los%20Va%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Dolores Redondo</name>
       <uri>../authors_0/authors_62_Page_1.xml</uri>
@@ -65,11 +242,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Pequeños milagros [7 de noviembre de 2024]</title>
+    <title>Pequeños milagros [November 7, 2024]</title>
     <id>calibre:book:2702</id>
     <updated>2024-11-07T00:45:05Z</updated>
     <link href="../../Nicholas%20Sparks/Pequenos%20milagros%20%282702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicholas%20Sparks/Pequenos%20milagros%20%282702%29/Pequenos%20milagros%20-%20Nicholas%20Sparks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <link href="../../Nicholas%20Sparks/Pequenos%20milagros%20%282702%29/Pequenos%20milagros%20-%20Nicholas%20Sparks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="565 KB" />
     <author>
       <name>Nicholas Sparks</name>
       <uri>../authors_1/authors_1773_Page_1.xml</uri>
@@ -82,11 +259,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Todo muere [7 de noviembre de 2024]</title>
+    <title>Todo muere [November 7, 2024]</title>
     <id>calibre:book:2703</id>
     <updated>2024-11-07T00:45:05Z</updated>
     <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Juan%20Gomez-Jurado/Todo%20muere%20%282703%29/Todo%20muere%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Juan Gómez-Jurado</name>
       <uri>../authors_0/authors_55_Page_1.xml</uri>
@@ -100,11 +277,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Atusparia [31 de octubre de 2024]</title>
+    <title>Atusparia [October 31, 2024]</title>
     <id>calibre:book:2699</id>
     <updated>2024-11-05T06:11:38Z</updated>
     <link href="../../Gabriela%20Wiener/Atusparia%20%282699%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Wiener/Atusparia%20%282699%29/Atusparia%20-%20Gabriela%20Wiener.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <link href="../../Gabriela%20Wiener/Atusparia%20%282699%29/Atusparia%20-%20Gabriela%20Wiener.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="530 KB" />
     <author>
       <name>Gabriela Wiener</name>
       <uri>../authors_1/authors_1771_Page_1.xml</uri>
@@ -117,11 +294,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2699.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Donde muere la luz [31 de octubre de 2024]</title>
+    <title>Donde muere la luz [October 31, 2024]</title>
     <id>calibre:book:2698</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="463 KB" />
+    <link href="../../Mari%20Jungstedt/Donde%20muere%20la%20luz%20%282698%29/Donde%20muere%20la%20luz%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="463 KB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>
@@ -134,11 +311,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La historia de un muro [31 de octubre de 2024]</title>
+    <title>La historia de un muro [October 31, 2024]</title>
     <id>calibre:book:2697</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Nasser%20Abu%20Srour/La%20historia%20de%20un%20muro%20%282697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nasser%20Abu%20Srour/La%20historia%20de%20un%20muro%20%282697%29/La%20historia%20de%20un%20muro%20-%20Nasser%20Abu%20Srour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="380 KB" />
+    <link href="../../Nasser%20Abu%20Srour/La%20historia%20de%20un%20muro%20%282697%29/La%20historia%20de%20un%20muro%20-%20Nasser%20Abu%20Srour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
     <author>
       <name>Nasser Abu Srour</name>
       <uri>../authors_1/authors_1770_Page_1.xml</uri>
@@ -151,11 +328,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Una pluma en el aire [31 de octubre de 2024]</title>
+    <title>Una pluma en el aire [October 31, 2024]</title>
     <id>calibre:book:2695</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/Una%20pluma%20en%20el%20aire%20-%20Alejandra%20Beigbedere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="757 KB" />
+    <link href="../../Alejandra%20Beigbedere/Una%20pluma%20en%20el%20aire%20%282695%29/Una%20pluma%20en%20el%20aire%20-%20Alejandra%20Beigbedere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="757 KB" />
     <author>
       <name>Alejandra Beigbedere</name>
       <uri>../authors_1/authors_1768_Page_1.xml</uri>
@@ -168,11 +345,11 @@ Antoñito, el nieto de don Ma...</summary>
     <link href="../book_2/book_2695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los versos sueltos del Edén [31 de octubre de 2024]</title>
+    <title>Los versos sueltos del Edén [October 31, 2024]</title>
     <id>calibre:book:2696</id>
     <updated>2024-10-31T05:50:32Z</updated>
     <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/Los%20versos%20sueltos%20del%20Eden%20-%20Paloma%20Rivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <link href="../../Paloma%20Rivas/Los%20versos%20sueltos%20del%20Eden%20%282696%29/Los%20versos%20sueltos%20del%20Eden%20-%20Paloma%20Rivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
     <author>
       <name>Paloma Rivas</name>
       <uri>../authors_1/authors_1769_Page_1.xml</uri>
@@ -184,57 +361,5 @@ Antoñito, el nieto de don Ma...</summary>
     <summary>LOS MUROS MÁS INFRANQUEABLES SON LOS DE LA PROPIA MENTE
 La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el puesto de jefa del área de salud mental en la residencia Santa Teresa. Regentada por la congregación de las Carment...</summary>
     <link href="../book_2/book_2696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Estirpe de sangre [26 de octubre de 2024]</title>
-    <id>calibre:book:2692</id>
-    <updated>2024-10-26T00:29:48Z</updated>
-    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/Estirpe%20de%20sangre%20-%20Sandra%20Aza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Sandra Aza</name>
-      <uri>../authors_1/authors_1767_Page_1.xml</uri>
-    </author>
-    <published>2024-09-24T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Libelo de sangre" />
-    <summary>Libelo de sangre [2]: Es la hora de restaurar el honor familiar. Es la hora de culminar la venganza. Tras el auto de fe que le ha dejado huérfano, Alonso acude a la Inclusa para recuperar a su hermano Diego, pero allí enfrenta la peor de las noticias...</summary>
-    <link href="../book_2/book_2692.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La segunda venida [25 de octubre de 2024]</title>
-    <id>calibre:book:2687</id>
-    <updated>2024-10-25T00:02:42Z</updated>
-    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/La%20segunda%20venida%20-%20Dani%20Novarama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="355 KB" />
-    <author>
-      <name>Dani Novarama</name>
-      <uri>../authors_1/authors_1766_Page_1.xml</uri>
-    </author>
-    <published>2024-10-02T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La primera novela de Dani Novarama, uno de los divulgadores más seguidos en redes, es un trepidante thriller de anticipación científica sobre las virtudes y los peligros que la inteligencia artificial puede traer a la civilización. Y trata de respond...</summary>
-    <link href="../book_2/book_2687.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Sombra en la Costa [25 de octubre de 2024]</title>
-    <id>calibre:book:2688</id>
-    <updated>2024-10-25T00:02:42Z</updated>
-    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2024-09-25T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <category term="Inspector Rojo" />
-    <summary>Inspector Rojo [9]: En una mañana de verano, los inspectores de homicidios Rojo y Agulló reciben la denuncia de una joven británica desaparecida en la costa de Alicante durante la noche de Hogueras.El caso de la desaparición se convierte en el inicio...</summary>
-    <link href="../book_2/book_2688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

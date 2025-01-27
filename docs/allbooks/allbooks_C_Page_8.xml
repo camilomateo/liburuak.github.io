@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,93 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 14)" />
+  <entry>
+    <title>Cuentos nerviosos</title>
+    <id>calibre:book:2174</id>
+    <updated>2024-09-06T02:21:28Z</updated>
+    <link href="../../Carlos%20Diaz%20Dufoo/Cuentos%20nerviosos%20%282174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Diaz%20Dufoo/Cuentos%20nerviosos%20%282174%29/Cuentos%20nerviosos%20-%20Carlos%20Diaz%20Dufoo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="109 KB" />
+    <author>
+      <name>Carlos Díaz Dufóo</name>
+      <uri>../authors_1/authors_1540_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [88]:</summary>
+    <link href="../book_2/book_2174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuentos y recuerdos personales</title>
+    <id>calibre:book:2173</id>
+    <updated>2024-09-06T02:21:28Z</updated>
+    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20de%20Dios%20Peza/Cuentos%20y%20recuerdos%20personales%20%282173%29/Cuentos%20y%20recuerdos%20personales%20-%20Juan%20de%20Dios%20Peza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
+    <author>
+      <name>Juan de Dios Peza</name>
+      <uri>../authors_1/authors_1539_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [90]:</summary>
+    <link href="../book_2/book_2173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Culpa</title>
+    <id>calibre:book:1799</id>
+    <updated>2024-08-26T10:56:17Z</updated>
+    <link href="../../Juan%20Yanni/Culpa%20%281799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Yanni/Culpa%20%281799%29/Culpa%20-%20Juan%20Yanni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
+    <author>
+      <name>Juan Yanni</name>
+      <uri>../authors_1/authors_1292_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galobart Nueva Narrativa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>CULPA es una obra que comienza con una pista terrible de una muerte. A partir de ese momento, el autor nos sitúa en la etapa inicial del Camino de Santiago, Saint Jean Pied de Port en la Aquitania francesa, una de las más duras y peligrosas del recor...</summary>
+    <link href="../book_1/book_1799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Culpas Compartidas</title>
+    <id>calibre:book:1659</id>
+    <updated>2024-07-07T03:32:36Z</updated>
+    <link href="../../Michael%20Hjorth/Culpas%20Compartidas%20%281659%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Hjorth/Culpas%20Compartidas%20%281659%29/Culpas%20Compartidas%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
+    <author>
+      <name>Michael Hjorth</name>
+      <uri>../authors_0/authors_852_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Hans Rosenfeldt</name>
+      <uri>../authors_0/authors_848_Page_1.xml</uri>
+    </author>
+    <published>2023-09-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Sebastian Bergman" />
+    <summary>Sebastian Bergman [8]: La espera se ha acabado: Vuelve Sebastian Bergman. Vuelve la adicción. Déjate sorprender por la serie de novela negra que ha conquistado a más de 7.000.000 de lectores en todo el mundo. La Unidad de Homicidios de Estocolmo se h...</summary>
+    <link href="../book_1/book_1659.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Cumbres borrascosas</title>
     <id>calibre:book:2257</id>
     <updated>2024-09-09T10:33:54Z</updated>
     <link href="../../Emily%20Bronte/Cumbres%20borrascosas%20%282257%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emily%20Bronte/Cumbres%20borrascosas%20%282257%29/Cumbres%20borrascosas%20-%20Emily%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="347 KB" />
+    <link href="../../Emily%20Bronte/Cumbres%20borrascosas%20%282257%29/Cumbres%20borrascosas%20-%20Emily%20Bronte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="347 KB" />
     <author>
       <name>Emily Brontë</name>
       <uri>../authors_1/authors_1584_Page_1.xml</uri>
@@ -35,7 +110,7 @@
     <id>calibre:book:473</id>
     <updated>2023-03-29T02:11:42Z</updated>
     <link href="../../Ruben%20Gonzalez/Cura%20tu%20estomago%20para%20siempre%20%28473%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ruben%20Gonzalez/Cura%20tu%20estomago%20para%20siempre%20%28473%29/Cura%20tu%20estomago%20para%20siempre%20-%20Ruben%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ruben%20Gonzalez/Cura%20tu%20estomago%20para%20siempre%20%28473%29/Cura%20tu%20estomago%20para%20siempre%20-%20Ruben%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Rubén González</name>
       <uri>../authors_0/authors_356_Page_1.xml</uri>
@@ -52,7 +127,7 @@
     <id>calibre:book:624</id>
     <updated>2023-05-11T11:08:06Z</updated>
     <link href="../../Brandon%20Sanderson/Curso%20de%20escritura%20creativa%20%28624%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brandon%20Sanderson/Curso%20de%20escritura%20creativa%20%28624%29/Curso%20de%20escritura%20creativa%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="552 KB" />
+    <link href="../../Brandon%20Sanderson/Curso%20de%20escritura%20creativa%20%28624%29/Curso%20de%20escritura%20creativa%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="552 KB" />
     <author>
       <name>Brandon Sanderson</name>
       <uri>../authors_0/authors_126_Page_1.xml</uri>
@@ -69,7 +144,7 @@
     <id>calibre:book:1119</id>
     <updated>2024-01-08T09:16:15Z</updated>
     <link href="../../Maria%20Frisa/Cuidate%20de%20mi%20%281119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Frisa/Cuidate%20de%20mi%20%281119%29/Cuidate%20de%20mi%20-%20Maria%20Frisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="554 KB" />
+    <link href="../../Maria%20Frisa/Cuidate%20de%20mi%20%281119%29/Cuidate%20de%20mi%20-%20Maria%20Frisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
     <author>
       <name>María Frisa</name>
       <uri>../authors_0/authors_822_Page_1.xml</uri>
@@ -86,7 +161,7 @@
     <id>calibre:book:2273</id>
     <updated>2024-09-09T10:33:57Z</updated>
     <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/Candido%20o%20el%20optimismo%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="162 KB" />
+    <link href="../../Voltaire/Candido%20o%20el%20optimismo%20%282273%29/Candido%20o%20el%20optimismo%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="162 KB" />
     <author>
       <name>Voltaire</name>
       <uri>../authors_1/authors_1366_Page_1.xml</uri>
@@ -104,7 +179,7 @@
     <id>calibre:book:91</id>
     <updated>2023-01-18T00:09:28Z</updated>
     <link href="../../Manuel%20Rios%20San%20Martin/Circulos%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Rios%20San%20Martin/Circulos%20%2891%29/Circulos%20-%20Manuel%20Rios%20San%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Manuel%20Rios%20San%20Martin/Circulos%20%2891%29/Circulos%20-%20Manuel%20Rios%20San%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Manuel Ríos San Martín</name>
       <uri>../authors_0/authors_64_Page_1.xml</uri>
@@ -123,7 +198,7 @@
     <id>calibre:book:1823</id>
     <updated>2024-08-28T00:55:05Z</updated>
     <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
     <author>
       <name>Carlos Basso</name>
       <uri>../authors_1/authors_1304_Page_1.xml</uri>
@@ -143,7 +218,7 @@
     <id>calibre:book:97</id>
     <updated>2023-01-18T00:09:42Z</updated>
     <link href="../../Carlos%20Basso%20Prieto/Codigo%20Nueva%20York%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Basso%20Prieto/Codigo%20Nueva%20York%20%2897%29/Codigo%20Nueva%20York%20-%20Carlos%20Basso%20Prieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <link href="../../Carlos%20Basso%20Prieto/Codigo%20Nueva%20York%20%2897%29/Codigo%20Nueva%20York%20-%20Carlos%20Basso%20Prieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
     <author>
       <name>Carlos Basso Prieto</name>
       <uri>../authors_0/authors_66_Page_1.xml</uri>
@@ -161,7 +236,7 @@
     <id>calibre:book:1240</id>
     <updated>2024-02-23T09:41:57Z</updated>
     <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/Como%20adelgazar%20follando%20-%20Richard%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/Como%20adelgazar%20follando%20-%20Richard%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="776 KB" />
     <author>
       <name>Richard Smith</name>
       <uri>../authors_0/authors_903_Page_1.xml</uri>
@@ -179,7 +254,7 @@
     <id>calibre:book:922</id>
     <updated>2023-07-04T02:12:12Z</updated>
     <link href="../../George%20Cure/Como%20dejar%20de%20pensar%20demasiado%20%28922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Cure/Como%20dejar%20de%20pensar%20demasiado%20%28922%29/Como%20dejar%20de%20pensar%20demasiado%20-%20George%20Cure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <link href="../../George%20Cure/Como%20dejar%20de%20pensar%20demasiado%20%28922%29/Como%20dejar%20de%20pensar%20demasiado%20-%20George%20Cure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="506 KB" />
     <author>
       <name>George Cure</name>
       <uri>../authors_0/authors_692_Page_1.xml</uri>
@@ -196,7 +271,7 @@
     <id>calibre:book:2673</id>
     <updated>2024-10-22T08:08:32Z</updated>
     <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Dale Carnegie</name>
       <uri>../authors_0/authors_186_Page_1.xml</uri>
@@ -216,7 +291,7 @@
     <id>calibre:book:890</id>
     <updated>2023-06-23T01:09:44Z</updated>
     <link href="../../Bella%20Mackie/Como%20matar%20a%20tu%20familia%20%28890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bella%20Mackie/Como%20matar%20a%20tu%20familia%20%28890%29/Como%20matar%20a%20tu%20familia%20-%20Bella%20Mackie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="519 KB" />
+    <link href="../../Bella%20Mackie/Como%20matar%20a%20tu%20familia%20%28890%29/Como%20matar%20a%20tu%20familia%20-%20Bella%20Mackie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
       <name>Bella Mackie</name>
       <uri>../authors_0/authors_667_Page_1.xml</uri>
@@ -233,7 +308,7 @@
     <id>calibre:book:1552</id>
     <updated>2024-06-02T10:59:45Z</updated>
     <link href="../../Katie%20Marsh/Como%20no%20matar%20a%20tu%20ex%20%281552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Katie%20Marsh/Como%20no%20matar%20a%20tu%20ex%20%281552%29/Como%20no%20matar%20a%20tu%20ex%20-%20Katie%20Marsh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="890 KB" />
+    <link href="../../Katie%20Marsh/Como%20no%20matar%20a%20tu%20ex%20%281552%29/Como%20no%20matar%20a%20tu%20ex%20-%20Katie%20Marsh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="890 KB" />
     <author>
       <name>Katie Marsh</name>
       <uri>../authors_1/authors_1131_Page_1.xml</uri>
@@ -249,7 +324,7 @@
     <id>calibre:book:1040</id>
     <updated>2023-10-20T01:12:32Z</updated>
     <link href="../../Alexandre%20Lacroix/Como%20no%20ser%20un%20esclavo%20del%20sistema%20%281040%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Lacroix/Como%20no%20ser%20un%20esclavo%20del%20sistema%20%281040%29/Como%20no%20ser%20un%20esclavo%20del%20sist%20-%20Alexandre%20Lacroix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Alexandre%20Lacroix/Como%20no%20ser%20un%20esclavo%20del%20sistema%20%281040%29/Como%20no%20ser%20un%20esclavo%20del%20sist%20-%20Alexandre%20Lacroix.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Alexandre Lacroix</name>
       <uri>../authors_0/authors_766_Page_1.xml</uri>
@@ -266,7 +341,7 @@
     <id>calibre:book:799</id>
     <updated>2023-05-31T01:07:20Z</updated>
     <link href="../../Marie%20Robert/Como%20salvar%20una%20mala%20racha%20%28799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marie%20Robert/Como%20salvar%20una%20mala%20racha%20%28799%29/Como%20salvar%20una%20mala%20racha%20-%20Marie%20Robert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <link href="../../Marie%20Robert/Como%20salvar%20una%20mala%20racha%20%28799%29/Como%20salvar%20una%20mala%20racha%20-%20Marie%20Robert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
     <author>
       <name>Marie Robert</name>
       <uri>../authors_0/authors_595_Page_1.xml</uri>
@@ -284,7 +359,7 @@
     <id>calibre:book:1332</id>
     <updated>2024-03-21T01:00:31Z</updated>
     <link href="../../Carlota%20Moon/Como%20un%20TCA%20te%20jode%20la%20vida%20%281332%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlota%20Moon/Como%20un%20TCA%20te%20jode%20la%20vida%20%281332%29/Como%20un%20TCA%20te%20jode%20la%20vida%20-%20Carlota%20Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="914 KB" />
+    <link href="../../Carlota%20Moon/Como%20un%20TCA%20te%20jode%20la%20vida%20%281332%29/Como%20un%20TCA%20te%20jode%20la%20vida%20-%20Carlota%20Moon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="914 KB" />
     <author>
       <name>Carlota Moon</name>
       <uri>../authors_0/authors_973_Page_1.xml</uri>
@@ -300,7 +375,7 @@
     <id>calibre:book:1253</id>
     <updated>2024-02-23T09:42:00Z</updated>
     <link href="../../Josan%20Jarque/Como%20vivir%20de%20las%20rentas%20%281253%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Josan%20Jarque/Como%20vivir%20de%20las%20rentas%20%281253%29/Como%20vivir%20de%20las%20rentas%20-%20Josan%20Jarque.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Josan%20Jarque/Como%20vivir%20de%20las%20rentas%20%281253%29/Como%20vivir%20de%20las%20rentas%20-%20Josan%20Jarque.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Josan Jarque</name>
       <uri>../authors_0/authors_915_Page_1.xml</uri>
@@ -315,11 +390,29 @@
     <link href="../book_1/book_1253.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Cómplice</title>
+    <id>calibre:book:2840</id>
+    <updated>2025-01-26T11:50:54Z</updated>
+    <link href="../../Steve%20Cavanagh/Complice%20%282840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Cavanagh/Complice%20%282840%29/Complice%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="437 KB" />
+    <author>
+      <name>Steve Cavanagh</name>
+      <uri>../authors_0/authors_604_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Eddie Flynn" />
+    <summary>Eddie Flynn [4]: UN NUEVO CASO PARA EDDIE FLYNN. ¿Estar casada con un asesino en serie te convierte en una criminal?«Steve Cavanagh es un autor fantástico. Tiene mucho talento».DON WINSLOWDaniel Miller, más conocido como Sandman, el Hombre de Arena, ...</summary>
+    <link href="../book_2/book_2840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El caballero de Harmental</title>
     <id>calibre:book:2440</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/El%20caballero%20de%20Harmental%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+    <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/El%20caballero%20de%20Harmental%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="263 KB" />
     <author>
       <name>Alejandro Dumas</name>
       <uri>../authors_1/authors_1593_Page_1.xml</uri>
@@ -339,7 +432,7 @@
     <id>calibre:book:1822</id>
     <updated>2024-08-28T00:55:05Z</updated>
     <link href="../../Margarita%20Lozano/El%20caballero%20de%20la%20Frontera%20%281822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Margarita%20Lozano/El%20caballero%20de%20la%20Frontera%20%281822%29/El%20caballero%20de%20la%20Frontera%20-%20Margarita%20Lozano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="581 KB" />
+    <link href="../../Margarita%20Lozano/El%20caballero%20de%20la%20Frontera%20%281822%29/El%20caballero%20de%20la%20Frontera%20-%20Margarita%20Lozano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="581 KB" />
     <author>
       <name>Margarita Lozano</name>
       <uri>../authors_1/authors_1303_Page_1.xml</uri>
@@ -356,7 +449,7 @@
     <id>calibre:book:989</id>
     <updated>2023-08-23T02:48:24Z</updated>
     <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/Un%20caballero%20en%20Moscu%20-%20Amor%20Towles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/Un%20caballero%20en%20Moscu%20-%20Amor%20Towles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="588 KB" />
     <author>
       <name>Amor Towles</name>
       <uri>../authors_0/authors_734_Page_1.xml</uri>
@@ -368,94 +461,7 @@
     <summary>Condenado a muerte por los bolcheviques en 1922, el conde Aleksandr Ilich Rostov elude su trágico final por un inusitado giro del destino. Gracias a un poema subversivo escrito diez años antes, el comité revolucionario conmuta la pena máxima por un a...</summary>
     <link href="../book_0/book_989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El caballero encantado</title>
-    <id>calibre:book:2155</id>
-    <updated>2024-09-06T02:21:25Z</updated>
-    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benito%20Perez%20Galdos/El%20caballero%20encantado%20%282155%29/El%20caballero%20encantado%20-%20Benito%20Perez%20Galdos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="297 KB" />
-    <author>
-      <name>Benito Pérez Galdós</name>
-      <uri>../authors_1/authors_1527_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [188]:</summary>
-    <link href="../book_2/book_2155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El caballo ciego</title>
-    <id>calibre:book:1294</id>
-    <updated>2024-03-15T09:02:27Z</updated>
-    <link href="../../Kay%20Boyle/El%20caballo%20ciego%20%281294%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kay%20Boyle/El%20caballo%20ciego%20%281294%29/El%20caballo%20ciego%20-%20Kay%20Boyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="364 KB" />
-    <author>
-      <name>Kay Boyle</name>
-      <uri>../authors_0/authors_941_Page_1.xml</uri>
-    </author>
-    <published>2022-12-23T05:30:45Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Muñeca Infinita</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Esta extraordinaria novela corta retrata a una familia en 1938. A una joven, casi en el momento de convertirse en adulta, le regalan un caballo castrado y repentinamente ciego. La madre está decidida a sacrificarlo; su hija, a salvarlo. El caballo es...</summary>
-    <link href="../book_1/book_1294.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La cabaña del Tio Tom</title>
-    <id>calibre:book:2489</id>
-    <updated>2024-09-09T10:34:41Z</updated>
-    <link href="../../Harriet%20Beecher%20Stowe/La%20cabana%20del%20Tio%20Tom%20%282489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Harriet%20Beecher%20Stowe/La%20cabana%20del%20Tio%20Tom%20%282489%29/La%20cabana%20del%20Tio%20Tom%20-%20Harriet%20Beecher%20Stowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="536 KB" />
-    <author>
-      <name>Harriet Beecher Stowe</name>
-      <uri>../authors_1/authors_1654_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La cabeza de mi padre</title>
-    <id>calibre:book:142</id>
-    <updated>2023-01-19T08:55:18Z</updated>
-    <link href="../../Alma%20Delia%20Murillo/La%20cabeza%20de%20mi%20padre%20%28142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alma%20Delia%20Murillo/La%20cabeza%20de%20mi%20padre%20%28142%29/La%20cabeza%20de%20mi%20padre%20-%20Alma%20Delia%20Murillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
-    <author>
-      <name>Alma Delia Murillo</name>
-      <uri>../authors_0/authors_89_Page_1.xml</uri>
-    </author>
-    <published>2021-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Escribo para soltar el peso de cuarenta años rumiando el mito de mi padre, las infinitas versiones de mi padre.A sus cuarenta años, como un road trip, sin más referente que una fotografía vieja, una hija emprende la búsqueda de su padre. Mientras nar...</summary>
-    <link href="../book_0/book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un cadáver en Port du Bélon</title>
-    <id>calibre:book:1578</id>
-    <updated>2024-06-02T10:59:52Z</updated>
-    <link href="../../Jean-Luc%20Bannalec/Un%20cadaver%20en%20Port%20du%20Belon%20%281578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Luc%20Bannalec/Un%20cadaver%20en%20Port%20du%20Belon%20%281578%29/Un%20cadaver%20en%20Port%20du%20Belon%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="672 KB" />
-    <author>
-      <name>Jean-Luc Bannalec</name>
-      <uri>../authors_1/authors_1101_Page_1.xml</uri>
-    </author>
-    <published>2016-07-06T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Georges Dupin" />
-    <summary>Georges Dupin [4]: En Riec-sur-Bélon, entre acantilados, bosques mágicos y el Atlántico, el lugar donde se cultivan las mejores ostras del mundo, aparece un cadáver en un aparcamiento. Sin embargo, cuando la policía llega, el cuerpo ha desaparecido. ...</summary>
-    <link href="../book_1/book_1578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

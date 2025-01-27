@@ -6,11 +6,11 @@
   <link href="./book_310.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un mundo sin hombres" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por N" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with N" />
   <link href="../../Sandra%20Newman/Un%20mundo%20sin%20hombres%20%28310%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Sandra%20Newman/Un%20mundo%20sin%20hombres%20%28310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Sandra%20Newman/Un%20mundo%20sin%20hombres%20%28310%29/Un%20mundo%20sin%20hombres%20-%20Sandra%20Newman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+  <link href="../../Sandra%20Newman/Un%20mundo%20sin%20hombres%20%28310%29/Un%20mundo%20sin%20hombres%20-%20Sandra%20Newman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
   <author>
     <name>Sandra Newman</name>
     <uri>../authors_0/authors_217_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Jenny es una doctora casada con un famoso neurocirujano y
     madre de tres adolescentes. Cuando su hija de quince años,
@@ -49,5 +49,5 @@
     dará cuenta de que su hija es muy diferente de la chica
     que creía haber criado...</p>
   </content>
-  <link href="../authors_0/authors_217_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Sandra Newman" />
+  <link href="../authors_0/authors_217_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sandra Newman" />
 </entry>

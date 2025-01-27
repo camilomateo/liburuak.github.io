@@ -6,12 +6,12 @@
   <link href="./book_1198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Dominga habla sola" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
-  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/Dominga%20habla%20sola%20-%20Elisabeth%20Justicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+  <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/Dominga%20habla%20sola%20-%20Elisabeth%20Justicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
   <author>
     <name>Elisabeth Justicia</name>
     <uri>../authors_0/authors_869_Page_1.xml</uri>
@@ -26,14 +26,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Ensayo, Humor, Comic, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Dominga habla sola ¡y a veces hasta se da la
     razón! La anciana más tierna, gamberra y viral de las
@@ -53,5 +53,5 @@
     mayores y sus problemáticas, que en el fondo no dejan de
     ser un reflejo de las de nuestra sociedad.</p>
   </content>
-  <link href="../authors_0/authors_869_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Elisabeth Justicia" />
+  <link href="../authors_0/authors_869_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Elisabeth Justicia" />
 </entry>

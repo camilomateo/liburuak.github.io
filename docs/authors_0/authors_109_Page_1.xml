@@ -11,15 +11,15 @@
   <link href="./authors_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hermanos Grimm" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
-  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <entry>
-    <title>Todos los libros de Hermanos Grimm</title>
+    <title>All books by Hermanos Grimm</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 4 libros</content>
+    <content type="text">Alphabetical index of the 4 books</content>
     <link href="../authors_0/authors_109_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -37,7 +37,7 @@
     <id>calibre:book:2041</id>
     <updated>2024-09-06T02:09:02Z</updated>
     <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="68 KB" />
+    <link href="../../Hermanos%20Grimm/El%20flautista%20de%20Hamelin%20%282041%29/El%20flautista%20de%20Hamelin%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="68 KB" />
     <author>
       <name>Hermanos Grimm</name>
       <uri>../authors_0/authors_109_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:168</id>
     <updated>2023-01-23T07:49:14Z</updated>
     <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/Hansel%20y%20Gretel%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Hermanos%20Grimm/Hansel%20y%20Gretel%20%28168%29/Hansel%20y%20Gretel%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Hermanos Grimm</name>
       <uri>../authors_0/authors_109_Page_1.xml</uri>
@@ -70,7 +70,7 @@
     <id>calibre:book:2032</id>
     <updated>2024-09-06T02:09:01Z</updated>
     <link href="../../Hermanos%20Grimm/Seleccion%20de%20cuentos%20%282032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hermanos%20Grimm/Seleccion%20de%20cuentos%20%282032%29/Seleccion%20de%20cuentos%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="134 KB" />
+    <link href="../../Hermanos%20Grimm/Seleccion%20de%20cuentos%20%282032%29/Seleccion%20de%20cuentos%20-%20Hermanos%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="134 KB" />
     <author>
       <name>Hermanos Grimm</name>
       <uri>../authors_0/authors_109_Page_1.xml</uri>

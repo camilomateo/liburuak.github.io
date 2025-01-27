@@ -6,12 +6,12 @@
   <link href="./book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los trucos de los ricos 2" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <link href="../authors_0/authors_567_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Juan Haro" />
   <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/Los%20trucos%20de%20los%20ricos%202%20-%20Juan%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+  <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/Los%20trucos%20de%20los%20ricos%202%20-%20Juan%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
   <author>
     <name>Juan Haro</name>
     <uri>../authors_0/authors_567_Page_1.xml</uri>
@@ -25,18 +25,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 2 en la Los trucos de los ricos serie
+      Book 2 in the Los trucos de los ricos series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Ecomía, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Todos aspiramos a construir nuestro propio patrimonio y a
@@ -61,5 +61,5 @@
       sensación de libertad, que todos anhelamos. </p>
     </div>
   </content>
-  <link href="../authors_0/authors_567_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Juan Haro" />
+  <link href="../authors_0/authors_567_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Juan Haro" />
 </entry>

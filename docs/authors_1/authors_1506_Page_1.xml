@@ -11,12 +11,12 @@
   <link href="./authors_1506_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eça de Queirós" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Q" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Q" />
   <entry>
-    <title>Todos los libros de Eça de Queirós</title>
+    <title>All books by Eça de Queirós</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_1/authors_1506_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
     <id>calibre:book:2122</id>
     <updated>2024-09-06T02:21:19Z</updated>
     <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="236 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>
@@ -62,7 +62,7 @@
     <id>calibre:book:2245</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/El%20Mandarin%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="141 KB" />
+    <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/El%20Mandarin%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="141 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>

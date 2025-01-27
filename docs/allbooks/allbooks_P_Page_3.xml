@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por P</title>
+  <title>Books starting with P</title>
   <id>Calibre2opds:allbooks:P</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="./allbooks_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por P" />
-  <link href="../allbooks/allbooks_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
+  <link href="../allbooks/allbooks_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
+  <entry>
+    <title>Pisto a la bilbaína</title>
+    <id>calibre:book:1626</id>
+    <updated>2024-06-13T06:06:43Z</updated>
+    <link href="../../Jose%20Francisco%20Alonso/Pisto%20a%20la%20bilbaina%20%281626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Francisco%20Alonso/Pisto%20a%20la%20bilbaina%20%281626%29/Pisto%20a%20la%20bilbaina%20-%20Jose%20Francisco%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>José Francisco Alonso</name>
+      <uri>../authors_1/authors_1174_Page_1.xml</uri>
+    </author>
+    <published>2024-06-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La mujer de un rico ingeniero de Bilbao ha sido secuestrada y el marido, cuando se dispone a pagar el rescate, descubre que tiene un amante. ¿Cuánto vale la vida de la persona que amas? ¿Tres millones de euros? ¿Y si tiene un amante? El profesor Loi...</summary>
+    <link href="../book_1/book_1626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Playa Bagdad</title>
     <id>calibre:book:2575</id>
     <updated>2024-09-11T03:29:01Z</updated>
     <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/Playa%20Bagdad%20-%20Antonio%20Ramos%20Revillas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Antonio%20Ramos%20Revillas/Playa%20Bagdad%20%282575%29/Playa%20Bagdad%20-%20Antonio%20Ramos%20Revillas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Antonio Ramos Revillas</name>
       <uri>../authors_1/authors_1694_Page_1.xml</uri>
@@ -36,7 +53,7 @@
     <id>calibre:book:659</id>
     <updated>2023-05-15T05:51:14Z</updated>
     <link href="../../Melania%20Sebastian/Playa%20Soledad%20%28659%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Melania%20Sebastian/Playa%20Soledad%20%28659%29/Playa%20Soledad%20-%20Melania%20Sebastian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <link href="../../Melania%20Sebastian/Playa%20Soledad%20%28659%29/Playa%20Soledad%20-%20Melania%20Sebastian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="572 KB" />
     <author>
       <name>Melania Sebastián</name>
       <uri>../authors_0/authors_486_Page_1.xml</uri>
@@ -53,7 +70,7 @@
     <id>calibre:book:1185</id>
     <updated>2024-02-01T10:07:03Z</updated>
     <link href="../../Antonio%20Mercero/Pleamar%20%281185%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Mercero/Pleamar%20%281185%29/Pleamar%20-%20Antonio%20Mercero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <link href="../../Antonio%20Mercero/Pleamar%20%281185%29/Pleamar%20-%20Antonio%20Mercero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
     <author>
       <name>Antonio Mercero</name>
       <uri>../authors_0/authors_829_Page_1.xml</uri>
@@ -70,7 +87,7 @@
     <id>calibre:book:2781</id>
     <updated>2025-01-09T08:18:53Z</updated>
     <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <link href="../../Francisco%20Jose%20Jurado/Plomo%20en%20las%20alas%20%282781%29/Plomo%20en%20las%20alas%20-%20Francisco%20Jose%20Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
     <author>
       <name>Francisco José Jurado</name>
       <uri>../authors_1/authors_1819_Page_1.xml</uri>
@@ -87,7 +104,7 @@
     <id>calibre:book:2230</id>
     <updated>2024-09-06T02:21:49Z</updated>
     <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/Poemas%20-%20Jose%20Maria%20Eguren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="71 KB" />
+    <link href="../../Jose%20Maria%20Eguren/Poemas%20%282230%29/Poemas%20-%20Jose%20Maria%20Eguren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="71 KB" />
     <author>
       <name>José María Eguren</name>
       <uri>../authors_1/authors_1571_Page_1.xml</uri>
@@ -105,7 +122,7 @@
     <id>calibre:book:2187</id>
     <updated>2024-09-06T02:21:31Z</updated>
     <link href="../../Alfonsina%20Storni/Poemas%20%282187%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alfonsina%20Storni/Poemas%20%282187%29/Poemas%20-%20Alfonsina%20Storni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <link href="../../Alfonsina%20Storni/Poemas%20%282187%29/Poemas%20-%20Alfonsina%20Storni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="62 KB" />
     <author>
       <name>Alfonsina Storni</name>
       <uri>../authors_1/authors_1549_Page_1.xml</uri>
@@ -123,7 +140,7 @@
     <id>calibre:book:2235</id>
     <updated>2024-09-06T02:21:50Z</updated>
     <link href="../../Amado%20Nervo/Poemas%20%282235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amado%20Nervo/Poemas%20%282235%29/Poemas%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <link href="../../Amado%20Nervo/Poemas%20%282235%29/Poemas%20-%20Amado%20Nervo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
     <author>
       <name>Amado Nervo</name>
       <uri>../authors_1/authors_1524_Page_1.xml</uri>
@@ -140,7 +157,7 @@
     <id>calibre:book:2183</id>
     <updated>2024-09-06T02:21:29Z</updated>
     <link href="../../Manuel%20Maria%20Flores/Poesia%20%282183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20Maria%20Flores/Poesia%20%282183%29/Poesia%20-%20Manuel%20Maria%20Flores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <link href="../../Manuel%20Maria%20Flores/Poesia%20%282183%29/Poesia%20-%20Manuel%20Maria%20Flores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
     <author>
       <name>Manuel María Flores</name>
       <uri>../authors_1/authors_1546_Page_1.xml</uri>
@@ -158,7 +175,7 @@
     <id>calibre:book:2233</id>
     <updated>2024-09-06T02:21:49Z</updated>
     <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Poesia%20%282233%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Poesia%20%282233%29/Poesia%20-%20Sor%20Juana%20Ines%20de%20la%20Cruz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="95 KB" />
+    <link href="../../Sor%20Juana%20Ines%20de%20la%20Cruz/Poesia%20%282233%29/Poesia%20-%20Sor%20Juana%20Ines%20de%20la%20Cruz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="95 KB" />
     <author>
       <name>Sor Juana Inés de la Cruz</name>
       <uri>../authors_1/authors_1520_Page_1.xml</uri>
@@ -174,7 +191,7 @@
     <id>calibre:book:1104</id>
     <updated>2024-01-08T09:16:12Z</updated>
     <link href="../../Vilarino%2C%20Idea/Poesia%20completa%20%281104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vilarino%2C%20Idea/Poesia%20completa%20%281104%29/Poesia%20completa%20-%20Vilarino%2C%20Idea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <link href="../../Vilarino%2C%20Idea/Poesia%20completa%20%281104%29/Poesia%20completa%20-%20Vilarino%2C%20Idea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
     <author>
       <name>Vilariño, Idea</name>
       <uri>../authors_0/authors_808_Page_1.xml</uri>
@@ -191,7 +208,7 @@
     <id>calibre:book:1103</id>
     <updated>2024-01-08T09:16:12Z</updated>
     <link href="../../Wallace%20Stevens/Poesia%20reunida%20%281103%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Wallace%20Stevens/Poesia%20reunida%20%281103%29/Poesia%20reunida%20-%20Wallace%20Stevens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+    <link href="../../Wallace%20Stevens/Poesia%20reunida%20%281103%29/Poesia%20reunida%20-%20Wallace%20Stevens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="556 KB" />
     <author>
       <name>Wallace Stevens</name>
       <uri>../authors_0/authors_807_Page_1.xml</uri>
@@ -208,7 +225,7 @@
     <id>calibre:book:2231</id>
     <updated>2024-09-06T02:21:49Z</updated>
     <link href="../../Rosalia%20de%20Castro/Poesias%20%282231%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosalia%20de%20Castro/Poesias%20%282231%29/Poesias%20-%20Rosalia%20de%20Castro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="67 KB" />
+    <link href="../../Rosalia%20de%20Castro/Poesias%20%282231%29/Poesias%20-%20Rosalia%20de%20Castro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="67 KB" />
     <author>
       <name>Rosalía de Castro</name>
       <uri>../authors_1/authors_1572_Page_1.xml</uri>
@@ -226,7 +243,7 @@
     <id>calibre:book:2192</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Asuncion%20Silva/Poesias%20%282192%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Asuncion%20Silva/Poesias%20%282192%29/Poesias%20-%20Asuncion%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="79 KB" />
+    <link href="../../Asuncion%20Silva/Poesias%20%282192%29/Poesias%20-%20Asuncion%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="79 KB" />
     <author>
       <name>Asunción Silva</name>
       <uri>../authors_1/authors_1552_Page_1.xml</uri>
@@ -244,7 +261,7 @@
     <id>calibre:book:1004</id>
     <updated>2023-08-27T03:13:02Z</updated>
     <link href="../../Hugo%20Boris/Policia%20%281004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hugo%20Boris/Policia%20%281004%29/Policia%20-%20Hugo%20Boris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="829 KB" />
+    <link href="../../Hugo%20Boris/Policia%20%281004%29/Policia%20-%20Hugo%20Boris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="829 KB" />
     <author>
       <name>Hugo Boris</name>
       <uri>../authors_0/authors_744_Page_1.xml</uri>
@@ -262,7 +279,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:1461</id>
     <updated>2024-04-30T04:46:09Z</updated>
     <link href="../../Alba%20Munoz/Polilla%20%281461%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alba%20Munoz/Polilla%20%281461%29/Polilla%20-%20Alba%20Munoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="347 KB" />
+    <link href="../../Alba%20Munoz/Polilla%20%281461%29/Polilla%20-%20Alba%20Munoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="347 KB" />
     <author>
       <name>Alba Muñoz</name>
       <uri>../authors_1/authors_1068_Page_1.xml</uri>
@@ -279,7 +296,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:1906</id>
     <updated>2024-09-03T09:34:01Z</updated>
     <link href="../../Noa%20Lorien/Polvo%20y%20Marea%20%281906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noa%20Lorien/Polvo%20y%20Marea%20%281906%29/Polvo%20y%20Marea%20-%20Noa%20Lorien.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <link href="../../Noa%20Lorien/Polvo%20y%20Marea%20%281906%29/Polvo%20y%20Marea%20-%20Noa%20Lorien.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
     <author>
       <name>Noa Lorién</name>
       <uri>../authors_1/authors_1360_Page_1.xml</uri>
@@ -296,7 +313,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:1030</id>
     <updated>2023-10-20T10:25:40Z</updated>
     <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/Polvo%20y%20sombra%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="528 KB" />
+    <link href="../../Antonio%20Manzini/Polvo%20y%20sombra%20%281030%29/Polvo%20y%20sombra%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="528 KB" />
     <author>
       <name>Antonio Manzini</name>
       <uri>../authors_0/authors_760_Page_1.xml</uri>
@@ -314,7 +331,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:2001</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Anonimo/Popol%20Vuh%20%282001%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anonimo/Popol%20Vuh%20%282001%29/Popol%20Vuh%20-%20Anonimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="174 KB" />
+    <link href="../../Anonimo/Popol%20Vuh%20%282001%29/Popol%20Vuh%20-%20Anonimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="174 KB" />
     <author>
       <name>Anónimo</name>
       <uri>../authors_1/authors_1433_Page_1.xml</uri>
@@ -330,7 +347,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:2301</id>
     <updated>2024-09-09T10:34:03Z</updated>
     <link href="../../Marcel%20Proust/Por%20el%20camino%20de%20Swann%20%282301%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marcel%20Proust/Por%20el%20camino%20de%20Swann%20%282301%29/Por%20el%20camino%20de%20Swann%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="443 KB" />
+    <link href="../../Marcel%20Proust/Por%20el%20camino%20de%20Swann%20%282301%29/Por%20el%20camino%20de%20Swann%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="443 KB" />
     <author>
       <name>Marcel Proust</name>
       <uri>../authors_1/authors_1608_Page_1.xml</uri>
@@ -348,7 +365,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:498</id>
     <updated>2023-04-01T02:02:00Z</updated>
     <link href="../../Victor%20del%20Arbol/Por%20encima%20de%20la%20lluvia%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20del%20Arbol/Por%20encima%20de%20la%20lluvia%20%28498%29/Por%20encima%20de%20la%20lluvia%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="666 KB" />
+    <link href="../../Victor%20del%20Arbol/Por%20encima%20de%20la%20lluvia%20%28498%29/Por%20encima%20de%20la%20lluvia%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="666 KB" />
     <author>
       <name>Víctor del Árbol</name>
       <uri>../authors_0/authors_180_Page_1.xml</uri>
@@ -365,7 +382,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:2312</id>
     <updated>2024-09-09T10:34:05Z</updated>
     <link href="../../Ernest%20Hemingway/Por%20quien%20doblan%20las%20campanas%20%282312%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ernest%20Hemingway/Por%20quien%20doblan%20las%20campanas%20%282312%29/Por%20quien%20doblan%20las%20campanas%20-%20Ernest%20Hemingway.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="479 KB" />
+    <link href="../../Ernest%20Hemingway/Por%20quien%20doblan%20las%20campanas%20%282312%29/Por%20quien%20doblan%20las%20campanas%20-%20Ernest%20Hemingway.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="479 KB" />
     <author>
       <name>Ernest Hemingway</name>
       <uri>../authors_1/authors_1610_Page_1.xml</uri>
@@ -381,7 +398,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:1479</id>
     <updated>2024-04-30T05:13:17Z</updated>
     <link href="../../Noam%20Chomsky/Por%20que%20Ucrania%20%281479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noam%20Chomsky/Por%20que%20Ucrania%20%281479%29/Por%20que%20Ucrania%20-%20Noam%20Chomsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="468 KB" />
+    <link href="../../Noam%20Chomsky/Por%20que%20Ucrania%20%281479%29/Por%20que%20Ucrania%20-%20Noam%20Chomsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="468 KB" />
     <author>
       <name>Noam Chomsky</name>
       <uri>../authors_1/authors_1082_Page_1.xml</uri>
@@ -398,7 +415,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:2662</id>
     <updated>2024-10-22T07:58:41Z</updated>
     <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/Por%20que%20fracasan%20los%20paises%20-%20Daron%20Acemoglu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/Por%20que%20fracasan%20los%20paises%20-%20Daron%20Acemoglu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Daron Acemoglu</name>
       <uri>../authors_1/authors_1751_Page_1.xml</uri>
@@ -421,7 +438,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <id>calibre:book:977</id>
     <updated>2023-08-23T00:29:00Z</updated>
     <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/Por%20siempre%20jamas%20-%20Harlan%20Coben.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/Por%20siempre%20jamas%20-%20Harlan%20Coben.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
     <author>
       <name>Harlan Coben</name>
       <uri>../authors_0/authors_725_Page_1.xml</uri>
@@ -432,23 +449,6 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <category term="Lang:es" />
     <summary>¿SE PUEDE TENER CONFIANZA CIEGA EN ALGUIEN?Will Klein adora a su hermano mayor, Ken, y cree que nunca le decepcionará. Pero una noche, en el sótano de la casa familiar, aparece el cadáver de una chica asesinada. Era una antigua novia de Will. Ante l...</summary>
     <link href="../book_0/book_977.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Por un puñado de letras</title>
-    <id>calibre:book:1314</id>
-    <updated>2024-03-21T00:44:05Z</updated>
-    <link href="../../Javier%20Bernal/Por%20un%20punado%20de%20letras%20%281314%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Bernal/Por%20un%20punado%20de%20letras%20%281314%29/Por%20un%20punado%20de%20letras%20-%20Javier%20Bernal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
-    <author>
-      <name>Javier Bernal</name>
-      <uri>../authors_0/authors_956_Page_1.xml</uri>
-    </author>
-    <published>2019-11-14T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Suma de Letras</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Dos amigos de la universidad, Pablo Azcárraga, corresponsal de guerra y Ryan Mullkin, analista político de The New York Times, ponen en marcha un innovador periódico digital en Nueva York. Su propósito: crear una plataforma de intercambio libre de in...</summary>
-    <link href="../book_1/book_1314.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

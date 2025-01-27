@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Núria Pradas Andreu</title>
+  <id>Calibre2opds:authors:1867</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1867_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Núria Pradas Andreu" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Apreciada señora Christie</title>
+    <id>calibre:book:2851</id>
+    <updated>2025-01-27T00:40:28Z</updated>
+    <link href="../../Nuria%20Pradas%20Andreu/Apreciada%20senora%20Christie%20%282851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nuria%20Pradas%20Andreu/Apreciada%20senora%20Christie%20%282851%29/Apreciada%20senora%20Christie%20-%20Nuria%20Pradas%20Andreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="459 KB" />
+    <author>
+      <name>Núria Pradas Andreu</name>
+      <uri>../authors_1/authors_1867_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un cozy crime cautivador que rinde homenaje a la gran maestra del misterio, Agatha Christie. Tras la Segunda Guerra Mundial, Emma Marbury hereda la librería de su tía Pennelope Brent en Dartmouth, Devon. Mientras intenta reconstruir su vida, se verá ...</summary>
+    <link href="../book_2/book_2851.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

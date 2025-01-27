@@ -11,15 +11,15 @@
   <link href="./authors_1484_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jane Austen" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
-  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por A" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <entry>
-    <title>Todos los libros de Jane Austen</title>
+    <title>All books by Jane Austen</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 9 libros</content>
+    <content type="text">Alphabetical index of the 9 books</content>
     <link href="../authors_1/authors_1484_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -27,7 +27,7 @@
   <entry>
     <title>Series: Biblioteca PruébaT</title>
     <id>Calibre2opds:authors:1484series:225</id>
-    <content type="text">7 libros</content>
+    <content type="text">7 books</content>
     <link href="../authors_1/authors_1484_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -37,7 +37,7 @@
     <id>calibre:book:2482</id>
     <updated>2024-09-09T10:34:40Z</updated>
     <link href="../../Jane%20Austen/Love%20and%20Freindship%20%282482%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Love%20and%20Freindship%20%282482%29/Love%20and%20Freindship%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="112 KB" />
+    <link href="../../Jane%20Austen/Love%20and%20Freindship%20%282482%29/Love%20and%20Freindship%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="112 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -53,7 +53,7 @@
     <id>calibre:book:2254</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Jane%20Austen/Sentido%20y%20sensibilidad%20%282254%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Sentido%20y%20sensibilidad%20%282254%29/Sentido%20y%20sensibilidad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="390 KB" />
+    <link href="../../Jane%20Austen/Sentido%20y%20sensibilidad%20%282254%29/Sentido%20y%20sensibilidad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="390 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>

@@ -6,11 +6,11 @@
   <link href="./book_2638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Guerra de infancia y de España" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por R" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
   <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+  <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
   <author>
     <name>Fabrizia Ramondino</name>
     <uri>../authors_1/authors_1733_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>Una joya de la literatura italiana, el relato de una
@@ -104,5 +104,5 @@
       Razón)</p>
     </div>
   </content>
-  <link href="../authors_1/authors_1733_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Fabrizia Ramondino" />
+  <link href="../authors_1/authors_1733_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Fabrizia Ramondino" />
 </entry>

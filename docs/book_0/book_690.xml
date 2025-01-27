@@ -6,11 +6,11 @@
   <link href="./book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El arte de la buena vida" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por I" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with I" />
   <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/El%20arte%20de%20la%20buena%20vida%20-%20William%20B.%20Irvine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+  <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/El%20arte%20de%20la%20buena%20vida%20-%20William%20B.%20Irvine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="556 KB" />
   <author>
     <name>William B. Irvine</name>
     <uri>../authors_0/authors_515_Page_1.xml</uri>
@@ -24,14 +24,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Filosofía, Ensayo, Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <br class="description" />
@@ -74,5 +74,5 @@
       </div>
     </div>
   </content>
-  <link href="../authors_0/authors_515_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William B. Irvine" />
+  <link href="../authors_0/authors_515_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by William B. Irvine" />
 </entry>

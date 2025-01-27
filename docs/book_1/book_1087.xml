@@ -6,12 +6,12 @@
   <link href="./book_1087.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Infamia" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por G" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authors_0/authors_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Raúl Garbantes" />
   <link href="../../Raul%20Garbantes/Infamia%20%281087%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Raul%20Garbantes/Infamia%20%281087%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Raul%20Garbantes/Infamia%20%281087%29/Infamia%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="564 KB" />
+  <link href="../../Raul%20Garbantes/Infamia%20%281087%29/Infamia%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
   <author>
     <name>Raúl Garbantes</name>
     <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -23,18 +23,18 @@
   <content type="text/html">
     <p>
       <strong>Series:</strong>
-      Libro 5 en la El experimentado detective Hensley serie
+      Book 5 in the El experimentado detective Hensley series
     </p>
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px">
@@ -57,5 +57,5 @@
       </p>
     </div>
   </content>
-  <link href="../authors_0/authors_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Raúl Garbantes" />
+  <link href="../authors_0/authors_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Raúl Garbantes" />
 </entry>

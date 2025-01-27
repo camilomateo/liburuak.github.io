@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por T</title>
+  <title>Books starting with T</title>
   <id>Calibre2opds:allbooks:T</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,92 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="./allbooks_T_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por T" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
+  <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:2358</id>
+    <updated>2024-09-09T10:34:14Z</updated>
+    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="102 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Clásico" />
+    <category term="Teatro" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [147]:</summary>
+    <link href="../book_2/book_2358.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La temporada de los niños perdidos</title>
+    <id>calibre:book:1554</id>
+    <updated>2024-06-02T10:59:45Z</updated>
+    <link href="../../Dot%20Hutchison/La%20temporada%20de%20los%20ninos%20perdidos%20%281554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dot%20Hutchison/La%20temporada%20de%20los%20ninos%20perdidos%20%281554%29/La%20temporada%20de%20los%20ninos%20perdi%20-%20Dot%20Hutchison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="699 KB" />
+    <author>
+      <name>Dot Hutchison</name>
+      <uri>../authors_0/authors_97_Page_1.xml</uri>
+    </author>
+    <published>2021-04-09T07:02:50Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta - México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una niña perdida muy cerca del cuartel general del FBI se convertirá en el inesperado vínculo que puede resolver una terrible tragedia del pasado.Brooklyn Mercer, de ocho años, fue vista por última vez cuando regresaba de la escuela y desde entonces...</summary>
+    <link href="../book_1/book_1554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La teoría de los sentimientos morales</title>
+    <id>calibre:book:1972</id>
+    <updated>2024-09-05T06:10:28Z</updated>
+    <link href="../../Adam%20Smith/La%20teoria%20de%20los%20sentimientos%20moral%20%281972%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Adam%20Smith/La%20teoria%20de%20los%20sentimientos%20moral%20%281972%29/La%20teoria%20de%20los%20sentimientos%20m%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="129 KB" />
+    <author>
+      <name>Adam Smith</name>
+      <uri>../authors_1/authors_1414_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [167]:</summary>
+    <link href="../book_1/book_1972.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tercer hombre</title>
+    <id>calibre:book:316</id>
+    <updated>2023-02-16T08:39:02Z</updated>
+    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Dugoni/El%20tercer%20hombre%20%28316%29/El%20tercer%20hombre%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="628 KB" />
+    <author>
+      <name>Robert Dugoni</name>
+      <uri>../authors_0/authors_222_Page_1.xml</uri>
+    </author>
+    <published>2022-12-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Charles Jenkins" />
+    <summary>Charles Jenkins [3]: La misión es nueva y los enemigos también, pero el objetivo es el mismo de siempre: sobrevivir. Cuando el agente Charles Jenkins se decide por fin a dar carpetazo a los juegos de espías, dos infiltradas en la Administración rusa ...</summary>
+    <link href="../book_0/book_316.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La tercera víctima</title>
     <id>calibre:book:2728</id>
     <updated>2024-12-11T08:23:55Z</updated>
     <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/La%20tercera%20victima%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="979 KB" />
+    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/La%20tercera%20victima%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="979 KB" />
     <author>
       <name>Lisa Gardner</name>
       <uri>../authors_1/authors_1731_Page_1.xml</uri>
@@ -35,7 +110,7 @@
     <id>calibre:book:112</id>
     <updated>2023-01-18T00:43:28Z</updated>
     <link href="../../Mario%20Vargas%20Llosa/La%20tia%20Julia%20y%20el%20escribidor%20%28112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Vargas%20Llosa/La%20tia%20Julia%20y%20el%20escribidor%20%28112%29/La%20tia%20Julia%20y%20el%20escribidor%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="659 KB" />
+    <link href="../../Mario%20Vargas%20Llosa/La%20tia%20Julia%20y%20el%20escribidor%20%28112%29/La%20tia%20Julia%20y%20el%20escribidor%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="659 KB" />
     <author>
       <name>Mario Vargas Llosa</name>
       <uri>../authors_0/authors_71_Page_1.xml</uri>
@@ -52,7 +127,7 @@
     <id>calibre:book:967</id>
     <updated>2023-08-16T05:29:00Z</updated>
     <link href="../../Maria%20Teresa%20Pereiro/El%20tiempo%20de%20la%20sal%20%28967%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Teresa%20Pereiro/El%20tiempo%20de%20la%20sal%20%28967%29/El%20tiempo%20de%20la%20sal%20-%20Maria%20Teresa%20Pereiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="654 KB" />
+    <link href="../../Maria%20Teresa%20Pereiro/El%20tiempo%20de%20la%20sal%20%28967%29/El%20tiempo%20de%20la%20sal%20-%20Maria%20Teresa%20Pereiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
     <author>
       <name>María Teresa Pereiro</name>
       <uri>../authors_0/authors_721_Page_1.xml</uri>
@@ -69,7 +144,7 @@
     <id>calibre:book:1847</id>
     <updated>2024-09-02T04:12:35Z</updated>
     <link href="../../Victor%20del%20Arbol/El%20tiempo%20de%20las%20fieras%20%281847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Victor%20del%20Arbol/El%20tiempo%20de%20las%20fieras%20%281847%29/El%20tiempo%20de%20las%20fieras%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="381 KB" />
+    <link href="../../Victor%20del%20Arbol/El%20tiempo%20de%20las%20fieras%20%281847%29/El%20tiempo%20de%20las%20fieras%20-%20Victor%20del%20Arbol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="381 KB" />
     <author>
       <name>Víctor del Árbol</name>
       <uri>../authors_0/authors_180_Page_1.xml</uri>
@@ -86,7 +161,7 @@
     <id>calibre:book:2607</id>
     <updated>2024-09-17T00:24:16Z</updated>
     <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/Una%20tienda%20en%20Chicken%20Hill%20-%20James%20McBride.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="602 KB" />
+    <link href="../../James%20McBride/Una%20tienda%20en%20Chicken%20Hill%20%282607%29/Una%20tienda%20en%20Chicken%20Hill%20-%20James%20McBride.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="602 KB" />
     <author>
       <name>James McBride</name>
       <uri>../authors_1/authors_1712_Page_1.xml</uri>
@@ -103,7 +178,7 @@
     <id>calibre:book:424</id>
     <updated>2023-03-14T04:53:28Z</updated>
     <link href="../../Maxim%20Huerta/Una%20tienda%20en%20Paris%20%28424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maxim%20Huerta/Una%20tienda%20en%20Paris%20%28424%29/Una%20tienda%20en%20Paris%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="598 KB" />
+    <link href="../../Maxim%20Huerta/Una%20tienda%20en%20Paris%20%28424%29/Una%20tienda%20en%20Paris%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="598 KB" />
     <author>
       <name>Màxim Huerta</name>
       <uri>../authors_0/authors_314_Page_1.xml</uri>
@@ -120,7 +195,7 @@
     <id>calibre:book:2623</id>
     <updated>2024-09-20T02:10:31Z</updated>
     <link href="../../Stephen%20King/La%20tienda%20%282623%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/La%20tienda%20%282623%29/La%20tienda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="817 KB" />
+    <link href="../../Stephen%20King/La%20tienda%20%282623%29/La%20tienda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="817 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -138,7 +213,7 @@
     <id>calibre:book:436</id>
     <updated>2023-03-20T05:50:08Z</updated>
     <link href="../../Cristina%20Fornos/La%20tierra%20del%20silencio%20roto%20%28436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cristina%20Fornos/La%20tierra%20del%20silencio%20roto%20%28436%29/La%20tierra%20del%20silencio%20roto%20-%20Cristina%20Fornos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="583 KB" />
+    <link href="../../Cristina%20Fornos/La%20tierra%20del%20silencio%20roto%20%28436%29/La%20tierra%20del%20silencio%20roto%20-%20Cristina%20Fornos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
     <author>
       <name>Cristina Fornós</name>
       <uri>../authors_0/authors_325_Page_1.xml</uri>
@@ -155,7 +230,7 @@
     <id>calibre:book:612</id>
     <updated>2023-05-04T11:27:42Z</updated>
     <link href="../../Ken%20Follett/Las%20tinieblas%20y%20el%20alba%20%28612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ken%20Follett/Las%20tinieblas%20y%20el%20alba%20%28612%29/Las%20tinieblas%20y%20el%20alba%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Ken%20Follett/Las%20tinieblas%20y%20el%20alba%20%28612%29/Las%20tinieblas%20y%20el%20alba%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Ken Follett</name>
       <uri>../authors_0/authors_425_Page_1.xml</uri>
@@ -173,7 +248,7 @@
     <id>calibre:book:1305</id>
     <updated>2024-03-21T00:44:03Z</updated>
     <link href="../../Mari%20Jungstedt/Las%20trampas%20del%20afecto%20%281305%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mari%20Jungstedt/Las%20trampas%20del%20afecto%20%281305%29/Las%20trampas%20del%20afecto%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="497 KB" />
+    <link href="../../Mari%20Jungstedt/Las%20trampas%20del%20afecto%20%281305%29/Las%20trampas%20del%20afecto%20-%20Mari%20Jungstedt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="497 KB" />
     <author>
       <name>Mari Jungstedt</name>
       <uri>../authors_0/authors_80_Page_1.xml</uri>
@@ -191,7 +266,7 @@
     <id>calibre:book:909</id>
     <updated>2023-06-26T05:25:28Z</updated>
     <link href="../../Fernando%20San%20Agustin/La%20trastienda%20de%20los%20servicios%20de%20i%20%28909%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20San%20Agustin/La%20trastienda%20de%20los%20servicios%20de%20i%20%28909%29/La%20trastienda%20de%20los%20servicios%20-%20Fernando%20San%20Agustin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Fernando%20San%20Agustin/La%20trastienda%20de%20los%20servicios%20de%20i%20%28909%29/La%20trastienda%20de%20los%20servicios%20-%20Fernando%20San%20Agustin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Fernando San Agustín</name>
       <uri>../authors_0/authors_682_Page_1.xml</uri>
@@ -208,7 +283,7 @@
     <id>calibre:book:1989</id>
     <updated>2024-09-05T06:10:31Z</updated>
     <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/El%20tratado%20de%20la%20pintura%20-%20Leon%20Battista%20Alberti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/El%20tratado%20de%20la%20pintura%20-%20Leon%20Battista%20Alberti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Leon Battista Alberti</name>
       <uri>../authors_1/authors_1424_Page_1.xml</uri>
@@ -242,7 +317,7 @@
     <id>calibre:book:618</id>
     <updated>2023-05-04T11:27:44Z</updated>
     <link href="../../Benjamin%20Prado/Los%20treinta%20apellidos%20%28618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Prado/Los%20treinta%20apellidos%20%28618%29/Los%20treinta%20apellidos%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <link href="../../Benjamin%20Prado/Los%20treinta%20apellidos%20%28618%29/Los%20treinta%20apellidos%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="518 KB" />
     <author>
       <name>Benjamín Prado</name>
       <uri>../authors_0/authors_459_Page_1.xml</uri>
@@ -259,7 +334,7 @@
     <id>calibre:book:1684</id>
     <updated>2024-07-29T11:15:45Z</updated>
     <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/El%20tren%20de%20los%20huerfanos%20-%20Christina%20Baker%20Kline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <link href="../../Christina%20Baker%20Kline/El%20tren%20de%20los%20huerfanos%20%281684%29/El%20tren%20de%20los%20huerfanos%20-%20Christina%20Baker%20Kline.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
     <author>
       <name>Christina Baker Kline</name>
       <uri>../authors_1/authors_1206_Page_1.xml</uri>
@@ -276,7 +351,7 @@
     <id>calibre:book:862</id>
     <updated>2023-06-14T05:48:34Z</updated>
     <link href="../../Laetitia%20Colombani/La%20trenza%20%28862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laetitia%20Colombani/La%20trenza%20%28862%29/La%20trenza%20-%20Laetitia%20Colombani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="639 KB" />
+    <link href="../../Laetitia%20Colombani/La%20trenza%20%28862%29/La%20trenza%20-%20Laetitia%20Colombani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="639 KB" />
     <author>
       <name>Laetitia Colombani</name>
       <uri>../authors_0/authors_647_Page_1.xml</uri>
@@ -293,7 +368,7 @@
     <id>calibre:book:50</id>
     <updated>2023-01-17T10:48:50Z</updated>
     <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/Las%20tres%20bodas%20de%20Manolita%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/Las%20tres%20bodas%20de%20Manolita%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
     <author>
       <name>Almudena Grandes</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -311,7 +386,7 @@
     <id>calibre:book:2030</id>
     <updated>2024-09-06T02:09:00Z</updated>
     <link href="../../Grimm/Las%20tres%20hilanderas%20%282030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Grimm/Las%20tres%20hilanderas%20%282030%29/Las%20tres%20hilanderas%20-%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="61 KB" />
+    <link href="../../Grimm/Las%20tres%20hilanderas%20%282030%29/Las%20tres%20hilanderas%20-%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="61 KB" />
     <author>
       <name>Grimm</name>
       <uri>../authors_1/authors_1460_Page_1.xml</uri>
@@ -327,7 +402,7 @@
     <id>calibre:book:2251</id>
     <updated>2024-09-09T10:33:53Z</updated>
     <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="648 KB" />
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="648 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -343,7 +418,7 @@
     <id>calibre:book:2783</id>
     <updated>2025-01-09T08:18:54Z</updated>
     <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/Las%20tres%20muertes%20de%20Sarah%20Colbe%20-%20Arantxa%20Rufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="937 KB" />
+    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/Las%20tres%20muertes%20de%20Sarah%20Colbe%20-%20Arantxa%20Rufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="937 KB" />
     <author>
       <name>Arantxa Rufo</name>
       <uri>../authors_1/authors_1821_Page_1.xml</uri>
@@ -360,7 +435,7 @@
     <id>calibre:book:374</id>
     <updated>2023-03-03T08:31:28Z</updated>
     <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/El%20triunfo%20de%20Sophia%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="683 KB" />
+    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/El%20triunfo%20de%20Sophia%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="683 KB" />
     <author>
       <name>Corina Bomann</name>
       <uri>../authors_0/authors_268_Page_1.xml</uri>
@@ -378,7 +453,7 @@
     <id>calibre:book:758</id>
     <updated>2023-05-22T05:07:00Z</updated>
     <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/Los%20trucos%20de%20los%20ricos%202%20-%20Juan%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/Los%20trucos%20de%20los%20ricos%202%20-%20Juan%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
       <name>Juan Haro</name>
       <uri>../authors_0/authors_567_Page_1.xml</uri>
@@ -392,60 +467,6 @@
     <summary>Los trucos de los ricos [2]: Todos aspiramos a construir nuestro propio patrimonio y a generar rentas pasivas. No obstante, no es fácil conseguirlo sin una idea clara de qué, cómo y cuándo debe hacerse. Sin los conocimientos adecuados estamos abocado...</summary>
     <link href="../book_0/book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La trágica historia del doctor Fausto</title>
-    <id>calibre:book:2348</id>
-    <updated>2024-09-09T10:34:13Z</updated>
-    <link href="../../Christopher%20Marlow/La%20tragica%20historia%20del%20doctor%20Faus%20%282348%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Christopher%20Marlow/La%20tragica%20historia%20del%20doctor%20Faus%20%282348%29/La%20tragica%20historia%20del%20doctor%20-%20Christopher%20Marlow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
-    <author>
-      <name>Christopher Marlow</name>
-      <uri>../authors_1/authors_1627_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [148]:</summary>
-    <link href="../book_2/book_2348.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La tumba de Sarah</title>
-    <id>calibre:book:1605</id>
-    <updated>2024-06-02T10:59:59Z</updated>
-    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Dugoni/La%20tumba%20de%20Sarah%20%281605%29/La%20tumba%20de%20Sarah%20-%20Robert%20Dugoni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="787 KB" />
-    <author>
-      <name>Robert Dugoni</name>
-      <uri>../authors_0/authors_222_Page_1.xml</uri>
-    </author>
-    <published>2016-05-02T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Amazon Crossing</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>...</summary>
-    <link href="../book_1/book_1605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los títeres de cachiporra</title>
-    <id>calibre:book:2147</id>
-    <updated>2024-09-06T02:21:23Z</updated>
-    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/Los%20titeres%20de%20cachiporra%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
-    <author>
-      <name>Federico García Lorca</name>
-      <uri>../authors_0/authors_85_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [6]:</summary>
-    <link href="../book_2/book_2147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 7)" />
-  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
+  <link href="../allbooks/allbooks_T_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 8)" />
+  <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
 </feed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por S</title>
+  <title>Books starting with S</title>
   <id>Calibre2opds:allbooks:S</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,51 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="./allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por S" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
+  <entry>
+    <title>La sombra de la tierra</title>
+    <id>calibre:book:351</id>
+    <updated>2023-02-23T01:18:58Z</updated>
+    <link href="../../Elvira%20Minguez/La%20sombra%20de%20la%20tierra%20%28351%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elvira%20Minguez/La%20sombra%20de%20la%20tierra%20%28351%29/La%20sombra%20de%20la%20tierra%20-%20Elvira%20Minguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="529 KB" />
+    <author>
+      <name>Elvira Mínguez</name>
+      <uri>../authors_0/authors_246_Page_1.xml</uri>
+    </author>
+    <published>2023-01-11T03:03:14Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Serán los hijos los que se conjuren contra el silencio de los padres para arrancar a la tierra de su sombra»La sombra de la tierra es la historia de dos mujeres o, mejor dicho, de la escalada al poder de una de ellas y la pérdida del mismo de la otr...</summary>
+    <link href="../book_0/book_351.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra de los sueños</title>
+    <id>calibre:book:1308</id>
+    <updated>2024-03-21T00:44:04Z</updated>
+    <link href="../../Gonzalo%20Giner/La%20sombra%20de%20los%20suenos%20%281308%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gonzalo%20Giner/La%20sombra%20de%20los%20suenos%20%281308%29/La%20sombra%20de%20los%20suenos%20-%20Gonzalo%20Giner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gonzalo Giner</name>
+      <uri>../authors_0/authors_950_Page_1.xml</uri>
+    </author>
+    <published>2024-03-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Hay sueños que es mejor no cumplir. Una historia repleta de acción, aventura y conspiraciones en torno a la figura histórica de Saladino. Sarah Ludwig es una sofisticada ladrona de arte. Tras su último robo, un valioso Manet, contacta con ella el emi...</summary>
+    <link href="../book_1/book_1308.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La sombra del impostor</title>
     <id>calibre:book:294</id>
     <updated>2023-02-10T03:54:52Z</updated>
     <link href="../../Alberto%20Caliani/La%20sombra%20del%20impostor%20%28294%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alberto%20Caliani/La%20sombra%20del%20impostor%20%28294%29/La%20sombra%20del%20impostor%20-%20Alberto%20Caliani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="827 KB" />
+    <link href="../../Alberto%20Caliani/La%20sombra%20del%20impostor%20%28294%29/La%20sombra%20del%20impostor%20-%20Alberto%20Caliani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="827 KB" />
     <author>
       <name>Alberto Caliani</name>
       <uri>../authors_0/authors_202_Page_1.xml</uri>
@@ -35,7 +69,7 @@
     <id>calibre:book:16</id>
     <updated>2023-01-17T10:11:04Z</updated>
     <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="632 KB" />
+    <link href="../../Ragnar%20Jonasson/La%20sombra%20del%20miedo%20%2816%29/La%20sombra%20del%20miedo%20-%20Ragnar%20Jonasson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
     <author>
       <name>Ragnar Jónasson</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -53,7 +87,7 @@
     <id>calibre:book:743</id>
     <updated>2023-05-22T05:06:42Z</updated>
     <link href="../../Arturo%20Perez-Reverte/La%20sombra%20del%20aguila%20%28743%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arturo%20Perez-Reverte/La%20sombra%20del%20aguila%20%28743%29/La%20sombra%20del%20aguila%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="599 KB" />
+    <link href="../../Arturo%20Perez-Reverte/La%20sombra%20del%20aguila%20%28743%29/La%20sombra%20del%20aguila%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
       <name>Arturo Pérez-Reverte</name>
       <uri>../authors_0/authors_1_Page_1.xml</uri>
@@ -72,7 +106,7 @@
     <id>calibre:book:1000</id>
     <updated>2023-08-23T02:48:42Z</updated>
     <link href="../../Robert%20Bryndza/Una%20sombra%20en%20la%20oscuridad%20%281000%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Bryndza/Una%20sombra%20en%20la%20oscuridad%20%281000%29/Una%20sombra%20en%20la%20oscuridad%20-%20Robert%20Bryndza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <link href="../../Robert%20Bryndza/Una%20sombra%20en%20la%20oscuridad%20%281000%29/Una%20sombra%20en%20la%20oscuridad%20-%20Robert%20Bryndza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="620 KB" />
     <author>
       <name>Robert Bryndza</name>
       <uri>../authors_0/authors_69_Page_1.xml</uri>
@@ -90,7 +124,7 @@
     <id>calibre:book:1507</id>
     <updated>2024-05-10T08:43:29Z</updated>
     <link href="../../Benjamin%20Black/Las%20sombras%20de%20Quirke%20%281507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Black/Las%20sombras%20de%20Quirke%20%281507%29/Las%20sombras%20de%20Quirke%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="353 KB" />
+    <link href="../../Benjamin%20Black/Las%20sombras%20de%20Quirke%20%281507%29/Las%20sombras%20de%20Quirke%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="353 KB" />
     <author>
       <name>Benjamin Black</name>
       <uri>../authors_1/authors_1100_Page_1.xml</uri>
@@ -108,7 +142,7 @@
     <id>calibre:book:2197</id>
     <updated>2024-09-06T02:21:32Z</updated>
     <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20sombrero%20de%20tres%20picos%20%282197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20sombrero%20de%20tres%20picos%20%282197%29/El%20sombrero%20de%20tres%20picos%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="150 KB" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20sombrero%20de%20tres%20picos%20%282197%29/El%20sombrero%20de%20tres%20picos%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
     <author>
       <name>Pedro Antonio de Alarcón</name>
       <uri>../authors_1/authors_1509_Page_1.xml</uri>
@@ -126,7 +160,7 @@
     <id>calibre:book:1007</id>
     <updated>2023-08-27T03:19:00Z</updated>
     <link href="../../Marie%20J.%20Cisa/La%20sospecha%20de%20Nora%20%281007%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marie%20J.%20Cisa/La%20sospecha%20de%20Nora%20%281007%29/La%20sospecha%20de%20Nora%20-%20Marie%20J.%20Cisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="979 KB" />
+    <link href="../../Marie%20J.%20Cisa/La%20sospecha%20de%20Nora%20%281007%29/La%20sospecha%20de%20Nora%20-%20Marie%20J.%20Cisa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="979 KB" />
     <author>
       <name>Marie J. Cisa</name>
       <uri>../authors_0/authors_746_Page_1.xml</uri>
@@ -142,7 +176,7 @@
     <id>calibre:book:688</id>
     <updated>2023-05-16T08:56:28Z</updated>
     <link href="../../Roberto%20Martinez%20Guzman/La%20suerte%20de%20los%20idiotas%20%28688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roberto%20Martinez%20Guzman/La%20suerte%20de%20los%20idiotas%20%28688%29/La%20suerte%20de%20los%20idiotas%20-%20Roberto%20Martinez%20Guzman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="533 KB" />
+    <link href="../../Roberto%20Martinez%20Guzman/La%20suerte%20de%20los%20idiotas%20%28688%29/La%20suerte%20de%20los%20idiotas%20-%20Roberto%20Martinez%20Guzman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="533 KB" />
     <author>
       <name>Roberto Martínez Guzmán</name>
       <uri>../authors_0/authors_513_Page_1.xml</uri>
@@ -160,7 +194,7 @@
     <id>calibre:book:1160</id>
     <updated>2024-01-25T08:39:51Z</updated>
     <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/El%20sufrimiento%20de%20las%20cigarras%20-%20Maria%20Jesus%20Perez%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="522 KB" />
+    <link href="../../Maria%20Jesus%20Perez%20Navarro/El%20sufrimiento%20de%20las%20cigarras%20%281160%29/El%20sufrimiento%20de%20las%20cigarras%20-%20Maria%20Jesus%20Perez%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
     <author>
       <name>María Jesús Pérez Navarro</name>
       <uri>../authors_0/authors_846_Page_1.xml</uri>
@@ -177,7 +211,7 @@
     <id>calibre:book:1213</id>
     <updated>2024-02-20T01:04:10Z</updated>
     <link href="../../David%20Olivas/El%20susurro%20del%20angel%20%281213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Olivas/El%20susurro%20del%20angel%20%281213%29/El%20susurro%20del%20angel%20-%20David%20Olivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="514 KB" />
+    <link href="../../David%20Olivas/El%20susurro%20del%20angel%20%281213%29/El%20susurro%20del%20angel%20-%20David%20Olivas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="514 KB" />
     <author>
       <name>David Olivas</name>
       <uri>../authors_0/authors_880_Page_1.xml</uri>
@@ -194,7 +228,7 @@
     <id>calibre:book:1338</id>
     <updated>2024-03-21T01:00:32Z</updated>
     <link href="../../Santiago%20Posteguillo/El%20septimo%20circulo%20del%20infierno%20%281338%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Santiago%20Posteguillo/El%20septimo%20circulo%20del%20infierno%20%281338%29/El%20septimo%20circulo%20del%20infierno%20-%20Santiago%20Posteguillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="487 KB" />
+    <link href="../../Santiago%20Posteguillo/El%20septimo%20circulo%20del%20infierno%20%281338%29/El%20septimo%20circulo%20del%20infierno%20-%20Santiago%20Posteguillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="487 KB" />
     <author>
       <name>Santiago Posteguillo</name>
       <uri>../authors_0/authors_979_Page_1.xml</uri>
@@ -211,7 +245,7 @@
     <id>calibre:book:2217</id>
     <updated>2024-09-06T02:21:36Z</updated>
     <link href="../../Leandro%20Fernandez%20de%20Moratin/El%20si%20de%20las%20ninas%20%282217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leandro%20Fernandez%20de%20Moratin/El%20si%20de%20las%20ninas%20%282217%29/El%20si%20de%20las%20ninas%20-%20Leandro%20Fernandez%20de%20Moratin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="143 KB" />
+    <link href="../../Leandro%20Fernandez%20de%20Moratin/El%20si%20de%20las%20ninas%20%282217%29/El%20si%20de%20las%20ninas%20-%20Leandro%20Fernandez%20de%20Moratin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="143 KB" />
     <author>
       <name>Leandro Fernández de Moratín</name>
       <uri>../authors_1/authors_1565_Page_1.xml</uri>
@@ -227,7 +261,7 @@
     <id>calibre:book:920</id>
     <updated>2023-07-04T02:12:08Z</updated>
     <link href="../../Edu%20Galan/El%20sindrome%20Woody%20Allen%20%28920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edu%20Galan/El%20sindrome%20Woody%20Allen%20%28920%29/El%20sindrome%20Woody%20Allen%20-%20Edu%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="631 KB" />
+    <link href="../../Edu%20Galan/El%20sindrome%20Woody%20Allen%20%28920%29/El%20sindrome%20Woody%20Allen%20-%20Edu%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="631 KB" />
     <author>
       <name>Edu Galán</name>
       <uri>../authors_0/authors_690_Page_1.xml</uri>
@@ -244,7 +278,7 @@
     <id>calibre:book:243</id>
     <updated>2023-02-02T08:58:30Z</updated>
     <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/El%20sindrome%20de%20La%20Moncloa%20-%20Pilar%20Cernuda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/El%20sindrome%20de%20La%20Moncloa%20-%20Pilar%20Cernuda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
     <author>
       <name>Pilar Cernuda</name>
       <uri>../authors_0/authors_171_Page_1.xml</uri>
@@ -263,7 +297,7 @@
     <id>calibre:book:1489</id>
     <updated>2024-05-03T02:01:59Z</updated>
     <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/El%20sindrome%20de%20la%20chica%20buena%20-%20Marta%20Martinez%20Novoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="492 KB" />
+    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/El%20sindrome%20de%20la%20chica%20buena%20-%20Marta%20Martinez%20Novoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="492 KB" />
     <author>
       <name>Marta Martínez Novoa</name>
       <uri>../authors_1/authors_1089_Page_1.xml</uri>
@@ -280,7 +314,7 @@
     <id>calibre:book:2411</id>
     <updated>2024-09-09T10:34:25Z</updated>
     <link href="../../Heinrich%20Mann/El%20subdito%20%282411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Heinrich%20Mann/El%20subdito%20%282411%29/El%20subdito%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="393 KB" />
+    <link href="../../Heinrich%20Mann/El%20subdito%20%282411%29/El%20subdito%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="393 KB" />
     <author>
       <name>Heinrich Mann</name>
       <uri>../authors_1/authors_1641_Page_1.xml</uri>

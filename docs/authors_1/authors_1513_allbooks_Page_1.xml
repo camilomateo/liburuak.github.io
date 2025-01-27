@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Miguel de Unamuno</title>
+  <title>All books by Miguel de Unamuno</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1513_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Miguel de Unamuno" />
+  <link href="./authors_1513_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Miguel de Unamuno" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with U" />
   <link href="./authors_1513_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Miguel de Unamuno" />
   <entry>
     <title>¡Adentro!</title>
     <id>calibre:book:2136</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Miguel%20de%20Unamuno/%21Adentro%21%20%282136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/%21Adentro%21%20%282136%29/%21Adentro%21%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="57 KB" />
+    <link href="../../Miguel%20de%20Unamuno/%21Adentro%21%20%282136%29/%21Adentro%21%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="57 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -35,7 +35,7 @@
     <id>calibre:book:2140</id>
     <updated>2024-09-06T02:21:22Z</updated>
     <link href="../../Miguel%20de%20Unamuno/Abel%20Sanchez%20%282140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/Abel%20Sanchez%20%282140%29/Abel%20Sanchez%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="104 KB" />
+    <link href="../../Miguel%20de%20Unamuno/Abel%20Sanchez%20%282140%29/Abel%20Sanchez%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="104 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -51,7 +51,7 @@
     <id>calibre:book:2133</id>
     <updated>2024-09-06T02:21:21Z</updated>
     <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/Amor%20y%20Pedagogia%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+    <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/Amor%20y%20Pedagogia%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="159 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -67,7 +67,7 @@
     <id>calibre:book:2207</id>
     <updated>2024-09-06T02:21:34Z</updated>
     <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/Niebla%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="209 KB" />
+    <link href="../../Miguel%20de%20Unamuno/Niebla%20%282207%29/Niebla%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="209 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -85,7 +85,7 @@
     <id>calibre:book:2424</id>
     <updated>2024-09-09T10:34:28Z</updated>
     <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/El%20otro%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/El%20otro%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -105,7 +105,7 @@
     <id>calibre:book:2219</id>
     <updated>2024-09-06T02:21:37Z</updated>
     <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/La%20Tia%20Tula%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="154 KB" />
+    <link href="../../Miguel%20de%20Unamuno/La%20Tia%20Tula%20%282219%29/La%20Tia%20Tula%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="154 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>

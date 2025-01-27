@@ -6,12 +6,12 @@
   <link href="./book_1232.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El Laberinto de los Espíritus" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por Z" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
   <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Carlos Ruiz Zafón" />
   <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/El%20Laberinto%20de%20los%20Espiritus%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/El%20Laberinto%20de%20los%20Espiritus%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Carlos Ruiz Zafón</name>
     <uri>../authors_0/authors_897_Page_1.xml</uri>
@@ -26,11 +26,11 @@
       ****
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">En la Barcelona de finales de los años 50, Daniel
     Sempere ya no es aquel niño que descubrió un libro
@@ -53,5 +53,5 @@
     libros, al arte de narrar historias y al vínculo
     mágico entre la literatura y la vida.</p>
   </content>
-  <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Carlos Ruiz Zafón" />
+  <link href="../authors_0/authors_897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Carlos Ruiz Zafón" />
 </entry>

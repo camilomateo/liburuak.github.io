@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de H. P. Lovecraft</title>
+  <title>All books by H. P. Lovecraft</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,21 +8,21 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_1489_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de H. P. Lovecraft" />
+  <link href="./authors_1489_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by H. P. Lovecraft" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
-  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por L" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
   <link href="./authors_1489_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="H. P. Lovecraft" />
   <entry>
     <title>El horror de Dunwich</title>
     <id>calibre:book:2284</id>
     <updated>2024-09-09T10:33:59Z</updated>
     <link href="../../H.%20P.%20Lovecraft/El%20horror%20de%20Dunwich%20%282284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/El%20horror%20de%20Dunwich%20%282284%29/El%20horror%20de%20Dunwich%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="116 KB" />
+    <link href="../../H.%20P.%20Lovecraft/El%20horror%20de%20Dunwich%20%282284%29/El%20horror%20de%20Dunwich%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="116 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>
@@ -40,7 +40,7 @@
     <id>calibre:book:2544</id>
     <updated>2024-09-09T10:35:05Z</updated>
     <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/Seleccion%20de%20cuentos%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="221 KB" />
+    <link href="../../H.%20P.%20Lovecraft/Seleccion%20de%20cuentos%20%282544%29/Seleccion%20de%20cuentos%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="221 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:2088</id>
     <updated>2024-09-06T02:09:10Z</updated>
     <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="102 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>
@@ -79,7 +79,7 @@
     <id>calibre:book:2510</id>
     <updated>2024-09-09T10:34:46Z</updated>
     <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="193 KB" />
     <author>
       <name>H. P. Lovecraft</name>
       <uri>../authors_1/authors_1489_Page_1.xml</uri>

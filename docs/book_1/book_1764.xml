@@ -6,11 +6,11 @@
   <link href="./book_1764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nueva historia de la España contemporánea (1808-2018)" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por J" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
   <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/Nueva%20historia%20de%20la%20Espana%20con%20-%20Jose%20Alvarez%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <link href="../../Jose%20Alvarez%20Junco/Nueva%20historia%20de%20la%20Espana%20contemp%20%281764%29/Nueva%20historia%20de%20la%20Espana%20con%20-%20Jose%20Alvarez%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
   <author>
     <name>José Álvarez Junco</name>
     <uri>../authors_1/authors_1264_Page_1.xml</uri>
@@ -26,14 +26,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">Esta es una nueva historia de la España
     contemporánea, vista en toda su diversidad política y
@@ -71,6 +71,6 @@
     historia nacional que siempre fue también europea y
     global.</p>
   </content>
-  <link href="../authors_1/authors_1264_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Álvarez Junco" />
-  <link href="../authors_1/authors_1265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Adrian Shubert" />
+  <link href="../authors_1/authors_1264_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by José Álvarez Junco" />
+  <link href="../authors_1/authors_1265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Adrian Shubert" />
 </entry>

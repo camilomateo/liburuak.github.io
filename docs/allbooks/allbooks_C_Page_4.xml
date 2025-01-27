@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por C</title>
+  <title>Books starting with C</title>
   <id>Calibre2opds:allbooks:C</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,52 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="./allbooks_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por C" />
-  <link href="../allbooks/allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 13)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 14)" />
+  <entry>
+    <title>Ciudad Victoria</title>
+    <id>calibre:book:356</id>
+    <updated>2023-02-24T09:48:12Z</updated>
+    <link href="../../Salman%20Rushdie/Ciudad%20Victoria%20%28356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Salman%20Rushdie/Ciudad%20Victoria%20%28356%29/Ciudad%20Victoria%20-%20Salman%20Rushdie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="607 KB" />
+    <author>
+      <name>Salman Rushdie</name>
+      <uri>../authors_0/authors_251_Page_1.xml</uri>
+    </author>
+    <published>2023-02-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literatura Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Ciudad Victoria es colosal y profunda, elevada y resplandeciente. Cada página es mágica, cada página es espléndida. Tratándose de una obra de arte significativa, no se parece a ninguna otranovela que pueda nombrar [...]. Un logro mayúsculo de uno de...</summary>
+    <link href="../book_0/book_356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Ciudad de Vapor</title>
+    <id>calibre:book:1272</id>
+    <updated>2024-03-07T06:32:13Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Ciudad%20de%20Vapor%20%281272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Ciudad%20de%20Vapor%20%281272%29/La%20Ciudad%20de%20Vapor%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2020-11-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Carlos Ruiz Zafón concibió está obra como un reconocimiento a sus lectores, que le habían seguido a lo largo de la saga iniciada con La Sombra del Viento. «Puedo conjurar rostros de chiquillos del barrio de la Ribera con los que a veces jugaba o pele...</summary>
+    <link href="../book_1/book_1272.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Ciudad de los sueños</title>
     <id>calibre:book:1155</id>
     <updated>2024-01-25T08:39:50Z</updated>
     <link href="../../Don%20Winslow/Ciudad%20de%20los%20suenos%20%281155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Winslow/Ciudad%20de%20los%20suenos%20%281155%29/Ciudad%20de%20los%20suenos%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Don%20Winslow/Ciudad%20de%20los%20suenos%20%281155%29/Ciudad%20de%20los%20suenos%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Don Winslow</name>
       <uri>../authors_0/authors_842_Page_1.xml</uri>
@@ -36,7 +70,7 @@
     <id>calibre:book:1484</id>
     <updated>2024-04-30T05:13:18Z</updated>
     <link href="../../Don%20Winslow/Ciudad%20en%20ruinas%20%281484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Winslow/Ciudad%20en%20ruinas%20%281484%29/Ciudad%20en%20ruinas%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Don%20Winslow/Ciudad%20en%20ruinas%20%281484%29/Ciudad%20en%20ruinas%20-%20Don%20Winslow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Don Winslow</name>
       <uri>../authors_0/authors_842_Page_1.xml</uri>
@@ -53,7 +87,7 @@
     <id>calibre:book:414</id>
     <updated>2023-03-14T04:30:30Z</updated>
     <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="12 MB" />
     <author>
       <name>Juan Eslava Galán</name>
       <uri>../authors_0/authors_304_Page_1.xml</uri>
@@ -71,7 +105,7 @@
     <id>calibre:book:579</id>
     <updated>2023-04-28T01:16:50Z</updated>
     <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/Clarity%20-%20Daniel%20San%20Martin%20Sepulveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Daniel%20San%20Martin%20Sepulveda/Clarity%20%28579%29/Clarity%20-%20Daniel%20San%20Martin%20Sepulveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Daniel San Martín Sepúlveda</name>
       <uri>../authors_0/authors_432_Page_1.xml</uri>
@@ -88,7 +122,7 @@
     <id>calibre:book:2029</id>
     <updated>2024-09-06T01:57:48Z</updated>
     <link href="../../Ruben%20M.%20Campos/Claudio%20Oronoz%20%282029%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ruben%20M.%20Campos/Claudio%20Oronoz%20%282029%29/Claudio%20Oronoz%20-%20Ruben%20M.%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="273 KB" />
+    <link href="../../Ruben%20M.%20Campos/Claudio%20Oronoz%20%282029%29/Claudio%20Oronoz%20-%20Ruben%20M.%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="273 KB" />
     <author>
       <name>Rubén M. Campos</name>
       <uri>../authors_1/authors_1459_Page_1.xml</uri>
@@ -106,7 +140,7 @@
     <id>calibre:book:2019</id>
     <updated>2024-09-06T01:57:46Z</updated>
     <link href="../../Ignacio%20Manuel%20Altamirano/Clemencia%20%282019%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Manuel%20Altamirano/Clemencia%20%282019%29/Clemencia%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <link href="../../Ignacio%20Manuel%20Altamirano/Clemencia%20%282019%29/Clemencia%20-%20Ignacio%20Manuel%20Altamirano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="220 KB" />
     <author>
       <name>Ignacio Manuel Altamirano</name>
       <uri>../authors_1/authors_1429_Page_1.xml</uri>
@@ -124,7 +158,7 @@
     <id>calibre:book:1190</id>
     <updated>2024-02-01T10:12:45Z</updated>
     <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/El%20Club%20del%20Crimen%20de%20los%20Jueve%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <link href="../../Richard%20Osman/El%20Club%20del%20Crimen%20de%20los%20Jueves%20%281190%29/El%20Club%20del%20Crimen%20de%20los%20Jueve%20-%20Richard%20Osman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
     <author>
       <name>Richard Osman</name>
       <uri>../authors_0/authors_777_Page_1.xml</uri>
@@ -141,7 +175,7 @@
     <id>calibre:book:1049</id>
     <updated>2023-11-01T07:27:31Z</updated>
     <link href="../../Fundacion%20Alicia/Cocina%20con%20microondas%20%281049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fundacion%20Alicia/Cocina%20con%20microondas%20%281049%29/Cocina%20con%20microondas%20-%20Fundacion%20Alicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="39 MB" />
+    <link href="../../Fundacion%20Alicia/Cocina%20con%20microondas%20%281049%29/Cocina%20con%20microondas%20-%20Fundacion%20Alicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="39 MB" />
     <author>
       <name>Fundación Alícia</name>
       <uri>../authors_0/authors_769_Page_1.xml</uri>
@@ -158,7 +192,7 @@
     <id>calibre:book:55</id>
     <updated>2023-01-17T10:56:06Z</updated>
     <link href="../../Karlos%20Arguinano/Cocina%20dia%20a%20dia%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Karlos%20Arguinano/Cocina%20dia%20a%20dia%20%2855%29/Cocina%20dia%20a%20dia%20-%20Karlos%20Arguinano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="54 MB" />
+    <link href="../../Karlos%20Arguinano/Cocina%20dia%20a%20dia%20%2855%29/Cocina%20dia%20a%20dia%20-%20Karlos%20Arguinano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="54 MB" />
     <author>
       <name>Karlos Arguiñano</name>
       <uri>../authors_0/authors_40_Page_1.xml</uri>
@@ -176,7 +210,7 @@
     <id>calibre:book:1317</id>
     <updated>2024-03-21T01:00:27Z</updated>
     <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/Cocina%20en%20casa%20con%20Martin%20Beras%20-%20Martin%20Berasategui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="714 KB" />
+    <link href="../../Martin%20Berasategui/Cocina%20en%20casa%20con%20Martin%20Berasateg%20%281317%29/Cocina%20en%20casa%20con%20Martin%20Beras%20-%20Martin%20Berasategui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="714 KB" />
     <author>
       <name>Martín Berasategui</name>
       <uri>../authors_0/authors_959_Page_1.xml</uri>
@@ -193,7 +227,7 @@
     <id>calibre:book:1643</id>
     <updated>2024-06-22T02:04:43Z</updated>
     <link href="../../Javier%20Romero/Cocina%20familiar%20%281643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Romero/Cocina%20familiar%20%281643%29/Cocina%20familiar%20-%20Javier%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <link href="../../Javier%20Romero/Cocina%20familiar%20%281643%29/Cocina%20familiar%20-%20Javier%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
       <name>Javier Romero</name>
       <uri>../authors_1/authors_1187_Page_1.xml</uri>
@@ -210,7 +244,7 @@
     <id>calibre:book:57</id>
     <updated>2023-08-30T08:44:20Z</updated>
     <link href="../../Paul%20Stevan/Cocina%20japonesa%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paul%20Stevan/Cocina%20japonesa%20%2857%29/Cocina%20japonesa%20-%20Paul%20Stevan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="161 MB" />
+    <link href="../../Paul%20Stevan/Cocina%20japonesa%20%2857%29/Cocina%20japonesa%20-%20Paul%20Stevan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="161 MB" />
     <author>
       <name>Paul Stevan</name>
       <uri>../authors_0/authors_42_Page_1.xml</uri>
@@ -227,7 +261,7 @@
     <id>calibre:book:677</id>
     <updated>2023-05-15T05:51:32Z</updated>
     <link href="../../Maria%20Nicolau/Cocina%20o%20barbarie%20%28677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Nicolau/Cocina%20o%20barbarie%20%28677%29/Cocina%20o%20barbarie%20-%20Maria%20Nicolau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="720 KB" />
+    <link href="../../Maria%20Nicolau/Cocina%20o%20barbarie%20%28677%29/Cocina%20o%20barbarie%20-%20Maria%20Nicolau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="720 KB" />
     <author>
       <name>María Nicolau</name>
       <uri>../authors_0/authors_503_Page_1.xml</uri>
@@ -244,7 +278,7 @@
     <id>calibre:book:1744</id>
     <updated>2024-08-26T10:56:06Z</updated>
     <link href="../../Michael%20Pollan/Cocinar%20%281744%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Pollan/Cocinar%20%281744%29/Cocinar%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Michael%20Pollan/Cocinar%20%281744%29/Cocinar%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Michael Pollan</name>
       <uri>../authors_1/authors_1249_Page_1.xml</uri>
@@ -261,7 +295,7 @@
     <id>calibre:book:364</id>
     <updated>2023-02-27T01:48:14Z</updated>
     <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/Colate%20por%20Nicolas%20-%20Nicolas%20Vallejo-Nagera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/Colate%20por%20Nicolas%20-%20Nicolas%20Vallejo-Nagera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
     <author>
       <name>Nicolás Vallejo-Nágera</name>
       <uri>../authors_0/authors_259_Page_1.xml</uri>
@@ -279,7 +313,7 @@
     <id>calibre:book:1801</id>
     <updated>2024-08-26T10:56:18Z</updated>
     <link href="../../Jana%20Crespo/Coleccion%20Thriller%20Psicologico%20%281801%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jana%20Crespo/Coleccion%20Thriller%20Psicologico%20%281801%29/Coleccion%20Thriller%20Psicologico%20-%20Jana%20Crespo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="424 KB" />
+    <link href="../../Jana%20Crespo/Coleccion%20Thriller%20Psicologico%20%281801%29/Coleccion%20Thriller%20Psicologico%20-%20Jana%20Crespo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="424 KB" />
     <author>
       <name>Jana Crespo</name>
       <uri>../authors_1/authors_1293_Page_1.xml</uri>
@@ -295,7 +329,7 @@
     <id>calibre:book:2526</id>
     <updated>2024-09-09T10:34:49Z</updated>
     <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/Comedias%2C%20tomo%201%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/Comedias%2C%20tomo%201%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
     <author>
       <name>Aristófanes</name>
       <uri>../authors_1/authors_1670_Page_1.xml</uri>
@@ -321,7 +355,7 @@
     <id>calibre:book:2528</id>
     <updated>2024-09-09T10:34:49Z</updated>
     <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/Comedias%2C%20tomo%202%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="213 KB" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/Comedias%2C%20tomo%202%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="213 KB" />
     <author>
       <name>Aristófanes</name>
       <uri>../authors_1/authors_1670_Page_1.xml</uri>
@@ -347,7 +381,7 @@
     <id>calibre:book:2529</id>
     <updated>2024-09-09T10:34:49Z</updated>
     <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/Comedias%2C%20tomo%203%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="199 KB" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/Comedias%2C%20tomo%203%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="199 KB" />
     <author>
       <name>Aristófanes</name>
       <uri>../authors_1/authors_1670_Page_1.xml</uri>
@@ -373,7 +407,7 @@
     <id>calibre:book:2005</id>
     <updated>2024-09-06T01:57:43Z</updated>
     <link href="../../Inca%20Garcilaso/Comentarios%20Reales%20de%20los%20Incas%20%282005%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Inca%20Garcilaso/Comentarios%20Reales%20de%20los%20Incas%20%282005%29/Comentarios%20Reales%20de%20los%20Incas%20-%20Inca%20Garcilaso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="272 KB" />
+    <link href="../../Inca%20Garcilaso/Comentarios%20Reales%20de%20los%20Incas%20%282005%29/Comentarios%20Reales%20de%20los%20Incas%20-%20Inca%20Garcilaso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="272 KB" />
     <author>
       <name>Inca Garcilaso</name>
       <uri>../authors_1/authors_1437_Page_1.xml</uri>
@@ -389,7 +423,7 @@
     <id>calibre:book:274</id>
     <updated>2023-02-03T08:43:30Z</updated>
     <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%28274%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="264 KB" />
     <author>
       <name>Dale Carnegie</name>
       <uri>../authors_0/authors_186_Page_1.xml</uri>
@@ -406,7 +440,7 @@
     <id>calibre:book:1345</id>
     <updated>2024-03-21T01:00:33Z</updated>
     <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/Como%20hacer%20que%20te%20pasen%20cosas%20b%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/Como%20hacer%20que%20te%20pasen%20cosas%20b%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="449 KB" />
     <author>
       <name>Marian Rojas Estapé</name>
       <uri>../authors_0/authors_427_Page_1.xml</uri>
@@ -421,57 +455,23 @@
     <link href="../book_1/book_1345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Con la luz encendida</title>
-    <id>calibre:book:2566</id>
-    <updated>2024-09-09T03:24:00Z</updated>
-    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20de%20Cristobal/Con%20la%20luz%20encendida%20%282566%29/Con%20la%20luz%20encendida%20-%20Monica%20de%20Cristobal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="796 KB" />
+    <title>Complaceme</title>
+    <id>calibre:book:2834</id>
+    <updated>2025-01-26T11:50:53Z</updated>
+    <link href="../../Sara%20Cate/Complaceme%20%282834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Cate/Complaceme%20%282834%29/Complaceme%20-%20Sara%20Cate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Mónica de Cristóbal</name>
-      <uri>../authors_1/authors_1690_Page_1.xml</uri>
+      <name>Sara Cate</name>
+      <uri>../authors_1/authors_1853_Page_1.xml</uri>
     </author>
-    <published>2024-09-03T10:00:00Z</published>
+    <published>2024-12-18T03:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>NdeNovela</dcterms:publisher>
+    <dcterms:publisher>Pàmies</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>¿Quién decide qué está bien y qué está mal? Dos madres enfrentadas a sus miedos. Un acto de amor puro.Tras el fallecimiento de su marido, Celia Fuertes se enfrenta a la difícil tarea de criar sola a sus tres hijos mientras sigue adelante con su carre...</summary>
-    <link href="../book_2/book_2566.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Él dice que soy perfecta.Su mascota sin mácula.Su chica buena.Cuando mi tóxico exnovio me abandonó, me quedé hundida y destrozada, y solo ansiaba encontrar a alguien que me dijera que yo valía la pena.Entonces encontré un nuevo trabajo con un jefe qu...</summary>
+    <link href="../book_2/book_2834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Con mucha hambre y poco tiempo</title>
-    <id>calibre:book:1466</id>
-    <updated>2024-04-30T04:46:10Z</updated>
-    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ismael%20Salamanca%20%28%40ismaelcocinillas/Con%20mucha%20hambre%20y%20poco%20tiempo%20%281466%29/Con%20mucha%20hambre%20y%20poco%20tiempo%20-%20Ismael%20Salamanca%20%28%40ismaelcocini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="32 MB" />
-    <author>
-      <name>Ismael Salamanca (@ismaelcocinillas)</name>
-      <uri>../authors_1/authors_1072_Page_1.xml</uri>
-    </author>
-    <published>2023-03-14T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Eres de los que tienen siempre mucha hambre y poco tiempo? ¿Te apetece probar sabores nuevos como el katsu sando o el falso risotto? ¿Te pirra el queso y quieres cocinar combinaciones imposibles, como las palomitas de parmesano? ¿No te resistes a un...</summary>
-    <link href="../book_1/book_1466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Conexiones perdidas</title>
-    <id>calibre:book:1258</id>
-    <updated>2024-03-01T02:15:57Z</updated>
-    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Johann%20Hari/Conexiones%20perdidas%20%281258%29/Conexiones%20perdidas%20-%20Johann%20Hari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Johann Hari</name>
-      <uri>../authors_0/authors_860_Page_1.xml</uri>
-    </author>
-    <published>2020-03-26T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Capitán Swing</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Hari sufrió de depresión desde niño y comenzó a tomar antidepresivos cuando era adolescente. Como a toda su generación, le dijeron que la causa de su problema era un desequilibrio químico en su cerebro. Pero años más tarde comenzó a investigar y apre...</summary>
-    <link href="../book_1/book_1258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 13)" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (13 of 13)" />
+  <link href="../allbooks/allbooks_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
 </feed>

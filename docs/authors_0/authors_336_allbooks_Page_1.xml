@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Todos los libros de Sarah Pearse</title>
+  <title>All books by Sarah Pearse</title>
   <id>Calibre2opds:allbooks</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_336_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Sarah Pearse" />
+  <link href="./authors_336_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Sarah Pearse" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por P" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="./authors_336_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sarah Pearse" />
   <entry>
     <title>El sanatorio</title>
     <id>calibre:book:1297</id>
     <updated>2024-03-15T09:02:28Z</updated>
     <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/El%20sanatorio%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="676 KB" />
+    <link href="../../Sarah%20Pearse/El%20sanatorio%20%281297%29/El%20sanatorio%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="676 KB" />
     <author>
       <name>Sarah Pearse</name>
       <uri>../authors_0/authors_336_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:451</id>
     <updated>2023-03-23T11:00:42Z</updated>
     <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="636 KB" />
     <author>
       <name>Sarah Pearse</name>
       <uri>../authors_0/authors_336_Page_1.xml</uri>

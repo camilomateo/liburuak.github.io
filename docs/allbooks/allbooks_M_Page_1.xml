@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por M</title>
+  <title>Books starting with M</title>
   <id>Calibre2opds:allbooks:M</id>
   <author>
     <name>David Pierron</name>
@@ -8,17 +8,17 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with M" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 10)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 10)" />
   <entry>
     <title>MONTESBLANCOS</title>
     <id>calibre:book:1541</id>
     <updated>2024-06-02T10:59:42Z</updated>
     <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/MONTESBLANCOS%20-%20Esteban%20Navarro%20Soriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="363 KB" />
+    <link href="../../Esteban%20Navarro%20Soriano/MONTESBLANCOS%20%281541%29/MONTESBLANCOS%20-%20Esteban%20Navarro%20Soriano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
     <author>
       <name>Esteban Navarro Soriano</name>
       <uri>../authors_1/authors_1122_Page_1.xml</uri>
@@ -34,7 +34,7 @@
     <id>calibre:book:2267</id>
     <updated>2024-09-09T10:33:56Z</updated>
     <link href="../../William%20Shakespeare/Macbeth%20%282267%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Shakespeare/Macbeth%20%282267%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="167 KB" />
+    <link href="../../William%20Shakespeare/Macbeth%20%282267%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="167 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_1/authors_1585_Page_1.xml</uri>
@@ -52,7 +52,7 @@
     <id>calibre:book:1341</id>
     <updated>2024-03-21T01:00:32Z</updated>
     <link href="../../Fonsi%20Loaiza/Machismo%2C%20mafia%20y%20corrupcion%20en%20el%20%281341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fonsi%20Loaiza/Machismo%2C%20mafia%20y%20corrupcion%20en%20el%20%281341%29/Machismo%2C%20mafia%20y%20corrupcion%20en%20-%20Fonsi%20Loaiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="476 KB" />
+    <link href="../../Fonsi%20Loaiza/Machismo%2C%20mafia%20y%20corrupcion%20en%20el%20%281341%29/Machismo%2C%20mafia%20y%20corrupcion%20en%20-%20Fonsi%20Loaiza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Fonsi Loaiza</name>
       <uri>../authors_0/authors_173_Page_1.xml</uri>
@@ -69,7 +69,7 @@
     <id>calibre:book:1437</id>
     <updated>2024-04-20T05:13:31Z</updated>
     <link href="../../Paz%20Padilla/Madre%21%20%281437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paz%20Padilla/Madre%21%20%281437%29/Madre%21%20-%20Paz%20Padilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Paz%20Padilla/Madre%21%20%281437%29/Madre%21%20-%20Paz%20Padilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Paz Padilla</name>
       <uri>../authors_1/authors_1049_Page_1.xml</uri>
@@ -83,7 +83,7 @@
     <id>calibre:book:344</id>
     <updated>2023-02-21T01:25:00Z</updated>
     <link href="../../Xavier%20Vila%20Coll/Madrid%2C%20Dia%20Uno%20%28344%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Xavier%20Vila%20Coll/Madrid%2C%20Dia%20Uno%20%28344%29/Madrid%2C%20Dia%20Uno%20-%20Xavier%20Vila%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="723 KB" />
+    <link href="../../Xavier%20Vila%20Coll/Madrid%2C%20Dia%20Uno%20%28344%29/Madrid%2C%20Dia%20Uno%20-%20Xavier%20Vila%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="723 KB" />
     <author>
       <name>Xavier Vila Coll</name>
       <uri>../authors_0/authors_240_Page_1.xml</uri>
@@ -99,7 +99,7 @@
     <id>calibre:book:1322</id>
     <updated>2024-03-21T01:00:28Z</updated>
     <link href="../../Jack%20Kerouac/Maggie%20Cassidy%20%281322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jack%20Kerouac/Maggie%20Cassidy%20%281322%29/Maggie%20Cassidy%20-%20Jack%20Kerouac.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <link href="../../Jack%20Kerouac/Maggie%20Cassidy%20%281322%29/Maggie%20Cassidy%20-%20Jack%20Kerouac.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
     <author>
       <name>Jack Kerouac</name>
       <uri>../authors_0/authors_964_Page_1.xml</uri>
@@ -116,7 +116,7 @@
     <id>calibre:book:709</id>
     <updated>2023-05-17T01:18:18Z</updated>
     <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/Magnificos%20rebeldes%20-%20Andrea%20Wulf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/Magnificos%20rebeldes%20-%20Andrea%20Wulf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
     <author>
       <name>Andrea Wulf</name>
       <uri>../authors_0/authors_529_Page_1.xml</uri>
@@ -132,7 +132,7 @@
     <id>calibre:book:1389</id>
     <updated>2024-04-03T00:56:45Z</updated>
     <link href="../../Javier%20Rovira/Mala%20mar%20%281389%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Rovira/Mala%20mar%20%281389%29/Mala%20mar%20-%20Javier%20Rovira.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="833 KB" />
+    <link href="../../Javier%20Rovira/Mala%20mar%20%281389%29/Mala%20mar%20-%20Javier%20Rovira.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="833 KB" />
     <author>
       <name>Javier Rovira</name>
       <uri>../authors_1/authors_1022_Page_1.xml</uri>
@@ -149,7 +149,7 @@
     <id>calibre:book:1295</id>
     <updated>2024-03-15T09:02:27Z</updated>
     <link href="../../Noemi%20Casquet/Mala%20mujer%20%281295%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noemi%20Casquet/Mala%20mujer%20%281295%29/Mala%20mujer%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Noemi%20Casquet/Mala%20mujer%20%281295%29/Mala%20mujer%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Noemí Casquet</name>
       <uri>../authors_0/authors_931_Page_1.xml</uri>
@@ -167,7 +167,7 @@
     <id>calibre:book:504</id>
     <updated>2023-04-01T02:02:02Z</updated>
     <link href="../../Aro%20Sainz%20de%20la%20Maza/Malart%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aro%20Sainz%20de%20la%20Maza/Malart%20%28504%29/Malart%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/Malart%20%28504%29/Malart%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="613 KB" />
     <author>
       <name>Aro Sáinz de la Maza</name>
       <uri>../authors_0/authors_372_Page_1.xml</uri>
@@ -184,7 +184,7 @@
     <id>calibre:book:1394</id>
     <updated>2024-04-03T00:56:46Z</updated>
     <link href="../../Noemi%20Casquet/Malas%20%281394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noemi%20Casquet/Malas%20%281394%29/Malas%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <link href="../../Noemi%20Casquet/Malas%20%281394%29/Malas%20-%20Noemi%20Casquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="546 KB" />
     <author>
       <name>Noemí Casquet</name>
       <uri>../authors_0/authors_931_Page_1.xml</uri>
@@ -202,7 +202,7 @@
     <id>calibre:book:1668</id>
     <updated>2024-07-17T11:51:01Z</updated>
     <link href="../../Empar%20Fernandez/Maldita%20verdad%20%281668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Empar%20Fernandez/Maldita%20verdad%20%281668%29/Maldita%20verdad%20-%20Empar%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="348 KB" />
+    <link href="../../Empar%20Fernandez/Maldita%20verdad%20%281668%29/Maldita%20verdad%20-%20Empar%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="348 KB" />
     <author>
       <name>Empar Fernández</name>
       <uri>../authors_1/authors_1198_Page_1.xml</uri>
@@ -221,7 +221,7 @@
     <id>calibre:book:420</id>
     <updated>2023-03-14T04:30:32Z</updated>
     <link href="../../Cruz%20Sanchez%20de%20Lara/Maldito%20hamor%20%28420%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cruz%20Sanchez%20de%20Lara/Maldito%20hamor%20%28420%29/Maldito%20hamor%20-%20Cruz%20Sanchez%20de%20Lara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <link href="../../Cruz%20Sanchez%20de%20Lara/Maldito%20hamor%20%28420%29/Maldito%20hamor%20-%20Cruz%20Sanchez%20de%20Lara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="620 KB" />
     <author>
       <name>Cruz Sánchez de Lara</name>
       <uri>../authors_0/authors_310_Page_1.xml</uri>
@@ -238,7 +238,7 @@
     <id>calibre:book:1366</id>
     <updated>2024-04-03T00:30:01Z</updated>
     <link href="../../Eduardo%20Vara/Maldito%20trabajo%20%281366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eduardo%20Vara/Maldito%20trabajo%20%281366%29/Maldito%20trabajo%20-%20Eduardo%20Vara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="741 KB" />
+    <link href="../../Eduardo%20Vara/Maldito%20trabajo%20%281366%29/Maldito%20trabajo%20-%20Eduardo%20Vara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="741 KB" />
     <author>
       <name>Eduardo Vara</name>
       <uri>../authors_1/authors_1001_Page_1.xml</uri>
@@ -255,7 +255,7 @@
     <id>calibre:book:2433</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/Maleficios%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="101 KB" />
+    <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/Maleficios%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="101 KB" />
     <author>
       <name>Mijaíl Bulgákov</name>
       <uri>../authors_1/authors_1647_Page_1.xml</uri>
@@ -275,7 +275,7 @@
     <id>calibre:book:2590</id>
     <updated>2024-09-12T03:39:20Z</updated>
     <link href="../../Raul%20Garbantes/Malherida%20%282590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/Malherida%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="429 KB" />
+    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/Malherida%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
     <author>
       <name>Raúl Garbantes</name>
       <uri>../authors_0/authors_58_Page_1.xml</uri>
@@ -295,7 +295,7 @@
     <id>calibre:book:454</id>
     <updated>2023-03-23T11:00:42Z</updated>
     <link href="../../Edmundo%20Diaz%20Conde/Mama%20%28454%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Edmundo%20Diaz%20Conde/Mama%20%28454%29/Mama%20-%20Edmundo%20Diaz%20Conde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Edmundo%20Diaz%20Conde/Mama%20%28454%29/Mama%20-%20Edmundo%20Diaz%20Conde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Edmundo Díaz Conde</name>
       <uri>../authors_0/authors_339_Page_1.xml</uri>
@@ -312,7 +312,7 @@
     <id>calibre:book:1035</id>
     <updated>2023-10-20T01:12:30Z</updated>
     <link href="../../Allegra%20Marchetti/Mama%20no%20Grites%20%281035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Allegra%20Marchetti/Mama%20no%20Grites%20%281035%29/Mama%20no%20Grites%20-%20Allegra%20Marchetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="865 KB" />
+    <link href="../../Allegra%20Marchetti/Mama%20no%20Grites%20%281035%29/Mama%20no%20Grites%20-%20Allegra%20Marchetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="865 KB" />
     <author>
       <name>Allegra Marchetti</name>
       <uri>../authors_0/authors_763_Page_1.xml</uri>
@@ -329,7 +329,7 @@
     <id>calibre:book:2453</id>
     <updated>2024-09-09T10:34:34Z</updated>
     <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <link href="../../Alexandre%20Dumas/The%20Man%20in%20the%20Iron%20Mask%20%282453%29/The%20Man%20in%20the%20Iron%20Mask%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
       <name>Alexandre Dumas</name>
       <uri>../authors_1/authors_1490_Page_1.xml</uri>
@@ -347,7 +347,7 @@
     <id>calibre:book:2245</id>
     <updated>2024-09-09T10:33:52Z</updated>
     <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/El%20Mandarin%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="141 KB" />
+    <link href="../../Eca%20de%20Queiros/El%20Mandarin%20%282245%29/El%20Mandarin%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="141 KB" />
     <author>
       <name>Eça de Queirós</name>
       <uri>../authors_1/authors_1506_Page_1.xml</uri>
@@ -363,7 +363,7 @@
     <id>calibre:book:2370</id>
     <updated>2024-09-09T10:34:16Z</updated>
     <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/La%20Mandragora%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <link href="../../Nicolas%20Maquiavelo/La%20Mandragora%20%282370%29/La%20Mandragora%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="82 KB" />
     <author>
       <name>Nicolás Maquiavelo</name>
       <uri>../authors_1/authors_1587_Page_1.xml</uri>
@@ -382,7 +382,7 @@
     <id>calibre:book:1265</id>
     <updated>2024-03-01T02:15:58Z</updated>
     <link href="../../Estefania%20Ruiz/Mangata%20%281265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Estefania%20Ruiz/Mangata%20%281265%29/Mangata%20-%20Estefania%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="578 KB" />
+    <link href="../../Estefania%20Ruiz/Mangata%20%281265%29/Mangata%20-%20Estefania%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="578 KB" />
     <author>
       <name>Estefanía Ruíz</name>
       <uri>../authors_0/authors_925_Page_1.xml</uri>
@@ -399,7 +399,7 @@
     <id>calibre:book:2320</id>
     <updated>2024-09-09T10:34:07Z</updated>
     <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/Manhattan%20Transfer%20-%20John%20Dos%20Passos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="388 KB" />
+    <link href="../../John%20Dos%20Passos/Manhattan%20Transfer%20%282320%29/Manhattan%20Transfer%20-%20John%20Dos%20Passos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="388 KB" />
     <author>
       <name>John Dos Passos</name>
       <uri>../authors_1/authors_1616_Page_1.xml</uri>
@@ -417,7 +417,7 @@
     <id>calibre:book:1233</id>
     <updated>2024-02-23T08:42:57Z</updated>
     <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/Manicomio%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="418 KB" />
+    <link href="../../Jordi%20Sierra%20i%20Fabra/Manicomio%20%281233%29/Manicomio%20-%20Jordi%20Sierra%20i%20Fabra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="418 KB" />
     <author>
       <name>Jordi Sierra i Fabra</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -434,7 +434,7 @@
     <id>calibre:book:2189</id>
     <updated>2024-09-06T02:21:31Z</updated>
     <link href="../../Leopoldo%20Lugones/Las%20Manzanas%20Verdes%20%282189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leopoldo%20Lugones/Las%20Manzanas%20Verdes%20%282189%29/Las%20Manzanas%20Verdes%20-%20Leopoldo%20Lugones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="48 KB" />
+    <link href="../../Leopoldo%20Lugones/Las%20Manzanas%20Verdes%20%282189%29/Las%20Manzanas%20Verdes%20-%20Leopoldo%20Lugones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="48 KB" />
     <author>
       <name>Leopoldo Lugones</name>
       <uri>../authors_1/authors_1550_Page_1.xml</uri>

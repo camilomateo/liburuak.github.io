@@ -6,13 +6,13 @@
   <link href="./book_1577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No me dejes (Ne me quitte pas)" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
-  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por H" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
   <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="372 KB" />
+  <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="372 KB" />
   <author>
     <name>Màxim Huerta</name>
     <uri>../authors_0/authors_314_Page_1.xml</uri>
@@ -27,11 +27,11 @@
       *****
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <p xmlns="">«Al señor Dominique Brulé le gusta llegar de
     noche a su floristería. Siempre cierra los ojos antes de
@@ -53,5 +53,5 @@
     la joven Violeta, que llega de Madrid huyendo de un amor que se
     empeña en perseguirla.</p>
   </content>
-  <link href="../authors_0/authors_314_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Màxim Huerta" />
+  <link href="../authors_0/authors_314_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Màxim Huerta" />
 </entry>

@@ -6,11 +6,11 @@
   <link href="./book_989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un caballero en Moscú" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
   <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/Un%20caballero%20en%20Moscu%20-%20Amor%20Towles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+  <link href="../../Amor%20Towles/Un%20caballero%20en%20Moscu%20%28989%29/Un%20caballero%20en%20Moscu%20-%20Amor%20Towles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="588 KB" />
   <author>
     <name>Amor Towles</name>
     <uri>../authors_0/authors_734_Page_1.xml</uri>
@@ -22,14 +22,14 @@
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Sin puntuación
+      Not rated
     </p>
     <p>
-      <strong>Etiquetas:</strong>
+      <strong>Tags:</strong>
       Lang:es
     </p>
     <p>
-      <strong>Sumario:</strong>
+      <strong>Summary</strong>
     </p>
     <div xmlns="">
       <span style="color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: small; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">Condenado
@@ -94,5 +94,5 @@
       existencia.</span>
     </div>
   </content>
-  <link href="../authors_0/authors_734_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Amor Towles" />
+  <link href="../authors_0/authors_734_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Amor Towles" />
 </entry>

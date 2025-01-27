@@ -11,14 +11,14 @@
   <link href="./authors_604_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Steve Cavanagh" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
-  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
-  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <entry>
-    <title>Todos los libros de Steve Cavanagh</title>
+    <title>All books by Steve Cavanagh</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Indice alfabético de 3 libros</content>
+    <content type="text">Alphabetical index of the 4 books</content>
     <link href="../authors_0/authors_604_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -26,7 +26,7 @@
   <entry>
     <title>Series: Eddie Flynn</title>
     <id>Calibre2opds:authors:604series:99</id>
-    <content type="text">13, Cincuenta Cincuenta</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_604_series_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -36,7 +36,7 @@
     <id>calibre:book:1153</id>
     <updated>2024-01-25T08:39:49Z</updated>
     <link href="../../Steve%20Cavanagh/El%20abogado%20del%20diablo%20%281153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Cavanagh/El%20abogado%20del%20diablo%20%281153%29/El%20abogado%20del%20diablo%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <link href="../../Steve%20Cavanagh/El%20abogado%20del%20diablo%20%281153%29/El%20abogado%20del%20diablo%20-%20Steve%20Cavanagh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="565 KB" />
     <author>
       <name>Steve Cavanagh</name>
       <uri>../authors_0/authors_604_Page_1.xml</uri>

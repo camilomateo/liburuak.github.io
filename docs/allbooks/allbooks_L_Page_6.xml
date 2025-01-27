@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por L</title>
+  <title>Books starting with L</title>
   <id>Calibre2opds:allbooks:L</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por L" />
+  <link href="./allbooks_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with L" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por L" />
-  <link href="../allbooks/allbooks_L_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 7)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
+  <link href="../allbooks/allbooks_L_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 7)" />
   <entry>
     <title>El libro de los espejos</title>
     <id>calibre:book:1637</id>
     <updated>2024-06-22T02:04:41Z</updated>
     <link href="../../E.O.%20Chirovici/El%20libro%20de%20los%20espejos%20%281637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../E.O.%20Chirovici/El%20libro%20de%20los%20espejos%20%281637%29/El%20libro%20de%20los%20espejos%20-%20E.O.%20Chirovici.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="458 KB" />
+    <link href="../../E.O.%20Chirovici/El%20libro%20de%20los%20espejos%20%281637%29/El%20libro%20de%20los%20espejos%20-%20E.O.%20Chirovici.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="458 KB" />
     <author>
       <name>E.O. Chirovici</name>
       <uri>../authors_1/authors_1183_Page_1.xml</uri>
@@ -36,7 +36,7 @@
     <id>calibre:book:129</id>
     <updated>2023-01-18T00:43:40Z</updated>
     <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/El%20libro%20del%20sepulturero%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/El%20libro%20del%20sepulturero%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="526 KB" />
     <author>
       <name>Oliver Pötzsch</name>
       <uri>../authors_0/authors_79_Page_1.xml</uri>
@@ -56,7 +56,7 @@
     <id>calibre:book:1735</id>
     <updated>2024-08-08T04:59:25Z</updated>
     <link href="../../Eric%20Frattini/El%20libro%20negro%20del%20Vaticano%20%281735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eric%20Frattini/El%20libro%20negro%20del%20Vaticano%20%281735%29/El%20libro%20negro%20del%20Vaticano%20-%20Eric%20Frattini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <link href="../../Eric%20Frattini/El%20libro%20negro%20del%20Vaticano%20%281735%29/El%20libro%20negro%20del%20Vaticano%20-%20Eric%20Frattini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Eric Frattini</name>
       <uri>../authors_1/authors_1242_Page_1.xml</uri>
@@ -73,7 +73,7 @@
     <id>calibre:book:37</id>
     <updated>2023-01-17T10:22:22Z</updated>
     <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/El%20libro%20negro%20-%20Paul%20Verhoeven%20y%20Gerard%20Soetema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="756 KB" />
+    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/El%20libro%20negro%20-%20Paul%20Verhoeven%20y%20Gerard%20Soetema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="756 KB" />
     <author>
       <name>Paul Verhoeven y Gerard Soeteman</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -90,7 +90,7 @@
     <id>calibre:book:1443</id>
     <updated>2024-04-20T05:25:36Z</updated>
     <link href="../../Andrea%20Sorinas/El%20libro%20que%20la%20industria%20alimentar%20%281443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20Sorinas/El%20libro%20que%20la%20industria%20alimentar%20%281443%29/El%20libro%20que%20la%20industria%20alime%20-%20Andrea%20Sorinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Andrea%20Sorinas/El%20libro%20que%20la%20industria%20alimentar%20%281443%29/El%20libro%20que%20la%20industria%20alime%20-%20Andrea%20Sorinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Andrea Sorinas</name>
       <uri>../authors_1/authors_1054_Page_1.xml</uri>
@@ -109,7 +109,7 @@
     <id>calibre:book:1089</id>
     <updated>2023-12-12T08:20:57Z</updated>
     <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/El%20libro%20que%20ojala%20tus%20padres%20h%20-%20Philippa%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="450 KB" />
+    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/El%20libro%20que%20ojala%20tus%20padres%20h%20-%20Philippa%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="450 KB" />
     <author>
       <name>Philippa Perry</name>
       <uri>../authors_0/authors_792_Page_1.xml</uri>
@@ -126,7 +126,7 @@
     <id>calibre:book:2203</id>
     <updated>2024-09-06T02:21:33Z</updated>
     <link href="../../Miguel%20de%20Cervantes%20Saavedra/El%20licenciado%20Vidriera%20%282203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Cervantes%20Saavedra/El%20licenciado%20Vidriera%20%282203%29/El%20licenciado%20Vidriera%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <link href="../../Miguel%20de%20Cervantes%20Saavedra/El%20licenciado%20Vidriera%20%282203%29/El%20licenciado%20Vidriera%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="87 KB" />
     <author>
       <name>Miguel de Cervantes Saavedra</name>
       <uri>../authors_1/authors_1558_Page_1.xml</uri>
@@ -144,7 +144,7 @@
     <id>calibre:book:24</id>
     <updated>2023-01-17T10:15:02Z</updated>
     <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
       <name>John Grisham</name>
       <uri>../authors_0/authors_21_Page_1.xml</uri>
@@ -161,7 +161,7 @@
     <id>calibre:book:3</id>
     <updated>2023-01-17T09:10:34Z</updated>
     <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="609 KB" />
     <author>
       <name>Lorenzo Silva</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
@@ -178,7 +178,7 @@
     <id>calibre:book:2046</id>
     <updated>2024-09-06T02:09:03Z</updated>
     <link href="../../Jack%20London/La%20llamada%20de%20la%20selva%20%282046%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jack%20London/La%20llamada%20de%20la%20selva%20%282046%29/La%20llamada%20de%20la%20selva%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <link href="../../Jack%20London/La%20llamada%20de%20la%20selva%20%282046%29/La%20llamada%20de%20la%20selva%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="149 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_1/authors_1470_Page_1.xml</uri>
@@ -196,7 +196,7 @@
     <id>calibre:book:1299</id>
     <updated>2024-03-15T09:05:11Z</updated>
     <link href="../../Jesus%20Ceberio/La%20llamada%20%281299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jesus%20Ceberio/La%20llamada%20%281299%29/La%20llamada%20-%20Jesus%20Ceberio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="370 KB" />
+    <link href="../../Jesus%20Ceberio/La%20llamada%20%281299%29/La%20llamada%20-%20Jesus%20Ceberio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="370 KB" />
     <author>
       <name>Jesús Ceberio</name>
       <uri>../authors_0/authors_943_Page_1.xml</uri>
@@ -213,7 +213,7 @@
     <id>calibre:book:1512</id>
     <updated>2024-05-22T06:46:45Z</updated>
     <link href="../../Paz%20Castello/La%20llave%20104%20%281512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paz%20Castello/La%20llave%20104%20%281512%29/La%20llave%20104%20-%20Paz%20Castello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="478 KB" />
+    <link href="../../Paz%20Castello/La%20llave%20104%20%281512%29/La%20llave%20104%20-%20Paz%20Castello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="478 KB" />
     <author>
       <name>Paz Castelló</name>
       <uri>../authors_1/authors_1103_Page_1.xml</uri>
@@ -232,7 +232,7 @@
     <id>calibre:book:2765</id>
     <updated>2024-12-29T11:30:04Z</updated>
     <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Max Ibarrola</name>
       <uri>../authors_0/authors_338_Page_1.xml</uri>
@@ -249,7 +249,7 @@
     <id>calibre:book:2563</id>
     <updated>2024-09-09T03:24:00Z</updated>
     <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/Las%20lobas%20de%20Pompeya%20-%20Elodie%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="844 KB" />
+    <link href="../../Elodie%20Harper/Las%20lobas%20de%20Pompeya%20%282563%29/Las%20lobas%20de%20Pompeya%20-%20Elodie%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="844 KB" />
     <author>
       <name>Elodie Harper</name>
       <uri>../authors_1/authors_1687_Page_1.xml</uri>
@@ -266,7 +266,7 @@
     <id>calibre:book:2039</id>
     <updated>2024-09-06T02:09:02Z</updated>
     <link href="../../Fernan%20Caballero/El%20lobo%20bobo%20y%20la%20zorra%20astuta%20%282039%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernan%20Caballero/El%20lobo%20bobo%20y%20la%20zorra%20astuta%20%282039%29/El%20lobo%20bobo%20y%20la%20zorra%20astuta%20-%20Fernan%20Caballero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="59 KB" />
+    <link href="../../Fernan%20Caballero/El%20lobo%20bobo%20y%20la%20zorra%20astuta%20%282039%29/El%20lobo%20bobo%20y%20la%20zorra%20astuta%20-%20Fernan%20Caballero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="59 KB" />
     <author>
       <name>Fernán Caballero</name>
       <uri>../authors_1/authors_1466_Page_1.xml</uri>
@@ -282,7 +282,7 @@
     <id>calibre:book:461</id>
     <updated>2023-03-24T09:44:12Z</updated>
     <link href="../../Pedro%20Manas/Un%20lobo%20dentro%20%28461%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Manas/Un%20lobo%20dentro%20%28461%29/Un%20lobo%20dentro%20-%20Pedro%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Pedro%20Manas/Un%20lobo%20dentro%20%28461%29/Un%20lobo%20dentro%20-%20Pedro%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pedro Mañas</name>
       <uri>../authors_0/authors_346_Page_1.xml</uri>
@@ -299,7 +299,7 @@
     <id>calibre:book:234</id>
     <updated>2023-01-31T08:30:34Z</updated>
     <link href="../../Samuel%20Bjork/El%20lobo%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Samuel%20Bjork/El%20lobo%20%28234%29/El%20lobo%20-%20Samuel%20Bjork.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <link href="../../Samuel%20Bjork/El%20lobo%20%28234%29/El%20lobo%20-%20Samuel%20Bjork.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
     <author>
       <name>Samuel Bjørk</name>
       <uri>../authors_0/authors_161_Page_1.xml</uri>
@@ -317,7 +317,7 @@
     <id>calibre:book:979</id>
     <updated>2023-08-23T00:29:02Z</updated>
     <link href="../../Miguel%20Conde-Lobato/Los%20lobos%20no%20piden%20perdon%20%28979%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Conde-Lobato/Los%20lobos%20no%20piden%20perdon%20%28979%29/Los%20lobos%20no%20piden%20perdon%20-%20Miguel%20Conde-Lobato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="680 KB" />
+    <link href="../../Miguel%20Conde-Lobato/Los%20lobos%20no%20piden%20perdon%20%28979%29/Los%20lobos%20no%20piden%20perdon%20-%20Miguel%20Conde-Lobato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="680 KB" />
     <author>
       <name>Miguel Conde-Lobato</name>
       <uri>../authors_0/authors_722_Page_1.xml</uri>
@@ -334,7 +334,7 @@
     <id>calibre:book:362</id>
     <updated>2023-02-27T01:40:56Z</updated>
     <link href="../../Care%20Santos/El%20loco%20de%20los%20pajaros%20%28362%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Care%20Santos/El%20loco%20de%20los%20pajaros%20%28362%29/El%20loco%20de%20los%20pajaros%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <link href="../../Care%20Santos/El%20loco%20de%20los%20pajaros%20%28362%29/El%20loco%20de%20los%20pajaros%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="566 KB" />
     <author>
       <name>Care Santos</name>
       <uri>../authors_0/authors_257_Page_1.xml</uri>
@@ -351,7 +351,7 @@
     <id>calibre:book:1273</id>
     <updated>2024-03-07T06:32:14Z</updated>
     <link href="../../Carlos%20Ruiz%20Zafon/Las%20luces%20de%20Septiembre%20%281273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Ruiz%20Zafon/Las%20luces%20de%20Septiembre%20%281273%29/Las%20luces%20de%20Septiembre%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Carlos%20Ruiz%20Zafon/Las%20luces%20de%20Septiembre%20%281273%29/Las%20luces%20de%20Septiembre%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Carlos Ruiz Zafón</name>
       <uri>../authors_0/authors_897_Page_1.xml</uri>
@@ -368,7 +368,7 @@
     <id>calibre:book:598</id>
     <updated>2023-05-02T01:40:22Z</updated>
     <link href="../../Maria%20Oruna/Un%20lugar%20a%20donde%20ir%20%28598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Oruna/Un%20lugar%20a%20donde%20ir%20%28598%29/Un%20lugar%20a%20donde%20ir%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="656 KB" />
+    <link href="../../Maria%20Oruna/Un%20lugar%20a%20donde%20ir%20%28598%29/Un%20lugar%20a%20donde%20ir%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
     <author>
       <name>María Oruña</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -385,7 +385,7 @@
     <id>calibre:book:412</id>
     <updated>2023-03-13T09:46:54Z</updated>
     <link href="../../Hayley%20Long/El%20lugar%20alejado%20mas%20cercano%20posibl%20%28412%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hayley%20Long/El%20lugar%20alejado%20mas%20cercano%20posibl%20%28412%29/El%20lugar%20alejado%20mas%20cercano%20po%20-%20Hayley%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="912 KB" />
+    <link href="../../Hayley%20Long/El%20lugar%20alejado%20mas%20cercano%20posibl%20%28412%29/El%20lugar%20alejado%20mas%20cercano%20po%20-%20Hayley%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="912 KB" />
     <author>
       <name>Hayley Long</name>
       <uri>../authors_0/authors_302_Page_1.xml</uri>
@@ -402,7 +402,7 @@
     <id>calibre:book:737</id>
     <updated>2023-05-17T02:00:04Z</updated>
     <link href="../../Luis%20Carballo/El%20lunes%20empiezo%20%28737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Carballo/El%20lunes%20empiezo%20%28737%29/El%20lunes%20empiezo%20-%20Luis%20Carballo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="901 KB" />
+    <link href="../../Luis%20Carballo/El%20lunes%20empiezo%20%28737%29/El%20lunes%20empiezo%20-%20Luis%20Carballo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="901 KB" />
     <author>
       <name>Luis Carballo</name>
       <uri>../authors_0/authors_551_Page_1.xml</uri>
@@ -419,7 +419,7 @@
     <id>calibre:book:540</id>
     <updated>2023-04-06T09:50:06Z</updated>
     <link href="../../Anthony%20Doerr/La%20luz%20que%20no%20puedes%20ver%20%28540%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anthony%20Doerr/La%20luz%20que%20no%20puedes%20ver%20%28540%29/La%20luz%20que%20no%20puedes%20ver%20-%20Anthony%20Doerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <link href="../../Anthony%20Doerr/La%20luz%20que%20no%20puedes%20ver%20%28540%29/La%20luz%20que%20no%20puedes%20ver%20-%20Anthony%20Doerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="636 KB" />
     <author>
       <name>Anthony Doerr</name>
       <uri>../authors_0/authors_398_Page_1.xml</uri>
@@ -436,7 +436,7 @@
     <id>calibre:book:2777</id>
     <updated>2025-01-09T08:18:53Z</updated>
     <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/La%20luz%20que%20nos%20guia%20-%20Alvaro%20Otero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="902 KB" />
+    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/La%20luz%20que%20nos%20guia%20-%20Alvaro%20Otero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="902 KB" />
     <author>
       <name>Álvaro Otero</name>
       <uri>../authors_1/authors_1815_Page_1.xml</uri>

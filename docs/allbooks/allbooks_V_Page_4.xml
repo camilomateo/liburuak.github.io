@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por V</title>
+  <title>Books starting with V</title>
   <id>Calibre2opds:allbooks:V</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,18 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_V_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por V" />
+  <link href="./allbooks_V_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with V" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por V" />
-  <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 5)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
+  <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
     <title>La vida contada por un sapiens a un neandertal</title>
     <id>calibre:book:2603</id>
     <updated>2024-09-16T10:50:28Z</updated>
     <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/La%20vida%20contada%20por%20un%20sapiens%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <link href="../../Juan%20Jose%20Millas/La%20vida%20contada%20por%20un%20sapiens%20a%20un%20%282603%29/La%20vida%20contada%20por%20un%20sapiens%20-%20Juan%20Jose%20Millas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
     <author>
       <name>Juan José Millás</name>
       <uri>../authors_0/authors_461_Page_1.xml</uri>
@@ -41,7 +41,7 @@
     <id>calibre:book:670</id>
     <updated>2023-05-15T05:51:24Z</updated>
     <link href="../../Nuria%20Kaiser/Una%20vida%20de%20mentiras%20%28670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nuria%20Kaiser/Una%20vida%20de%20mentiras%20%28670%29/Una%20vida%20de%20mentiras%20-%20Nuria%20Kaiser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Nuria%20Kaiser/Una%20vida%20de%20mentiras%20%28670%29/Una%20vida%20de%20mentiras%20-%20Nuria%20Kaiser.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Nuria Kaiser</name>
       <uri>../authors_0/authors_497_Page_1.xml</uri>
@@ -58,7 +58,7 @@
     <id>calibre:book:1010</id>
     <updated>2023-08-27T03:30:34Z</updated>
     <link href="../../Kieran%20Setiya/La%20vida%20es%20dura%20%281010%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kieran%20Setiya/La%20vida%20es%20dura%20%281010%29/La%20vida%20es%20dura%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="565 KB" />
+    <link href="../../Kieran%20Setiya/La%20vida%20es%20dura%20%281010%29/La%20vida%20es%20dura%20-%20Kieran%20Setiya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="565 KB" />
     <author>
       <name>Kieran Setiya</name>
       <uri>../authors_0/authors_748_Page_1.xml</uri>
@@ -76,7 +76,7 @@
     <id>calibre:book:2202</id>
     <updated>2024-09-06T02:21:33Z</updated>
     <link href="../../Calderon%20de%20la%20Barca/La%20vida%20es%20sueno%20%282202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Calderon%20de%20la%20Barca/La%20vida%20es%20sueno%20%282202%29/La%20vida%20es%20sueno%20-%20Calderon%20de%20la%20Barca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <link href="../../Calderon%20de%20la%20Barca/La%20vida%20es%20sueno%20%282202%29/La%20vida%20es%20sueno%20-%20Calderon%20de%20la%20Barca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="102 KB" />
     <author>
       <name>Calderón de la Barca</name>
       <uri>../authors_1/authors_1557_Page_1.xml</uri>
@@ -94,7 +94,7 @@
     <id>calibre:book:2621</id>
     <updated>2024-09-20T02:10:30Z</updated>
     <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/La%20vida%20feliz%20-%20David%20Foenkinos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="210 KB" />
+    <link href="../../David%20Foenkinos/La%20vida%20feliz%20%282621%29/La%20vida%20feliz%20-%20David%20Foenkinos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
     <author>
       <name>David Foenkinos</name>
       <uri>../authors_1/authors_1723_Page_1.xml</uri>
@@ -113,7 +113,7 @@
     <id>calibre:book:1374</id>
     <updated>2024-04-03T00:30:03Z</updated>
     <link href="../../Elena%20Ferrante/La%20vida%20mentirosa%20de%20los%20adultos%20%281374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elena%20Ferrante/La%20vida%20mentirosa%20de%20los%20adultos%20%281374%29/La%20vida%20mentirosa%20de%20los%20adulto%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="520 KB" />
+    <link href="../../Elena%20Ferrante/La%20vida%20mentirosa%20de%20los%20adultos%20%281374%29/La%20vida%20mentirosa%20de%20los%20adulto%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="520 KB" />
     <author>
       <name>Elena Ferrante</name>
       <uri>../authors_0/authors_924_Page_1.xml</uri>
@@ -130,7 +130,7 @@
     <id>calibre:book:525</id>
     <updated>2023-04-05T00:40:08Z</updated>
     <link href="../../Chufo%20Llorens/La%20vida%20que%20nos%20separa%20%28525%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Chufo%20Llorens/La%20vida%20que%20nos%20separa%20%28525%29/La%20vida%20que%20nos%20separa%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="686 KB" />
+    <link href="../../Chufo%20Llorens/La%20vida%20que%20nos%20separa%20%28525%29/La%20vida%20que%20nos%20separa%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="686 KB" />
     <author>
       <name>Chufo Lloréns</name>
       <uri>../authors_0/authors_389_Page_1.xml</uri>
@@ -147,7 +147,7 @@
     <id>calibre:book:204</id>
     <updated>2023-01-26T07:24:42Z</updated>
     <link href="../../Miguel%20Fernandez/La%20vida%20rota%20%28204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Fernandez/La%20vida%20rota%20%28204%29/La%20vida%20rota%20-%20Miguel%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="917 KB" />
+    <link href="../../Miguel%20Fernandez/La%20vida%20rota%20%28204%29/La%20vida%20rota%20-%20Miguel%20Fernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="917 KB" />
     <author>
       <name>Miguel Fernández</name>
       <uri>../authors_0/authors_131_Page_1.xml</uri>
@@ -164,7 +164,7 @@
     <id>calibre:book:1424</id>
     <updated>2024-04-09T11:16:20Z</updated>
     <link href="../../Montero%20Glez/La%20vida%20secreta%20de%20Roberto%20Bolano%20%281424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Montero%20Glez/La%20vida%20secreta%20de%20Roberto%20Bolano%20%281424%29/La%20vida%20secreta%20de%20Roberto%20Bola%20-%20Montero%20Glez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <link href="../../Montero%20Glez/La%20vida%20secreta%20de%20Roberto%20Bolano%20%281424%29/La%20vida%20secreta%20de%20Roberto%20Bola%20-%20Montero%20Glez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="506 KB" />
     <author>
       <name>Montero Glez</name>
       <uri>../authors_0/authors_178_Page_1.xml</uri>
@@ -181,7 +181,7 @@
     <id>calibre:book:224</id>
     <updated>2023-01-27T00:03:58Z</updated>
     <link href="../../Rosamund%20Young/La%20vida%20secreta%20de%20las%20vacas%20%28224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosamund%20Young/La%20vida%20secreta%20de%20las%20vacas%20%28224%29/La%20vida%20secreta%20de%20las%20vacas%20-%20Rosamund%20Young.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <link href="../../Rosamund%20Young/La%20vida%20secreta%20de%20las%20vacas%20%28224%29/La%20vida%20secreta%20de%20las%20vacas%20-%20Rosamund%20Young.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="523 KB" />
     <author>
       <name>Rosamund Young</name>
       <uri>../authors_0/authors_151_Page_1.xml</uri>
@@ -198,7 +198,7 @@
     <id>calibre:book:1281</id>
     <updated>2024-03-10T09:24:50Z</updated>
     <link href="../../Arantza%20Portabales/La%20vida%20secreta%20de%20Ursula%20Bas%20%281281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arantza%20Portabales/La%20vida%20secreta%20de%20Ursula%20Bas%20%281281%29/La%20vida%20secreta%20de%20Ursula%20Bas%20-%20Arantza%20Portabales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <link href="../../Arantza%20Portabales/La%20vida%20secreta%20de%20Ursula%20Bas%20%281281%29/La%20vida%20secreta%20de%20Ursula%20Bas%20-%20Arantza%20Portabales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="456 KB" />
     <author>
       <name>Arantza Portabales</name>
       <uri>../authors_0/authors_932_Page_1.xml</uri>
@@ -216,7 +216,7 @@
     <id>calibre:book:852</id>
     <updated>2023-06-12T02:02:10Z</updated>
     <link href="../../Brian%20Johnson/Las%20vidas%20de%20Brian%20%28852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brian%20Johnson/Las%20vidas%20de%20Brian%20%28852%29/Las%20vidas%20de%20Brian%20-%20Brian%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <link href="../../Brian%20Johnson/Las%20vidas%20de%20Brian%20%28852%29/Las%20vidas%20de%20Brian%20-%20Brian%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>Brian Johnson</name>
       <uri>../authors_0/authors_640_Page_1.xml</uri>
@@ -233,7 +233,7 @@
     <id>calibre:book:497</id>
     <updated>2023-04-01T02:01:58Z</updated>
     <link href="../../Mario%20Escobar/Las%20vidas%20perdidas%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Escobar/Las%20vidas%20perdidas%20%28497%29/Las%20vidas%20perdidas%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="616 KB" />
+    <link href="../../Mario%20Escobar/Las%20vidas%20perdidas%20%28497%29/Las%20vidas%20perdidas%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
     <author>
       <name>Mario Escobar</name>
       <uri>../authors_0/authors_31_Page_1.xml</uri>
@@ -250,7 +250,7 @@
     <id>calibre:book:847</id>
     <updated>2023-06-12T01:23:28Z</updated>
     <link href="../../Isabel%20Allende/El%20viento%20conoce%20mi%20nombre%20%28847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isabel%20Allende/El%20viento%20conoce%20mi%20nombre%20%28847%29/El%20viento%20conoce%20mi%20nombre%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <link href="../../Isabel%20Allende/El%20viento%20conoce%20mi%20nombre%20%28847%29/El%20viento%20conoce%20mi%20nombre%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
     <author>
       <name>Isabel Allende</name>
       <uri>../authors_0/authors_498_Page_1.xml</uri>
@@ -267,7 +267,7 @@
     <id>calibre:book:2721</id>
     <updated>2024-11-26T04:32:49Z</updated>
     <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/El%20viento%20distante%20y%20otros%20rela%20-%20Jose%20Emilio%20Pacheco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Jose%20Emilio%20Pacheco/El%20viento%20distante%20y%20otros%20relatos%20%282721%29/El%20viento%20distante%20y%20otros%20rela%20-%20Jose%20Emilio%20Pacheco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>José Emilio Pacheco</name>
       <uri>../authors_1/authors_1780_Page_1.xml</uri>
@@ -284,7 +284,7 @@
     <id>calibre:book:1398</id>
     <updated>2024-04-08T02:39:41Z</updated>
     <link href="../../Camilla%20Lackberg/Los%20vigilantes%20del%20faro%20%281398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/Los%20vigilantes%20del%20faro%20%281398%29/Los%20vigilantes%20del%20faro%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="523 KB" />
+    <link href="../../Camilla%20Lackberg/Los%20vigilantes%20del%20faro%20%281398%29/Los%20vigilantes%20del%20faro%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="523 KB" />
     <author>
       <name>Camilla Läckberg</name>
       <uri>../authors_0/authors_369_Page_1.xml</uri>
@@ -302,7 +302,7 @@
     <id>calibre:book:506</id>
     <updated>2023-04-01T02:02:02Z</updated>
     <link href="../../Reyes%20Monforte/La%20violinista%20roja%20%28506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Monforte/La%20violinista%20roja%20%28506%29/La%20violinista%20roja%20-%20Reyes%20Monforte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="938 KB" />
+    <link href="../../Reyes%20Monforte/La%20violinista%20roja%20%28506%29/La%20violinista%20roja%20-%20Reyes%20Monforte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="938 KB" />
     <author>
       <name>Reyes Monforte</name>
       <uri>../authors_0/authors_374_Page_1.xml</uri>
@@ -319,7 +319,7 @@
     <id>calibre:book:730</id>
     <updated>2023-05-17T01:24:38Z</updated>
     <link href="../../Michael%20Ignatieff/Las%20virtudes%20cotidianas%20%28730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Ignatieff/Las%20virtudes%20cotidianas%20%28730%29/Las%20virtudes%20cotidianas%20-%20Michael%20Ignatieff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="597 KB" />
+    <link href="../../Michael%20Ignatieff/Las%20virtudes%20cotidianas%20%28730%29/Las%20virtudes%20cotidianas%20-%20Michael%20Ignatieff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
     <author>
       <name>Michael Ignatieff</name>
       <uri>../authors_0/authors_545_Page_1.xml</uri>
@@ -337,7 +337,7 @@
     <id>calibre:book:1241</id>
     <updated>2024-02-23T09:41:57Z</updated>
     <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/Los%20virus%20no%20entran%20por%20los%20pie%20-%20Lucia%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/Los%20virus%20no%20entran%20por%20los%20pie%20-%20Lucia%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Lucía Galán</name>
       <uri>../authors_0/authors_904_Page_1.xml</uri>
@@ -354,7 +354,7 @@
     <id>calibre:book:2711</id>
     <updated>2024-11-22T00:06:50Z</updated>
     <link href="../../Yurieth%20Romero/Las%20visitantes%20%282711%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yurieth%20Romero/Las%20visitantes%20%282711%29/Las%20visitantes%20-%20Yurieth%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="195 KB" />
+    <link href="../../Yurieth%20Romero/Las%20visitantes%20%282711%29/Las%20visitantes%20-%20Yurieth%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="195 KB" />
     <author>
       <name>Yurieth Romero</name>
       <uri>../authors_1/authors_1778_Page_1.xml</uri>
@@ -371,7 +371,7 @@
     <id>calibre:book:2168</id>
     <updated>2024-09-06T02:21:27Z</updated>
     <link href="../../Jose%20Fernandez%20Bremon/La%20vista%20de%20los%20ciegos%20%282168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Fernandez%20Bremon/La%20vista%20de%20los%20ciegos%20%282168%29/La%20vista%20de%20los%20ciegos%20-%20Jose%20Fernandez%20Bremon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="61 KB" />
+    <link href="../../Jose%20Fernandez%20Bremon/La%20vista%20de%20los%20ciegos%20%282168%29/La%20vista%20de%20los%20ciegos%20-%20Jose%20Fernandez%20Bremon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="61 KB" />
     <author>
       <name>José Fernández Bremón</name>
       <uri>../authors_1/authors_1535_Page_1.xml</uri>
@@ -389,7 +389,7 @@
     <id>calibre:book:1406</id>
     <updated>2024-04-08T04:38:20Z</updated>
     <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/Las%20vivas%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/Las%20vivas%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Juana Cortés Amunarriz</name>
       <uri>../authors_0/authors_687_Page_1.xml</uri>
@@ -406,7 +406,7 @@
     <id>calibre:book:581</id>
     <updated>2023-04-28T01:16:52Z</updated>
     <link href="../../Patricia%20Gibney/Las%20voces%20silenciadas%20%28581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Gibney/Las%20voces%20silenciadas%20%28581%29/Las%20voces%20silenciadas%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="996 KB" />
+    <link href="../../Patricia%20Gibney/Las%20voces%20silenciadas%20%28581%29/Las%20voces%20silenciadas%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="996 KB" />
     <author>
       <name>Patricia Gibney</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -424,7 +424,7 @@
     <id>calibre:book:2022</id>
     <updated>2024-09-06T01:57:47Z</updated>
     <link href="../../Jose%20Eustasio%20Rivera/La%20voragine%20%282022%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Eustasio%20Rivera/La%20voragine%20%282022%29/La%20voragine%20-%20Jose%20Eustasio%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="250 KB" />
+    <link href="../../Jose%20Eustasio%20Rivera/La%20voragine%20%282022%29/La%20voragine%20-%20Jose%20Eustasio%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="250 KB" />
     <author>
       <name>José Eustasio Rivera</name>
       <uri>../authors_1/authors_1452_Page_1.xml</uri>
@@ -442,7 +442,7 @@
     <id>calibre:book:478</id>
     <updated>2023-03-29T02:11:46Z</updated>
     <link href="../../Rafael%20Tarradas%20Bulto/La%20voz%20de%20los%20valientes%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Tarradas%20Bulto/La%20voz%20de%20los%20valientes%20%28478%29/La%20voz%20de%20los%20valientes%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="749 KB" />
+    <link href="../../Rafael%20Tarradas%20Bulto/La%20voz%20de%20los%20valientes%20%28478%29/La%20voz%20de%20los%20valientes%20-%20Rafael%20Tarradas%20Bulto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="749 KB" />
     <author>
       <name>Rafael Tarradas Bultó</name>
       <uri>../authors_0/authors_357_Page_1.xml</uri>

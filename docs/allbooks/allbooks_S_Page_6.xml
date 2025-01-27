@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Libros que empiezan por S</title>
+  <title>Books starting with S</title>
   <id>Calibre2opds:allbooks:S</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,36 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./allbooks_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="./allbooks_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
-  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por S" />
-  <link href="../allbooks/allbooks_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 de 8)" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
+  <link href="../allbooks/allbooks_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 8)" />
+  <entry>
+    <title>El saludo de las brujas</title>
+    <id>calibre:book:2281</id>
+    <updated>2024-09-09T10:33:58Z</updated>
+    <link href="../../Emilia%20Pardo%20Bazan/El%20saludo%20de%20las%20brujas%20%282281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Pardo%20Bazan/El%20saludo%20de%20las%20brujas%20%282281%29/El%20saludo%20de%20las%20brujas%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="249 KB" />
+    <author>
+      <name>Emilia Pardo Bazán</name>
+      <uri>../authors_1/authors_1523_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [7]:</summary>
+    <link href="../book_2/book_2281.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El salvador del Imperio, Flavio Aecio</title>
     <id>calibre:book:1820</id>
     <updated>2024-08-28T00:55:04Z</updated>
     <link href="../../Jose%20Luis%20Sanchez%20Iglesias/El%20salvador%20del%20Imperio%2C%20Flavio%20Aec%20%281820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Luis%20Sanchez%20Iglesias/El%20salvador%20del%20Imperio%2C%20Flavio%20Aec%20%281820%29/El%20salvador%20del%20Imperio%2C%20Flavio%20-%20Jose%20Luis%20Sanchez%20Iglesias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="350 KB" />
+    <link href="../../Jose%20Luis%20Sanchez%20Iglesias/El%20salvador%20del%20Imperio%2C%20Flavio%20Aec%20%281820%29/El%20salvador%20del%20Imperio%2C%20Flavio%20-%20Jose%20Luis%20Sanchez%20Iglesias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="350 KB" />
     <author>
       <name>José Luis Sánchez Iglesias</name>
       <uri>../authors_1/authors_1301_Page_1.xml</uri>
@@ -36,7 +54,7 @@
     <id>calibre:book:715</id>
     <updated>2023-05-17T01:10:46Z</updated>
     <link href="../../Helena%20Montufo/El%20sanatorio%20de%20las%20almas%20perdidas%20%28715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Helena%20Montufo/El%20sanatorio%20de%20las%20almas%20perdidas%20%28715%29/El%20sanatorio%20de%20las%20almas%20perdi%20-%20Helena%20Montufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Helena%20Montufo/El%20sanatorio%20de%20las%20almas%20perdidas%20%28715%29/El%20sanatorio%20de%20las%20almas%20perdi%20-%20Helena%20Montufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Helena Montufo</name>
       <uri>../authors_0/authors_533_Page_1.xml</uri>
@@ -53,7 +71,7 @@
     <id>calibre:book:701</id>
     <updated>2023-05-17T01:10:14Z</updated>
     <link href="../../Julia%20Navarro/La%20sangre%20de%20los%20inocentes%20%28701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julia%20Navarro/La%20sangre%20de%20los%20inocentes%20%28701%29/La%20sangre%20de%20los%20inocentes%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="692 KB" />
+    <link href="../../Julia%20Navarro/La%20sangre%20de%20los%20inocentes%20%28701%29/La%20sangre%20de%20los%20inocentes%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="692 KB" />
     <author>
       <name>Julia Navarro</name>
       <uri>../authors_0/authors_267_Page_1.xml</uri>
@@ -73,7 +91,7 @@
     <id>calibre:book:2188</id>
     <updated>2024-09-06T02:21:31Z</updated>
     <link href="../../Ramon%20Lopez%20Velarde/La%20sangre%20devota%20%282188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ramon%20Lopez%20Velarde/La%20sangre%20devota%20%282188%29/La%20sangre%20devota%20-%20Ramon%20Lopez%20Velarde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="115 KB" />
+    <link href="../../Ramon%20Lopez%20Velarde/La%20sangre%20devota%20%282188%29/La%20sangre%20devota%20-%20Ramon%20Lopez%20Velarde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="115 KB" />
     <author>
       <name>Ramón López Velarde</name>
       <uri>../authors_1/authors_1533_Page_1.xml</uri>
@@ -91,7 +109,7 @@
     <id>calibre:book:975</id>
     <updated>2023-08-16T05:29:06Z</updated>
     <link href="../../Stephen%20King/La%20sangre%20manda%20%28975%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/La%20sangre%20manda%20%28975%29/La%20sangre%20manda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="643 KB" />
+    <link href="../../Stephen%20King/La%20sangre%20manda%20%28975%29/La%20sangre%20manda%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="643 KB" />
     <author>
       <name>Stephen King</name>
       <uri>../authors_0/authors_241_Page_1.xml</uri>
@@ -108,7 +126,7 @@
     <id>calibre:book:2714</id>
     <updated>2024-11-22T00:06:51Z</updated>
     <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/La%20sangre%20no%20perdona%20-%20Charlie%20Donlea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Charlie%20Donlea/La%20sangre%20no%20perdona%20%282714%29/La%20sangre%20no%20perdona%20-%20Charlie%20Donlea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Charlie Donlea</name>
       <uri>../authors_0/authors_59_Page_1.xml</uri>
@@ -123,7 +141,7 @@
     <id>calibre:book:1054</id>
     <updated>2023-11-01T07:27:33Z</updated>
     <link href="../../Natalia%20Monje/Los%20santos%20salvajes%20%281054%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natalia%20Monje/Los%20santos%20salvajes%20%281054%29/Los%20santos%20salvajes%20-%20Natalia%20Monje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Natalia%20Monje/Los%20santos%20salvajes%20%281054%29/Los%20santos%20salvajes%20-%20Natalia%20Monje.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Natalia Monje</name>
       <uri>../authors_0/authors_772_Page_1.xml</uri>
@@ -140,7 +158,7 @@
     <id>calibre:book:2739</id>
     <updated>2024-12-11T08:34:19Z</updated>
     <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/El%20secreto%20de%20Adela%20-%20Mar%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="338 KB" />
+    <link href="../../Mar%20Montilla/El%20secreto%20de%20Adela%20%282739%29/El%20secreto%20de%20Adela%20-%20Mar%20Montilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
     <author>
       <name>Mar Montilla</name>
       <uri>../authors_1/authors_1793_Page_1.xml</uri>
@@ -157,7 +175,7 @@
     <id>calibre:book:2738</id>
     <updated>2024-12-11T08:34:19Z</updated>
     <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/El%20secreto%20de%20la%20alondra%20-%20Fiona%20Valpy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <link href="../../Fiona%20Valpy/El%20secreto%20de%20la%20alondra%20%282738%29/El%20secreto%20de%20la%20alondra%20-%20Fiona%20Valpy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
     <author>
       <name>Fiona Valpy</name>
       <uri>../authors_1/authors_1792_Page_1.xml</uri>
@@ -174,7 +192,7 @@
     <id>calibre:book:1521</id>
     <updated>2024-05-22T06:48:14Z</updated>
     <link href="../../Freida%20McFadden/El%20secreto%20de%20la%20asistenta%20%281521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/El%20secreto%20de%20la%20asistenta%20%281521%29/El%20secreto%20de%20la%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <link href="../../Freida%20McFadden/El%20secreto%20de%20la%20asistenta%20%281521%29/El%20secreto%20de%20la%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="423 KB" />
     <author>
       <name>Freida McFadden</name>
       <uri>../authors_1/authors_1108_Page_1.xml</uri>
@@ -192,7 +210,7 @@
     <id>calibre:book:754</id>
     <updated>2023-05-22T05:06:56Z</updated>
     <link href="../../Lily%20Graham/El%20secreto%20de%20la%20librera%20de%20Paris%20%28754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lily%20Graham/El%20secreto%20de%20la%20librera%20de%20Paris%20%28754%29/El%20secreto%20de%20la%20librera%20de%20Par%20-%20Lily%20Graham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <link href="../../Lily%20Graham/El%20secreto%20de%20la%20librera%20de%20Paris%20%28754%29/El%20secreto%20de%20la%20librera%20de%20Par%20-%20Lily%20Graham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="637 KB" />
     <author>
       <name>Lily Graham</name>
       <uri>../authors_0/authors_563_Page_1.xml</uri>
@@ -209,7 +227,7 @@
     <id>calibre:book:1808</id>
     <updated>2024-08-27T09:07:35Z</updated>
     <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <link href="../../Pablo%20Poveda/El%20secreto%20de%20la%20senora%20Avignon%20%281808%29/El%20secreto%20de%20la%20senora%20Avignon%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="482 KB" />
     <author>
       <name>Pablo Poveda</name>
       <uri>../authors_0/authors_232_Page_1.xml</uri>
@@ -225,7 +243,7 @@
     <id>calibre:book:1979</id>
     <updated>2024-09-05T06:10:29Z</updated>
     <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/El%20secreto%20de%20la%20vida%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="367 KB" />
+    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/El%20secreto%20de%20la%20vida%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="367 KB" />
     <author>
       <name>Oscar Wilde</name>
       <uri>../authors_0/authors_110_Page_1.xml</uri>
@@ -244,7 +262,7 @@
     <id>calibre:book:937</id>
     <updated>2023-07-04T02:12:38Z</updated>
     <link href="../../Gregg%20Dunnett/El%20secreto%20de%20las%20olas%20%28937%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gregg%20Dunnett/El%20secreto%20de%20las%20olas%20%28937%29/El%20secreto%20de%20las%20olas%20-%20Gregg%20Dunnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="535 KB" />
+    <link href="../../Gregg%20Dunnett/El%20secreto%20de%20las%20olas%20%28937%29/El%20secreto%20de%20las%20olas%20-%20Gregg%20Dunnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
     <author>
       <name>Gregg Dunnett</name>
       <uri>../authors_0/authors_704_Page_1.xml</uri>
@@ -261,7 +279,7 @@
     <id>calibre:book:2642</id>
     <updated>2024-10-21T04:01:17Z</updated>
     <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
     <author>
       <name>Elly Griffiths</name>
       <uri>../authors_1/authors_1737_Page_1.xml</uri>
@@ -278,7 +296,7 @@
     <id>calibre:book:122</id>
     <updated>2023-01-18T00:43:36Z</updated>
     <link href="../../Patricia%20Gibney/El%20secreto%20perdido%20%28122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Patricia%20Gibney/El%20secreto%20perdido%20%28122%29/El%20secreto%20perdido%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <link href="../../Patricia%20Gibney/El%20secreto%20perdido%20%28122%29/El%20secreto%20perdido%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Patricia Gibney</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -299,7 +317,7 @@
     <id>calibre:book:156</id>
     <updated>2023-01-23T06:20:02Z</updated>
     <link href="../../Estefania%20Ruiz/Los%20secretos%20de%20la%20cortesana%20%28156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Estefania%20Ruiz/Los%20secretos%20de%20la%20cortesana%20%28156%29/Los%20secretos%20de%20la%20cortesana%20-%20Estefania%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <link href="../../Estefania%20Ruiz/Los%20secretos%20de%20la%20cortesana%20%28156%29/Los%20secretos%20de%20la%20cortesana%20-%20Estefania%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="646 KB" />
     <author>
       <name>Estefanía Ruiz</name>
       <uri>../authors_0/authors_100_Page_1.xml</uri>
@@ -316,7 +334,7 @@
     <id>calibre:book:1546</id>
     <updated>2024-06-02T10:59:43Z</updated>
     <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/Los%20secretos%20de%20la%20mente%20millon%20-%20T.%20Harv%20Eker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="305 KB" />
+    <link href="../../T.%20Harv%20Eker/Los%20secretos%20de%20la%20mente%20millonaria%20%281546%29/Los%20secretos%20de%20la%20mente%20millon%20-%20T.%20Harv%20Eker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="305 KB" />
     <author>
       <name>T. Harv Eker</name>
       <uri>../authors_1/authors_1128_Page_1.xml</uri>
@@ -335,7 +353,7 @@
     <id>calibre:book:1059</id>
     <updated>2023-11-01T07:27:35Z</updated>
     <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/La%20sed%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="656 KB" />
+    <link href="../../Jo%20Nesbo/La%20sed%20%281059%29/La%20sed%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
     <author>
       <name>Jo Nesbo</name>
       <uri>../authors_0/authors_465_Page_1.xml</uri>
@@ -353,7 +371,7 @@
     <id>calibre:book:2687</id>
     <updated>2024-10-25T00:02:42Z</updated>
     <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/La%20segunda%20venida%20-%20Dani%20Novarama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="355 KB" />
+    <link href="../../Dani%20Novarama/La%20segunda%20venida%20%282687%29/La%20segunda%20venida%20-%20Dani%20Novarama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="355 KB" />
     <author>
       <name>Dani Novarama</name>
       <uri>../authors_1/authors_1766_Page_1.xml</uri>
@@ -370,7 +388,7 @@
     <id>calibre:book:2614</id>
     <updated>2024-09-17T00:24:17Z</updated>
     <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/El%20sepulturero%20y%20el%20crimen%20de%20l%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1002 KB" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20el%20crimen%20de%20la%20cr%20%282614%29/El%20sepulturero%20y%20el%20crimen%20de%20l%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1002 KB" />
     <author>
       <name>Oliver Pötzsch</name>
       <uri>../authors_0/authors_79_Page_1.xml</uri>
@@ -391,7 +409,7 @@
     <id>calibre:book:681</id>
     <updated>2023-05-15T05:51:36Z</updated>
     <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/El%20sepulturero%20y%20la%20Tierra%20Negr%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="708 KB" />
+    <link href="../../Oliver%20Potzsch/El%20sepulturero%20y%20la%20Tierra%20Negra%20%28681%29/El%20sepulturero%20y%20la%20Tierra%20Negr%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="708 KB" />
     <author>
       <name>Oliver Pötzsch</name>
       <uri>../authors_0/authors_79_Page_1.xml</uri>
@@ -409,7 +427,7 @@
     <id>calibre:book:1180</id>
     <updated>2024-02-01T09:51:22Z</updated>
     <link href="../../Marco%20Antonio%20Sanchez%20Gonzalez/El%20ser%20oscuro%20%281180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marco%20Antonio%20Sanchez%20Gonzalez/El%20ser%20oscuro%20%281180%29/El%20ser%20oscuro%20-%20Marco%20Antonio%20Sanchez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="473 KB" />
+    <link href="../../Marco%20Antonio%20Sanchez%20Gonzalez/El%20ser%20oscuro%20%281180%29/El%20ser%20oscuro%20-%20Marco%20Antonio%20Sanchez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="473 KB" />
     <author>
       <name>Marco Antonio Sánchez González</name>
       <uri>../authors_0/authors_859_Page_1.xml</uri>
@@ -425,7 +443,7 @@
     <id>calibre:book:322</id>
     <updated>2023-02-16T07:13:42Z</updated>
     <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/Los%20seres%20huecos%20-%20Guillermo%20del%20Toro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="792 KB" />
+    <link href="../../Guillermo%20del%20Toro/Los%20seres%20huecos%20%28322%29/Los%20seres%20huecos%20-%20Guillermo%20del%20Toro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="792 KB" />
     <author>
       <name>Guillermo del Toro</name>
       <uri>../authors_0/authors_227_Page_1.xml</uri>
@@ -441,24 +459,6 @@
     <category term="Las cintas de Blackwood" />
     <summary>Las cintas de Blackwood [1]: Un crimen inexplicable, una agente del FBI novata y un héroe extraordinarioLa vida de Odessa Hardwicke descarrila cuando se ve obligada a disparar a su compañero, un agente federal que pierde el control de forma inexplica...</summary>
     <link href="../book_0/book_322.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los sertones</title>
-    <id>calibre:book:2014</id>
-    <updated>2024-09-06T01:57:45Z</updated>
-    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Euclides%20Da%20Cunha/Los%20sertones%20%282014%29/Los%20sertones%20-%20Euclides%20Da%20Cunha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="217 KB" />
-    <author>
-      <name>Euclides Da Cunha</name>
-      <uri>../authors_1/authors_1445_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [38]:</summary>
-    <link href="../book_2/book_2014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 8)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

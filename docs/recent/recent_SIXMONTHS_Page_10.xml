@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos seis meses</title>
+  <title>Previous six months</title>
   <id>Calibre2opds:recent:SIXMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,18 +8,78 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_SIXMONTHS_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos seis meses" />
+  <link href="./recent_SIXMONTHS_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos seis meses" />
-  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (11 de 16)" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
+  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (11 of 15)" />
   <entry>
-    <title>Subir a por aire [9 de septiembre de 2024]</title>
+    <title>El collar de la Reina [September 9, 2024]</title>
+    <id>calibre:book:2441</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/El%20collar%20de%20la%20Reina%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="703 KB" />
+    <author>
+      <name>Alejandro Dumas</name>
+      <uri>../authors_1/authors_1593_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [12]:</summary>
+    <link href="../book_2/book_2441.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Memorias del subsuelo [September 9, 2024]</title>
+    <id>calibre:book:2438</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/Memorias%20del%20subsuelo%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="151 KB" />
+    <author>
+      <name>Fiódor Dostoyevski</name>
+      <uri>../authors_1/authors_1417_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Filosófico" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [3]:</summary>
+    <link href="../book_2/book_2438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mucho ruido y pocas nueces [September 9, 2024]</title>
+    <id>calibre:book:2439</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%282439%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="169 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [2]:</summary>
+    <link href="../book_2/book_2439.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Subir a por aire [September 9, 2024]</title>
     <id>calibre:book:2437</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../George%20Orwell/Subir%20a%20por%20aire%20%282437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Orwell/Subir%20a%20por%20aire%20%282437%29/Subir%20a%20por%20aire%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="253 KB" />
+    <link href="../../George%20Orwell/Subir%20a%20por%20aire%20%282437%29/Subir%20a%20por%20aire%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="253 KB" />
     <author>
       <name>George Orwell</name>
       <uri>../authors_1/authors_1609_Page_1.xml</uri>
@@ -34,11 +94,11 @@
     <link href="../book_2/book_2437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>The Life and Adventures of Robinson Crusoe [9 de septiembre de 2024]</title>
+    <title>The Life and Adventures of Robinson Crusoe [September 9, 2024]</title>
     <id>calibre:book:2443</id>
     <updated>2024-09-09T10:34:32Z</updated>
     <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/The%20Life%20and%20Adventures%20of%20Robi%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="316 KB" />
+    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/The%20Life%20and%20Adventures%20of%20Robi%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="316 KB" />
     <author>
       <name>Daniel Defoe</name>
       <uri>../authors_1/authors_1581_Page_1.xml</uri>
@@ -64,11 +124,11 @@
     <link href="../book_2/book_2443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>The White Company [9 de septiembre de 2024]</title>
+    <title>The White Company [September 9, 2024]</title>
     <id>calibre:book:2442</id>
     <updated>2024-09-09T10:34:31Z</updated>
     <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/The%20White%20Company%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="424 KB" />
+    <link href="../../Arthur%20Conan%20Doyle/The%20White%20Company%20%282442%29/The%20White%20Company%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="424 KB" />
     <author>
       <name>Arthur Conan Doyle</name>
       <uri>../authors_0/authors_49_Page_1.xml</uri>
@@ -96,11 +156,11 @@
     <link href="../book_2/book_2442.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Corazón de perro [9 de septiembre de 2024]</title>
+    <title>Corazón de perro [September 9, 2024]</title>
     <id>calibre:book:2432</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/Corazon%20de%20perro%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="148 KB" />
+    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/Corazon%20de%20perro%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="148 KB" />
     <author>
       <name>Mijaíl Bulgákov</name>
       <uri>../authors_1/authors_1647_Page_1.xml</uri>
@@ -116,11 +176,11 @@
     <link href="../book_2/book_2432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los días de Birmania [9 de septiembre de 2024]</title>
+    <title>Los días de Birmania [September 9, 2024]</title>
     <id>calibre:book:2434</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/Los%20dias%20de%20Birmania%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="306 KB" />
+    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/Los%20dias%20de%20Birmania%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
     <author>
       <name>George Orwell</name>
       <uri>../authors_1/authors_1609_Page_1.xml</uri>
@@ -135,11 +195,11 @@
     <link href="../book_2/book_2434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El maestro y Margarita [9 de septiembre de 2024]</title>
+    <title>El maestro y Margarita [September 9, 2024]</title>
     <id>calibre:book:2435</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/El%20maestro%20y%20Margarita%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/El%20maestro%20y%20Margarita%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
     <author>
       <name>Mijaíl Bulgákov</name>
       <uri>../authors_1/authors_1647_Page_1.xml</uri>
@@ -154,11 +214,11 @@
     <link href="../book_2/book_2435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Maleficios [9 de septiembre de 2024]</title>
+    <title>Maleficios [September 9, 2024]</title>
     <id>calibre:book:2433</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/Maleficios%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="101 KB" />
+    <link href="../../Mijail%20Bulgakov/Maleficios%20%282433%29/Maleficios%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="101 KB" />
     <author>
       <name>Mijaíl Bulgákov</name>
       <uri>../authors_1/authors_1647_Page_1.xml</uri>
@@ -174,11 +234,11 @@
     <link href="../book_2/book_2433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Medea [9 de septiembre de 2024]</title>
+    <title>Medea [September 9, 2024]</title>
     <id>calibre:book:2431</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Euripides/Medea%20%282431%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Euripides/Medea%20%282431%29/Medea%20-%20Euripides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="96 KB" />
+    <link href="../../Euripides/Medea%20%282431%29/Medea%20-%20Euripides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="96 KB" />
     <author>
       <name>Eurípides</name>
       <uri>../authors_1/authors_1646_Page_1.xml</uri>
@@ -193,11 +253,11 @@
     <link href="../book_2/book_2431.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La patrona [9 de septiembre de 2024]</title>
+    <title>La patrona [September 9, 2024]</title>
     <id>calibre:book:2436</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/La%20patrona%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="170 KB" />
+    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/La%20patrona%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="170 KB" />
     <author>
       <name>Fiódor Dostoyevski</name>
       <uri>../authors_1/authors_1417_Page_1.xml</uri>
@@ -213,11 +273,11 @@
     <link href="../book_2/book_2436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Antonio y Cleopatra [9 de septiembre de 2024]</title>
+    <title>Antonio y Cleopatra [September 9, 2024]</title>
     <id>calibre:book:2430</id>
     <updated>2024-09-09T10:34:30Z</updated>
     <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/Antonio%20y%20Cleopatra%20-%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="131 KB" />
+    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/Antonio%20y%20Cleopatra%20-%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="131 KB" />
     <author>
       <name>Shakespeare</name>
       <uri>../authors_1/authors_1645_Page_1.xml</uri>
@@ -233,11 +293,11 @@
     <link href="../book_2/book_2430.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Electra [9 de septiembre de 2024]</title>
+    <title>Electra [September 9, 2024]</title>
     <id>calibre:book:2427</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Sofocles/Electra%20%282427%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Electra%20%282427%29/Electra%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="92 KB" />
+    <link href="../../Sofocles/Electra%20%282427%29/Electra%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="92 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -252,11 +312,11 @@
     <link href="../book_2/book_2427.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los persas [9 de septiembre de 2024]</title>
+    <title>Los persas [September 9, 2024]</title>
     <id>calibre:book:2429</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Esquilo/Los%20persas%20%282429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="74 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -271,11 +331,11 @@
     <link href="../book_2/book_2429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Áyax [9 de septiembre de 2024]</title>
+    <title>Áyax [September 9, 2024]</title>
     <id>calibre:book:2428</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Sofocles/Ayax%20%282428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
     <author>
       <name>Sófocles</name>
       <uri>../authors_1/authors_1577_Page_1.xml</uri>
@@ -290,11 +350,11 @@
     <link href="../book_2/book_2428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Prometeo encadenado [9 de septiembre de 2024]</title>
+    <title>Prometeo encadenado [September 9, 2024]</title>
     <id>calibre:book:2426</id>
     <updated>2024-09-09T10:34:29Z</updated>
     <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="98 KB" />
     <author>
       <name>Esquilo</name>
       <uri>../authors_1/authors_1623_Page_1.xml</uri>
@@ -309,11 +369,11 @@
     <link href="../book_2/book_2426.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>¡Adiós, Cordera! [9 de septiembre de 2024]</title>
+    <title>¡Adiós, Cordera! [September 9, 2024]</title>
     <id>calibre:book:2425</id>
     <updated>2024-09-09T10:34:28Z</updated>
     <link href="../../Leopoldo%20Alas%20__Clarin__/%21Adios%2C%20Cordera%21%20%282425%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leopoldo%20Alas%20__Clarin__/%21Adios%2C%20Cordera%21%20%282425%29/%21Adios%2C%20Cordera%21%20-%20Leopoldo%20Alas%20__Clarin__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="64 KB" />
+    <link href="../../Leopoldo%20Alas%20__Clarin__/%21Adios%2C%20Cordera%21%20%282425%29/%21Adios%2C%20Cordera%21%20-%20Leopoldo%20Alas%20__Clarin__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="64 KB" />
     <author>
       <name>Leopoldo Alas «Clarín»</name>
       <uri>../authors_1/authors_1644_Page_1.xml</uri>
@@ -328,11 +388,11 @@
     <link href="../book_2/book_2425.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Abel Martín [9 de septiembre de 2024]</title>
+    <title>Abel Martín [September 9, 2024]</title>
     <id>calibre:book:2423</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Antonio%20Machado/Abel%20Martin%20%282423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20Machado/Abel%20Martin%20%282423%29/Abel%20Martin%20-%20Antonio%20Machado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="108 KB" />
+    <link href="../../Antonio%20Machado/Abel%20Martin%20%282423%29/Abel%20Martin%20-%20Antonio%20Machado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="108 KB" />
     <author>
       <name>Antonio Machado</name>
       <uri>../authors_1/authors_1450_Page_1.xml</uri>
@@ -347,11 +407,11 @@
     <link href="../book_2/book_2423.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La aventura [9 de septiembre de 2024]</title>
+    <title>La aventura [September 9, 2024]</title>
     <id>calibre:book:2419</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/La%20aventura%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="476 KB" />
+    <link href="../../Joseph%20Conrad/La%20aventura%20%282419%29/La%20aventura%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Joseph Conrad</name>
       <uri>../authors_1/authors_1592_Page_1.xml</uri>
@@ -370,11 +430,11 @@
     <link href="../book_2/book_2419.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La dama del mar [9 de septiembre de 2024]</title>
+    <title>La dama del mar [September 9, 2024]</title>
     <id>calibre:book:2421</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Henrik%20Ibsen/La%20dama%20del%20mar%20%282421%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Henrik%20Ibsen/La%20dama%20del%20mar%20%282421%29/La%20dama%20del%20mar%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="119 KB" />
+    <link href="../../Henrik%20Ibsen/La%20dama%20del%20mar%20%282421%29/La%20dama%20del%20mar%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="119 KB" />
     <author>
       <name>Henrik Ibsen</name>
       <uri>../authors_1/authors_1591_Page_1.xml</uri>
@@ -389,11 +449,11 @@
     <link href="../book_2/book_2421.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El monstruo [9 de septiembre de 2024]</title>
+    <title>El monstruo [September 9, 2024]</title>
     <id>calibre:book:2422</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Antonio%20de%20Hoyos%20y%20Vinent/El%20monstruo%20%282422%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonio%20de%20Hoyos%20y%20Vinent/El%20monstruo%20%282422%29/El%20monstruo%20-%20Antonio%20de%20Hoyos%20y%20Vinent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="147 KB" />
+    <link href="../../Antonio%20de%20Hoyos%20y%20Vinent/El%20monstruo%20%282422%29/El%20monstruo%20-%20Antonio%20de%20Hoyos%20y%20Vinent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
     <author>
       <name>Antonio de Hoyos y Vinent</name>
       <uri>../authors_1/authors_1643_Page_1.xml</uri>
@@ -408,11 +468,11 @@
     <link href="../book_2/book_2422.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El otro [9 de septiembre de 2024]</title>
+    <title>El otro [September 9, 2024]</title>
     <id>calibre:book:2424</id>
     <updated>2024-09-09T10:34:28Z</updated>
     <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/El%20otro%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/El%20otro%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
     <author>
       <name>Miguel de Unamuno</name>
       <uri>../authors_1/authors_1513_Page_1.xml</uri>
@@ -428,11 +488,11 @@
     <link href="../book_2/book_2424.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Pierre o las ambigüedades [9 de septiembre de 2024]</title>
+    <title>Pierre o las ambigüedades [September 9, 2024]</title>
     <id>calibre:book:2420</id>
     <updated>2024-09-09T10:34:27Z</updated>
     <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/Pierre%20o%20las%20ambiguedades%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="532 KB" />
+    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/Pierre%20o%20las%20ambiguedades%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="532 KB" />
     <author>
       <name>Herman Melville</name>
       <uri>../authors_1/authors_1463_Page_1.xml</uri>
@@ -447,11 +507,11 @@
     <link href="../book_2/book_2420.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Amor y amistad [9 de septiembre de 2024]</title>
+    <title>Amor y amistad [September 9, 2024]</title>
     <id>calibre:book:2416</id>
     <updated>2024-09-09T10:34:26Z</updated>
     <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/Amor%20y%20amistad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="289 KB" />
+    <link href="../../Jane%20Austen/Amor%20y%20amistad%20%282416%29/Amor%20y%20amistad%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="289 KB" />
     <author>
       <name>Jane Austen</name>
       <uri>../authors_1/authors_1484_Page_1.xml</uri>
@@ -465,64 +525,7 @@
     <summary>Biblioteca PruébaT [248]:</summary>
     <link href="../book_2/book_2416.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El castillo de Lesley [9 de septiembre de 2024]</title>
-    <id>calibre:book:2414</id>
-    <updated>2024-09-09T10:34:26Z</updated>
-    <link href="../../Jane%20Austen/El%20castillo%20de%20Lesley%20%282414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jane%20Austen/El%20castillo%20de%20Lesley%20%282414%29/El%20castillo%20de%20Lesley%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
-    <author>
-      <name>Jane Austen</name>
-      <uri>../authors_1/authors_1484_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Otros" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [246]:</summary>
-    <link href="../book_2/book_2414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las encantadas [9 de septiembre de 2024]</title>
-    <id>calibre:book:2417</id>
-    <updated>2024-09-09T10:34:26Z</updated>
-    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Las%20encantadas%20%282417%29/Las%20encantadas%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="164 KB" />
-    <author>
-      <name>Herman Melville</name>
-      <uri>../authors_1/authors_1463_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Viajes" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [249]:</summary>
-    <link href="../book_2/book_2417.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La flecha de oro [9 de septiembre de 2024]</title>
-    <id>calibre:book:2418</id>
-    <updated>2024-09-09T10:34:26Z</updated>
-    <link href="../../Joseph%20Conrad/La%20flecha%20de%20oro%20%282418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joseph%20Conrad/La%20flecha%20de%20oro%20%282418%29/La%20flecha%20de%20oro%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="315 KB" />
-    <author>
-      <name>Joseph Conrad</name>
-      <uri>../authors_1/authors_1592_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Aventuras" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [252]:</summary>
-    <link href="../book_2/book_2418.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 16)" />
-  <link href="../recent/recent_SIXMONTHS_Page_16.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (16 of 16)" />
+  <link href="../recent/recent_SIXMONTHS_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../recent/recent_SIXMONTHS_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>
