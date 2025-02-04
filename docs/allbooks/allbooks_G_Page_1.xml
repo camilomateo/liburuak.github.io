@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <link href="../allbooks/allbooks_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
   <entry>
     <title>GPS</title>
     <id>calibre:book:1311</id>
@@ -82,6 +82,24 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <category term="Lang:es" />
     <summary>Los títeres de esta galería son seres deformes, reflejados en un espejo cóncavo. Yo sé qué es ese algo... porque ese algo ¡ soy yo! ¿Y cómo lo sé? Porque me llamo " Música" y me dedico a mover corazones. A veces soy algo íntimo,pero también me encuen...</summary>
     <link href="../book_1/book_1857.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gambito de Rey</title>
+    <id>calibre:book:2858</id>
+    <updated>2025-01-30T10:16:37Z</updated>
+    <link href="../../Riccardo%20Braccaioli/Gambito%20de%20Rey%20%282858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/Gambito%20de%20Rey%20%282858%29/Gambito%20de%20Rey%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>BRALTON BOOKS</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspectora Olivia Wolf" />
+    <summary>Inspectora Olivia Wolf [3]: Olivia, una investigadora en potencial, se encuentra inmersa en una carrera contra el tiempo para localizar a su amigo que ha desaparecido, confrontando una red de corrupción que pone en peligro las bases de la academia. C...</summary>
+    <link href="../book_2/book_2858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Gambuesa</title>
@@ -204,6 +222,35 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <category term="Lang:es" />
     <summary>En la arena luchaban por su vida. En Roma luchaban por defender aquello en lo que creían.Juntas demostraron que todo es posible.Año 124 d. C. Helena y Valeria son dos jóvenes romanas procedentes de mundos muy distintos: una esclava, la otra noble. Si...</summary>
     <link href="../book_0/book_811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gladiadores, bestias y condenados</title>
+    <id>calibre:book:2863</id>
+    <updated>2025-02-02T01:10:14Z</updated>
+    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/Gladiadores%2C%20bestias%20y%20condenad%20-%20Alfonso%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="239 KB" />
+    <author>
+      <name>Alfonso Mañas</name>
+      <uri>../authors_1/authors_1873_Page_1.xml</uri>
+    </author>
+    <published>2024-10-02T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Almuzara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las crónicas brutales del Coliseo
+
+
+
+Los testimonios de los espectáculos que durante siete siglos estremecieron a Roma.
+
+
+
+Salimos del cine de ver Gladiator 2 y la duda nos asalta a todos ¿eran realmente así los espectáculos del Coliseo?
+
+
+
+El único ...</summary>
+    <link href="../book_2/book_2863.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Gloria</title>
@@ -425,52 +472,5 @@ Ariane es una joven con dificultades sociales que prefiere no salir de su casa. 
     <summary>Biblioteca PruébaT [311]:</summary>
     <link href="../book_2/book_2091.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Guy Mannering</title>
-    <id>calibre:book:2543</id>
-    <updated>2024-09-09T10:34:53Z</updated>
-    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Walter Scott</name>
-      <uri>../authors_1/authors_1580_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Historical" />
-    <category term="Fiction" />
-    <category term="Inheritance" />
-    <category term="and" />
-    <category term="succession" />
-    <category term="--" />
-    <category term="Disinheritance" />
-    <category term="Scotland" />
-    <category term="Astrologers" />
-    <category term="Lang:en" />
-    <link href="../book_2/book_2543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El Gíbaro</title>
-    <id>calibre:book:2130</id>
-    <updated>2024-09-06T02:21:20Z</updated>
-    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/El%20Gibaro%20-%20Manuel%20A.%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
-    <author>
-      <name>Manuel A. Alonso</name>
-      <uri>../authors_1/authors_1511_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Puerto" />
-    <category term="Rico" />
-    <category term="--" />
-    <category term="Social" />
-    <category term="Life" />
-    <category term="and" />
-    <category term="customs" />
-    <category term="Lang:es" />
-    <link href="../book_2/book_2130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
+  <link href="../allbooks/allbooks_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
 </feed>

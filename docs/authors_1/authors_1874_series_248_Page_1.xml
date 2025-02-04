@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Ray Carney</title>
+  <id>Calibre2opds:authors:1874series:248</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1874_series_248_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Ray Carney" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="./authors_1874_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Colson Whitehead" />
+  <entry>
+    <title>1 - El ritmo de Harlem</title>
+    <id>calibre:book:2865</id>
+    <updated>2025-02-02T01:10:15Z</updated>
+    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/El%20ritmo%20de%20Harlem%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
+    <author>
+      <name>Colson Whitehead</name>
+      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+    </author>
+    <published>2023-03-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Ray Carney" />
+    <summary>Ray Carney [1]: «Un autor que roza la maestría [...]. Whitehead se ha convertido en uno de los mejores novelistas de Estados Unidos».Sam Sacks, The Wall Street JournalRay Carney, hijo de un miembro de la mafia local y padre de familia modélico, regen...</summary>
+    <link href="../book_2/book_2865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Manifiesto criminal</title>
+    <id>calibre:book:2867</id>
+    <updated>2025-02-02T01:10:16Z</updated>
+    <link href="../../Colson%20Whitehead/Manifiesto%20criminal%20%282867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colson%20Whitehead/Manifiesto%20criminal%20%282867%29/Manifiesto%20criminal%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="528 KB" />
+    <author>
+      <name>Colson Whitehead</name>
+      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+    </author>
+    <published>2024-11-28T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Ray Carney" />
+    <summary>Ray Carney [2]: Comienza la década de los setenta y la ciudad de Nueva York parece más sucia y peligrosa que nunca. Mientras en las calles de Harlem estalla una guerra abierta entre el Ejército Negro de Liberación y la policía estatal, Ray Carney, al...</summary>
+    <link href="../book_2/book_2867.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

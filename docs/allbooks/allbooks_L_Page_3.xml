@@ -15,6 +15,24 @@
   <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
   <link href="../allbooks/allbooks_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 7)" />
   <entry>
+    <title>Lecturas infantiles</title>
+    <id>calibre:book:2052</id>
+    <updated>2024-09-06T02:09:04Z</updated>
+    <link href="../../Jose%20Ortega%20Munilla/Lecturas%20infantiles%20%282052%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ortega%20Munilla/Lecturas%20infantiles%20%282052%29/Lecturas%20infantiles%20-%20Jose%20Ortega%20Munilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="85 KB" />
+    <author>
+      <name>José Ortega Munilla</name>
+      <uri>../authors_1/authors_1474_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [17]:</summary>
+    <link href="../book_2/book_2052.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Legado mortal</title>
     <id>calibre:book:1633</id>
     <updated>2024-06-22T02:04:40Z</updated>
@@ -485,26 +503,6 @@
     <category term="Lang:es" />
     <summary>La esperadísima nueva novela de Peter Cameron.Un matrimonio estadounidense viaja a una fría y remota ciudad europea para adoptar a un niño. Aunque su relación está muy deteriorada a causa de la grave enfermedad de ella, llevan años soñando con ese m...</summary>
     <link href="../book_1/book_1230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Loba negra</title>
-    <id>calibre:book:331</id>
-    <updated>2023-02-16T07:17:46Z</updated>
-    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Gomez-Jurado/Loba%20negra%20%28331%29/Loba%20negra%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="622 KB" />
-    <author>
-      <name>Juan Gómez-Jurado</name>
-      <uri>../authors_0/authors_55_Page_1.xml</uri>
-    </author>
-    <published>2019-10-23T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Mystery &amp; Detective" />
-    <category term="General" />
-    <category term="Lang:es" />
-    <summary>El thriller que los 250.000 lectores de Reina Roja están esperando.SEGUIR VIVAAntonia Scott no tiene miedo a nada. Solo a sí misma.NUNCA FUEPero hay alguien más peligroso que ella. Alguien que podría vencerla.TAN DIFÍCILLa Loba negra está cada vez má...</summary>
-    <link href="../book_0/book_331.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 7)" />
   <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />

@@ -14,6 +14,62 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
   <entry>
+    <title>Áyax</title>
+    <id>calibre:book:2428</id>
+    <updated>2024-09-09T10:34:29Z</updated>
+    <link href="../../Sofocles/Ayax%20%282428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="80 KB" />
+    <author>
+      <name>Sófocles</name>
+      <uri>../authors_1/authors_1577_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [258]:</summary>
+    <link href="../book_2/book_2428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel azul</title>
+    <id>calibre:book:2410</id>
+    <updated>2024-09-09T10:34:25Z</updated>
+    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/El%20angel%20azul%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="213 KB" />
+    <author>
+      <name>Heinrich Mann</name>
+      <uri>../authors_1/authors_1641_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [241]:</summary>
+    <link href="../book_2/book_2410.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel de la ciudad</title>
+    <id>calibre:book:489</id>
+    <updated>2023-04-01T02:01:56Z</updated>
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/El%20angel%20de%20la%20ciudad%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="553 KB" />
+    <author>
+      <name>Eva García Sáenz de Urturi</name>
+      <uri>../authors_0/authors_362_Page_1.xml</uri>
+    </author>
+    <published>2023-03-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Kraken" />
+    <summary>Kraken [2]: En una Venecia rodeada de misterio, el inspector Kraken se enfrenta a la encrucijada más compleja de su vida: resolver el pasado o apostar por el futuro.Un espléndido y decadente palazzo arde en una pequeña isla veneciana donde se celebra...</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El ángel de la muerte</title>
     <id>calibre:book:39</id>
     <updated>2023-01-17T10:23:16Z</updated>

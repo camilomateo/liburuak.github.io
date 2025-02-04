@@ -15,6 +15,26 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
   <entry>
+    <title>La piel del tambor</title>
+    <id>calibre:book:8</id>
+    <updated>2023-01-17T10:03:36Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/La%20piel%20del%20tambor%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/La%20piel%20del%20tambor%20%288%29/La%20piel%20del%20tambor%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>1995-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Un pirata informático que se infiltra en el Vaticano. Una iglesia barroca, en Sevilla, que mata para defenderse. Tres pintorescos malvados que aspiran a mantener viva la copla española. Una bella aristócrata andaluza. Un apuesto sacerdote-agente espe...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Una pieza de más</title>
     <id>calibre:book:906</id>
     <updated>2023-06-26T05:25:22Z</updated>
@@ -438,23 +458,6 @@
     <category term="Lang:es" />
     <summary>Una nueva mirada a la etapa que más retos nos depara, por la experta en adolescencia del Club de Malasmadres. Cuando en casa aparece la adolescencia nos suele coger poco preparados, como si de una repentina tormenta de verano se tratase, sin haberno...</summary>
     <link href="../book_0/book_660.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los privilegios del ángel</title>
-    <id>calibre:book:716</id>
-    <updated>2023-05-17T01:10:48Z</updated>
-    <link href="../../Dolores%20Redondo/Los%20privilegios%20del%20angel%20%28716%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Redondo/Los%20privilegios%20del%20angel%20%28716%29/Los%20privilegios%20del%20angel%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
-    <author>
-      <name>Dolores Redondo</name>
-      <uri>../authors_0/authors_62_Page_1.xml</uri>
-    </author>
-    <published>2020-11-30T02:49:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Dos amigas inseparables. Una pérdida inasumible. Una vida a la deriva.La primera novela de Dolores Redondo.En la humilde bahía pesquera de Pasajes, en los años 70, rodeada de muelles de pesca, estibadores, humedad y salazón, se forja una fuerte amis...</summary>
-    <link href="../book_0/book_716.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 8)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

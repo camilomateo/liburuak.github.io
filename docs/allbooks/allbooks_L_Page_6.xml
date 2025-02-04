@@ -15,6 +15,23 @@
   <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
   <link href="../allbooks/allbooks_L_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 7)" />
   <entry>
+    <title>El libro de las pruebas</title>
+    <id>calibre:book:1170</id>
+    <updated>2024-01-25T08:51:59Z</updated>
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La perfecta introducción al universo Banville«Una novela sorprendente, perturbadora» (The New York Times Book Review), por el ganador del Premio Booker y del Premio Príncipe de Asturias de las Letras.Freddie Montgomery es un científico de talento exi...</summary>
+    <link href="../book_1/book_1170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El libro de los espejos</title>
     <id>calibre:book:1637</id>
     <updated>2024-06-22T02:04:41Z</updated>
@@ -430,23 +447,6 @@
     <category term="Lang:es" />
     <summary>Premio Pulitzer de Ficción 2015.Un corazón puro puede brillar aun en la noche más oscura. Y en el más terrible de los tiempos.Marie-Laure vive con su padre en París, cerca del Museo de Historia Natural, donde él trabaja como responsable de sus mil ce...</summary>
     <link href="../book_0/book_540.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La luz que nos guía</title>
-    <id>calibre:book:2777</id>
-    <updated>2025-01-09T08:18:53Z</updated>
-    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alvaro%20Otero/La%20luz%20que%20nos%20guia%20%282777%29/La%20luz%20que%20nos%20guia%20-%20Alvaro%20Otero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="902 KB" />
-    <author>
-      <name>Álvaro Otero</name>
-      <uri>../authors_1/authors_1815_Page_1.xml</uri>
-    </author>
-    <published>2024-09-19T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Por más sorprendente que parezca, todo lo que se cuenta en La luz que nos guía ocurrió de verdad. Basada en hechos reales, la acción arranca en el verano de 1932, cuando cinco amigos que viven en un pueblo de España, y que coquetean con el comunismo ...</summary>
-    <link href="../book_2/book_2777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 7)" />
   <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />

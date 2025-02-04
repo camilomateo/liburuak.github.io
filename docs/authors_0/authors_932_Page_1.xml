@@ -18,7 +18,7 @@
   <entry>
     <title>All books by Arantza Portabales</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the single book - very useful indeed ;)</content>
+    <content type="text">Alphabetical index of the 2 books</content>
     <link href="../authors_0/authors_932_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -30,5 +30,22 @@
     <link href="../authors_0/authors_932_series_158_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Asesinato en la Casa Rosa</title>
+    <id>calibre:book:2881</id>
+    <updated>2025-02-04T08:23:47Z</updated>
+    <link href="../../Arantza%20Portabales/Asesinato%20en%20la%20Casa%20Rosa%20%282881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arantza%20Portabales/Asesinato%20en%20la%20Casa%20Rosa%20%282881%29/Asesinato%20en%20la%20Casa%20Rosa%20-%20Arantza%20Portabales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="489 KB" />
+    <author>
+      <name>Arantza Portabales</name>
+      <uri>../authors_0/authors_932_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mayo de 2024. La inspectora Iria Santaclara ha abandonado el servicio activo para cuidar de Ángel, su marido, convaleciente tras sufrir un ictus, cuando recibe la misteriosa llamada de Ulises Villamor, una de las fortunas más importantes del país y d...</summary>
+    <link href="../book_2/book_2881.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

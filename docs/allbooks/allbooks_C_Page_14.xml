@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
   <entry>
+    <title>La culpa</title>
+    <id>calibre:book:978</id>
+    <updated>2023-08-23T00:29:02Z</updated>
+    <link href="../../Maria%20Solar/La%20culpa%20%28978%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Solar/La%20culpa%20%28978%29/La%20culpa%20-%20Maria%20Solar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
+    <author>
+      <name>María Solar</name>
+      <uri>../authors_0/authors_726_Page_1.xml</uri>
+    </author>
+    <published>2023-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PREMIO XERAIS DE NOVELA 2022 Dos mujeres atadas de por vida por un crimen. La historia de una amistad que se transforma en posesión Cada seis meses, como un clavo, los empleados de una pequeña sucursal bancaria reciben la desagradable visita de la se...</summary>
+    <link href="../book_0/book_978.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El curioso caso de Benjamin Button</title>
     <id>calibre:book:2366</id>
     <updated>2024-09-09T10:34:16Z</updated>

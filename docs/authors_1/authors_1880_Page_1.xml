@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pedro Camacho</title>
+  <id>Calibre2opds:authors:1880</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1880_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pedro Camacho" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>Haría cualquier cosa por ti</title>
+    <id>calibre:book:2880</id>
+    <updated>2025-02-04T08:23:47Z</updated>
+    <link href="../../Pedro%20Camacho/Haria%20cualquier%20cosa%20por%20ti%20%282880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Camacho/Haria%20cualquier%20cosa%20por%20ti%20%282880%29/Haria%20cualquier%20cosa%20por%20ti%20-%20Pedro%20Camacho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
+    <author>
+      <name>Pedro Camacho</name>
+      <uri>../authors_1/authors_1880_Page_1.xml</uri>
+    </author>
+    <published>2024-09-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aprende todo lo necesario sobre el cuidado de tu bebé. La llegada de un hijo es una experiencia emocionante, pero también puede generar miedo e incertidumbre en los padres, sobre todo durante los primeros meses. Para ayudarlos a disfrutar de esta eta...</summary>
+    <link href="../book_2/book_2880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

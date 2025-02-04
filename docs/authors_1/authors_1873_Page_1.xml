@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alfonso Mañas</title>
+  <id>Calibre2opds:authors:1873</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1873_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alfonso Mañas" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Gladiadores, bestias y condenados</title>
+    <id>calibre:book:2863</id>
+    <updated>2025-02-02T01:10:14Z</updated>
+    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/Gladiadores%2C%20bestias%20y%20condenad%20-%20Alfonso%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="239 KB" />
+    <author>
+      <name>Alfonso Mañas</name>
+      <uri>../authors_1/authors_1873_Page_1.xml</uri>
+    </author>
+    <published>2024-10-02T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Almuzara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las crónicas brutales del Coliseo
+
+
+
+Los testimonios de los espectáculos que durante siete siglos estremecieron a Roma.
+
+
+
+Salimos del cine de ver Gladiator 2 y la duda nos asalta a todos ¿eran realmente así los espectáculos del Coliseo?
+
+
+
+El único ...</summary>
+    <link href="../book_2/book_2863.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

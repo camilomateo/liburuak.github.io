@@ -16,7 +16,7 @@
   <entry>
     <title>All books by Antoine de Saint-Exupéry</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 2 books</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_989_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -46,5 +46,22 @@
     <category term="Lang:es" />
     <summary>'El Principito' (en francés: 'Le Petit Prince'), publicado el 6 de abril de 1943, es el relato corto más conocido del escritor y aviador francés Antoine de Saint-Exupéry. Lo escribió mientras se hospedaba en un hotel en Nueva York y fue publicado por...</summary>
     <link href="../book_1/book_1350.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vuelo nocturno</title>
+    <id>calibre:book:2878</id>
+    <updated>2025-02-02T01:12:25Z</updated>
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282878%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="286 KB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../authors_0/authors_989_Page_1.xml</uri>
+    </author>
+    <published>2024-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una emocionante novela llena de poesía y aventuras que narra las vidas de los pilotos y del personal de una compañía aérea de correos Latécoère, que buscaba abrir nuevas rutas en Sudamérica a finales de los años veintePublicada en 1931, Vuelo nocturn...</summary>
+    <link href="../book_2/book_2878.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

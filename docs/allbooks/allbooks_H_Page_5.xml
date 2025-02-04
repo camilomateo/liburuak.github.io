@@ -14,6 +14,38 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
   <entry>
+    <title>La hora de las moscas</title>
+    <id>calibre:book:1192</id>
+    <updated>2024-02-05T05:55:57Z</updated>
+    <link href="../../Alejandro%20Marcos/La%20hora%20de%20las%20moscas%20%281192%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Marcos/La%20hora%20de%20las%20moscas%20%281192%29/La%20hora%20de%20las%20moscas%20-%20Alejandro%20Marcos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="541 KB" />
+    <author>
+      <name>Alejandro Marcos</name>
+      <uri>../authors_0/authors_864_Page_1.xml</uri>
+    </author>
+    <published>2023-12-20T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El pueblo seestáquedandovacío; seestá muriendo. Siesosucede, no sepodrácontener lapuerta. Curva de Arladesaparecerá,comosinuncahubieraexistido. Nadie seacordará deél.Igual quelos pueblos queduermen bajolospantanos.La tranquilidad de Curva de Arla, un...</summary>
+    <link href="../book_1/book_1192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las horas crueles</title>
+    <id>calibre:book:882</id>
+    <updated>2023-06-22T03:04:26Z</updated>
+    <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marto%20Pariente/Las%20horas%20crueles%20%28882%29/Las%20horas%20crueles%20-%20Marto%20Pariente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="516 KB" />
+    <author>
+      <name>Marto Pariente</name>
+      <uri>../authors_0/authors_661_Page_1.xml</uri>
+    </author>
+    <published>2023-03-21T11:00:00Z</published>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <summary>Se irá a la tumba sin confesar.&amp;#160;Un country noir que nos sorprende por su prosa tan ágil como gamberra y por su elenco de personajes al más puro estilo&amp;#160;Fargo.No hay salida, ha llegado a una encrucijada: o salta desde lo alto del cortado a la...</summary>
+    <link href="../book_0/book_882.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Las horas oscuras</title>
     <id>calibre:book:323</id>
     <updated>2023-02-16T07:13:42Z</updated>

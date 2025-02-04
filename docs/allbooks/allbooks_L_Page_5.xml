@@ -15,6 +15,23 @@
   <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with L" />
   <link href="../allbooks/allbooks_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 7)" />
   <entry>
+    <title>La ladrona de huesos</title>
+    <id>calibre:book:1650</id>
+    <updated>2024-06-22T02:10:53Z</updated>
+    <link href="../../Manel%20Loureiro/La%20ladrona%20de%20huesos%20%281650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manel%20Loureiro/La%20ladrona%20de%20huesos%20%281650%29/La%20ladrona%20de%20huesos%20-%20Manel%20Loureiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="612 KB" />
+    <author>
+      <name>Manel Loureiro</name>
+      <uri>../authors_0/authors_731_Page_1.xml</uri>
+    </author>
+    <published>2022-03-30T01:32:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras ser víctima de un salvaje atentado, Laura pierde completamente la memoria. Solo el cariño de Carlos, el hombre del que se ha enamorado, le ayuda a percibir destellos de su misterioso pasado. Pero ¿quién es Laura? ¿Qué le sucedió? Durante una cen...</summary>
+    <link href="../book_1/book_1650.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La ladrona de libros</title>
     <id>calibre:book:536</id>
     <updated>2023-04-05T00:40:18Z</updated>
@@ -430,23 +447,6 @@
     <category term="CUENTOS INFANTILES" />
     <category term="Lang:es" />
     <link href="../book_0/book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El libro de las pruebas</title>
-    <id>calibre:book:1170</id>
-    <updated>2024-01-25T08:51:59Z</updated>
-    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
-    <author>
-      <name>John Banville</name>
-      <uri>../authors_0/authors_261_Page_1.xml</uri>
-    </author>
-    <published>2014-10-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La perfecta introducción al universo Banville«Una novela sorprendente, perturbadora» (The New York Times Book Review), por el ganador del Premio Booker y del Premio Príncipe de Asturias de las Letras.Freddie Montgomery es un científico de talento exi...</summary>
-    <link href="../book_1/book_1170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 7)" />
   <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />

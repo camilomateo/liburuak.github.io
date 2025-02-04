@@ -15,6 +15,25 @@
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
   <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 10)" />
   <entry>
+    <title>Las Manzanas Verdes</title>
+    <id>calibre:book:2189</id>
+    <updated>2024-09-06T02:21:31Z</updated>
+    <link href="../../Leopoldo%20Lugones/Las%20Manzanas%20Verdes%20%282189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leopoldo%20Lugones/Las%20Manzanas%20Verdes%20%282189%29/Las%20Manzanas%20Verdes%20-%20Leopoldo%20Lugones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="48 KB" />
+    <author>
+      <name>Leopoldo Lugones</name>
+      <uri>../authors_1/authors_1550_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Cuento" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [60]:</summary>
+    <link href="../book_2/book_2189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El Mapa</title>
     <id>calibre:book:902</id>
     <updated>2023-06-26T05:25:16Z</updated>
@@ -444,23 +463,6 @@ La tensión del Brexit y los ataques...</summary>
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [28]:</summary>
     <link href="../book_2/book_2021.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Memorias de un piloto de combate</title>
-    <id>calibre:book:432</id>
-    <updated>2023-03-14T04:53:32Z</updated>
-    <link href="../../Pablo%20Echenique/Memorias%20de%20un%20piloto%20de%20combate%20%28432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Echenique/Memorias%20de%20un%20piloto%20de%20combate%20%28432%29/Memorias%20de%20un%20piloto%20de%20combat%20-%20Pablo%20Echenique.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Pablo Echenique</name>
-      <uri>../authors_0/authors_321_Page_1.xml</uri>
-    </author>
-    <published>2023-02-16T00:43:08Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Arpa Editores</dcterms:publisher>
-    <category term="Lang:en" />
-    <summary>Pablo Echenique aborda con sorprendente transparencia la lucha fratricida de la izquierda en los últimos años, el fin del bipartidismo y la negociación del primer gobierno de coalición en España, el ejercicio del poder y la vida privada de un cientí...</summary>
-    <link href="../book_0/book_432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 10)" />
   <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />

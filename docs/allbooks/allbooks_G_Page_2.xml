@@ -13,6 +13,55 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with G" />
+  <link href="../allbooks/allbooks_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Guy Mannering</title>
+    <id>calibre:book:2543</id>
+    <updated>2024-09-09T10:34:53Z</updated>
+    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Scott/Guy%20Mannering%20%282543%29/Guy%20Mannering%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Walter Scott</name>
+      <uri>../authors_1/authors_1580_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Inheritance" />
+    <category term="and" />
+    <category term="succession" />
+    <category term="--" />
+    <category term="Disinheritance" />
+    <category term="Scotland" />
+    <category term="Astrologers" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Gíbaro</title>
+    <id>calibre:book:2130</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20A.%20Alonso/El%20Gibaro%20%282130%29/El%20Gibaro%20-%20Manuel%20A.%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Manuel A. Alonso</name>
+      <uri>../authors_1/authors_1511_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Puerto" />
+    <category term="Rico" />
+    <category term="--" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="and" />
+    <category term="customs" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La galería de los muertos</title>
     <id>calibre:book:1269</id>
@@ -327,6 +376,40 @@
     <link href="../book_1/book_1143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>El grito</title>
+    <id>calibre:book:2872</id>
+    <updated>2025-02-02T01:10:18Z</updated>
+    <link href="../../Yrsa%20Sigurdardottir/El%20grito%20%282872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yrsa%20Sigurdardottir/El%20grito%20%282872%29/El%20grito%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="496 KB" />
+    <author>
+      <name>Yrsa Sigurdardóttir</name>
+      <uri>../authors_0/authors_63_Page_1.xml</uri>
+    </author>
+    <published>2025-01-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una mujer es asesinada de forma macabra y sólo hay un testigo: su hija de siete años, que permaneció escondida bajo la cama y que ahora es incapaz de hablar. El detective de la policía islandesa Huldar, que se enfrenta a su primer caso importante tra...</summary>
+    <link href="../book_2/book_2872.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La guardiana de secretos</title>
+    <id>calibre:book:2873</id>
+    <updated>2025-02-02T01:10:18Z</updated>
+    <link href="../../Rosa%20Huertas/La%20guardiana%20de%20secretos%20%282873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rosa%20Huertas/La%20guardiana%20de%20secretos%20%282873%29/La%20guardiana%20de%20secretos%20-%20Rosa%20Huertas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="644 KB" />
+    <author>
+      <name>Rosa Huertas</name>
+      <uri>../authors_0/authors_226_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un homenaje a una mujer avanzada a su época. Un emotivo relato contra el silencio y el olvido. La apasionante vida deCarmen de Burgos.«Libre y combativa».El País«Adelantada a su tiempo».El Mundo«Una mujer que se salió de todos los moldes».La Vanguard...</summary>
+    <link href="../book_2/book_2873.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los guardianes</title>
     <id>calibre:book:503</id>
     <updated>2023-04-01T02:02:00Z</updated>
@@ -384,76 +467,5 @@
     <summary>Biblioteca PruébaT [25]:</summary>
     <link href="../book_2/book_2298.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La guerra de los vivos</title>
-    <id>calibre:book:116</id>
-    <updated>2023-01-18T00:43:32Z</updated>
-    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/La%20guerra%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
-    <author>
-      <name>Iván Santos</name>
-      <uri>../authors_0/authors_75_Page_1.xml</uri>
-    </author>
-    <published>2020-11-26T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <summary>El grupo de Rai ha conseguido atravesar media península pagando un alto precio. Dejando su comodidad atrás, han descubierto que los zombis no son realmente lo más terrible de este apocalipsis y que en cualquier momento, la suerte y el destino les pue...</summary>
-    <link href="../book_0/book_116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La guerra de mamá</title>
-    <id>calibre:book:582</id>
-    <updated>2023-04-28T01:16:52Z</updated>
-    <link href="../../Sol%20Macaluso/La%20guerra%20de%20mama%20%28582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sol%20Macaluso/La%20guerra%20de%20mama%20%28582%29/La%20guerra%20de%20mama%20-%20Sol%20Macaluso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="581 KB" />
-    <author>
-      <name>Sol Macaluso</name>
-      <uri>../authors_0/authors_434_Page_1.xml</uri>
-    </author>
-    <published>2023-03-24T10:26:45Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Que le está pasando a mamá? ¿Por que grita así? ¿Por que duerme tanto? ¿Por que no quiere jugar conmigo? ¿Por que no me cocina? ¿Por que no me ayuda con las tareas del colegio? ¿Por que no me quiere?Sol Macaluso, la periodista que nos hizo llorar po...</summary>
-    <link href="../book_0/book_582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La guerra y las palabras</title>
-    <id>calibre:book:241</id>
-    <updated>2023-02-02T08:55:50Z</updated>
-    <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/La%20guerra%20y%20las%20palabras%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="560 KB" />
-    <author>
-      <name>Jorge Volpi</name>
-      <uri>../authors_0/authors_168_Page_1.xml</uri>
-    </author>
-    <published>2004-01-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Era</dcterms:publisher>
-    <category term="Ensayo" />
-    <category term="Política" />
-    <category term="Historia" />
-    <category term="Lang:es" />
-    <summary>El primero de enero de 1994, un grupo armado tomó la ciudad de San Cristóbal de las Casas, así como otras localidades del estado de Chiapas, en el sureste de México. Su líder, el subcomandante Marcos, antiguo estudiante de filosofía y profesor univer...</summary>
-    <link href="../book_0/book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La guía práctica para ser feliz</title>
-    <id>calibre:book:964</id>
-    <updated>2023-08-16T05:28:56Z</updated>
-    <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elan/La%20guia%20practica%20para%20ser%20feliz%20%28964%29/La%20guia%20practica%20para%20ser%20feliz%20-%20Elan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
-    <author>
-      <name>Elán</name>
-      <uri>../authors_0/authors_718_Page_1.xml</uri>
-    </author>
-    <published>2022-06-07T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AGUILAR</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La fórmula para la felicidad no existe ni viene en este libro... No tiene lecciones de sabiduría ancestral, sino más bien lo que se puede aprender de los errores propios y de los demás, pero sobre todo de vivir cada segundo intensamente. No busca cam...</summary>
-    <link href="../book_0/book_964.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+  <link href="../allbooks/allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
 </feed>
