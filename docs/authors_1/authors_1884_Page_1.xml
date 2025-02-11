@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Keren Blankfeld</title>
+  <id>Calibre2opds:authors:1884</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1884_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Keren Blankfeld" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../authorlist/authorlist_B_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../authorlist/authorlist_B_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <entry>
+    <title>Los amantes de Auschwitz</title>
+    <id>calibre:book:2889</id>
+    <updated>2025-02-10T05:14:57Z</updated>
+    <link href="../../Keren%20Blankfeld/Los%20amantes%20de%20Auschwitz%20%282889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Keren%20Blankfeld/Los%20amantes%20de%20Auschwitz%20%282889%29/Los%20amantes%20de%20Auschwitz%20-%20Keren%20Blankfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
+    <author>
+      <name>Keren Blankfeld</name>
+      <uri>../authors_1/authors_1884_Page_1.xml</uri>
+    </author>
+    <published>2024-11-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>1943. En los momentos más oscuros, un apasionado romance nace entre dos jóvenes.No fue hasta setenta años más tarde cuando sus caminos volvieron a cruzarse. Una impactante historia real sobre el amor, la esperanza y la resiliencia.Todo comenzó cuando...</summary>
+    <link href="../book_2/book_2889.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

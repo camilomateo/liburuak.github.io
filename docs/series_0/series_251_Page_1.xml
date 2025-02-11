@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mindfulness para asesinos</title>
+  <id>Calibre2opds::serieslist:Mseries:251</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_251_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mindfulness para asesinos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with M" />
+  <entry>
+    <title>2 - Tu niño interior quiere matar... conscientemente</title>
+    <id>calibre:book:2948</id>
+    <updated>2025-02-11T11:09:54Z</updated>
+    <link href="../../Karsten%20Dusse/Tu%20nino%20interior%20quiere%20matar_.%20con%20%282948%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karsten%20Dusse/Tu%20nino%20interior%20quiere%20matar_.%20con%20%282948%29/Tu%20nino%20interior%20quiere%20matar_.%20-%20Karsten%20Dusse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="460 KB" />
+    <author>
+      <name>Karsten Dusse</name>
+      <uri>../authors_1/authors_1898_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Mindfulness para asesinos" />
+    <summary>Mindfulness para asesinos [2]: Karsten Dusse, el maestro alemán del crimen con humor negro, nos sorprende con una nueva entrega de su aclamada serie El Asesino Mindfulness. Björn Diemel ha aprendido los principios de la atención plena y, al aplicarlo...</summary>
+    <link href="../book_2/book_2948.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

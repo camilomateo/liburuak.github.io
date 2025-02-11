@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Las crónicas de Ravenswood</title>
+  <id>Calibre2opds:authors:1900series:252</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1900_series_252_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Las crónicas de Ravenswood" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="./authors_1900_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Victoria Vílchez" />
+  <entry>
+    <title>3 - Las puertas del infierno</title>
+    <id>calibre:book:2951</id>
+    <updated>2025-02-11T11:25:06Z</updated>
+    <link href="../../Victoria%20Vilchez/Las%20puertas%20del%20infierno%20%282951%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victoria%20Vilchez/Las%20puertas%20del%20infierno%20%282951%29/Las%20puertas%20del%20infierno%20-%20Victoria%20Vilchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="533 KB" />
+    <author>
+      <name>Victoria Vílchez</name>
+      <uri>../authors_1/authors_1900_Page_1.xml</uri>
+    </author>
+    <published>2024-07-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Las crónicas de Ravenswood" />
+    <summary>Las crónicas de Ravenswood [3]: La profecía que Danielle y Alexander tanto han luchado por evitar ha terminado cumpliéndose, y ahora el mal que temían se ha desatado en el mismísimo corazón de Ravenswood. Ningún brujo, blanco u oscuro, está ya a salv...</summary>
+    <link href="../book_2/book_2951.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

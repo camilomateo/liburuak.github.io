@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>María Boado Olabarrieta</title>
+  <id>Calibre2opds:authors:1887</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1887_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="María Boado Olabarrieta" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with O" />
+  <entry>
+    <title>Cruce de damas</title>
+    <id>calibre:book:2893</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/Cruce%20de%20damas%20-%20Maria%20Boado%20Olabarrieta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="384 KB" />
+    <author>
+      <name>María Boado Olabarrieta</name>
+      <uri>../authors_1/authors_1887_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller judicial en el que la pugna entre dos mujeres destapará los mecanismos y entresijos de la justicia.Verano de 1991. Las fiestas de la pequeña localidad de Oña, en Burgos, se tiñen de un aire ominoso cuando una joven es encontrada en su coc...</summary>
+    <link href="../book_2/book_2893.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

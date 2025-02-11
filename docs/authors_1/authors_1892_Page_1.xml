@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joaquín Campos</title>
+  <id>Calibre2opds:authors:1892</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1892_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joaquín Campos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>Muerte en Tailandia</title>
+    <id>calibre:book:2900</id>
+    <updated>2025-02-10T05:15:00Z</updated>
+    <link href="../../Joaquin%20Campos/Muerte%20en%20Tailandia%20%282900%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joaquin%20Campos/Muerte%20en%20Tailandia%20%282900%29/Muerte%20en%20Tailandia%20-%20Joaquin%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
+    <author>
+      <name>Joaquín Campos</name>
+      <uri>../authors_1/authors_1892_Page_1.xml</uri>
+    </author>
+    <published>2024-12-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LA ESFERA DE LOS LIBROS, S.L.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El 2 de agosto de 2023, el cirujano colombiano Edwin Arrieta fue asesinado y descuartizado en la paradisiaca isla de Koh Phangan. Casi inmediatamente fue detenido el joven español Daniel Sancho. La policía tailandesa no tenía dudas sobre su autoría.Y...</summary>
+    <link href="../book_2/book_2900.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

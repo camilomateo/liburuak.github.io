@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Olga Tokarczuk</title>
+  <id>Calibre2opds:authors:1897</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1897_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Olga Tokarczuk" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Tierra de empusas</title>
+    <id>calibre:book:2946</id>
+    <updated>2025-02-11T11:09:54Z</updated>
+    <link href="../../Olga%20Tokarczuk/Tierra%20de%20empusas%20%282946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Olga%20Tokarczuk/Tierra%20de%20empusas%20%282946%29/Tierra%20de%20empusas%20-%20Olga%20Tokarczuk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Olga Tokarczuk</name>
+      <uri>../authors_1/authors_1897_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Un tour de force de la Premio Nobel polaca: una mirada feminista sobre la Europa de principios de siglo.Görbensdorf, Baja Silesia, 1913. El joven polaco Miecysław Wojnicz, estudiante de ingeniería, llega al sanatorio local en busca de aire puro y una...</summary>
+    <link href="../book_2/book_2946.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
