@@ -13,7 +13,41 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
-  <link href="../recent/recent_SIXMONTHS_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 14)" />
+  <link href="../recent/recent_SIXMONTHS_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 11)" />
+  <entry>
+    <title>Nela 1979 [September 12, 2024]</title>
+    <id>calibre:book:2584</id>
+    <updated>2024-09-12T03:39:18Z</updated>
+    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Trejo/Nela%201979%20%282584%29/Nela%201979%20-%20Juan%20Trejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="281 KB" />
+    <author>
+      <name>Juan Trejo</name>
+      <uri>../authors_1/authors_1700_Page_1.xml</uri>
+    </author>
+    <published>2024-09-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un retrato del desengaño que supuso el fin de la primavera hippy en la Barcelona de los años setenta. «Una maravillosa novela sobre la búsqueda de una hermana desaparecida en plena juventud; una historia de amor inolvidable, llena de ternura, dignida...</summary>
+    <link href="../book_2/book_2584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Adiós, muy buenas [September 11, 2024]</title>
+    <id>calibre:book:2582</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xavier%20Sarda/Adios%2C%20muy%20buenas%20%282582%29/Adios%2C%20muy%20buenas%20-%20Xavier%20Sarda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="314 KB" />
+    <author>
+      <name>Xavier Sardà</name>
+      <uri>../authors_1/authors_1698_Page_1.xml</uri>
+    </author>
+    <published>2019-02-25T10:43:48Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Este escrito tiene la vocación de dibujar la vida cotidiana en un pequeño cementerio del litoral. Puestos, supone también un cierto divertimiento casi escolar de escribir con un pseudo y pésimo clasicismo. Total, poca cosa». Novela coral que se desa...</summary>
+    <link href="../book_2/book_2582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Atormentada [September 11, 2024]</title>
     <id>calibre:book:2581</id>
@@ -425,43 +459,7 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <summary>¿Nuestra vida está marcada por el apellido que llevamos? Una novela sobre realidades paralelas.Antonio es un empresario gallego con una ambición desmedida. Cuando por fin asume la dirección de la fábrica de ataúdes fundada por su padre, hasta entonce...</summary>
     <link href="../book_2/book_2560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Electra [September 9, 2024]</title>
-    <id>calibre:book:2553</id>
-    <updated>2024-09-09T10:35:07Z</updated>
-    <link href="../../Sophocles/Electra%20%282553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sophocles/Electra%20%282553%29/Electra%20-%20Sophocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
-    <author>
-      <name>Sophocles</name>
-      <uri>../authors_1/authors_1649_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:en" />
-    <link href="../book_2/book_2553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La alegría de vivir [September 9, 2024]</title>
-    <id>calibre:book:2550</id>
-    <updated>2024-09-09T10:35:06Z</updated>
-    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/La%20alegria%20de%20vivir%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
-    <author>
-      <name>Émile Zola</name>
-      <uri>../authors_1/authors_1607_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Psicológico" />
-    <category term="Realista" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [184]:</summary>
-    <link href="../book_2/book_2550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 14)" />
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
-  <link href="../recent/recent_SIXMONTHS_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
+  <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 11)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../recent/recent_SIXMONTHS_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

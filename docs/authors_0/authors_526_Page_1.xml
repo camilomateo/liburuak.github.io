@@ -16,7 +16,7 @@
   <entry>
     <title>All books by Toshikazu Kawaguchi</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 2 books</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_526_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -28,5 +28,22 @@
     <link href="../authors_0/authors_526_series_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hasta el próximo café</title>
+    <id>calibre:book:2896</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/Hasta%20el%20proximo%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
+    <author>
+      <name>Toshikazu Kawaguchi</name>
+      <uri>../authors_0/authors_526_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una nueva entrega del fenómeno feel-good japonés que ha enamorado a más de 5.000.000 de lectores en todo el mundo.Una historia llena de esperanza y optimismo que nos enseña quesiempre podemos reescribir nuestras vidas.En Japón se oculta un lugar lege...</summary>
+    <link href="../book_2/book_2896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

@@ -18,7 +18,7 @@
   <entry>
     <title>All books by J. J. Benítez</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 14 books</content>
+    <content type="text">Alphabetical index of the 37 books</content>
     <link href="../authors_0/authors_684_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -26,10 +26,38 @@
   <entry>
     <title>Series: Caballo de Troya</title>
     <id>Calibre2opds:authors:684series:112</id>
-    <content type="text">9 books</content>
+    <content type="text">10 books</content>
     <link href="../authors_0/authors_684_series_112_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Los Humanoides</title>
+    <id>Calibre2opds:authors:684series:250</id>
+    <content type="text">2 books</content>
+    <link href="../authors_0/authors_684_series_250_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Al fin libre</title>
+    <id>calibre:book:2929</id>
+    <updated>2025-02-10T05:58:22Z</updated>
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/Al%20fin%20libre%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1999-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Espiritualidad" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Quizá no lo sepa, pero hay «otro» J. J. Benítez. Además del investigador y narrador, hay un J. J. Benítez que «pinta» con las palabras. Un «buzo» audaz e incansable de las profundidades humanas. Un «alpinista» de la Verdad. Un «alquimista» del pensam...</summary>
+    <link href="../book_2/book_2929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Al sur de la razón</title>
@@ -49,6 +77,45 @@
     <link href="../book_1/book_1769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>A solas con la mar</title>
+    <id>calibre:book:2940</id>
+    <updated>2025-02-10T05:58:26Z</updated>
+    <link href="../../J.%20J.%20Benitez/A%20solas%20con%20la%20mar%20%282940%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/A%20solas%20con%20la%20mar%20%282940%29/A%20solas%20con%20la%20mar%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="797 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1997-08-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>A solas con la mar es un magistral resumen poético de las vivencias de J. J. Benítez en el verano de 1983, en la ciudad de Barbate. En esta época experimentó un cambio profundo en su vida, presintiendo el nacimiento de una nueva y trascendental etapa...</summary>
+    <link href="../book_2/book_2940.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los astronautas de Yavé</title>
+    <id>calibre:book:2923</id>
+    <updated>2025-02-10T05:58:19Z</updated>
+    <link href="../../J.%20J.%20Benitez/Los%20astronautas%20de%20Yave%20%282923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Los%20astronautas%20de%20Yave%20%282923%29/Los%20astronautas%20de%20Yave%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1980-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>En esta obra el autor nos revela un sinfín de detalles y circunstancias que rodearon la preparación y el propio nacimiento de Jesús y que la Iglesia no ha podido dar a conocer hasta ahora. ¿Quién podía sospechar que Jesús no nació realmente en la ald...</summary>
+    <link href="../book_2/book_2923.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>En Blanca y negro</title>
     <id>calibre:book:955</id>
     <updated>2023-07-14T09:58:24Z</updated>
@@ -65,6 +132,82 @@
     <category term="Lang:es" />
     <summary>En Blanca y negro es un homenaje a Blanca, la mujer que ayudó a Juanjo Benítez a cruzar la calle de la vida durante casi 40 años. Se trata del diario de una experiencia extrema: los últimos 280 días en la vida de la esposa de J. J. Benítez. El libro ...</summary>
     <link href="../book_0/book_955.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Encuentro en «Montaña Roja»</title>
+    <id>calibre:book:2934</id>
+    <updated>2025-02-10T05:58:24Z</updated>
+    <link href="../../J.%20J.%20Benitez/Encuentro%20en%20__Montana%20Roja__%20%282934%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Encuentro%20en%20__Montana%20Roja__%20%282934%29/Encuentro%20en%20__Montana%20Roja__%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>En su investigación de los ovnis, J. J. Benítez ha conocido a muchas personas que no aceptan el fenómeno o se muestran escépticas a causa de que ningún profesional de categoría los ha visto. Pues bien, en esta obra el autor prueba que los ovnis no só...</summary>
+    <link href="../book_2/book_2934.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estoy bien</title>
+    <id>calibre:book:2937</id>
+    <updated>2025-02-10T05:58:25Z</updated>
+    <link href="../../J.%20J.%20Benitez/Estoy%20bien%20%282937%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Estoy%20bien%20%282937%29/Estoy%20bien%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2014-03-03T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Espiritualidad" />
+    <category term="Lang:es" />
+    <summary>El libro abre un debate sobre la existencia del más allá y da un mensaje de esperanza ante la muerte. A lo largo de cuarenta años de investigación, el autor ha reunido un total de 130 casos fascinantes de apariciones de gente ya fallecida, recopilado...</summary>
+    <link href="../book_2/book_2937.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Existió otra humanidad</title>
+    <id>calibre:book:2933</id>
+    <updated>2025-02-10T05:58:24Z</updated>
+    <link href="../../J.%20J.%20Benitez/Existio%20otra%20humanidad%20%282933%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Existio%20otra%20humanidad%20%282933%29/Existio%20otra%20humanidad%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="313 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1974-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>J.J. Benítez explica en esta obra lo que él considera la prueba definitiva de que hace millones de años existió otra civilización en nuestro planeta. Más de once mil piedras, perfectamente grabadas con sugestivos dibujos, dan testimonio de que cierto...</summary>
+    <link href="../book_2/book_2933.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gog</title>
+    <id>calibre:book:2920</id>
+    <updated>2025-02-10T05:58:18Z</updated>
+    <link href="../../J.%20J.%20Benitez/Gog%20%282920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Gog%20%282920%29/Gog%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2019-04-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Gog es el libro que J. J. Benítez nunca hubiera deseado escribir. Esas son sus palabras. Pero escrito está. Según el autor navarro, lo más importante de esta supuesta novela «es lo que se intuye, no lo que se lee». Sí, Gog es una pequeña joya (envene...</summary>
+    <link href="../book_2/book_2920.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>La gran catástrofe amarilla</title>
@@ -86,6 +229,44 @@
     <link href="../book_1/book_1191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Las guerras de Yavé</title>
+    <id>calibre:book:2917</id>
+    <updated>2025-02-10T05:58:17Z</updated>
+    <link href="../../J.%20J.%20Benitez/Las%20guerras%20de%20Yave%20%282917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Las%20guerras%20de%20Yave%20%282917%29/Las%20guerras%20de%20Yave%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2023-10-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Con Las guerras de Yavé, J. J. Benítez vuelve al Antiguo Testamento para romper con las verdades universales que rodean nuestra idea de Dios.En Las Guerras de Yavé, J. J. Benítez se enfrenta a millones de creyentes en las religiones judía, cristiana,...</summary>
+    <link href="../book_2/book_2917.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre que susurraba a los «ummitas»</title>
+    <id>calibre:book:2932</id>
+    <updated>2025-02-10T05:58:23Z</updated>
+    <link href="../../J.%20J.%20Benitez/El%20hombre%20que%20susurraba%20a%20los%20__umm%20%282932%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/El%20hombre%20que%20susurraba%20a%20los%20__umm%20%282932%29/El%20hombre%20que%20susurraba%20a%20los%20_%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="13 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2007-04-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Aunque jamás se apartó de la investigación, J. J. Benítez regresa a uno de sus temas favoritos: los ovnis. Y lo hace con un caso especialmente polémico: «UMMO». A partir de 1966, y durante más de veinte años, un grupo de ciudadanos recibió decenas de...</summary>
+    <link href="../book_2/book_2932.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Mis "primos". El suceso más importante de la historia</title>
     <id>calibre:book:1183</id>
     <updated>2024-02-01T09:56:45Z</updated>
@@ -103,6 +284,158 @@
     <link href="../book_1/book_1183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Mis «primos»</title>
+    <id>calibre:book:2924</id>
+    <updated>2025-02-10T05:58:20Z</updated>
+    <link href="../../J.%20J.%20Benitez/Mis%20__primos__%20%282924%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Mis%20__primos__%20%282924%29/Mis%20__primos__%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="41 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2021-10-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Mis «primos» es la continuación de Sólo para tus ojos (2016). Se trata del libro número 25 de J. J. Benítez sobre el misterio de los «objetos volantes no identificados». El investigador navarro reúne más de doscientos casos registrados en todo el mun...</summary>
+    <link href="../book_2/book_2924.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mis enigmas favoritos</title>
+    <id>calibre:book:2926</id>
+    <updated>2025-02-10T05:58:21Z</updated>
+    <link href="../../J.%20J.%20Benitez/Mis%20enigmas%20favoritos%20%282926%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Mis%20enigmas%20favoritos%20%282926%29/Mis%20enigmas%20favoritos%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1992-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Uno de los proyectos más ambiciosos de la extensa trayectoria de Benítez como cronista y notario de lo oculto. Según el autor «el objetivo de esta obra es ofrecer lo más granado de las leyendas y enigmas que, afortunadamente, aún conserva nuestro mun...</summary>
+    <link href="../book_2/book_2926.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El misterio de la Virgen de Guadalupe</title>
+    <id>calibre:book:2936</id>
+    <updated>2025-02-10T05:58:25Z</updated>
+    <link href="../../J.%20J.%20Benitez/El%20misterio%20de%20la%20Virgen%20de%20Guadalu%20%282936%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/El%20misterio%20de%20la%20Virgen%20de%20Guadalu%20%282936%29/El%20misterio%20de%20la%20Virgen%20de%20Gua%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1985-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>»No es fácil para mí acertar con las motivaciones que un buen día, allá por el año 1977, me arrastraron a investigar y escribir sobre la imagen de la Virgen de Guadalupe en México. Si tuviera que decidirme por una, creo que elegiría la curiosidad. En...</summary>
+    <link href="../book_2/book_2936.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ovnis, S. O. S. a la humanidad</title>
+    <id>calibre:book:2935</id>
+    <updated>2025-02-10T05:58:25Z</updated>
+    <link href="../../J.%20J.%20Benitez/Ovnis%2C%20S.%20O.%20S.%20a%20la%20humanidad%20%282935%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Ovnis%2C%20S.%20O.%20S.%20a%20la%20humanidad%20%282935%29/Ovnis%2C%20S.%20O.%20S.%20a%20la%20humanidad%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1974-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>«Una formidable catástrofe asolará la Tierra muy pronto. Ellos lo saben y tienen prisa por ayudarnos...» Pero ¿quiénes son estos seres del espacio? ¿Cúal es su origen, cúal su nivel mental y físico? ¿Qué es y qué representa lo que los miembros del In...</summary>
+    <link href="../book_2/book_2935.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pactos y señales</title>
+    <id>calibre:book:2930</id>
+    <updated>2025-02-10T05:58:23Z</updated>
+    <link href="../../J.%20J.%20Benitez/Pactos%20y%20senales%20%282930%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Pactos%20y%20senales%20%282930%29/Pactos%20y%20senales%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2014-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Espiritualidad" />
+    <category term="memorias" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Pactos y señales prosigue la titánica senda investigadora que J. J. Benítez emprendió hace más de cuatro décadas: probar la existencia del más allá. A partir de los pactos establecidos en vida entre dos personas, y la muestra explícita en forma de se...</summary>
+    <link href="../book_2/book_2930.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Papa rojo</title>
+    <id>calibre:book:2942</id>
+    <updated>2025-02-10T05:58:40Z</updated>
+    <link href="../../J.%20J.%20Benitez/El%20Papa%20rojo%20%282942%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/El%20Papa%20rojo%20%282942%29/El%20Papa%20rojo%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="454 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1991-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Sería un mal servicio al lector. Desvelar el argumento de «El Papa rojo (La gloria del olivo)», al igual que sucede con los «Caballos de Troya» y «La rebelión de Lucifer», se nos antoja un sacrilegio. No busque en estas líneas un resumen del libro qu...</summary>
+    <link href="../book_2/book_2942.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La rebelión de Lucifer</title>
+    <id>calibre:book:2938</id>
+    <updated>2025-02-10T05:58:26Z</updated>
+    <link href="../../J.%20J.%20Benitez/La%20rebelion%20de%20Lucifer%20%282938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/La%20rebelion%20de%20Lucifer%20%282938%29/La%20rebelion%20de%20Lucifer%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <summary>Las más insospechadas revelaciones sobre ese gran desconocido llamado Lucifer y su frustrado «sueño» de libertad… Junto a manifestaciones que le dejarán atónito, el libro se adentra, además, en el apasionante tema del fracasado plan cósmico de Adán y...</summary>
+    <link href="../book_2/book_2938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ricky B. Una historia «oficialmente» imposible</title>
+    <id>calibre:book:2921</id>
+    <updated>2025-02-10T05:58:18Z</updated>
+    <link href="../../J.%20J.%20Benitez/Ricky%20B.%20Una%20historia%20__oficialment%20%282921%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Ricky%20B.%20Una%20historia%20__oficialment%20%282921%29/Ricky%20B.%20Una%20historia%20__oficial%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1997-09-30T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>1975: Un autobús sufre un misterioso accidente en Yucatán (México). Varios pasajeros fallecen. Ricky B., una turista norteamericana, sobrevive… 1982: Ricky B. confiesa su gran secreto. «No es humana». Según dice, procede de las estrellas y ha tomado ...</summary>
+    <link href="../book_2/book_2921.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Sólo para tus ojos</title>
     <id>calibre:book:954</id>
     <updated>2023-07-14T09:58:22Z</updated>
@@ -118,5 +451,62 @@
     <category term="Lang:es" />
     <summary>En septiembre de 2016, J. J. Benítez cumple 70 años y 45 de investigación ovni. En estos momentos es uno de los investigadores más veteranos. Coincidiendo con estos dos aniversarios, el autor escribe  *Solo para tus ojos* como obra conmemorativa, tra...</summary>
     <link href="../book_0/book_954.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sólo para tus ojos</title>
+    <id>calibre:book:2941</id>
+    <updated>2025-02-10T05:58:39Z</updated>
+    <link href="../../J.%20J.%20Benitez/Solo%20para%20tus%20ojos%20%282941%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Solo%20para%20tus%20ojos%20%282941%29/Solo%20para%20tus%20ojos%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="16 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2016-09-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>En 2016, J. J. Benítez cumplió 44 años en la investigación ovni. En estos momentos es uno de los investigadores más veteranos. Fruto de esa indagación constante y fatigosa han sido 22 libros sobre el tema. Sólo para tus ojos es una selección de los 3...</summary>
+    <link href="../book_2/book_2941.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tengo a papá</title>
+    <id>calibre:book:2925</id>
+    <updated>2025-02-10T05:58:20Z</updated>
+    <link href="../../J.%20J.%20Benitez/Tengo%20a%20papa%20%282925%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Tengo%20a%20papa%20%282925%29/Tengo%20a%20papa%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2017-08-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>El 8 de octubre de 1967, Ernesto Che Guevara fue capturado por el ejército boliviano en las proximidades de la aldea de La Higuera, al sudeste de Bolivia. Al día siguiente lo fusilaron sin juicio previo. Transcurrido medio siglo desde aquel suceso, l...</summary>
+    <link href="../book_2/book_2925.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Yo, Julio Verne</title>
+    <id>calibre:book:2931</id>
+    <updated>2025-02-10T05:58:23Z</updated>
+    <link href="../../J.%20J.%20Benitez/Yo%2C%20Julio%20Verne%20%282931%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Yo%2C%20Julio%20Verne%20%282931%29/Yo%2C%20Julio%20Verne%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1987-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <summary>«Yo, Julio Verne» revela a los cientos de miles de lectores del enigmático bretón la «cara oculta» de un hombre atormentado que se «suicidó» por el trabajo. ¿Fue Verne un profeta de la ciencia? ¿Cuántos de sus lectores han descubierto la subterránea ...</summary>
+    <link href="../book_2/book_2931.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

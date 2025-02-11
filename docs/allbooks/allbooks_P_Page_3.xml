@@ -13,7 +13,62 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
-  <link href="../allbooks/allbooks_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
+  <link href="../allbooks/allbooks_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 9)" />
+  <entry>
+    <title>Pigmalión</title>
+    <id>calibre:book:2314</id>
+    <updated>2024-09-09T10:34:05Z</updated>
+    <link href="../../Bernard%20Shaw/Pigmalion%20%282314%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Bernard%20Shaw/Pigmalion%20%282314%29/Pigmalion%20-%20Bernard%20Shaw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="147 KB" />
+    <author>
+      <name>Bernard Shaw</name>
+      <uri>../authors_1/authors_1611_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [65]:</summary>
+    <link href="../book_2/book_2314.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pigmalión y otros relatos</title>
+    <id>calibre:book:2973</id>
+    <updated>2025-02-11T11:48:16Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Pigmalion%20y%20otros%20relatos%20%282973%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Pigmalion%20y%20otros%20relatos%20%282973%29/Pigmalion%20y%20otros%20relatos%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="259 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1999-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Policial" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>El creador de la serie policíaca protagonizada por Pepe Carvalho reúne en este volumen lo más sustancial de sus aportaciones a género del relato. La pluralidad de temas y la diversidad de los registros empleados en el libro convergen en una propuesta...</summary>
+    <link href="../book_2/book_2973.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pirineo Noir</title>
+    <id>calibre:book:1021</id>
+    <updated>2023-09-14T09:44:34Z</updated>
+    <link href="../../Maria%20Perez%20Heredia/Pirineo%20Noir%20%281021%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Perez%20Heredia/Pirineo%20Noir%20%281021%29/Pirineo%20Noir%20-%20Maria%20Perez%20Heredia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
+    <author>
+      <name>María Pérez Heredia</name>
+      <uri>../authors_0/authors_753_Page_1.xml</uri>
+    </author>
+    <published>2023-08-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller literario ambientado en el Pirineo aragonés, en la estela de Gillian Flynn, Joyce Carol Oates y Virginia Feito, por «una de las promesas de la literatura española» (Vice). «Una voz nueva, turbadora y profundamente original en el panorama ...</summary>
+    <link href="../book_1/book_1021.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Pisto a la bilbaína</title>
     <id>calibre:book:1626</id>
@@ -393,64 +448,7 @@ Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión
     <category term="Lang:es" />
     <link href="../book_2/book_2312.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Por qué Ucrania</title>
-    <id>calibre:book:1479</id>
-    <updated>2024-04-30T05:13:17Z</updated>
-    <link href="../../Noam%20Chomsky/Por%20que%20Ucrania%20%281479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noam%20Chomsky/Por%20que%20Ucrania%20%281479%29/Por%20que%20Ucrania%20-%20Noam%20Chomsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="468 KB" />
-    <author>
-      <name>Noam Chomsky</name>
-      <uri>../authors_1/authors_1082_Page_1.xml</uri>
-    </author>
-    <published>2022-10-10T09:57:08Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Altamarea Ediciones</dcterms:publisher>
-    <category term="Lang:en" />
-    <summary>En este libro, Noam Chomsky expone las causas de la invasión de Ucrania iniciada por Rusia en febrero de 2022, partiendo de dos premisas fundamentales: por un lado, estamos ante «un grave crimen de guerra por el que hay que buscar explicaciones, pero...</summary>
-    <link href="../book_1/book_1479.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Por qué fracasan los países</title>
-    <id>calibre:book:2662</id>
-    <updated>2024-10-22T07:58:41Z</updated>
-    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/Por%20que%20fracasan%20los%20paises%20-%20Daron%20Acemoglu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Daron Acemoglu</name>
-      <uri>../authors_1/authors_1751_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>James A. Robinson</name>
-      <uri>../authors_1/authors_1752_Page_1.xml</uri>
-    </author>
-    <published>2011-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencias sociales" />
-    <category term="Ensayo" />
-    <category term="Lang:es" />
-    <summary>¿Qué determina que un país sea rico o pobre? ¿Cómo se explica que, en condiciones similares, en algunos países haya hambrunas y en otros no? ¿Qué papel juega la política en estas cuestiones?Nogales (Arizona) y Nogales (Sonora) tienen la misma poblaci...</summary>
-    <link href="../book_2/book_2662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Por siempre jamás</title>
-    <id>calibre:book:977</id>
-    <updated>2023-08-23T00:29:00Z</updated>
-    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Harlan%20Coben/Por%20siempre%20jamas%20%28977%29/Por%20siempre%20jamas%20-%20Harlan%20Coben.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="512 KB" />
-    <author>
-      <name>Harlan Coben</name>
-      <uri>../authors_0/authors_725_Page_1.xml</uri>
-    </author>
-    <published>2013-06-20T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿SE PUEDE TENER CONFIANZA CIEGA EN ALGUIEN?Will Klein adora a su hermano mayor, Ken, y cree que nunca le decepcionará. Pero una noche, en el sótano de la casa familiar, aparece el cadáver de una chica asesinada. Era una antigua novia de Will. Ante l...</summary>
-    <link href="../book_0/book_977.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
-  <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
-  <link href="../allbooks/allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+  <link href="../allbooks/allbooks_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 9)" />
+  <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../allbooks/allbooks_P_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

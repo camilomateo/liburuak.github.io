@@ -14,6 +14,24 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <entry>
+    <title>Las voces silenciadas</title>
+    <id>calibre:book:581</id>
+    <updated>2023-04-28T01:16:52Z</updated>
+    <link href="../../Patricia%20Gibney/Las%20voces%20silenciadas%20%28581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Gibney/Las%20voces%20silenciadas%20%28581%29/Las%20voces%20silenciadas%20-%20Patricia%20Gibney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="996 KB" />
+    <author>
+      <name>Patricia Gibney</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <published>2022-02-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Lottie Parker" />
+    <summary>Lottie Parker [9]: Un thriller adictivo de la autora best seller Patricia GibneyCuando la joven Beth Mullen regresa a su casa, donde vive con su hermana gemela, Rachel, el silencio sepulcral que la recibe le provoca escalofríos. Beth sube las escaler...</summary>
+    <link href="../book_0/book_581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La vorágine</title>
     <id>calibre:book:2022</id>
     <updated>2024-09-06T01:57:47Z</updated>

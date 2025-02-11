@@ -15,6 +15,38 @@
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
   <link href="../allbooks/allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 10)" />
   <entry>
+    <title>Abrojos</title>
+    <id>calibre:book:2138</id>
+    <updated>2024-09-06T02:21:22Z</updated>
+    <link href="../../Ruben%20Dario/Abrojos%20%282138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruben%20Dario/Abrojos%20%282138%29/Abrojos%20-%20Ruben%20Dario.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="55 KB" />
+    <author>
+      <name>Rubén Darío</name>
+      <uri>../authors_1/authors_1517_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Acerca del alma</title>
+    <id>calibre:book:1987</id>
+    <updated>2024-09-05T06:10:30Z</updated>
+    <link href="../../Aristoteles/Acerca%20del%20alma%20%281987%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristoteles/Acerca%20del%20alma%20%281987%29/Acerca%20del%20alma%20-%20Aristoteles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="138 KB" />
+    <author>
+      <name>Aristóteles</name>
+      <uri>../authors_1/authors_1385_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_1/book_1987.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Adicta a un gilipollas</title>
     <id>calibre:book:363</id>
     <updated>2023-02-27T01:47:48Z</updated>
@@ -434,6 +466,26 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <link href="../book_2/book_2135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Al fin libre</title>
+    <id>calibre:book:2929</id>
+    <updated>2025-02-10T05:58:22Z</updated>
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/Al%20fin%20libre%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1999-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Espiritualidad" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Quizá no lo sepa, pero hay «otro» J. J. Benítez. Además del investigador y narrador, hay un J. J. Benítez que «pinta» con las palabras. Un «buzo» audaz e incansable de las profundidades humanas. Un «alpinista» de la Verdad. Un «alquimista» del pensam...</summary>
+    <link href="../book_2/book_2929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Al final del camino</title>
     <id>calibre:book:1680</id>
     <updated>2024-07-22T06:30:41Z</updated>
@@ -452,57 +504,6 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <category term="El cabo Holmes" />
     <summary>El cabo Holmes [10]: El hijo de un negociante de diamantes de Amberes y su novia gallega deciden hacer el Camino de Santiago. Mientras se dan un paseo nocturno por la playa de Lires, la última etapa antes de llegar al cabo Finisterre, surgen de la os...</summary>
     <link href="../book_1/book_1680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Al otro lado</title>
-    <id>calibre:book:1380</id>
-    <updated>2024-04-03T00:30:04Z</updated>
-    <link href="../../Marc%20Betriu/Al%20otro%20lado%20%281380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marc%20Betriu/Al%20otro%20lado%20%281380%29/Al%20otro%20lado%20-%20Marc%20Betriu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="605 KB" />
-    <author>
-      <name>Marc Betriu</name>
-      <uri>../authors_1/authors_1013_Page_1.xml</uri>
-    </author>
-    <published>2023-02-07T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«He conocido a otros como usted. Se implican tanto que se hacen matar. No les importa el peligro, al revés, les gusta, les motiva. Para tipos como usted tiene que haber un final, bueno o malo, pero tiene que haber un final». Durante la Guerra Civil, ...</summary>
-    <link href="../book_1/book_1380.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Al servicio del imperio</title>
-    <id>calibre:book:1838</id>
-    <updated>2024-08-30T02:08:02Z</updated>
-    <link href="../../Pedro%20Santamaria/Al%20servicio%20del%20imperio%20%281838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Santamaria/Al%20servicio%20del%20imperio%20%281838%29/Al%20servicio%20del%20imperio%20-%20Pedro%20Santamaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Pedro Santamaría</name>
-      <uri>../authors_1/authors_1315_Page_1.xml</uri>
-    </author>
-    <published>2018-05-13T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Pàmies</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Año 65 d.C. Dos muchachos deciden alistarse en una unidad del ejército imperial compuesta exclusivamente por cántabros: la Cohors II Cantabrorum. Jamás han salido de su aldea y tienen un sueño: aprender de Roma para derrotarla. Pero Roma no se encuen...</summary>
-    <link href="../book_1/book_1838.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Al sur de la razón</title>
-    <id>calibre:book:1769</id>
-    <updated>2024-08-26T10:56:11Z</updated>
-    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Al%20sur%20de%20la%20razon%20%281769%29/Al%20sur%20de%20la%20razon%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="23 MB" />
-    <author>
-      <name>J. J. Benítez</name>
-      <uri>../authors_0/authors_684_Page_1.xml</uri>
-    </author>
-    <published>2016-02-16T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una obra inédita, 101 reflexiones y 101 ilustraciones de J. J. Benítez.Cuando los lectores de J. J. Benítez suponían que el escritor navarro lo había dicho todo (más de sesenta libros publicados), aparece Al sur de la razón. Imposible definirlo, ni a...</summary>
-    <link href="../book_1/book_1769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 10)" />
   <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />

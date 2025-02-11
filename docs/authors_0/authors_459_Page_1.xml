@@ -19,7 +19,7 @@
   <entry>
     <title>All books by Benjamín Prado</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 2 books</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_459_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -31,6 +31,23 @@
     <link href="../authors_0/authors_459_series_198_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alguien se acerca</title>
+    <id>calibre:book:2901</id>
+    <updated>2025-02-10T05:15:00Z</updated>
+    <link href="../../Benjamin%20Prado/Alguien%20se%20acerca%20%282901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Prado/Alguien%20se%20acerca%20%282901%29/Alguien%20se%20acerca%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="386 KB" />
+    <author>
+      <name>Benjamín Prado</name>
+      <uri>../authors_0/authors_459_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las cosas parecen mucho más grandes de lo que son cuando están delante de un hombre solo.Eso es lo que piensa el protagonista de esta novela, apresado en una vida ordenada y absurda, perfecta y fría como el infierno.Hasta que una mañana, de pronto, t...</summary>
+    <link href="../book_2/book_2901.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Los treinta apellidos</title>

@@ -20,7 +20,7 @@
   <entry>
     <title>All books by Camilla Läckberg</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 11 books</content>
+    <content type="text">Alphabetical index of the 12 books</content>
     <link href="../authors_0/authors_369_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -101,6 +101,23 @@
     <dcterms:publisher>Grupo Planeta</dcterms:publisher>
     <summary>Camilla Läckberg, una de las autoras de novela negra más leídas del mundo, con 26 millones de ejemplares vendidos en 60 países, se aleja de sus series de Fjällbacka y Faye y nos regala su novela más negra y adictiva: Mujeres que no perdonan, una hist...</summary>
     <link href="../book_0/book_692.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sueños de bronce</title>
+    <id>calibre:book:2943</id>
+    <updated>2025-02-11T11:09:54Z</updated>
+    <link href="../../Camilla%20Lackberg/Suenos%20de%20bronce%20%282943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/Suenos%20de%20bronce%20%282943%29/Suenos%20de%20bronce%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="746 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2024-12-24T04:10:34Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El esperado regreso al universo Faye de Camilla Läckberg, la autora de novela negra más importante de Europa.Jack, el exmarido de Faye, ha muerto y con él muchas de sus preocupaciones, pero ahora su vida se ve amenazada por la única persona en el mun...</summary>
+    <link href="../book_2/book_2943.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Verdad o reto</title>

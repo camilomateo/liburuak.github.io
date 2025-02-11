@@ -14,6 +14,19 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="../allbooks/allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
+    <title>Habitada</title>
+    <id>calibre:book:2945</id>
+    <updated>2025-02-11T11:09:54Z</updated>
+    <link href="../../Cristina%20Sanchez-Andrade/Habitada%20%282945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Sanchez-Andrade/Habitada%20%282945%29/Habitada%20-%20Cristina%20Sanchez-Andrade.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="348 KB" />
+    <author>
+      <name>Cristina Sánchez-Andrade</name>
+      <uri>../authors_1/authors_1896_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_2/book_2945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Hacia el pantano</title>
     <id>calibre:book:1855</id>
     <updated>2024-09-02T04:27:35Z</updated>
@@ -150,6 +163,23 @@
     <category term="Lang:es" />
     <summary>Aprende todo lo necesario sobre el cuidado de tu bebé. La llegada de un hijo es una experiencia emocionante, pero también puede generar miedo e incertidumbre en los padres, sobre todo durante los primeros meses. Para ayudarlos a disfrutar de esta eta...</summary>
     <link href="../book_2/book_2880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hasta el próximo café</title>
+    <id>calibre:book:2896</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/Hasta%20el%20proximo%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
+    <author>
+      <name>Toshikazu Kawaguchi</name>
+      <uri>../authors_0/authors_526_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una nueva entrega del fenómeno feel-good japonés que ha enamorado a más de 5.000.000 de lectores en todo el mundo.Una historia llena de esperanza y optimismo que nos enseña quesiempre podemos reescribir nuestras vidas.En Japón se oculta un lugar lege...</summary>
+    <link href="../book_2/book_2896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Hasta que nos quedemos sin estrellas</title>
@@ -410,44 +440,6 @@
     <category term="Lang:es" />
     <summary>¿Un monstruo nace o se hace?La novela negra del momento se escribe en Corea.Dos personas han aterrizado en la vida de la psicóloga forense Seon-gyeong: un asesino en serie de fama mundial, Lee Byeong-do, que había permanecido en silencio hasta entonc...</summary>
     <link href="../book_1/book_1036.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Hijos de la fábula</title>
-    <id>calibre:book:285</id>
-    <updated>2023-02-06T07:44:00Z</updated>
-    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Aramburu/Hijos%20de%20la%20fabula%20%28285%29/Hijos%20de%20la%20fabula%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="615 KB" />
-    <author>
-      <name>Fernando Aramburu</name>
-      <uri>../authors_0/authors_192_Page_1.xml</uri>
-    </author>
-    <published>2023-01-12T01:01:43Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Dos jóvenes exaltados, Asier y Joseba, se marchan en 2011 al sur de Francia con la intención de convertirse en militantes de ETA. Esperan instrucciones en una granja de pollos, acogidos por una pareja francesa con la que apenas se entienden. Allí se ...</summary>
-    <link href="../book_0/book_285.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Hilos de sangre</title>
-    <id>calibre:book:698</id>
-    <updated>2023-05-17T01:10:08Z</updated>
-    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/Hilos%20de%20sangre%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="573 KB" />
-    <author>
-      <name>Angela Marsons</name>
-      <uri>../authors_0/authors_520_Page_1.xml</uri>
-    </author>
-    <published>2023-05-12T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Jentas</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Kim Stone" />
-    <summary>Kim Stone [5]: La víctima ha recibido una sola puñalada, precisa, en el vientre; y, a primera vista, cualquiera diría que ha sido un robo frustrado. Una trabajadora social, madre cariñosa, se ha perdido en un acto de violencia sin sentido. Pero, para...</summary>
-    <link href="../book_0/book_698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

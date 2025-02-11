@@ -14,6 +14,76 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
   <entry>
+    <title>Los tres mosqueteros</title>
+    <id>calibre:book:2251</id>
+    <updated>2024-09-09T10:33:53Z</updated>
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexandre%20Dumas/Los%20tres%20mosqueteros%20%282251%29/Los%20tres%20mosqueteros%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="648 KB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../authors_1/authors_1490_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las tres muertes de Sarah Colbert</title>
+    <id>calibre:book:2783</id>
+    <updated>2025-01-09T08:18:54Z</updated>
+    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arantxa%20Rufo/Las%20tres%20muertes%20de%20Sarah%20Colbert%20%282783%29/Las%20tres%20muertes%20de%20Sarah%20Colbe%20-%20Arantxa%20Rufo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="937 KB" />
+    <author>
+      <name>Arantxa Rufo</name>
+      <uri>../authors_1/authors_1821_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL RELEVO DEL THRILLER ESPAÑOL«El personaje que cualquier escritor de novela negra querría escribir.» ROBERTO SANTIAGO«Arantxa Rufo es la sangre fresca del thriller español.» CÉSAR PÉREZ GELLIDA«Philip Marlowe y Sarah Colbert tendrían mucho que decir...</summary>
+    <link href="../book_2/book_2783.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El triunfo de Sophia</title>
+    <id>calibre:book:374</id>
+    <updated>2023-03-03T08:31:28Z</updated>
+    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Corina%20Bomann/El%20triunfo%20de%20Sophia%20%28374%29/El%20triunfo%20de%20Sophia%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="683 KB" />
+    <author>
+      <name>Corina Bomann</name>
+      <uri>../authors_0/authors_268_Page_1.xml</uri>
+    </author>
+    <published>2022-12-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Los colores de la belleza" />
+    <summary>Los colores de la belleza [3]: El destino de Sophia se decide en la cautivadora última entrega de la trilogía best seller de Corina Bomann.Nueva York, 1934. Sophia se encuentra de nuevo en una encrucijada. Durante años, las dos emperatrices del maqui...</summary>
+    <link href="../book_0/book_374.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los trucos de los ricos 2</title>
+    <id>calibre:book:758</id>
+    <updated>2023-05-22T05:07:00Z</updated>
+    <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Haro/Los%20trucos%20de%20los%20ricos%202%20%28758%29/Los%20trucos%20de%20los%20ricos%202%20-%20Juan%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Juan Haro</name>
+      <uri>../authors_0/authors_567_Page_1.xml</uri>
+    </author>
+    <published>2022-02-28T08:41:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Ecomía" />
+    <category term="Lang:es" />
+    <category term="Los trucos de los ricos" />
+    <summary>Los trucos de los ricos [2]: Todos aspiramos a construir nuestro propio patrimonio y a generar rentas pasivas. No obstante, no es fácil conseguirlo sin una idea clara de qué, cómo y cuándo debe hacerse. Sin los conocimientos adecuados estamos abocado...</summary>
+    <link href="../book_0/book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La trágica historia del doctor Fausto</title>
     <id>calibre:book:2348</id>
     <updated>2024-09-09T10:34:13Z</updated>

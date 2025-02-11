@@ -15,6 +15,39 @@
   <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
   <link href="../allbooks/allbooks_T_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 8)" />
   <entry>
+    <title>El Testamento de San Juan</title>
+    <id>calibre:book:2939</id>
+    <updated>2025-02-10T05:58:26Z</updated>
+    <link href="../../Benitez%20J.J_/El%20Testamento%20de%20San%20Juan%20%282939%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benitez%20J.J_/El%20Testamento%20de%20San%20Juan%20%282939%29/El%20Testamento%20de%20San%20Juan%20-%20Benitez%20J.J_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="192 KB" />
+    <author>
+      <name>Benítez J.J.</name>
+      <uri>../authors_1/authors_1895_Page_1.xml</uri>
+    </author>
+    <published>1988-01-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2939.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Testigos ocultos</title>
+    <id>calibre:book:524</id>
+    <updated>2023-04-05T00:40:06Z</updated>
+    <link href="../../Victor%20Pavic%20Lundberg/Testigos%20ocultos%20%28524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Pavic%20Lundberg/Testigos%20ocultos%20%28524%29/Testigos%20ocultos%20-%20Victor%20Pavic%20Lundberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="795 KB" />
+    <author>
+      <name>Victor Pavic Lundberg</name>
+      <uri>../authors_0/authors_388_Page_1.xml</uri>
+    </author>
+    <published>2023-04-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Dos periodistas y antiguos amigos investigan una tragedia aérea ocurrida hace 20 años, donde murió gente que no debía estar allí, y se salvaron algunos que se supone estaban en el vuelo. Las familias más poderosas de Suecia están involucradas.</summary>
+    <link href="../book_0/book_524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Adventures of Tom Sawyer</title>
     <id>calibre:book:2090</id>
     <updated>2024-09-06T02:09:10Z</updated>
@@ -611,49 +644,6 @@
     <category term="Fiction" />
     <category term="Lang:en" />
     <link href="../book_2/book_2505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Sorrows of Young Werther</title>
-    <id>calibre:book:2511</id>
-    <updated>2024-09-09T10:34:46Z</updated>
-    <link href="../../Johann%20Wolfgang%20von%20Goethe/The%20Sorrows%20of%20Young%20Werther%20%282511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Johann%20Wolfgang%20von%20Goethe/The%20Sorrows%20of%20Young%20Werther%20%282511%29/The%20Sorrows%20of%20Young%20Werther%20-%20Johann%20Wolfgang%20von%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="149 KB" />
-    <author>
-      <name>Johann Wolfgang von Goethe</name>
-      <uri>../authors_1/authors_1665_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Germany" />
-    <category term="--" />
-    <category term="Social" />
-    <category term="Life" />
-    <category term="and" />
-    <category term="customs" />
-    <category term="Fiction" />
-    <category term="Unrequited" />
-    <category term="Love" />
-    <category term="Young" />
-    <category term="men" />
-    <category term="Lang:en" />
-    <link href="../book_2/book_2511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Stolen White Elephant</title>
-    <id>calibre:book:2480</id>
-    <updated>2024-09-09T10:34:39Z</updated>
-    <link href="../../Mark%20Twain/The%20Stolen%20White%20Elephant%20%282480%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mark%20Twain/The%20Stolen%20White%20Elephant%20%282480%29/The%20Stolen%20White%20Elephant%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="74 KB" />
-    <author>
-      <name>Mark Twain</name>
-      <uri>../authors_1/authors_1488_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:en" />
-    <link href="../book_2/book_2480.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 8)" />
   <link href="../allbooks/allbooks_T_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />

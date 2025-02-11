@@ -100,6 +100,26 @@
     <link href="../book_2/book_2669.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Vallesordo</title>
+    <id>calibre:book:2902</id>
+    <updated>2025-02-10T05:15:00Z</updated>
+    <link href="../../Jonathan%20Arribas/Vallesordo%20%282902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Arribas/Vallesordo%20%282902%29/Vallesordo%20-%20Jonathan%20Arribas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="278 KB" />
+    <author>
+      <name>Jonathan Arribas</name>
+      <uri>../authors_1/authors_1893_Page_1.xml</uri>
+    </author>
+    <published>2025-01-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <summary>Una nueva y original voz de las letras españolas, una entrañable novela sobre una infancia en un pueblo de Zamora en la década de los dos mil. Nico es un niño que vive en un pueblo de Zamora. Juega a polis y cacos con los amigos, va en bici, pasa tie...</summary>
+    <link href="../book_2/book_2902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Vamos a morir todos</title>
     <id>calibre:book:1379</id>
     <updated>2024-04-03T00:30:04Z</updated>
@@ -462,32 +482,6 @@ Sophie Duguet no entiende qué le sucede: pierde objetos, olvida situaciones, es
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [17]:</summary>
     <link href="../book_2/book_2043.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Viajes por España</title>
-    <id>calibre:book:2125</id>
-    <updated>2024-09-06T02:21:20Z</updated>
-    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/Viajes%20por%20Espana%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="263 KB" />
-    <author>
-      <name>Pedro Antonio de Alarcón</name>
-      <uri>../authors_1/authors_1509_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Spain" />
-    <category term="--" />
-    <category term="Description" />
-    <category term="and" />
-    <category term="travel" />
-    <category term="Social" />
-    <category term="Life" />
-    <category term="customs" />
-    <category term="19th" />
-    <category term="century" />
-    <category term="Lang:es" />
-    <link href="../book_2/book_2125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

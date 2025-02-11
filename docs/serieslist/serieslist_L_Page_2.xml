@@ -13,6 +13,22 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
   <entry>
+    <title>Los Humanoides</title>
+    <id>Calibre2opds::serieslist:Lseries:250</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_250_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los Lejongärd</title>
+    <id>Calibre2opds::serieslist:Lseries:111</id>
+    <content type="text">La promesa de Solveig</content>
+    <link href="../series_0/series_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Los Médici</title>
     <id>Calibre2opds::serieslist:Lseries:185</id>
     <content type="text">La decadencia de una familia</content>
