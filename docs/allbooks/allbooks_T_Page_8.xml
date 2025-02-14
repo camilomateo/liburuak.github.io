@@ -14,6 +14,57 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with T" />
   <entry>
+    <title>La trenza</title>
+    <id>calibre:book:862</id>
+    <updated>2023-06-14T05:48:34Z</updated>
+    <link href="../../Laetitia%20Colombani/La%20trenza%20%28862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laetitia%20Colombani/La%20trenza%20%28862%29/La%20trenza%20-%20Laetitia%20Colombani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="639 KB" />
+    <author>
+      <name>Laetitia Colombani</name>
+      <uri>../authors_0/authors_647_Page_1.xml</uri>
+    </author>
+    <published>2018-09-01T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Con cerca de medio millón de ejemplares vendidos en Francia y casi treinta traducciones en curso, La trenza fue uno de los fenómenos editoriales de 2017. En esta narración vibrante y conmovedora, Laetitia Colombani —guionista, directora y actriz de r...</summary>
+    <link href="../book_0/book_862.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las tres bodas de Manolita</title>
+    <id>calibre:book:50</id>
+    <updated>2023-01-17T10:48:50Z</updated>
+    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Grandes/Las%20tres%20bodas%20de%20Manolita%20%2850%29/Las%20tres%20bodas%20de%20Manolita%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="653 KB" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2014-04-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Episodios de una guerra interminable" />
+    <summary>Episodios de una guerra interminable [3]: En el Madrid recién salido de la guerra civil, sobrevivir es un duro oficio cotidiano. Especialmente para Manolita, una joven de dieciocho años que, con su padre y su madrastra encarcelados, y su hermano Anto...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las tres hilanderas</title>
+    <id>calibre:book:2030</id>
+    <updated>2024-09-06T02:09:00Z</updated>
+    <link href="../../Grimm/Las%20tres%20hilanderas%20%282030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Grimm/Las%20tres%20hilanderas%20%282030%29/Las%20tres%20hilanderas%20-%20Grimm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="61 KB" />
+    <author>
+      <name>Grimm</name>
+      <uri>../authors_1/authors_1460_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2030.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los tres mosqueteros</title>
     <id>calibre:book:2251</id>
     <updated>2024-09-09T10:33:53Z</updated>

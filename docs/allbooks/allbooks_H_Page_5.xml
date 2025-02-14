@@ -14,6 +14,58 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
   <entry>
+    <title>Un hombre enamorado</title>
+    <id>calibre:book:1866</id>
+    <updated>2024-09-02T04:27:39Z</updated>
+    <link href="../../Juan%20Herranz/Un%20hombre%20enamorado%20%281866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Herranz/Un%20hombre%20enamorado%20%281866%29/Un%20hombre%20enamorado%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
+    <author>
+      <name>Juan Herranz</name>
+      <uri>../authors_1/authors_1338_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Pero ahora está enamorado y puede ser aún más peligroso e imprevisible.Él es un asesino minucioso, porque así se sabe inalcanzable.Y se emplea más a fondo para defender lo que ha aprendido a amar.Aunque..., si sus asesinatos perfectos no dejan huella...</summary>
+    <link href="../book_1/book_1866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre invisible</title>
+    <id>calibre:book:2325</id>
+    <updated>2024-09-09T10:34:08Z</updated>
+    <link href="../../H.%20G.%20Wells/El%20hombre%20invisible%20%282325%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20G.%20Wells/El%20hombre%20invisible%20%282325%29/El%20hombre%20invisible%20-%20H.%20G.%20Wells.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="199 KB" />
+    <author>
+      <name>H. G. Wells</name>
+      <uri>../authors_1/authors_1619_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [123]:</summary>
+    <link href="../book_2/book_2325.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre perdido</title>
+    <id>calibre:book:1651</id>
+    <updated>2024-06-22T02:16:30Z</updated>
+    <link href="../../Jane%20Harper/El%20hombre%20perdido%20%281651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Harper/El%20hombre%20perdido%20%281651%29/El%20hombre%20perdido%20-%20Jane%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="922 KB" />
+    <author>
+      <name>Jane Harper</name>
+      <uri>../authors_1/authors_1184_Page_1.xml</uri>
+    </author>
+    <published>2021-03-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Aaron Falk" />
+    <summary>Aaron Falk [3]: Vuelve la reina del thriller australiano con un suspense poderoso y brutal.Quemado por el implacable sol del verano austral, el cuerpo de Cameron Bright es hallado sin vida a varias horas en coche de cualquier lugar habitado. Y aunque...</summary>
+    <link href="../book_1/book_1651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El hombre que estaba rodeado de idiotas</title>
     <id>calibre:book:687</id>
     <updated>2023-05-16T08:56:26Z</updated>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gina María Balibrera</title>
+  <id>Calibre2opds:authors:1927</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1927_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gina María Balibrera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <entry>
+    <title>Las hijas del volcán</title>
+    <id>calibre:book:3053</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/Las%20hijas%20del%20volcan%20-%20Gina%20Maria%20Balibrera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gina María Balibrera</name>
+      <uri>../authors_1/authors_1927_Page_1.xml</uri>
+    </author>
+    <published>2024-10-02T01:04:11Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>CADA MITO, CADA HISTORIA, TIENE AL MENOS DOS VERSIONES... DEPENDIENDO DE QUIÉN CUENTA LA HISTORIA Y DE QUIÉN LA ESCUCHA. Una original y arrolladora novela sobre dos hermanas que escapan de un genocidio, y el viaje que las lleva de Hollywood a París, ...</summary>
+    <link href="../book_3/book_3053.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

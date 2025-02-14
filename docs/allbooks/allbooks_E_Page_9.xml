@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with E</title>
+  <id>Calibre2opds:allbooks:E</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
+  <entry>
+    <title>El éxito de ser feliz en lo que haces</title>
+    <id>calibre:book:1893</id>
+    <updated>2024-09-03T09:33:54Z</updated>
+    <link href="../../Fernando%20Ariel%20Nicollier/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20hac%20%281893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Ariel%20Nicollier/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20hac%20%281893%29/El%20exito%20de%20ser%20feliz%20en%20lo%20que%20-%20Fernando%20Ariel%20Nicollier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="952 KB" />
+    <author>
+      <name>Fernando Ariel Nicollier</name>
+      <uri>../authors_1/authors_1349_Page_1.xml</uri>
+    </author>
+    <published>2024-08-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tinta Libre Ediciones</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Son muchos los autores que hablan de felicidad y todos coinciden en que esta no es un fin en sí mismo, no la podemos buscar, sino que la encontramos realizando nuestras actividades cotidianas. No es un estado lineal, no es algo que sucede de una vez ...</summary>
+    <link href="../book_1/book_1893.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 9)" />
+  <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+</feed>

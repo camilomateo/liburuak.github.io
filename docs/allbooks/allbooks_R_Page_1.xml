@@ -12,7 +12,23 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 4)" />
+  <link href="../allbooks/allbooks_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
+  <entry>
+    <title>Rabia</title>
+    <id>calibre:book:2988</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Stephen%20King/Rabia%20%282988%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Rabia%20%282988%29/Rabia%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="231 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>1977-09-05T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Charles Decker es un adolescente de 18 años que sufre de esquizofrenia, al que quieren internar en un correccional por agredir a un profesor con una llave inglesa, provocándole un grave traumatismo craneal. Pistola en mano, y para que no lo encierren...</summary>
+    <link href="../book_2/book_2988.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Rainbow Valley</title>
     <id>calibre:book:2504</id>
@@ -98,6 +114,26 @@
     <category term="Lang:es" />
     <summary>¿Qué significa sentirse realmente vivo?A los veinticuatro años, el mundo de Matt Haig se derrumbó. No encontraba razones para seguir viviendo. Ésta es la historia real de cómo superó su depresión, triunfó sobre la enfermedad y aprendió a vivir otra v...</summary>
     <link href="../book_0/book_220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rebelión en la galaxia</title>
+    <id>calibre:book:3016</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/Rebelion%20en%20la%20galaxia%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="406 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1950-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Nebulae - Primera Época" />
+    <summary>Nebulae - Primera Época [20]: El Universo entero se halla subyugado por un poder casi infinito: el Imperio lntergaláctico, que gobierna con férrea mano millares de soles y galaxias y billones de planetas habitados. Pero los poderosos señores del Cosm...</summary>
+    <link href="../book_3/book_3016.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Rebelión en la granja</title>
@@ -435,45 +471,5 @@ HISTORIA CRIMINAL: Nacida en Culiacán, Sinaloa (México). Hija de padre españo
     <summary>Una fábula luminosa sobre el destierro, la pérdida, la paternidad y los afectos.XX Premio Alfaguara de novela.¿Quiénes somos cuando nos cambian las circunstancias?La guerra dura una década y nadie sabe a ciencia cierta cómo transcurre, qué bando fue ...</summary>
     <link href="../book_0/book_880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La República</title>
-    <id>calibre:book:136</id>
-    <updated>2023-01-18T06:26:54Z</updated>
-    <link href="../../Platon/La%20Republica%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Platon/La%20Republica%20%28136%29/La%20Republica%20-%20Platon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="346 KB" />
-    <author>
-      <name>Platón</name>
-      <uri>../authors_0/authors_84_Page_1.xml</uri>
-    </author>
-    <published>2019-09-25T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Reseña Veridica de la Revolución Filipina</title>
-    <id>calibre:book:2498</id>
-    <updated>2024-09-09T10:34:43Z</updated>
-    <link href="../../Emilio%20Aguinaldo/Resena%20Veridica%20de%20la%20Revolucion%20Fi%20%282498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Emilio%20Aguinaldo/Resena%20Veridica%20de%20la%20Revolucion%20Fi%20%282498%29/Resena%20Veridica%20de%20la%20Revolucio%20-%20Emilio%20Aguinaldo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="95 KB" />
-    <author>
-      <name>Emilio Aguinaldo</name>
-      <uri>../authors_1/authors_1656_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Philippines" />
-    <category term="--" />
-    <category term="History" />
-    <category term="Revolution" />
-    <category term="1896-1898" />
-    <category term="Philippine" />
-    <category term="American" />
-    <category term="War" />
-    <category term="1899-1902" />
-    <category term="Lang:es" />
-    <link href="../book_2/book_2498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
+  <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

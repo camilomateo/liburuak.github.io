@@ -12,7 +12,15 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 4)" />
+  <entry>
+    <title>AA. VV.</title>
+    <id>Calibre2opds:authors:1918</id>
+    <content type="text">6 books</content>
+    <link href="../authors_1/authors_1918_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
   <entry>
     <title>Álvar Núñez Cabeza de Vaca</title>
     <id>Calibre2opds:authors:1434</id>
@@ -205,13 +213,5 @@
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
-  <entry>
-    <title>Mercedes de Vega</title>
-    <id>Calibre2opds:authors:969</id>
-    <content type="text">Bajo la luz del eclipse</content>
-    <link href="../authors_0/authors_969_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+  <link href="../authorlist/authorlist_V_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
 </feed>

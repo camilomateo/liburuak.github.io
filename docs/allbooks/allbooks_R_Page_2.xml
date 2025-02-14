@@ -13,7 +13,47 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
-  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 4)" />
+  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
+  <entry>
+    <title>La República</title>
+    <id>calibre:book:136</id>
+    <updated>2023-01-18T06:26:54Z</updated>
+    <link href="../../Platon/La%20Republica%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Platon/La%20Republica%20%28136%29/La%20Republica%20-%20Platon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="346 KB" />
+    <author>
+      <name>Platón</name>
+      <uri>../authors_0/authors_84_Page_1.xml</uri>
+    </author>
+    <published>2019-09-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Reseña Veridica de la Revolución Filipina</title>
+    <id>calibre:book:2498</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Emilio%20Aguinaldo/Resena%20Veridica%20de%20la%20Revolucion%20Fi%20%282498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilio%20Aguinaldo/Resena%20Veridica%20de%20la%20Revolucion%20Fi%20%282498%29/Resena%20Veridica%20de%20la%20Revolucio%20-%20Emilio%20Aguinaldo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="95 KB" />
+    <author>
+      <name>Emilio Aguinaldo</name>
+      <uri>../authors_1/authors_1656_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Philippines" />
+    <category term="--" />
+    <category term="History" />
+    <category term="Revolution" />
+    <category term="1896-1898" />
+    <category term="Philippine" />
+    <category term="American" />
+    <category term="War" />
+    <category term="1899-1902" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Respuesta a Sor Filotea de la Cruz</title>
     <id>calibre:book:2143</id>
@@ -434,40 +474,6 @@
 Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magnífico neurocirujano llamado Ryle Kincaid, parece demasiado buena para ser verdad. Cuando Atlas,...</summary>
     <link href="../book_2/book_2661.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Romperás la noche con un grito</title>
-    <id>calibre:book:1318</id>
-    <updated>2024-03-21T01:00:27Z</updated>
-    <link href="../../David%20Orange/Romperas%20la%20noche%20con%20un%20grito%20%281318%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Orange/Romperas%20la%20noche%20con%20un%20grito%20%281318%29/Romperas%20la%20noche%20con%20un%20grito%20-%20David%20Orange.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="915 KB" />
-    <author>
-      <name>David Orange</name>
-      <uri>../authors_0/authors_960_Page_1.xml</uri>
-    </author>
-    <published>2021-12-16T11:21:46Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Cuando Ignacio despierta en mitad de la noche y descubre que alguien ha secuestrado a su bebé, todo cuanto ama se derrumba.La inspectora Bru, víctima de un brutal asalto en el pasado, y el teniente Israel, que convive con un grave problema familiar, ...</summary>
-    <link href="../book_1/book_1318.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La Ronda</title>
-    <id>calibre:book:762</id>
-    <updated>2023-05-22T05:07:04Z</updated>
-    <link href="../../Francisco%20Bescos/La%20Ronda%20%28762%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Bescos/La%20Ronda%20%28762%29/La%20Ronda%20-%20Francisco%20Bescos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="641 KB" />
-    <author>
-      <name>Francisco Bescós</name>
-      <uri>../authors_0/authors_568_Page_1.xml</uri>
-    </author>
-    <published>2023-09-18T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Reservoir Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En La Ronda, el premiado autor Francisco Bescós le pone una marcha más al género negro con una novela policial ambiciosa, repleta de giros y adrenalina.«Bescós te atrapa en un juego macabro del que no puedes salir. La Ronda es una novela formidable»....</summary>
-    <link href="../book_0/book_762.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 4)" />
-  <link href="../allbooks/allbooks_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
+  <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
+  <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

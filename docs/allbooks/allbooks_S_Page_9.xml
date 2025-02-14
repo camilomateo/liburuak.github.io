@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with S</title>
+  <id>Calibre2opds:allbooks:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_S_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
+  <entry>
+    <title>El síndrome de La Moncloa</title>
+    <id>calibre:book:243</id>
+    <updated>2023-02-02T08:58:30Z</updated>
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/El%20sindrome%20de%20La%20Moncloa%20-%20Pilar%20Cernuda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
+    <author>
+      <name>Pilar Cernuda</name>
+      <uri>../authors_0/authors_171_Page_1.xml</uri>
+    </author>
+    <published>2011-01-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="memorias" />
+    <category term="Crónica" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <summary>En palabras de la propia autora, esta es una «crónica oscura» sobre los cinco presidentes de la democracia española, que analiza de manera específica las profundas alteraciones de carácter que nuestros gobernantes han experimentado una vez afianzados...</summary>
+    <link href="../book_0/book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El síndrome de la chica buena</title>
+    <id>calibre:book:1489</id>
+    <updated>2024-05-03T02:01:59Z</updated>
+    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Martinez%20Novoa/El%20sindrome%20de%20la%20chica%20buena%20%281489%29/El%20sindrome%20de%20la%20chica%20buena%20-%20Marta%20Martinez%20Novoa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="492 KB" />
+    <author>
+      <name>Marta Martínez Novoa</name>
+      <uri>../authors_1/authors_1089_Page_1.xml</uri>
+    </author>
+    <published>2024-01-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La psicóloga Marta Martínez Novoa nos invita a liberarnos del síndrome de la chica buena para priorizar nuestro bienestar emocional y establecer relaciones auténticas y equilibradas.Libérate del síndrome de la chica buena y reconecta contigo misma y ...</summary>
+    <link href="../book_1/book_1489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El súbdito</title>
+    <id>calibre:book:2411</id>
+    <updated>2024-09-09T10:34:25Z</updated>
+    <link href="../../Heinrich%20Mann/El%20subdito%20%282411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Heinrich%20Mann/El%20subdito%20%282411%29/El%20subdito%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="393 KB" />
+    <author>
+      <name>Heinrich Mann</name>
+      <uri>../authors_1/authors_1641_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [242]:</summary>
+    <link href="../book_2/book_2411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 9)" />
+  <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+</feed>

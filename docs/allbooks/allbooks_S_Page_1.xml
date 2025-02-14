@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 8)" />
+  <link href="../allbooks/allbooks_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 9)" />
   <entry>
     <title>Sabotaje</title>
     <id>calibre:book:43</id>
@@ -155,6 +155,23 @@
     <category term="Lang:es" />
     <summary>¿Por qué atraigo siempre al mismo tipo de pareja?  ¿Cómo doy y recibo amor?  ¿Construyo un amor compañero y positivo, o amo desde el hambre y la carencia?  ¿Por qué el amor puede desaparecer de un minuto a otro? Muchos de nosotros crecimos observando...</summary>
     <link href="../book_1/book_1245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sangre paga sangre</title>
+    <id>calibre:book:2989</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Nacho%20Guirado/Sangre%20paga%20sangre%20%282989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nacho%20Guirado/Sangre%20paga%20sangre%20%282989%29/Sangre%20paga%20sangre%20-%20Nacho%20Guirado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="320 KB" />
+    <author>
+      <name>Nacho Guirado</name>
+      <uri>../authors_1/authors_1903_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mercedes Espinera lleva días recibiendo llamadas amenazadoras. Es consciente de que la espían y, también, de que hace un día han entrado en su vivienda. Sabe qué pretenden, y que pronto volverán a por ella. Pero Mercedes, una superviviente, una mujer...</summary>
+    <link href="../book_2/book_2989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Sangre y Raíces</title>
@@ -396,6 +413,47 @@
     <link href="../book_1/book_1904.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Segunda Fundación</title>
+    <id>calibre:book:3045</id>
+    <updated>2025-02-12T01:52:05Z</updated>
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283045%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283045%29/Segunda%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="436 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación: Ciclo de Trantor" />
+    <summary>Saga de la Fundación: Ciclo de Trantor [5]: Hari Seldon predijo la caída del Imperio, y, con el fin de restaurar la civilización en el menor tiempo posible, creó dos Fundaciones.
+La primera fue establecida en Términus a plena luz del conocimiento púb...</summary>
+    <link href="../book_3/book_3045.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Segunda Fundación</title>
+    <id>calibre:book:3017</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/Segunda%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="292 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación - Ciclo de Trantor" />
+    <summary>Saga de la Fundación - Ciclo de Trantor [5]: El mulo, mutante que no figuraba en las ecuaciones de Hari Seldon, ha tenido conocimiento de la existencia de una Segunda Fundación, totalmente secreta y cuyo emplazamiento es desconocido incluso para los ...</summary>
+    <link href="../book_3/book_3017.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La Segunda Guerra Mundial contada para escépticos</title>
     <id>calibre:book:1551</id>
     <updated>2024-06-02T10:59:44Z</updated>
@@ -415,58 +473,5 @@
     <summary>La Historia contada para escépticos [5]: En el año 2015 se conmemora el 70.º aniversario del final de la segunda guerra mundial, la guerra total de la que todos conocemos los grandes hitos: los turbios inicios del nazismo, la invasión de Polonia, la ...</summary>
     <link href="../book_1/book_1551.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Segunda oportunidad</title>
-    <id>calibre:book:1402</id>
-    <updated>2024-04-08T02:46:19Z</updated>
-    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
-    <author>
-      <name>James Patterson</name>
-      <uri>../authors_0/authors_167_Page_1.xml</uri>
-    </author>
-    <published>2023-11-08T11:00:00Z</published>
-    <dcterms:language>ca</dcterms:language>
-    <dcterms:publisher>RBA Libros</dcterms:publisher>
-    <category term="Lang:ca" />
-    <category term="El club de las mujeres contra el crimen" />
-    <summary>El club de las mujeres contra el crimen [2]: La ciudad de San Francisco está conmocionada tras el tiroteo a la salida de una iglesia que ha acabado con la vida de una niña de once años. La recientemente ascendida a teniente Lindsay Boxer se encarga d...</summary>
-    <link href="../book_1/book_1402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Seis Cuatro</title>
-    <id>calibre:book:256</id>
-    <updated>2023-02-02T09:06:34Z</updated>
-    <link href="../../Hideo%20Yokoyama/Seis%20Cuatro%20%28256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hideo%20Yokoyama/Seis%20Cuatro%20%28256%29/Seis%20Cuatro%20-%20Hideo%20Yokoyama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="913 KB" />
-    <author>
-      <name>Hideo Yokoyama</name>
-      <uri>../authors_0/authors_177_Page_1.xml</uri>
-    </author>
-    <published>2021-01-13T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Salamandra</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La pesadilla que ningún padre podría soportar. El caso que ningún inspector podría resolver. El giro que ningún lector podría prever.En enero de 1989, una niña de siete años fue raptada al norte de Tokio. Los padres nunca llegaron a saber la identida...</summary>
-    <link href="../book_0/book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Seis personajes en busca de autor</title>
-    <id>calibre:book:2316</id>
-    <updated>2024-09-09T10:34:06Z</updated>
-    <link href="../../Luigi%20Pirandello/Seis%20personajes%20en%20busca%20de%20autor%20%282316%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luigi%20Pirandello/Seis%20personajes%20en%20busca%20de%20autor%20%282316%29/Seis%20personajes%20en%20busca%20de%20aut%20-%20Luigi%20Pirandello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="105 KB" />
-    <author>
-      <name>Luigi Pirandello</name>
-      <uri>../authors_1/authors_1613_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [68]:</summary>
-    <link href="../book_2/book_2316.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+  <link href="../allbooks/allbooks_S_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

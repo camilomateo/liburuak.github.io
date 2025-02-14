@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with N" />
-  <link href="../allbooks/allbooks_N_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
+  <link href="../allbooks/allbooks_N_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 6)" />
   <entry>
     <title>Nosotras: El feminismo en la democracia</title>
     <id>calibre:book:1454</id>
@@ -241,6 +241,26 @@
     <link href="../book_1/book_1764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Nueve futuros</title>
+    <id>calibre:book:3004</id>
+    <updated>2025-02-12T01:51:50Z</updated>
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/Nueve%20futuros%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="318 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1958-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [96]: Una de las mejores recopilaciones de relatos de Isaac Asimov, con historias escritas originalmente durante los años cincuenta, década prodigiosa para el autor y durante la cual se ganó a pulso la fama que le ha acompañado desde en...</summary>
+    <link href="../book_3/book_3004.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Nunca</title>
     <id>calibre:book:1068</id>
     <updated>2023-11-05T04:25:02Z</updated>
@@ -451,25 +471,7 @@
     <summary>La niña perdida pone punto final a «Dos amigas», la historia de dos amigas que nacieron a mediados del siglo XX en Nápoles.UNA SAGA MEMORABLE«Ferrante es una contadora de historias nata, tan extraordinaria y adictivacomo mi también adorado John Irvi...</summary>
     <link href="../book_1/book_1264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La niña que miraba los trenes partir</title>
-    <id>calibre:book:1811</id>
-    <updated>2024-08-27T09:07:36Z</updated>
-    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/La%20nina%20que%20miraba%20los%20trenes%20p%20-%20Ruperto%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Ruperto Long</name>
-      <uri>../authors_1/authors_1298_Page_1.xml</uri>
-    </author>
-    <published>2016-04-23T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AGUILAR</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Histórico" />
-    <category term="Lang:es" />
-    <summary>Años cuarenta del siglo XX, en un mundo azotado por los conflictos bélicos. Charlotte, una niña belga de ocho años, desaparece de la Lieja ocupada por los nazis, dejando atrás su casa y su infancia feliz. Junto con la familia huye de los perseguidore...</summary>
-    <link href="../book_1/book_1811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
-  <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
+  <link href="../allbooks/allbooks_N_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 6)" />
+  <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />
+  <link href="../allbooks/allbooks_N_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (6 of 6)" />
 </feed>

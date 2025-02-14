@@ -15,6 +15,22 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 9)" />
   <entry>
+    <title>Por quién doblan las campanas</title>
+    <id>calibre:book:2312</id>
+    <updated>2024-09-09T10:34:05Z</updated>
+    <link href="../../Ernest%20Hemingway/Por%20quien%20doblan%20las%20campanas%20%282312%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ernest%20Hemingway/Por%20quien%20doblan%20las%20campanas%20%282312%29/Por%20quien%20doblan%20las%20campanas%20-%20Ernest%20Hemingway.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="479 KB" />
+    <author>
+      <name>Ernest Hemingway</name>
+      <uri>../authors_1/authors_1610_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2312.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Por qué Ucrania</title>
     <id>calibre:book:1479</id>
     <updated>2024-04-30T05:13:17Z</updated>
@@ -138,6 +154,43 @@
     <category term="Lang:es" />
     <summary>En septiembre de 1943, la joven Ella llega prisionera al campo de concentración de Auschwitz, desde Francia. La jefa del campo de mujeres, la sanguinaria SS María Mandel, apodada la Bestia, descubre que su caligrafía es perfecta y la incorpora como c...</summary>
     <link href="../book_0/book_696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pregunta por Andrea</title>
+    <id>calibre:book:3050</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/Pregunta%20por%20Andrea%20-%20Noelle%20W.%20Ihli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
+    <author>
+      <name>Noelle W. Ihli</name>
+      <uri>../authors_1/authors_1924_Page_1.xml</uri>
+    </author>
+    <published>2025-01-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un seductor letal. Tres víctimas. Una venganza que desafiará los límites de la muerte.Brecia, Skye y Meghan no se conocen y no tienen nada en común, hasta que las tres mueren a manos del mismo asesino en serie.El hombre busca a sus víctimas en intern...</summary>
+    <link href="../book_3/book_3050.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Preludio a la Fundación</title>
+    <id>calibre:book:3026</id>
+    <updated>2025-02-12T01:51:55Z</updated>
+    <link href="../../Isaac%20Asimov/Preludio%20a%20la%20Fundacion%20%283026%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Preludio%20a%20la%20Fundacion%20%283026%29/Preludio%20a%20la%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1987-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación: Ciclo de Trantor" />
+    <summary>Saga de la Fundación: Ciclo de Trantor [1]: Corre el año 12020 E. G. y el último emperador galáctico de la dinastía Autun, Cleón I, ocupa el trono en un entorno de incertidumbre. Son tiempos turbulentos y Cleón está desesperado por imponer algo de ca...</summary>
+    <link href="../book_3/book_3026.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Presentes</title>
@@ -413,58 +466,6 @@
     <category term="Lang:es" />
     <summary>A través de una mirada tierna y aguda, asistimos al rescate del futuro en medio de una catástrofe humana y cruzamos el océano Atlántico para acompañar a los Trachtenberg y los Wolloch en su combate contra la muerte y el olvido.</summary>
     <link href="../book_2/book_2784.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Proyecto Anticristo</title>
-    <id>calibre:book:209</id>
-    <updated>2023-01-27T10:32:26Z</updated>
-    <link href="../../Miguel%20Pedrero/Proyecto%20Anticristo%20%28209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miguel%20Pedrero/Proyecto%20Anticristo%20%28209%29/Proyecto%20Anticristo%20-%20Miguel%20Pedrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="762 KB" />
-    <author>
-      <name>Miguel Pedrero</name>
-      <uri>../authors_0/authors_136_Page_1.xml</uri>
-    </author>
-    <published>2018-05-12T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Cydonia</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Novela Cydonia" />
-    <summary>Novela Cydonia [4]: Esta novela es el fruto de las entrevistas que mantuvo el autor –un conocido periodista de investigación– con personajes vinculados al mundo del espionaje, la política y la economía. La protagonista es Ana Maldonado, agente del CN...</summary>
-    <link href="../book_0/book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Proyecto Ernetti</title>
-    <id>calibre:book:638</id>
-    <updated>2023-05-04T11:27:44Z</updated>
-    <link href="../../Roland%20Portiche/Proyecto%20Ernetti%20%28638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Roland%20Portiche/Proyecto%20Ernetti%20%28638%29/Proyecto%20Ernetti%20-%20Roland%20Portiche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
-    <author>
-      <name>Roland Portiche</name>
-      <uri>../authors_0/authors_474_Page_1.xml</uri>
-    </author>
-    <published>2023-02-11T09:14:23Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela sobre el enigma del cronovisor, el secreto mejor guardado del Vaticano.En plena Guerra Fría una carrera contrarreloj entre el Vaticano, la CIA, el KGB y el Mossad podría cambiar el orden mundial.Ciudad del Vaticano, 1956. El papa Pio XII e...</summary>
-    <link href="../book_0/book_638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Proyecto Overmind</title>
-    <id>calibre:book:1705</id>
-    <updated>2024-08-06T10:52:11Z</updated>
-    <link href="../../Daniel%20Sanchez%20Cantero/Proyecto%20Overmind%20%281705%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Daniel%20Sanchez%20Cantero/Proyecto%20Overmind%20%281705%29/Proyecto%20Overmind%20-%20Daniel%20Sanchez%20Cantero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="441 KB" />
-    <author>
-      <name>Daniel Sánchez Cantero</name>
-      <uri>../authors_1/authors_1220_Page_1.xml</uri>
-    </author>
-    <published>2024-07-17T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El poder de la mente puede llevarte hasta los rincones oscuros. ¿Cuánto valoras tu libertad? Una mujer cubierta de sangre huye en plena noche para salvar la vida... Seis personas asesinadas salvajemente a su espalda... Dos inspectores de la Guardia N...</summary>
-    <link href="../book_1/book_1705.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

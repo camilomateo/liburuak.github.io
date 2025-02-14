@@ -13,6 +13,38 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <entry>
+    <title>3 del más allá</title>
+    <id>calibre:book:3008</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../AA.%20VV_/3%20del%20mas%20alla%20%283008%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../AA.%20VV_/3%20del%20mas%20alla%20%283008%29/3%20del%20mas%20alla%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
+    <author>
+      <name>AA. VV.</name>
+      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Edmond Hamilton</name>
+      <uri>../authors_1/authors_1919_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Damon Knight</name>
+      <uri>../authors_1/authors_1920_Page_1.xml</uri>
+    </author>
+    <published>1958-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Galaxia" />
+    <summary>Galaxia [38]: Con Tres del más allá presentamos una obra escrita por "tres ases" de la ciencia ficción.</summary>
+    <link href="../book_3/book_3008.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>30 maneras de quitarse el sombrero</title>
     <id>calibre:book:229</id>
     <updated>2023-01-27T00:04:02Z</updated>

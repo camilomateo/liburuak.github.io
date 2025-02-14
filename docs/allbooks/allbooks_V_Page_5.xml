@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <entry>
+    <title>Las vivas</title>
+    <id>calibre:book:1406</id>
+    <updated>2024-04-08T04:38:20Z</updated>
+    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juana%20Cortes%20Amunarriz/Las%20vivas%20%281406%29/Las%20vivas%20-%20Juana%20Cortes%20Amunarriz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juana Cortés Amunarriz</name>
+      <uri>../authors_0/authors_687_Page_1.xml</uri>
+    </author>
+    <published>2024-04-07T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fuenterrabía, 1943. Ante la inesperada visita de Franco siete mujeres tienen siete días para poner a salvo a un piloto inglés.«Es así como nos quieren. Anuladas. Con miedo y vencidas. Muertas… Pero, por suerte, todavía estamos vivas».Fuenterrabía, 2...</summary>
+    <link href="../book_1/book_1406.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Las voces silenciadas</title>
     <id>calibre:book:581</id>
     <updated>2023-04-28T01:16:52Z</updated>

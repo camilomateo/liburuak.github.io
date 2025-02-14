@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
+  <link href="../allbooks/allbooks_F_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 4)" />
   <entry>
     <title>Facundo</title>
     <id>calibre:book:1950</id>
@@ -349,6 +349,23 @@
     <link href="../book_0/book_601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Fin de guardia</title>
+    <id>calibre:book:2997</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/Fin%20de%20guardia%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="667 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fin de guardia es el espectacular final de la «Trilogía Bill Hodges» que comenzó con Mr. Mercedes y continuó con Quien pierde paga.Hay asesinos que usan cuchillos,otrospistolas o incluso coches,pero todos ellos tienen un objetivo en mente:volverte lo...</summary>
+    <link href="../book_2/book_2997.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Final de partida</title>
     <id>calibre:book:1342</id>
     <updated>2024-03-21T01:00:33Z</updated>
@@ -438,22 +455,5 @@
     <summary>Biblioteca PruébaT [322]:</summary>
     <link href="../book_2/book_2466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Fortuna</title>
-    <id>calibre:book:462</id>
-    <updated>2023-03-24T09:44:12Z</updated>
-    <link href="../../Hernan%20Diaz/Fortuna%20%28462%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Hernan%20Diaz/Fortuna%20%28462%29/Fortuna%20-%20Hernan%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Hernán Díaz</name>
-      <uri>../authors_0/authors_347_Page_1.xml</uri>
-    </author>
-    <published>2023-02-23T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un deslumbrante puzle literario: la misteriosa historia de un magnate de los años veinte en varias versiones que se complementan o contradicen.En los triunfales años veinte, Benjamin Rask y su esposa Helen dominan Nueva York: él, un magnate financier...</summary>
-    <link href="../book_0/book_462.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+  <link href="../allbooks/allbooks_F_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
 </feed>

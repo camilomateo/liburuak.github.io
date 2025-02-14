@@ -15,6 +15,46 @@
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
   <link href="../allbooks/allbooks_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 10)" />
   <entry>
+    <title>Al fin libre</title>
+    <id>calibre:book:2929</id>
+    <updated>2025-02-10T05:58:22Z</updated>
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/Al%20fin%20libre%20%282929%29/Al%20fin%20libre%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>1999-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Espiritualidad" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Quizá no lo sepa, pero hay «otro» J. J. Benítez. Además del investigador y narrador, hay un J. J. Benítez que «pinta» con las palabras. Un «buzo» audaz e incansable de las profundidades humanas. Un «alpinista» de la Verdad. Un «alquimista» del pensam...</summary>
+    <link href="../book_2/book_2929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Al final del camino</title>
+    <id>calibre:book:1680</id>
+    <updated>2024-07-22T06:30:41Z</updated>
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2023-07-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Kokapeli Ediciones</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Crime" />
+    <category term="Lang:es" />
+    <category term="El cabo Holmes" />
+    <summary>El cabo Holmes [10]: El hijo de un negociante de diamantes de Amberes y su novia gallega deciden hacer el Camino de Santiago. Mientras se dan un paseo nocturno por la playa de Lires, la última etapa antes de llegar al cabo Finisterre, surgen de la os...</summary>
+    <link href="../book_1/book_1680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Al otro lado</title>
     <id>calibre:book:1380</id>
     <updated>2024-04-03T00:30:04Z</updated>
@@ -427,42 +467,6 @@ Pasan unos años y e...</summary>
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
     <category term="Lang:es" />
     <link href="../book_2/book_2487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Almohada de hierba</title>
-    <id>calibre:book:2364</id>
-    <updated>2024-09-09T10:34:15Z</updated>
-    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Natsume%20Soseki/Almohada%20de%20hierba%20%282364%29/Almohada%20de%20hierba%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
-    <author>
-      <name>Natsume Sōseki</name>
-      <uri>../authors_1/authors_1633_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [160]:</summary>
-    <link href="../book_2/book_2364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Almuerzo en el café Gotham</title>
-    <id>calibre:book:345</id>
-    <updated>2023-02-21T01:25:02Z</updated>
-    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/Almuerzo%20en%20el%20cafe%20Gotham%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Stephen King</name>
-      <uri>../authors_0/authors_241_Page_1.xml</uri>
-    </author>
-    <published>2022-10-24T05:27:15Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Nórdica Libros</dcterms:publisher>
-    <category term="S2" />
-    <category term="Lang:es" />
-    <summary>Almuerzo en el café Gotham apareció originalmente en la antología Dark Love de 1995 (editada por Nancy A. Collins , Edward E. Kramer y Martin H. Greenberg).Un hombre llamado Steve Davis llega a casa un día y encuentra una carta de su esposa, Diane, q...</summary>
-    <link href="../book_0/book_345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

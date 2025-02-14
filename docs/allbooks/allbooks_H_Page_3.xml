@@ -15,6 +15,23 @@
   <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
   <link href="../allbooks/allbooks_H_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
+    <title>Holly</title>
+    <id>calibre:book:1034</id>
+    <updated>2023-10-20T01:12:30Z</updated>
+    <link href="../../Stephen%20King/Holly%20%281034%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Holly%20%281034%29/Holly%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="616 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2023-09-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La nueva novela del Rey del Terror recuerda a joyas como Misery y cuenta con un personaje muy querido por sus fans: Holly Gibney, la detective privada que, por primera vez, protagoniza una novela en solitario.Cuando Penny Dahl contacta con Finders K...</summary>
+    <link href="../book_1/book_1034.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El Hombre Nada</title>
     <id>calibre:book:628</id>
     <updated>2023-05-04T11:27:44Z</updated>
@@ -439,23 +456,6 @@
     <category term="Lang:es" />
     <summary>Manuela Penarrocha tiene trece años. Sentada en una sillita baja de enea en el portal de su casa, cose las alpargatas como nadie. La niña de ojos grises y cabellos de oro recuerda a su padre. Él, como el resto de carlistas, hombre de alpargata, garro...</summary>
     <link href="../book_1/book_1524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La hija del cazador</title>
-    <id>calibre:book:2818</id>
-    <updated>2025-01-20T11:21:17Z</updated>
-    <link href="../../Nicola%20Solvinic/La%20hija%20del%20cazador%20%282818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicola%20Solvinic/La%20hija%20del%20cazador%20%282818%29/La%20hija%20del%20cazador%20-%20Nicola%20Solvinic.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
-    <author>
-      <name>Nicola Solvinic</name>
-      <uri>../authors_1/authors_1844_Page_1.xml</uri>
-    </author>
-    <published>2025-01-14T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Crossbooks</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un ritmo frenético y una tensión adictiva para los lectores del género. Tras matar a un hombre con motivo de su deber como sheriff , Anna se ve asaltada por recuerdos reprimidos de su infancia. Después de tanto tiempo, creía haber logrado dejar atrás...</summary>
-    <link href="../book_2/book_2818.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 5)" />
   <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

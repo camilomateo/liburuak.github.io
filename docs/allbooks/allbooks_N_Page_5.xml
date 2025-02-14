@@ -13,6 +13,26 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with N" />
+  <link href="../allbooks/allbooks_N_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 6)" />
+  <entry>
+    <title>La niña que miraba los trenes partir</title>
+    <id>calibre:book:1811</id>
+    <updated>2024-08-27T09:07:36Z</updated>
+    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/La%20nina%20que%20miraba%20los%20trenes%20p%20-%20Ruperto%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Ruperto Long</name>
+      <uri>../authors_1/authors_1298_Page_1.xml</uri>
+    </author>
+    <published>2016-04-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Años cuarenta del siglo XX, en un mundo azotado por los conflictos bélicos. Charlotte, una niña belga de ocho años, desaparece de la Lieja ocupada por los nazis, dejando atrás su casa y su infancia feliz. Junto con la familia huye de los perseguidore...</summary>
+    <link href="../book_1/book_1811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La niña que todo lo quería saber</title>
     <id>calibre:book:389</id>
@@ -439,24 +459,6 @@
     <summary>Un maestro de los datos y las estadísticas ofrece una visión del mundo tan sorprendente como iluminadora. ¿Es peligroso volar? ¿Qué es peor para el medioambiente, un coche o un  móvil? ¿Cuánto pesan todas las vacas del mundo juntos y por qué ese dato...</summary>
     <link href="../book_0/book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Los números de la vida</title>
-    <id>calibre:book:919</id>
-    <updated>2023-07-04T02:12:06Z</updated>
-    <link href="../../Kit%20Yates/Los%20numeros%20de%20la%20vida%20%28919%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kit%20Yates/Los%20numeros%20de%20la%20vida%20%28919%29/Los%20numeros%20de%20la%20vida%20-%20Kit%20Yates.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Kit Yates</name>
-      <uri>../authors_0/authors_689_Page_1.xml</uri>
-    </author>
-    <published>2020-03-31T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Blackie Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Y si las matemáticas fueran la única forma de comprender cómo te sientes, de entender la sociedad, de intentar articular el mundo?
-De encontrar el mejor asiento en el tren y la cola más rápida en la frutería, de calmarte ante un diagnóstico médico i...</summary>
-    <link href="../book_0/book_919.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 5)" />
-  <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
+  <link href="../allbooks/allbooks_N_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 6)" />
+  <link href="../allbooks/allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />
 </feed>

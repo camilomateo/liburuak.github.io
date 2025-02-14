@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Más Allá 13</title>
+  <id>urn:book:4d3bc74f-bba9-4469-bc9c-b1b442f00d22</id>
+  <updated>2025-02-12T01:51:53Z</updated>
+  <link href="./book_3018.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Más Allá 13" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authors_1/authors_1918_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AA. VV." />
+  <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/Mas%20Alla%2013%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <author>
+    <name>AA. VV.</name>
+    <uri>../authors_1/authors_1918_Page_1.xml</uri>
+  </author>
+  <published>1954-05-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Ciencia Ficción" />
+  <category term="Fantástico" />
+  <category term="Publicaciones periódicas" />
+  <category term="Relato" />
+  <category term="Lang:es" />
+  <category term="Más Allá" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 13 in the Más Allá series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Ciencia Ficción, Fantástico, Publicaciones periódicas, Relato, Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Revista mensual de aventuras apasionantes en el mundo de la
+    magia científica.</p>
+  </content>
+  <link href="../series_0/series_259_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 13 in the Más Allá series" />
+  <link href="../authors_1/authors_1918_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by AA. VV." />
+</entry>

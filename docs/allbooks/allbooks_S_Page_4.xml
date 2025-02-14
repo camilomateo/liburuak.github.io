@@ -13,7 +13,61 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
-  <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 8)" />
+  <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 9)" />
+  <entry>
+    <title>Sobre la losa</title>
+    <id>calibre:book:1075</id>
+    <updated>2023-11-20T08:26:23Z</updated>
+    <link href="../../Fred%20Vargas/Sobre%20la%20losa%20%281075%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fred%20Vargas/Sobre%20la%20losa%20%281075%29/Sobre%20la%20losa%20-%20Fred%20Vargas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
+    <author>
+      <name>Fred Vargas</name>
+      <uri>../authors_0/authors_782_Page_1.xml</uri>
+    </author>
+    <published>2023-11-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Adamsberg" />
+    <summary>Comisario Adamsberg [11]: VUELVE LA REINA DE LA NOVELA NEGRA EUROPEA «¿Soñador? ¿Perezoso? ¿O más bien un genio? Adamsberg es historia viva de la novela negra. Fred Vargas lo borda».Juan Carlos Galindo, El País «Tengo a Fred Vargas como una de las me...</summary>
+    <link href="../book_1/book_1075.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sodoma y Gomorra</title>
+    <id>calibre:book:2305</id>
+    <updated>2024-09-09T10:34:03Z</updated>
+    <link href="../../Marcel%20Proust/Sodoma%20y%20Gomorra%20%282305%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcel%20Proust/Sodoma%20y%20Gomorra%20%282305%29/Sodoma%20y%20Gomorra%20-%20Marcel%20Proust.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="535 KB" />
+    <author>
+      <name>Marcel Proust</name>
+      <uri>../authors_1/authors_1608_Page_1.xml</uri>
+    </author>
+    <published>2021-12-23T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [50]:</summary>
+    <link href="../book_2/book_2305.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sol de sangre</title>
+    <id>calibre:book:1703</id>
+    <updated>2024-08-06T10:52:11Z</updated>
+    <link href="../../Jo%20Nesbo/Sol%20de%20sangre%20%281703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/Sol%20de%20sangre%20%281703%29/Sol%20de%20sangre%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
+    <author>
+      <name>Jo Nesbø</name>
+      <uri>../authors_0/authors_266_Page_1.xml</uri>
+    </author>
+    <published>2020-11-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Sicarios de Oslo" />
+    <summary>Sicarios de Oslo [2]: HA APARECIDO UN FORASTEROA las tierras más al norte de Noruega, donde nunca se pone el sol, ha llegado un sicario rebelde. Huye de su pasado y es un hombre sin futuro. Pongamos que se llama Jon y acaba de traicionar a uno de los...</summary>
+    <link href="../book_1/book_1703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Solas</title>
     <id>calibre:book:268</id>
@@ -408,71 +462,7 @@
     <summary>Biblioteca PruébaT [270]:</summary>
     <link href="../book_2/book_2062.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
-    <id>calibre:book:2078</id>
-    <updated>2024-09-06T02:09:08Z</updated>
-    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="145 KB" />
-    <author>
-      <name>Robert Louis Stevenson</name>
-      <uri>../authors_1/authors_1413_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Science" />
-    <category term="Fiction" />
-    <category term="Horror" />
-    <category term="tales" />
-    <category term="London" />
-    <category term="(England)" />
-    <category term="--" />
-    <category term="Physicians" />
-    <category term="Psychological" />
-    <category term="Self-experimentation" />
-    <category term="in" />
-    <category term="medicine" />
-    <category term="Multiple" />
-    <category term="personality" />
-    <category term="Lang:en" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [289]:</summary>
-    <link href="../book_2/book_2078.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Strange pictures</title>
-    <id>calibre:book:2888</id>
-    <updated>2025-02-10T05:14:57Z</updated>
-    <link href="../../Uketsu/Strange%20pictures%20%282888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Uketsu/Strange%20pictures%20%282888%29/Strange%20pictures%20-%20Uketsu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
-    <author>
-      <name>Uketsu</name>
-      <uri>../authors_1/authors_1883_Page_1.xml</uri>
-    </author>
-    <published>2025-01-23T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Reservoir Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>EL FENÓMENO DE MISTERIO QUE ARRASA EN JAPÓN.Más de tres millones de lectores en Japón.Traducido a más de treinta idiomas.¿Un dibujo puede ser suficiente para descubrir a un asesino?Una mujer embarazada, un niño, una casa, un paisaje dibujado por la v...</summary>
-    <link href="../book_2/book_2888.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Struwwelpeterv2</title>
-    <id>calibre:book:2059</id>
-    <updated>2024-09-06T02:09:05Z</updated>
-    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/Struwwelpeterv2%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="545 KB" />
-    <author>
-      <name>Rogelio Guerrero</name>
-      <uri>../authors_1/authors_1478_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2059.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 8)" />
-  <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
-  <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+  <link href="../allbooks/allbooks_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
+  <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../allbooks/allbooks_S_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

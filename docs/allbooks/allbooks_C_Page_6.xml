@@ -15,6 +15,77 @@
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
   <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 14)" />
   <entry>
+    <title>Cosmos</title>
+    <id>calibre:book:1960</id>
+    <updated>2024-09-05T06:10:25Z</updated>
+    <link href="../../Alexander%20von%20Humboldt/Cosmos%20%281960%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexander%20von%20Humboldt/Cosmos%20%281960%29/Cosmos%20-%20Alexander%20von%20Humboldt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="91 KB" />
+    <author>
+      <name>Alexander von Humboldt</name>
+      <uri>../authors_1/authors_1403_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [2]:</summary>
+    <link href="../book_1/book_1960.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Costumbres mexicanas</title>
+    <id>calibre:book:1996</id>
+    <updated>2024-09-06T01:57:42Z</updated>
+    <link href="../../Manuel%20Payno/Costumbres%20mexicanas%20%281996%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Payno/Costumbres%20mexicanas%20%281996%29/Costumbres%20mexicanas%20-%20Manuel%20Payno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="266 KB" />
+    <author>
+      <name>Manuel Payno</name>
+      <uri>../authors_1/authors_1428_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_1/book_1996.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Count of Monte Cristo</title>
+    <id>calibre:book:2469</id>
+    <updated>2024-09-09T10:34:37Z</updated>
+    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alexandre%20Dumas/The%20Count%20of%20Monte%20Cristo%20%282469%29/The%20Count%20of%20Monte%20Cristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="46 MB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../authors_1/authors_1490_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="ous" />
+    <category term="character)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [309]:</summary>
+    <link href="../book_2/book_2469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Creatividad, S.A.</title>
+    <id>calibre:book:1114</id>
+    <updated>2024-01-08T09:16:14Z</updated>
+    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edwin%20Catmull/Creatividad%2C%20S.A_%20%281114%29/Creatividad%2C%20S.A_%20-%20Edwin%20Catmull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="878 KB" />
+    <author>
+      <name>Edwin Catmull</name>
+      <uri>../authors_0/authors_817_Page_1.xml</uri>
+    </author>
+    <published>2017-04-24T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>CONECTA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Las fórmulas para crear entornos creativos de la mano del fundador y presidente de los estudios Disney-Pixar Studios. Creatividad, S.A. es un libro para profesionales que deseen llevar a sus equipos a cumbres más altas, un manual para cualquier lecto...</summary>
+    <link href="../book_1/book_1114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Crime and Punishment</title>
     <id>calibre:book:2475</id>
     <updated>2024-09-09T10:34:38Z</updated>
@@ -417,73 +488,6 @@
     <category term="Lang:es" />
     <summary>¿Estás atrapado en una relación de pareja en la que no eres feliz? ¿Crees que has perdido el control de tu vida y que estás condicionado por tu pareja? ¿Sientes que te has perdido a ti mismo o que ni tan solo recuerdas cómo eras antes de conocerle? ...</summary>
     <link href="../book_1/book_1239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando baje la marea</title>
-    <id>calibre:book:2849</id>
-    <updated>2025-01-27T00:40:27Z</updated>
-    <link href="../../Amanda%20Clark/Cuando%20baje%20la%20marea%20%282849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amanda%20Clark/Cuando%20baje%20la%20marea%20%282849%29/Cuando%20baje%20la%20marea%20-%20Amanda%20Clark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="650 KB" />
-    <author>
-      <name>Amanda Clark</name>
-      <uri>../authors_1/authors_1865_Page_1.xml</uri>
-    </author>
-    <published>2025-01-21T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela sobre el amor verdadero y el destino que trasciende en el tiempo. Cuando las olas susurran secretos del pasado, una pasión eterna resurge de las mareas. Deva Ortiz trabaja en una prestigiosa editorial, pero su carrera se encuentra estancad...</summary>
-    <link href="../book_2/book_2849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando el corazón llora</title>
-    <id>calibre:book:1390</id>
-    <updated>2024-04-03T00:56:45Z</updated>
-    <link href="../../Tamara%20Gorro/Cuando%20el%20corazon%20llora%20%281390%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tamara%20Gorro/Cuando%20el%20corazon%20llora%20%281390%29/Cuando%20el%20corazon%20llora%20-%20Tamara%20Gorro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="314 KB" />
-    <author>
-      <name>Tamara Gorro</name>
-      <uri>../authors_1/authors_1023_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Hacer las paces con el pasado para mejorar tu presente y disfrutar del futuro: Hacer las paces con el pasado para mejorar tu presente y disfrutar del futuroHay momentos en la vida en que sientes una tristeza y un vacío inexplicables. Pasas de la risa...</summary>
-    <link href="../book_1/book_1390.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando el odio nos domine</title>
-    <id>calibre:book:2764</id>
-    <updated>2024-12-29T11:30:04Z</updated>
-    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Marcos%20Nieto%20Pallares/Cuando%20el%20odio%20nos%20domine%20%282764%29/Cuando%20el%20odio%20nos%20domine%20-%20Marcos%20Nieto%20Pallares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
-    <author>
-      <name>Marcos Nieto Pallarés</name>
-      <uri>../authors_0/authors_359_Page_1.xml</uri>
-    </author>
-    <published>2024-12-19T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>MADRID, 2023. El cuerpo desnudo de una mujer aparece rodeado de velas, con su alianza y una orquídea encima del pecho. La inspectora Nausica Yuste, agente de la Unidad Central de Delincuencia Especializada y Violenta, se persona en el lugar de los he...</summary>
-    <link href="../book_2/book_2764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando fuimos inmortales</title>
-    <id>calibre:book:1335</id>
-    <updated>2024-03-21T01:00:31Z</updated>
-    <link href="../../Gabriela%20Llanos/Cuando%20fuimos%20inmortales%20%281335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Llanos/Cuando%20fuimos%20inmortales%20%281335%29/Cuando%20fuimos%20inmortales%20-%20Gabriela%20Llanos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="511 KB" />
-    <author>
-      <name>Gabriela Llanos</name>
-      <uri>../authors_0/authors_976_Page_1.xml</uri>
-    </author>
-    <published>2022-12-14T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>2023</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La investigación de una hija por conocer la verdad sobre su padre. Un viaje trepidante a la música de finales del siglo XX. Una conmovedora novela repleta de intriga y nostalgia. ¿Qué secretos esconde la misteriosa desaparición de una leyenda del roc...</summary>
-    <link href="../book_1/book_1335.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 14)" />
   <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />

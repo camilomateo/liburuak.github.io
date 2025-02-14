@@ -13,7 +13,42 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
-  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
+  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
+  <entry>
+    <title>El eco de las Antillas</title>
+    <id>calibre:book:1853</id>
+    <updated>2024-09-02T04:27:35Z</updated>
+    <link href="../../Mara%20Costa/El%20eco%20de%20las%20Antillas%20%281853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mara%20Costa/El%20eco%20de%20las%20Antillas%20%281853%29/El%20eco%20de%20las%20Antillas%20-%20Mara%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="971 KB" />
+    <author>
+      <name>Mara Costa</name>
+      <uri>../authors_1/authors_1325_Page_1.xml</uri>
+    </author>
+    <published>2024-08-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Pàmies</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>1893. La vida de Macarena da un giro inesperado cuando la casan por poderes con un terrateniente cubano y tiene que partir de su Sevilla natal hacia La Habana. Tras la repentina muerte de su marido, se asocia con James Vanderbilt, un estadounidense s...</summary>
+    <link href="../book_1/book_1853.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El eco negro</title>
+    <id>calibre:book:968</id>
+    <updated>2023-08-16T05:29:00Z</updated>
+    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Connelly/El%20eco%20negro%20%28968%29/El%20eco%20negro%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="794 KB" />
+    <author>
+      <name>Michael Connelly</name>
+      <uri>../authors_0/authors_229_Page_1.xml</uri>
+    </author>
+    <published>2010-11-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Harry Bosch" />
+    <summary>Harry Bosch [1]: Harry Bosch, detective de la policía de los Angeles quedó marcado por la dura experiencia de Vietnam. Ahora, un caso le devuelve su pasado. La víctima, Billy Meadows, había servido en su misma unidad. Ambos eran 'ratas de túnel' que ...</summary>
+    <link href="../book_0/book_968.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La edad de la inocencia</title>
     <id>calibre:book:2355</id>
@@ -137,6 +172,25 @@
     <category term="Lang:es" />
     <summary>La Elección es un selecto local del que muy poca gente habla. Toda mujer que desea satisfacer sus deseos más oscuros y profundos acude allí con la esperanza de ser la elegida. Durante una noche, un misterioso hombre proporciona a esa mujer un gran pl...</summary>
     <link href="../book_0/book_382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El electrón es zurdo y otros ensayos científicos</title>
+    <id>calibre:book:3037</id>
+    <updated>2025-02-12T01:51:56Z</updated>
+    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/El%20electron%20es%20zurdo%20y%20otros%20en%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="627 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1963-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
+    <category term="Lang:es" />
+    <summary>Esta nueva recopilación de artículos de divulgación científica escritos por ISAAC ASIMOV se abre con un divertido trabajo sobre la capacidad pronosticadora de la novela científica, al que siguen dos ensayos en torno a las leyes que gobiernan la expan...</summary>
+    <link href="../book_3/book_3037.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>El emblema del traidor</title>
@@ -406,62 +460,7 @@
     <summary>Biblioteca PruébaT [175]:</summary>
     <link href="../book_2/book_2376.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El español es un mundo</title>
-    <id>calibre:book:386</id>
-    <updated>2023-03-04T02:11:48Z</updated>
-    <link href="../../Lola%20Pons%20Rodriguez/El%20espanol%20es%20un%20mundo%20%28386%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lola%20Pons%20Rodriguez/El%20espanol%20es%20un%20mundo%20%28386%29/El%20espanol%20es%20un%20mundo%20-%20Lola%20Pons%20Rodriguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="619 KB" />
-    <author>
-      <name>Lola Pons Rodríguez</name>
-      <uri>../authors_0/authors_157_Page_1.xml</uri>
-    </author>
-    <published>2022-11-07T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Arpa Editores</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Nuevo libro de Lola Pons Rodríguez, autora de Una lengua muy muy larga y El árbol de la lengua. En su diversidad dialectal, en su realidad cambiante, en todo lo que los textos del pasado nos revelan de cómo antes se veía lingüísticamente la realidad,...</summary>
-    <link href="../book_0/book_386.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El espejismo</title>
-    <id>calibre:book:1395</id>
-    <updated>2024-04-08T02:35:07Z</updated>
-    <link href="../../Camilla%20Lackberg/El%20espejismo%20%281395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Camilla%20Lackberg/El%20espejismo%20%281395%29/El%20espejismo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="539 KB" />
-    <author>
-      <name>Camilla Läckberg</name>
-      <uri>../authors_0/authors_369_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Henrik Fexeus</name>
-      <uri>../authors_0/authors_397_Page_1.xml</uri>
-    </author>
-    <published>2024-04-04T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Mina Dabiri y Vincent Walder" />
-    <summary>Mina Dabiri y Vincent Walder [3]: Se acerca la Navidad en Estocolmo y la ciudad se llena de luces. Pero algo siniestro está a punto de suceder: al mismo tiempo que un miembro del ministerio sueco está siendo amenazado de una forma macabra, una pila d...</summary>
-    <link href="../book_1/book_1395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La espera</title>
-    <id>calibre:book:2815</id>
-    <updated>2025-01-20T11:21:17Z</updated>
-    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Connelly/La%20espera%20%282815%29/La%20espera%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="431 KB" />
-    <author>
-      <name>Michael Connelly</name>
-      <uri>../authors_0/authors_229_Page_1.xml</uri>
-    </author>
-    <published>2025-10-11T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AdN</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La detective del Departamento de Policía de Los Ángeles Renée Ballard sigue los pasos de un aterrador violador múltiple cuyo rastro se ha perdido. Cuenta con la ayuda de la voluntaria más nueva de la Unidad de Casos Abiertos: la patrullera Maddie Bos...</summary>
-    <link href="../book_2/book_2815.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 8)" />
-  <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
+  <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../allbooks/allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

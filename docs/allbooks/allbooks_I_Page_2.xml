@@ -14,6 +14,24 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with I" />
   <entry>
+    <title>Ivanhoe</title>
+    <id>calibre:book:2288</id>
+    <updated>2024-09-09T10:34:00Z</updated>
+    <link href="../../Walter%20Scott/Ivanhoe%20%282288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Scott/Ivanhoe%20%282288%29/Ivanhoe%20-%20Walter%20Scott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="426 KB" />
+    <author>
+      <name>Walter Scott</name>
+      <uri>../authors_1/authors_1580_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [8]:</summary>
+    <link href="../book_2/book_2288.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Izquierda y derecha</title>
     <id>calibre:book:725</id>
     <updated>2023-05-17T01:11:06Z</updated>

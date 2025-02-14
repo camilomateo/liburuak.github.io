@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
-  <link href="../allbooks/allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
+  <link href="../allbooks/allbooks_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 9)" />
   <entry>
     <title>El túnel</title>
     <id>calibre:book:1733</id>
@@ -187,6 +187,23 @@
     <category term="Lang:es" />
     <summary>Un relato que rompe el silencio y se pronuncia en alta voz sobre la libertad de elegir. Poco después de que Rita aparece muerta en la iglesia que suele frecuentar, la investigación se da por cerrada, y su madre es la única que no renuncia a esclarece...</summary>
     <link href="../book_1/book_1723.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elevación</title>
+    <id>calibre:book:2998</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/Elevacion%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="888 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2019-11-07T07:32:23Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más su leyenda.»USA Today El cuerpo de Scott Carey sufre un extraño fenómeno: pierde peso sin parar pero no se vuelve más delgado, su báscul...</summary>
+    <link href="../book_2/book_2998.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Elizabeth Finch</title>
@@ -439,24 +456,7 @@
     <summary>UNA TENSA NOVELA POLICÍACA SOBRE LA CAZA DE UN ACTIVISTA CLIMÁTICO CONVERTIDO EN ASESINO. «Arne Dahl demuestra una vez más que es uno de los mejores autores policíacos. No podrás dejar de leer esta novela». RUHR NACHRICHTEN (Alemania) «La novela de A...</summary>
     <link href="../book_2/book_2733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>En el corazón de la Europa civilizada</title>
-    <id>calibre:book:528</id>
-    <updated>2023-04-05T00:40:10Z</updated>
-    <link href="../../Jeffrey%20Veidlinger/En%20el%20corazon%20de%20la%20Europa%20civiliza%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jeffrey%20Veidlinger/En%20el%20corazon%20de%20la%20Europa%20civiliza%20%28528%29/En%20el%20corazon%20de%20la%20Europa%20civi%20-%20Jeffrey%20Veidlinger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
-    <author>
-      <name>Jeffrey Veidlinger</name>
-      <uri>../authors_0/authors_392_Page_1.xml</uri>
-    </author>
-    <published>2023-03-03T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>A principios de los años veinte, el pintor Marc Chagall trabajó como profesor en un orfanato judío a las afueras de Moscú, donde tuvo ocasión de escuchar el relato aterrador de los niños que habían sobrevivido a los pogromos en Ucrania, los cuales, h...</summary>
-    <link href="../book_0/book_528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
-  <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
-  <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+  <link href="../allbooks/allbooks_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 9)" />
+  <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../allbooks/allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

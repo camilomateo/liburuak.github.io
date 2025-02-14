@@ -15,6 +15,14 @@
   <link href="./authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 4)" />
   <entry>
+    <title>Sarah Penner</title>
+    <id>Calibre2opds:authors:1308</id>
+    <content type="text">El secreto de la boticaria</content>
+    <link href="../authors_1/authors_1308_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Louise Penny</title>
     <id>Calibre2opds:authors:330</id>
     <content type="text">3 books</content>
@@ -203,14 +211,6 @@
     <id>Calibre2opds:authors:825</id>
     <content type="text">Lo que no cuentan los muertos</content>
     <link href="../authors_0/authors_825_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Plato</title>
-    <id>Calibre2opds:authors:1678</id>
-    <content type="text">Crito</content>
-    <link href="../authors_1/authors_1678_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

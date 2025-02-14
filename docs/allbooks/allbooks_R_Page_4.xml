@@ -13,6 +13,44 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
+  <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
+  <entry>
+    <title>La reina de espadas</title>
+    <id>calibre:book:1845</id>
+    <updated>2024-08-30T02:25:26Z</updated>
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/La%20reina%20de%20espadas%20-%20Javier%20Mas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="326 KB" />
+    <author>
+      <name>Javier Más</name>
+      <uri>../authors_1/authors_1320_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>España, 1448. Dos mujeres luchan por el poder en la corona de Castilla: la reina Isabel de Portugal, madre de futura Isabel la Católica, y la condesa de Montalbán, doña Juana de Pimentel. Ambas se enfrentarán en una lucha sin piedad para poseer la Lo...</summary>
+    <link href="../book_1/book_1845.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reina de las bandidas</title>
+    <id>calibre:book:2866</id>
+    <updated>2025-02-02T01:10:16Z</updated>
+    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/La%20reina%20de%20las%20bandidas%20-%20Parini%20Shroff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
+    <author>
+      <name>Parini Shroff</name>
+      <uri>../authors_1/authors_1875_Page_1.xml</uri>
+    </author>
+    <published>2024-01-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UNA COMEDIA NEGRA SOBRE SOBRE MUJERES QUE QUIEREN DESHACERSE DE SUS MARIDOS
+ «Una historia reconfortante sobre un elenco de mujeres con la idea de asesinar a sus indeseables maridos. Una historia que demuestra que el antídoto contra cualquier circuns...</summary>
+    <link href="../book_2/book_2866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La reina roja</title>
     <id>calibre:book:535</id>
@@ -84,6 +122,25 @@
     <category term="Lang:es" />
     <summary>En lo alto de una montaña, en los páramos de Noruega, hay un viejo caserón habitado por un hombre solitario. Se llama Roy, es experto en pájaros, lleva la gasolinera del pueblo y en cada casa corre un rumor sobre él. Su vida gris se reabre con la vue...</summary>
     <link href="../book_0/book_841.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La relatividad del error</title>
+    <id>calibre:book:3039</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/La%20relatividad%20del%20error%20%283039%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/La%20relatividad%20del%20error%20%283039%29/La%20relatividad%20del%20error%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="334 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1987-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
+    <category term="Lang:es" />
+    <summary>Los ensayos de Isaac Asimov que integran el presente volumen están agrupados en tres partes. La primera está dedicada a cuestiones relacionadas con la constitución de la materia; la segunda trata del funcionamiento del sistema solar, y la tercera ana...</summary>
+    <link href="../book_3/book_3039.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>La reliquia</title>
@@ -406,57 +463,6 @@
     <summary>La nueva y monumental novela de William Boyd, «uno de nuestros mejores narradores contemporáneos» según The Spectator. «Un viaje salvaje a través del siglo XIX... irresistible».Financial Times «Prácticamente imposible dejar de leerlo».Daily Mirror «U...</summary>
     <link href="../book_2/book_2856.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La rueda del olvido</title>
-    <id>calibre:book:1690</id>
-    <updated>2024-07-29T11:15:46Z</updated>
-    <link href="../../Cari%20Arino/La%20rueda%20del%20olvido%20%281690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cari%20Arino/La%20rueda%20del%20olvido%20%281690%29/La%20rueda%20del%20olvido%20-%20Cari%20Arino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="313 KB" />
-    <author>
-      <name>Cari Ariño</name>
-      <uri>../authors_1/authors_1210_Page_1.xml</uri>
-    </author>
-    <published>2017-02-20T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La rueda del olvido es un emotivo relato cuyos protagonistas principales, Alicia y Bautista, buscan el equilibrio en sus vidas. El descubrimiento de un retrato en una novela de Isaac Asimov marcará el encuentro entre ellos.A lo largo de sus páginas, ...</summary>
-    <link href="../book_1/book_1690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El ruiseñor</title>
-    <id>calibre:book:895</id>
-    <updated>2023-06-23T01:09:50Z</updated>
-    <link href="../../Kristin%20Hannah/El%20ruisenor%20%28895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kristin%20Hannah/El%20ruisenor%20%28895%29/El%20ruisenor%20-%20Kristin%20Hannah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="686 KB" />
-    <author>
-      <name>Kristin Hannah</name>
-      <uri>../authors_0/authors_670_Page_1.xml</uri>
-    </author>
-    <published>2016-01-14T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Suma de Letras</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Dos hermanas buscan su propio camino hacia la supervivencia, el amor  y la libertad en la Francia ocupada durante la Segunda Guerra Mundial. 50 semanas en el TOP10 del New York TimesMás de 1.500.000 ejemplares vendidosUno de los 10 libros más vendido...</summary>
-    <link href="../book_0/book_895.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El rumor</title>
-    <id>calibre:book:1194</id>
-    <updated>2024-02-05T05:55:58Z</updated>
-    <link href="../../Ashley%20Audrain/El%20rumor%20%281194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ashley%20Audrain/El%20rumor%20%281194%29/El%20rumor%20-%20Ashley%20Audrain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
-    <author>
-      <name>Ashley Audrain</name>
-      <uri>../authors_0/authors_866_Page_1.xml</uri>
-    </author>
-    <published>2024-01-16T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Tras El instinto, bestseller internacional y «boom editorial» (El País), la reina del suspense psicológico vuelve con un thriller que «no se olvida fácilmente» (PublishersWeekly).El verano se acerca a su fin y Whitney y Jacob han organizado una barba...</summary>
-    <link href="../book_1/book_1194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 4)" />
-  <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 4)" />
+  <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
+  <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
 </feed>

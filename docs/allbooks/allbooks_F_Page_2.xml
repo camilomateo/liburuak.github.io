@@ -13,7 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with F" />
-  <link href="../allbooks/allbooks_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <link href="../allbooks/allbooks_F_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 4)" />
+  <entry>
+    <title>Fortuna</title>
+    <id>calibre:book:462</id>
+    <updated>2023-03-24T09:44:12Z</updated>
+    <link href="../../Hernan%20Diaz/Fortuna%20%28462%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hernan%20Diaz/Fortuna%20%28462%29/Fortuna%20-%20Hernan%20Diaz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Hernán Díaz</name>
+      <uri>../authors_0/authors_347_Page_1.xml</uri>
+    </author>
+    <published>2023-02-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un deslumbrante puzle literario: la misteriosa historia de un magnate de los años veinte en varias versiones que se complementan o contradicen.En los triunfales años veinte, Benjamin Rask y su esposa Helen dominan Nueva York: él, un magnate financier...</summary>
+    <link href="../book_0/book_462.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Fragil virtud</title>
     <id>calibre:book:1093</id>
@@ -236,6 +253,46 @@
     <link href="../book_1/book_1742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Fundación</title>
+    <id>calibre:book:3028</id>
+    <updated>2025-02-12T01:51:55Z</updated>
+    <link href="../../Isaac%20Asimov/Fundacion%20%283028%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fundacion%20%283028%29/Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="418 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1950-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación: Ciclo de Trantor" />
+    <summary>Saga de la Fundación: Ciclo de Trantor [3]: Mucho tiempo después de que la Tierra pasara al olvido, la galaxia se unificó alrededor de un Imperio pacífico gobernado desde la majestuosa ciudad de Trántor. El sistema funcionó y prosperó durante inconta...</summary>
+    <link href="../book_3/book_3028.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fundación e Imperio</title>
+    <id>calibre:book:3024</id>
+    <updated>2025-02-12T01:51:54Z</updated>
+    <link href="../../Isaac%20Asimov/Fundacion%20e%20Imperio%20%283024%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fundacion%20e%20Imperio%20%283024%29/Fundacion%20e%20Imperio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="315 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1951-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación: Ciclo de Trantor" />
+    <summary>Saga de la Fundación: Ciclo de Trantor [4]: Dirigida por su padre fundador, el gran psicohistoriador Hari Seldon, y beneficiada por una ciencia y una tecnología superiores, la Fundación ha sobrevivido a la avaricia de sus belicosos vecinos. Ahora deb...</summary>
+    <link href="../book_3/book_3024.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Furia</title>
     <id>calibre:book:602</id>
     <updated>2023-05-02T01:40:24Z</updated>
@@ -413,62 +470,6 @@
     <summary>Biblioteca PruébaT [8]:</summary>
     <link href="../book_2/book_2266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El fantasma de la ópera</title>
-    <id>calibre:book:2296</id>
-    <updated>2024-09-09T10:34:02Z</updated>
-    <link href="../../Gaston%20Leroux/El%20fantasma%20de%20la%20opera%20%282296%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gaston%20Leroux/El%20fantasma%20de%20la%20opera%20%282296%29/El%20fantasma%20de%20la%20opera%20-%20Gaston%20Leroux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="308 KB" />
-    <author>
-      <name>Gastón Leroux</name>
-      <uri>../authors_1/authors_1604_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Clásico" />
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [24]:</summary>
-    <link href="../book_2/book_2296.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El fantasma de las alas de oro</title>
-    <id>calibre:book:2157</id>
-    <updated>2024-09-06T02:21:25Z</updated>
-    <link href="../../Vicente%20Blasco%20Ibanez/El%20fantasma%20de%20las%20alas%20de%20oro%20%282157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Vicente%20Blasco%20Ibanez/El%20fantasma%20de%20las%20alas%20de%20oro%20%282157%29/El%20fantasma%20de%20las%20alas%20de%20oro%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="223 KB" />
-    <author>
-      <name>Vicente Blasco Ibáñez</name>
-      <uri>../authors_1/authors_1496_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [204]:</summary>
-    <link href="../book_2/book_2157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El fantasma y la señora Muir</title>
-    <id>calibre:book:1827</id>
-    <updated>2024-08-28T00:55:06Z</updated>
-    <link href="../../R.%20A.%20Dick/El%20fantasma%20y%20la%20senora%20Muir%20%281827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../R.%20A.%20Dick/El%20fantasma%20y%20la%20senora%20Muir%20%281827%29/El%20fantasma%20y%20la%20senora%20Muir%20-%20R.%20A.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="745 KB" />
-    <author>
-      <name>R. A. Dick</name>
-      <uri>../authors_1/authors_1306_Page_1.xml</uri>
-    </author>
-    <published>2020-11-01T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Impedimenta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Lucy Muir es una joven viuda a la que todo el mundo considera "muy poca cosa" a pesar de que ella se tiene por una mujer muy decidida. Agobiada por las deudas tras la muerte de su marido, decide mudarse a Gull Cottage, una casita ubicada en un pintor...</summary>
-    <link href="../book_1/book_1827.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+  <link href="../allbooks/allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 4)" />
+  <link href="../allbooks/allbooks_F_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
 </feed>

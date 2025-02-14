@@ -13,456 +13,544 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous week" />
-  <link href="../recent/recent_ONEWEEK_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <link href="../recent/recent_ONEWEEK_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 6)" />
   <entry>
-    <title>El Enviado [February 10, 2025]</title>
-    <id>calibre:book:2916</id>
-    <updated>2025-02-10T05:58:16Z</updated>
-    <link href="../../J.J.%20Benitez/El%20Enviado%20%282916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.J.%20Benitez/El%20Enviado%20%282916%29/El%20Enviado%20-%20J.J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>Trilogía de Fundación [February 12, 2025]</title>
+    <id>calibre:book:3023</id>
+    <updated>2025-02-12T01:51:54Z</updated>
+    <link href="../../Isaac%20Asimov/Trilogia%20de%20Fundacion%20%283023%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Trilogia%20de%20Fundacion%20%283023%29/Trilogia%20de%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="912 KB" />
     <author>
-      <name>J.J. Benítez</name>
-      <uri>../authors_1/authors_1894_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>1978-12-31T11:00:00Z</published>
+    <published>1962-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <category term="Ensayo" />
-    <category term="Religión" />
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>«Un equipo de científicos vinculados a la NASA —no católicos— ha demostrado, después de tres años de investigación, que el "individuo" enterrado hace dos mil años en una cueva próxima a Jerusalén y que fue conocido con el nombre de Jesús de Nazaret e...</summary>
-    <link href="../book_2/book_2916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El Imperio Galáctico se derrumbaba. Su caída era inexorable, pero tan lenta como extenso el Imperio. Habría pasado desapercibida de no ser por un hombre, Hari Seldon, que supo adelantarse al futuro: mediante la ciencia de la psicohistoria, calculó qu...</summary>
+    <link href="../book_3/book_3023.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las guerras de Yavé [February 10, 2025]</title>
-    <id>calibre:book:2917</id>
-    <updated>2025-02-10T05:58:17Z</updated>
-    <link href="../../J.%20J.%20Benitez/Las%20guerras%20de%20Yave%20%282917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../J.%20J.%20Benitez/Las%20guerras%20de%20Yave%20%282917%29/Las%20guerras%20de%20Yave%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>Trilogía Fundación [February 12, 2025]</title>
+    <id>calibre:book:3019</id>
+    <updated>2025-02-12T01:51:54Z</updated>
+    <link href="../../Isaac%20Asimov/Trilogia%20Fundacion%20%283019%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Trilogia%20Fundacion%20%283019%29/Trilogia%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="18 MB" />
     <author>
-      <name>J. J. Benítez</name>
-      <uri>../authors_0/authors_684_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2023-10-17T11:00:00Z</published>
+    <published>1962-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Isaac Asimov empezó a escribir la saga de la Fundación a los veintiún años, sin saber que un día esta obra se convertiría en la piedra angular de la ciencia ficción del siglo XX, ni que con ella cautivaría a lectores de todas las edades durante más d...</summary>
+    <link href="../book_3/book_3019.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Con la Tierra nos basta [February 12, 2025]</title>
+    <id>calibre:book:3015</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/Con%20la%20Tierra%20nos%20basta%20%283015%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Con%20la%20Tierra%20nos%20basta%20%283015%29/Con%20la%20Tierra%20nos%20basta%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="284 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1950-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [65]: En este volumen, el maestro Asimov muestra en quince lecciones cómo se escribe el cuento corto de ciencia ficción: la idea brillante, el desarrollo rápido con economía de medios expresivos, el sorprendente giro final, encerrando t...</summary>
+    <link href="../book_3/book_3015.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Más Allá 13 [February 12, 2025]</title>
+    <id>calibre:book:3018</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/Mas%20Alla%2013%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>AA. VV.</name>
+      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+    </author>
+    <published>1954-05-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Fantástico" />
+    <category term="Publicaciones periódicas" />
+    <category term="Relato" />
+    <category term="Lang:es" />
+    <category term="Más Allá" />
+    <summary>Más Allá [13]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
+    <link href="../book_3/book_3018.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rebelión en la galaxia [February 12, 2025]</title>
+    <id>calibre:book:3016</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/Rebelion%20en%20la%20galaxia%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="406 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1950-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Nebulae - Primera Época" />
+    <summary>Nebulae - Primera Época [20]: El Universo entero se halla subyugado por un poder casi infinito: el Imperio lntergaláctico, que gobierna con férrea mano millares de soles y galaxias y billones de planetas habitados. Pero los poderosos señores del Cosm...</summary>
+    <link href="../book_3/book_3016.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Segunda Fundación [February 12, 2025]</title>
+    <id>calibre:book:3017</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/Segunda%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="292 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación - Ciclo de Trantor" />
+    <summary>Saga de la Fundación - Ciclo de Trantor [5]: El mulo, mutante que no figuraba en las ecuaciones de Hari Seldon, ha tenido conocimiento de la existencia de una Segunda Fundación, totalmente secreta y cuyo emplazamiento es desconocido incluso para los ...</summary>
+    <link href="../book_3/book_3017.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A lo marciano [February 12, 2025]</title>
+    <id>calibre:book:3014</id>
+    <updated>2025-02-12T01:51:53Z</updated>
+    <link href="../../Isaac%20Asimov/A%20lo%20marciano%20%283014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/A%20lo%20marciano%20%283014%29/A%20lo%20marciano%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1951-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [61]: A lo marciano dos novelas cortas y dos relatos de Isaac Asimov publicados originalmente a principios de los años cincuenta, década que se recuerda como la más fructífera y memorable de toda la su trayectoria como escritor de cienc...</summary>
+    <link href="../book_3/book_3014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre del Bicentenario [February 12, 2025]</title>
+    <id>calibre:book:3013</id>
+    <updated>2025-02-12T01:51:52Z</updated>
+    <link href="../../Isaac%20Asimov/El%20hombre%20del%20Bicentenario%20%283013%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20hombre%20del%20Bicentenario%20%283013%29/El%20hombre%20del%20Bicentenario%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="323 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1976-04-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [35]: Este volumen, publicado en conmemoración de casi medio siglo de trabajo literario de ISAAC ASIMOV, contiene once relatos recientes, incluido el popular EL HOMBRE DEL BICENTENARIO (que a su vez conmemora Sa declaración de la Indepe...</summary>
+    <link href="../book_3/book_3013.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Más Allá 14 [February 12, 2025]</title>
+    <id>calibre:book:3011</id>
+    <updated>2025-02-12T01:51:52Z</updated>
+    <link href="../../AA.%20VV_/Mas%20Alla%2014%20%283011%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../AA.%20VV_/Mas%20Alla%2014%20%283011%29/Mas%20Alla%2014%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>AA. VV.</name>
+      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+    </author>
+    <published>1954-06-30T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Fantástico" />
+    <category term="Publicaciones periódicas" />
+    <category term="Relato" />
+    <category term="Lang:es" />
+    <category term="Más Allá" />
+    <summary>Más Allá [14]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
+    <link href="../book_3/book_3011.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía del Imperio [February 12, 2025]</title>
+    <id>calibre:book:3012</id>
+    <updated>2025-02-12T01:51:52Z</updated>
+    <link href="../../Isaac%20Asimov/Trilogia%20del%20Imperio%20%283012%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Trilogia%20del%20Imperio%20%283012%29/Trilogia%20del%20Imperio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1951-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Entre las novelas de Robots y la serie de la Fundación se encuentra la Trilogía del Imperio: tres clásicas obras de Isaac Asimov donde se trazan los inicios de la expansión humana por la Galaxia hasta llegar al auge del Imperio Galáctico con capital ...</summary>
+    <link href="../book_3/book_3012.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 del más allá [February 12, 2025]</title>
+    <id>calibre:book:3008</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../AA.%20VV_/3%20del%20mas%20alla%20%283008%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../AA.%20VV_/3%20del%20mas%20alla%20%283008%29/3%20del%20mas%20alla%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
+    <author>
+      <name>AA. VV.</name>
+      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Edmond Hamilton</name>
+      <uri>../authors_1/authors_1919_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Damon Knight</name>
+      <uri>../authors_1/authors_1920_Page_1.xml</uri>
+    </author>
+    <published>1958-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Galaxia" />
+    <summary>Galaxia [38]: Con Tres del más allá presentamos una obra escrita por "tres ases" de la ciencia ficción.</summary>
+    <link href="../book_3/book_3008.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El futuro: una visión del año 2000 desde el siglo XIX [February 12, 2025]</title>
+    <id>calibre:book:3009</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/El%20futuro_%20una%20vision%20del%20ano%202000%20%283009%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20futuro_%20una%20vision%20del%20ano%202000%20%283009%29/El%20futuro_%20una%20vision%20del%20ano%202%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="31 MB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1986-08-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
     <category term="Ensayo" />
-    <category term="Otros" />
+    <category term="Ciencias sociales" />
     <category term="Lang:es" />
-    <summary>Con Las guerras de Yavé, J. J. Benítez vuelve al Antiguo Testamento para romper con las verdades universales que rodean nuestra idea de Dios.En Las Guerras de Yavé, J. J. Benítez se enfrenta a millones de creyentes en las religiones judía, cristiana,...</summary>
-    <link href="../book_2/book_2917.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En 1899, las cajetillas de tabaco anticiparon como sería la vida dentro de cien años. El cambio de siglo era un buen momento para pensar en el futuro y los avances tecnológicos lo suficientemente rápidos como para preguntarse qué clase de prodigios n...</summary>
+    <link href="../book_3/book_3009.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>28 días [February 10, 2025]</title>
-    <id>calibre:book:2914</id>
-    <updated>2025-02-10T05:32:18Z</updated>
-    <link href="../../David%20Safier/28%20dias%20%282914%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/28%20dias%20%282914%29/28%20dias%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="469 KB" />
+    <title>Grandes ideas de la ciencia [February 12, 2025]</title>
+    <id>calibre:book:3010</id>
+    <updated>2025-02-12T01:51:52Z</updated>
+    <link href="../../Isaac%20Asimov/Grandes%20ideas%20de%20la%20ciencia%20%283010%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Grandes%20ideas%20de%20la%20ciencia%20%283010%29/Grandes%20ideas%20de%20la%20ciencia%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="231 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2013-12-31T11:00:00Z</published>
+    <published>1968-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Histórico" />
+    <category term="Divulgación" />
+    <category term="Ciencias exactas" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>Varsovia 1943: Mira, una chica de 16 años, sobrevive como puede en el gueto de Varsovia dedicándose al contrabando de alimentos. Su único objetivo es proteger a su hermana pequeña, Hanna. Cuando empiezan a deportar a los habitantes del gueto a los ca...</summary>
-    <link href="../book_2/book_2914.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El interés por la divulgación de los principios científicos lleva a Isaac Asimov a analizar en «Grandes ideas de la ciencia» las hipótesis y descubrimientos que destacados personajes llevaron a cabo a lo largo de la historia, y que hicieron posible l...</summary>
+    <link href="../book_3/book_3010.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Jesús me quiere [February 10, 2025]</title>
-    <id>calibre:book:2915</id>
-    <updated>2025-02-10T05:32:18Z</updated>
-    <link href="../../David%20Safier/Jesus%20me%20quiere%20%282915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Jesus%20me%20quiere%20%282915%29/Jesus%20me%20quiere%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Isaac Asimov Magazine 8 [February 12, 2025]</title>
+    <id>calibre:book:3006</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/Isaac%20Asimov%20Magazine%208%20%283006%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Isaac%20Asimov%20Magazine%208%20%283006%29/Isaac%20Asimov%20Magazine%208%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="996 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2010-10-25T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Seix Barral</dcterms:publisher>
-    <category term="Humor" />
-    <category term="Lang:es" />
-    <summary>La historia de una mujer, Marie, que se enamora de un carpintero llamado Jesús. Un trozo de pan… Un desastre de marido. Marie tiene un gran talento para enamorarse del hombre equivocado. Poco después de cancelar su boda, conoce a un carpintero. Es un...</summary>
-    <link href="../book_2/book_2915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La balada de Max y Amelie [February 10, 2025]</title>
-    <id>calibre:book:2913</id>
-    <updated>2025-02-10T05:32:18Z</updated>
-    <link href="../../David%20Safier/La%20balada%20de%20Max%20y%20Amelie%20%282913%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/La%20balada%20de%20Max%20y%20Amelie%20%282913%29/La%20balada%20de%20Max%20y%20Amelie%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="322 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Martin Gardner</name>
+      <uri>../authors_1/authors_1908_Page_1.xml</uri>
     </author>
-    <published>2018-11-26T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <summary>La existencia de Cicatriz, una perrita salvaje y solitaria que malvive en un vertedero de Nápoles, da un vuelco cuando conoce a Max, un perro doméstico que le habla de una vida que ella jamás ha conocido: feliz y al cuidado de bondadosos seres humano...</summary>
-    <link href="../book_2/book_2913.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Maldito karma [February 10, 2025]</title>
-    <id>calibre:book:2912</id>
-    <updated>2025-02-10T05:32:17Z</updated>
-    <link href="../../David%20Safier/Maldito%20karma%20%282912%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Maldito%20karma%20%282912%29/Maldito%20karma%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="335 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Stephanie A. Smith</name>
+      <uri>../authors_1/authors_1909_Page_1.xml</uri>
     </author>
-    <published>2008-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Humor" />
-    <category term="Lang:es" />
-    <summary>Una desternillante novela sobre el secreto de la felicidad que ya ha hecho reír a un millón de lectores en Alemania. La presentadora de televisión Kim Lange está en el mejor momento de su carrera cuando sufre un accidente y muere aplastada por el lav...</summary>
-    <link href="../book_2/book_2912.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Más maldito karma [February 10, 2025]</title>
-    <id>calibre:book:2911</id>
-    <updated>2025-02-10T05:32:17Z</updated>
-    <link href="../../David%20Safier/Mas%20maldito%20karma%20%282911%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Mas%20maldito%20karma%20%282911%29/Mas%20maldito%20karma%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="332 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Richard Bowker</name>
+      <uri>../authors_1/authors_1910_Page_1.xml</uri>
     </author>
-    <published>2015-10-31T11:00:00Z</published>
+    <author>
+      <name>Robert F. Young</name>
+      <uri>../authors_1/authors_1911_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ian Watson</name>
+      <uri>../authors_1/authors_1912_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../authors_1/authors_1913_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>James E. Gunn</name>
+      <uri>../authors_1/authors_1914_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Mary Kittredge</name>
+      <uri>../authors_1/authors_1915_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sharon N. Farber</name>
+      <uri>../authors_1/authors_1916_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dorothy Smith</name>
+      <uri>../authors_1/authors_1917_Page_1.xml</uri>
+    </author>
+    <published>1977-02-14T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Humor" />
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Daisy Becker es una actriz de segunda totalmente caótica: bebe, fuma y roba a sus compañeros de piso. A sus veintipocos años tendrá un accidente de tráfico con Steve Barton, una arrogante estrella de Hollywood que está en Berlín rodando la nueva pelí...</summary>
-    <link href="../book_2/book_2911.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Isaac Asimov Magazine" />
+    <summary>Isaac Asimov Magazine [8]: Desde su aparición en 1977, el cite xml:lang=enIsaac Asimov’s Science Fiction Magazine/cite, avalado por el más prestigioso autor del género, ha venido publicando la mejor y más reciente producción de relatos de los nuevos ...</summary>
+    <link href="../book_3/book_3006.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Una familia feliz [February 10, 2025]</title>
-    <id>calibre:book:2908</id>
-    <updated>2025-02-10T05:32:16Z</updated>
-    <link href="../../David%20Safier/Una%20familia%20feliz%20%282908%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Una%20familia%20feliz%20%282908%29/Una%20familia%20feliz%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Sueños de robot [February 12, 2025]</title>
+    <id>calibre:book:3007</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/Suenos%20de%20robot%20%283007%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Suenos%20de%20robot%20%283007%29/Suenos%20de%20robot%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>Vuelve el Safier de Maldito karma, con un original argumento también en torno a la familia y protagonizado por una carismática librera. «Una novela que consigue hacerte más feliz» Buchwurm. La familia Van Kieren está al borde del caos. La librería de...</summary>
-    <link href="../book_2/book_2908.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Mientras estemos vivos [February 10, 2025]</title>
-    <id>calibre:book:2910</id>
-    <updated>2025-02-10T05:32:16Z</updated>
-    <link href="../../David%20Safier/Mientras%20estemos%20vivos%20%282910%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Mientras%20estemos%20vivos%20%282910%29/Mientras%20estemos%20vivos%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
-    <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
-    </author>
-    <published>2022-12-31T11:00:00Z</published>
+    <published>1986-04-22T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Histórico" />
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Una apasionante historia familiar. Un siglo convulso. Un amor extraordinario sometido a los golpes del destino.Nada hacía prever que un judío vienés, cuya familia pereció en el Holocausto, y una joven viuda de Bremen se encontrarían alguna vez, y muc...</summary>
-    <link href="../book_2/book_2910.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El extraordinario divulgador científico y maestro de la narrativa que es Asimov nos ofrece en este magnífico libro de relatos una aproximación profunda al fenómeno de los robots, en el cual este autor es autoridad indiscutible. ¿Qué papel desempeñará...</summary>
+    <link href="../book_3/book_3007.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Rompamos el hielo [February 10, 2025]</title>
-    <id>calibre:book:2909</id>
-    <updated>2025-02-10T05:32:16Z</updated>
-    <link href="../../David%20Safier/Rompamos%20el%20hielo%20%282909%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Rompamos%20el%20hielo%20%282909%29/Rompamos%20el%20hielo%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="335 KB" />
+    <title>En lo profundo [February 12, 2025]</title>
+    <id>calibre:book:3005</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/En%20lo%20profundo%20%283005%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/En%20lo%20profundo%20%283005%29/En%20lo%20profundo%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2020-02-29T11:00:00Z</published>
+    <published>1962-02-14T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ciencia Ficción" />
     <category term="Novela" />
-    <category term="Humor" />
+    <category term="Relato" />
     <category term="Lang:es" />
-    <summary>Urga lleva 33.000 años congelada en un iceberg al lado de un pequeño mamut pero ahora, por culpa del cambio climático, se deshiela y tras echar un vistazo al presente casi preferiría congelarse de nuevo. Aun así, esta mujer de la Edad de Piedra es so...</summary>
-    <link href="../book_2/book_2909.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Nebulae - Primera Epoca" />
+    <summary>Nebulae - Primera Epoca [83]: El nombre de Isaac Asimov siempre es garantía de calidad, dignidad literaria y exactitud científica. Estas cualidades se encuentran reunidas en grado superlativo en esta obra, que presenta una serie de situaciones obsesi...</summary>
+    <link href="../book_3/book_3005.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Y colorín colorado… Tú [February 10, 2025]</title>
-    <id>calibre:book:2907</id>
-    <updated>2025-02-10T05:32:15Z</updated>
-    <link href="../../David%20Safier/Y%20colorin%20colorado_.%20Tu%20%282907%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Y%20colorin%20colorado_.%20Tu%20%282907%29/Y%20colorin%20colorado_.%20Tu%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="450 KB" />
+    <title>Los gases nobles [February 12, 2025]</title>
+    <id>calibre:book:3003</id>
+    <updated>2025-02-12T01:51:50Z</updated>
+    <link href="../../Isaac%20Asimov/Los%20gases%20nobles%20%283003%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Los%20gases%20nobles%20%283003%29/Los%20gases%20nobles%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2016-03-31T11:00:00Z</published>
+    <published>1965-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Aventuras" />
+    <category term="Ensayo" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>Nellie Oswald roba un cuaderno en blanco de uno de sus artistas favoritos. La chica, harta de las decepciones amorosas, dibuja en el cuaderno a su príncipe azul, al que llama Retro. Lo que Nellie no sabe es que el cuaderno es mágico y convierte en re...</summary>
-    <link href="../book_2/book_2907.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Estimulante viaje a través del mundo de la química moderna y atinado recordatorio de que en ninguna rama de la Ciencia puede ser considerado como «absoluto» el conocimiento ni darse por «terminada» la investigación.</summary>
+    <link href="../book_3/book_3003.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Yo, mi, me… contigo [February 10, 2025]</title>
-    <id>calibre:book:2906</id>
-    <updated>2025-02-10T05:32:15Z</updated>
-    <link href="../../David%20Safier/Yo%2C%20mi%2C%20me_.%20contigo%20%282906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Yo%2C%20mi%2C%20me_.%20contigo%20%282906%29/Yo%2C%20mi%2C%20me_.%20contigo%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
+    <title>Nueve futuros [February 12, 2025]</title>
+    <id>calibre:book:3004</id>
+    <updated>2025-02-12T01:51:50Z</updated>
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/Nueve%20futuros%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="318 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Seix Barral, S. A.</dcterms:publisher>
-    <category term="Humor" />
-    <category term="Lang:es" />
-    <summary>Ya es bastante difícil que un hombre y una mujer compartan la vida. Pero cuando un hombre y una mujer tienen que compartir además el mismo cuerpo, el caos es completo… Rosa busca soluciones para su corazón roto. Un día, mediante hipnosis, es transpor...</summary>
-    <link href="../book_2/book_2906.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>¡Muuu! [February 10, 2025]</title>
-    <id>calibre:book:2905</id>
-    <updated>2025-02-10T05:32:15Z</updated>
-    <link href="../../David%20Safier/%21Muuu%21%20%282905%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/%21Muuu%21%20%282905%29/%21Muuu%21%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="300 KB" />
-    <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
-    </author>
-    <published>2012-11-08T11:00:00Z</published>
+    <published>1958-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Aventuras" />
-    <category term="Humor" />
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>«¡Muuu!», de David Safier, autor de otras obras de la narrativa de humor como «Jesús me quiere» o «Una familia feliz», es una divertidísima fábula protagonizada, al igual que «Maldito karma», por animales; y con los mismos ingredientes que hicieron d...</summary>
-    <link href="../book_2/book_2905.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [96]: Una de las mejores recopilaciones de relatos de Isaac Asimov, con historias escritas originalmente durante los años cincuenta, década prodigiosa para el autor y durante la cual se ganó a pulso la fama que le ha acompañado desde en...</summary>
+    <link href="../book_3/book_3004.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Miss Merkel. El caso de la canciller jubilada [February 10, 2025]</title>
-    <id>calibre:book:2904</id>
-    <updated>2025-02-10T05:24:29Z</updated>
-    <link href="../../David%20Safier/Miss%20Merkel.%20El%20caso%20de%20la%20cancille%20%282904%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Miss%20Merkel.%20El%20caso%20de%20la%20cancille%20%282904%29/Miss%20Merkel.%20El%20caso%20de%20la%20canc%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="324 KB" />
+    <title>Los leones de Rota [February 12, 2025]</title>
+    <id>calibre:book:3002</id>
+    <updated>2025-02-12T09:08:40Z</updated>
+    <link href="../../Antonio%20Fuentes/Los%20leones%20de%20Rota%20%283002%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Fuentes/Los%20leones%20de%20Rota%20%283002%29/Los%20leones%20de%20Rota%20-%20Antonio%20Fuentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Antonio Fuentes</name>
+      <uri>../authors_1/authors_1906_Page_1.xml</uri>
     </author>
-    <published>2021-08-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Humor" />
-    <category term="Lang:es" />
-    <summary>Angela Merkel se retiró hace seis semanas y acaba de mudarse con su esposo, el guardaespaldas y su perrito Putin a una despoblada pero encantadora región del interior de Alemania. Acostumbrada a una vida turbulenta que le llevó a enfrentarse a duros ...</summary>
-    <link href="../book_2/book_2904.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Alguien se acerca [February 10, 2025]</title>
-    <id>calibre:book:2901</id>
-    <updated>2025-02-10T05:15:00Z</updated>
-    <link href="../../Benjamin%20Prado/Alguien%20se%20acerca%20%282901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Prado/Alguien%20se%20acerca%20%282901%29/Alguien%20se%20acerca%20-%20Benjamin%20Prado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="386 KB" />
-    <author>
-      <name>Benjamín Prado</name>
-      <uri>../authors_0/authors_459_Page_1.xml</uri>
-    </author>
-    <published>2025-01-08T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Las cosas parecen mucho más grandes de lo que son cuando están delante de un hombre solo.Eso es lo que piensa el protagonista de esta novela, apresado en una vida ordenada y absurda, perfecta y fría como el infierno.Hasta que una mañana, de pronto, t...</summary>
-    <link href="../book_2/book_2901.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La compañera de viaje [February 10, 2025]</title>
-    <id>calibre:book:2903</id>
-    <updated>2025-02-10T05:15:00Z</updated>
-    <link href="../../Ian%20Rankin/La%20companera%20de%20viaje%20%282903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ian%20Rankin/La%20companera%20de%20viaje%20%282903%29/La%20companera%20de%20viaje%20-%20Ian%20Rankin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="330 KB" />
-    <author>
-      <name>Ian Rankin</name>
-      <uri>../authors_0/authors_200_Page_1.xml</uri>
-    </author>
-    <published>2024-11-06T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Lang:es" />
-    <summary>Un turbulento relato sobre un hombre obsesionado con la semilla que inspiró la historia de Jekyll y Hyde. Para Ronald Hastie, recién graduado, un trabajo en la legendaria librería Shakespeare and Company es la opción perfecta para pasar un verano en ...</summary>
-    <link href="../book_2/book_2903.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Vallesordo [February 10, 2025]</title>
-    <id>calibre:book:2902</id>
-    <updated>2025-02-10T05:15:00Z</updated>
-    <link href="../../Jonathan%20Arribas/Vallesordo%20%282902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jonathan%20Arribas/Vallesordo%20%282902%29/Vallesordo%20-%20Jonathan%20Arribas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="278 KB" />
-    <author>
-      <name>Jonathan Arribas</name>
-      <uri>../authors_1/authors_1893_Page_1.xml</uri>
-    </author>
-    <published>2025-01-19T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Literary" />
-    <category term="General" />
-    <category term="Lang:es" />
-    <summary>Una nueva y original voz de las letras españolas, una entrañable novela sobre una infancia en un pueblo de Zamora en la década de los dos mil. Nico es un niño que vive en un pueblo de Zamora. Juega a polis y cacos con los amigos, va en bici, pasa tie...</summary>
-    <link href="../book_2/book_2902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El baile de las que sobran [February 10, 2025]</title>
-    <id>calibre:book:2899</id>
-    <updated>2025-02-10T05:14:59Z</updated>
-    <link href="../../Fermina%20Canaveras/El%20baile%20de%20las%20que%20sobran%20%282899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fermina%20Canaveras/El%20baile%20de%20las%20que%20sobran%20%282899%29/El%20baile%20de%20las%20que%20sobran%20-%20Fermina%20Canaveras.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
-    <author>
-      <name>Fermina Cañaveras</name>
-      <uri>../authors_1/authors_1891_Page_1.xml</uri>
-    </author>
-    <published>2024-12-20T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Entre bailes y batallas las voces de las que sobran no serán silenciadas. La novela histórica que nos habla de la lucha de las mujeres en ambos bandos en la España de 1938 a 1961.En septiembre de 1938 aún no se palpa la derrota. Félix y Tomasa, bajo ...</summary>
-    <link href="../book_2/book_2899.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Muerte en Tailandia [February 10, 2025]</title>
-    <id>calibre:book:2900</id>
-    <updated>2025-02-10T05:15:00Z</updated>
-    <link href="../../Joaquin%20Campos/Muerte%20en%20Tailandia%20%282900%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joaquin%20Campos/Muerte%20en%20Tailandia%20%282900%29/Muerte%20en%20Tailandia%20-%20Joaquin%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
-    <author>
-      <name>Joaquín Campos</name>
-      <uri>../authors_1/authors_1892_Page_1.xml</uri>
-    </author>
-    <published>2024-12-29T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>LA ESFERA DE LOS LIBROS, S.L.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El 2 de agosto de 2023, el cirujano colombiano Edwin Arrieta fue asesinado y descuartizado en la paradisiaca isla de Koh Phangan. Casi inmediatamente fue detenido el joven español Daniel Sancho. La policía tailandesa no tenía dudas sobre su autoría.Y...</summary>
-    <link href="../book_2/book_2900.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Páginas escogidas [February 10, 2025]</title>
-    <id>calibre:book:2898</id>
-    <updated>2025-02-10T05:14:59Z</updated>
-    <link href="../../Carmen%20Martin%20Gaite/Paginas%20escogidas%20%282898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carmen%20Martin%20Gaite/Paginas%20escogidas%20%282898%29/Paginas%20escogidas%20-%20Carmen%20Martin%20Gaite.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="504 KB" />
-    <author>
-      <name>Carmen Martín Gaite</name>
-      <uri>../authors_1/authors_1890_Page_1.xml</uri>
-    </author>
-    <published>2024-11-04T06:51:44Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Siruela</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Despertar la curiosidad de nuevos lectores y renovar el interés de los incondicionales de la escritora es el primer propósito de estas Páginas escogidas. Por encima de géneros (poemas, cuentos, novelas, ensayos y cuadernos personales), esta esencial ...</summary>
-    <link href="../book_2/book_2898.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La biblioteca de Córdoba [February 10, 2025]</title>
-    <id>calibre:book:2892</id>
-    <updated>2025-02-10T05:14:58Z</updated>
-    <link href="../../Andrea%20D.%20Morales/La%20biblioteca%20de%20Cordoba%20%282892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Andrea%20D.%20Morales/La%20biblioteca%20de%20Cordoba%20%282892%29/La%20biblioteca%20de%20Cordoba%20-%20Andrea%20D.%20Morales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="699 KB" />
-    <author>
-      <name>Andrea D. Morales</name>
-      <uri>../authors_0/authors_665_Page_1.xml</uri>
-    </author>
-    <published>2025-01-23T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Año 973 d. C. Hubo un tiempo en que solo los libros podían custodiar la sabiduría, y por ello se convirtieron en tesoros. Para protegerlos, nació en Córdoba la mayor biblioteca de la Historia de Occidente. Será allí donde llegue Nasir, un joven médic...</summary>
-    <link href="../book_2/book_2892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cruce de damas [February 10, 2025]</title>
-    <id>calibre:book:2893</id>
-    <updated>2025-02-10T05:14:58Z</updated>
-    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/Cruce%20de%20damas%20-%20Maria%20Boado%20Olabarrieta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="384 KB" />
-    <author>
-      <name>María Boado Olabarrieta</name>
-      <uri>../authors_1/authors_1887_Page_1.xml</uri>
-    </author>
-    <published>2025-01-23T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un thriller judicial en el que la pugna entre dos mujeres destapará los mecanismos y entresijos de la justicia.Verano de 1991. Las fiestas de la pequeña localidad de Oña, en Burgos, se tiñen de un aire ominoso cuando una joven es encontrada en su coc...</summary>
-    <link href="../book_2/book_2893.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Hasta el próximo café [February 10, 2025]</title>
-    <id>calibre:book:2896</id>
-    <updated>2025-02-10T05:14:58Z</updated>
-    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/Hasta%20el%20proximo%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
-    <author>
-      <name>Toshikazu Kawaguchi</name>
-      <uri>../authors_0/authors_526_Page_1.xml</uri>
-    </author>
-    <published>2025-01-23T00:00:00Z</published>
+    <published>2024-11-21T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Una nueva entrega del fenómeno feel-good japonés que ha enamorado a más de 5.000.000 de lectores en todo el mundo.Una historia llena de esperanza y optimismo que nos enseña quesiempre podemos reescribir nuestras vidas.En Japón se oculta un lugar lege...</summary>
-    <link href="../book_2/book_2896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una impactante novela que narra la increíble historia real de una centuria falangista que asoló las sierras de Andalucía durante la Guerra Civil.Andalucía, 1936. Antonio «el Gaseosa» es un hombre de ideales republicanos, casado y con un hijo, que tra...</summary>
+    <link href="../book_3/book_3002.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Me limitaba a amarte [February 10, 2025]</title>
-    <id>calibre:book:2895</id>
-    <updated>2025-02-10T05:14:58Z</updated>
-    <link href="../../Rosella%20Postorino/Me%20limitaba%20a%20amarte%20%282895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosella%20Postorino/Me%20limitaba%20a%20amarte%20%282895%29/Me%20limitaba%20a%20amarte%20-%20Rosella%20Postorino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+    <title>A Rey muerto, Rey puesto [February 12, 2025]</title>
+    <id>calibre:book:3001</id>
+    <updated>2025-02-12T09:08:40Z</updated>
+    <link href="../../Riccardo%20Braccaioli/A%20Rey%20muerto%2C%20Rey%20puesto%20%283001%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/A%20Rey%20muerto%2C%20Rey%20puesto%20%283001%29/A%20Rey%20muerto%2C%20Rey%20puesto%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Rosella Postorino</name>
-      <uri>../authors_1/authors_1888_Page_1.xml</uri>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
     </author>
-    <published>2024-12-05T00:00:00Z</published>
+    <published>2025-01-30T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <dcterms:publisher>BRALTON BOOKS</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Omar tiene diez años y pasa los días junto a la ventana, esperando a que su madre vuelva. Hace tanto tiempo que no la ve que ni siquiera sabe si está viva. Su hermano intenta animarlo, pero es incapaz: sin su madre, el mundo se desmorona. Solo le con...</summary>
-    <link href="../book_2/book_2895.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Inspector Álex Cortés" />
+    <summary>Inspector Álex Cortés [10]: Querido Lector, normalmente, en la sinopsis o te describo la trama, o te doy pinceladas de lo que te espera con la próxima investigación.Sin embargo, esta vez, no puedo darte ninguna pista.Como habrás podido averiguar, la ...</summary>
+    <link href="../book_3/book_3001.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Normas aparte [February 10, 2025]</title>
-    <id>calibre:book:2894</id>
-    <updated>2025-02-10T05:14:58Z</updated>
-    <link href="../../Kate%20Atkinson/Normas%20aparte%20%282894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kate%20Atkinson/Normas%20aparte%20%282894%29/Normas%20aparte%20-%20Kate%20Atkinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
+    <title>Después [February 12, 2025]</title>
+    <id>calibre:book:2999</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Despues%20%282999%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Despues%20%282999%29/Despues%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
     <author>
-      <name>Kate Atkinson</name>
-      <uri>../authors_1/authors_1305_Page_1.xml</uri>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
     </author>
-    <published>2024-11-27T00:00:00Z</published>
+    <published>2021-06-12T06:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AdN Editorial Grupo Anaya</dcterms:publisher>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>En esta recopilación de relatos conoceremos a una reina que se compromete a algo que después no puede cumplir, a una secretaria que repasa la vida que acaba de dejar atrás y a un hombre al que le cambia la suerte después de oír hablar a un caballo.Co...</summary>
-    <link href="../book_2/book_2894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En ocasiones, para crecer debes vencer a tus demonios.
+
+Jamie Conklin, el único hijo de una madre soltera, solo quiere tener una infancia normal. Sin embargo, nació con una habilidad sobrenatural que su madre le insta a mantener en secreto y que le p...</summary>
+    <link href="../book_2/book_2999.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+  <entry>
+    <title>Elevación [February 12, 2025]</title>
+    <id>calibre:book:2998</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/Elevacion%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="888 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2019-11-07T07:32:23Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más su leyenda.»USA Today El cuerpo de Scott Carey sufre un extraño fenómeno: pierde peso sin parar pero no se vuelve más delgado, su báscul...</summary>
+    <link href="../book_2/book_2998.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fin de guardia [February 12, 2025]</title>
+    <id>calibre:book:2997</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/Fin%20de%20guardia%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="667 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fin de guardia es el espectacular final de la «Trilogía Bill Hodges» que comenzó con Mr. Mercedes y continuó con Quien pierde paga.Hay asesinos que usan cuchillos,otrospistolas o incluso coches,pero todos ellos tienen un objetivo en mente:volverte lo...</summary>
+    <link href="../book_2/book_2997.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bellas durmientes [February 12, 2025]</title>
+    <id>calibre:book:2995</id>
+    <updated>2025-02-12T09:04:14Z</updated>
+    <link href="../../Stephen%20King/Bellas%20durmientes%20%282995%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Bellas%20durmientes%20%282995%29/Bellas%20durmientes%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Owen King</name>
+      <uri>../authors_1/authors_1064_Page_1.xml</uri>
+    </author>
+    <published>2018-01-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>No las despiertes.En esta espectacular colaboración entre padre e hijo, Stephen King y Owen King nos ofrecen la historia más arriesgada de cuantas han contado hasta ahora: ¿qué pasaría si las mujeres abandonaran este mundo?En un futuro tan real y cer...</summary>
+    <link href="../book_2/book_2995.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mr. Mercedes [February 12, 2025]</title>
+    <id>calibre:book:2996</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Mr.%20Mercedes%20%282996%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Mr.%20Mercedes%20%282996%29/Mr.%20Mercedes%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2014-11-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras publicarse un anuncio con ofertas de «trabajo garantizado», desde la madrugada miles de desempleados aguardan pacientemente haciendo fila frente a un edificio en espera de una entrevista. Justo antes de las cinco, un misterioso Mercedes color gr...</summary>
+    <link href="../book_2/book_2996.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 6)" />
+  <link href="../recent/recent_ONEWEEK_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (6 of 6)" />
 </feed>
