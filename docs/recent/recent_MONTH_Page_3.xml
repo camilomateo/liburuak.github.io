@@ -13,91 +13,517 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous month" />
+  <link href="../recent/recent_MONTH_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
   <entry>
-    <title>Era un buen chico [January 16, 2025]</title>
-    <id>calibre:book:2803</id>
-    <updated>2025-01-16T08:08:28Z</updated>
-    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/Era%20un%20buen%20chico%20-%20Simonetta%20Agnello%20Hornby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
+    <title>Grandes ideas de la ciencia [February 12, 2025]</title>
+    <id>calibre:book:3010</id>
+    <updated>2025-02-12T01:51:52Z</updated>
+    <link href="../../Isaac%20Asimov/Grandes%20ideas%20de%20la%20ciencia%20%283010%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Grandes%20ideas%20de%20la%20ciencia%20%283010%29/Grandes%20ideas%20de%20la%20ciencia%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="231 KB" />
     <author>
-      <name>Simonetta Agnello Hornby</name>
-      <uri>../authors_1/authors_1834_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-05-21T10:00:00Z</published>
+    <published>1968-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias exactas" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>Un relato sobre la amistad, el poder feroz de la familia y el deseo de regresar a los orígenes. Esta es la historia de dos madres, dos mujeres fuertes que toman las riendas de sus respectivas familias, y de sus hijos, Giovanni y Santino. Ambos crecen...</summary>
-    <link href="../book_2/book_2803.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El interés por la divulgación de los principios científicos lleva a Isaac Asimov a analizar en «Grandes ideas de la ciencia» las hipótesis y descubrimientos que destacados personajes llevaron a cabo a lo largo de la historia, y que hicieron posible l...</summary>
+    <link href="../book_3/book_3010.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>No la dejes entrar [January 16, 2025]</title>
-    <id>calibre:book:2802</id>
-    <updated>2025-01-16T08:08:28Z</updated>
-    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/No%20la%20dejes%20entrar%20-%20Nicola%20Sanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="328 KB" />
+    <title>Isaac Asimov Magazine 8 [February 12, 2025]</title>
+    <id>calibre:book:3006</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/Isaac%20Asimov%20Magazine%208%20%283006%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Isaac%20Asimov%20Magazine%208%20%283006%29/Isaac%20Asimov%20Magazine%208%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="996 KB" />
     <author>
-      <name>Nicola Sanders</name>
-      <uri>../authors_1/authors_1833_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-07T00:00:00Z</published>
+    <author>
+      <name>Martin Gardner</name>
+      <uri>../authors_1/authors_1908_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Stephanie A. Smith</name>
+      <uri>../authors_1/authors_1909_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Richard Bowker</name>
+      <uri>../authors_1/authors_1910_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Robert F. Young</name>
+      <uri>../authors_1/authors_1911_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ian Watson</name>
+      <uri>../authors_1/authors_1912_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../authors_1/authors_1913_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>James E. Gunn</name>
+      <uri>../authors_1/authors_1914_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Mary Kittredge</name>
+      <uri>../authors_1/authors_1915_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sharon N. Farber</name>
+      <uri>../authors_1/authors_1916_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dorothy Smith</name>
+      <uri>../authors_1/authors_1917_Page_1.xml</uri>
+    </author>
+    <published>1977-02-14T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Joanne sabe la suerte que tiene. Richard es un marido maravilloso, Evie es la niña más bonita del mundo y viven en una casa preciosa... La vida no podría irle mejor.Hasta que aparece la hija veinteañera de Richard, Chloe.Chloe no le dirige la palabra...</summary>
-    <link href="../book_2/book_2802.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Isaac Asimov Magazine" />
+    <summary>Isaac Asimov Magazine [8]: Desde su aparición en 1977, el cite xml:lang=enIsaac Asimov’s Science Fiction Magazine/cite, avalado por el más prestigioso autor del género, ha venido publicando la mejor y más reciente producción de relatos de los nuevos ...</summary>
+    <link href="../book_3/book_3006.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Obsesivo [January 16, 2025]</title>
-    <id>calibre:book:2805</id>
-    <updated>2025-01-16T08:08:28Z</updated>
-    <link href="../../Raul%20Garbantes/Obsesivo%20%282805%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Obsesivo%20%282805%29/Obsesivo%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="547 KB" />
+    <title>Sueños de robot [February 12, 2025]</title>
+    <id>calibre:book:3007</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/Suenos%20de%20robot%20%283007%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Suenos%20de%20robot%20%283007%29/Suenos%20de%20robot%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Raúl Garbantes</name>
-      <uri>../authors_0/authors_58_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-11-14T11:00:00Z</published>
+    <published>1986-04-22T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Autopublicación</dcterms:publisher>
-    <category term="suspense" />
-    <category term="Thriller" />
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <category term="Agentes del FBI Julia Stein y Hans Freeman" />
-    <summary>Agentes del FBI Julia Stein y Hans Freeman [8]: Hans Freeman se enfrenta al caso más aterrador y personal de su carrera. En el corazón sombrío de Wichita, un asesino juega con su mente, conduciéndolo por un laberinto de oscuros recuerdos de su pasado...</summary>
-    <link href="../book_2/book_2805.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El extraordinario divulgador científico y maestro de la narrativa que es Asimov nos ofrece en este magnífico libro de relatos una aproximación profunda al fenómeno de los robots, en el cual este autor es autoridad indiscutible. ¿Qué papel desempeñará...</summary>
+    <link href="../book_3/book_3007.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La vulnerabilidad del azar [January 16, 2025]</title>
-    <id>calibre:book:2804</id>
-    <updated>2025-01-16T08:08:28Z</updated>
-    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/La%20vulnerabilidad%20del%20azar%20-%20Fernando%20Benavides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>En lo profundo [February 12, 2025]</title>
+    <id>calibre:book:3005</id>
+    <updated>2025-02-12T01:51:51Z</updated>
+    <link href="../../Isaac%20Asimov/En%20lo%20profundo%20%283005%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/En%20lo%20profundo%20%283005%29/En%20lo%20profundo%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="569 KB" />
     <author>
-      <name>Fernando Benavides</name>
-      <uri>../authors_1/authors_1835_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-08-27T11:00:00Z</published>
+    <published>1962-02-14T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Destino México</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Novela" />
+    <category term="Relato" />
     <category term="Lang:es" />
-    <summary>Por el creador de Fausto, el podcast true crime más escuchado en América Latina.Estado de México: el hallazgo del cadáver calcinado de una mujer con las manos atadas y una pierna fracturada marca el inicio de una macabra serie de crímenes. Los agente...</summary>
-    <link href="../book_2/book_2804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Nebulae - Primera Epoca" />
+    <summary>Nebulae - Primera Epoca [83]: El nombre de Isaac Asimov siempre es garantía de calidad, dignidad literaria y exactitud científica. Estas cualidades se encuentran reunidas en grado superlativo en esta obra, que presenta una serie de situaciones obsesi...</summary>
+    <link href="../book_3/book_3005.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La calle del delito [January 16, 2025]</title>
-    <id>calibre:book:2799</id>
-    <updated>2025-01-16T08:08:27Z</updated>
-    <link href="../../Kate%20London/La%20calle%20del%20delito%20%282799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kate%20London/La%20calle%20del%20delito%20%282799%29/La%20calle%20del%20delito%20-%20Kate%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Los gases nobles [February 12, 2025]</title>
+    <id>calibre:book:3003</id>
+    <updated>2025-02-12T01:51:50Z</updated>
+    <link href="../../Isaac%20Asimov/Los%20gases%20nobles%20%283003%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Los%20gases%20nobles%20%283003%29/Los%20gases%20nobles%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
     <author>
-      <name>Kate London</name>
-      <uri>../authors_0/authors_952_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1965-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias naturales" />
+    <category term="Lang:es" />
+    <summary>Estimulante viaje a través del mundo de la química moderna y atinado recordatorio de que en ninguna rama de la Ciencia puede ser considerado como «absoluto» el conocimiento ni darse por «terminada» la investigación.</summary>
+    <link href="../book_3/book_3003.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nueve futuros [February 12, 2025]</title>
+    <id>calibre:book:3004</id>
+    <updated>2025-02-12T01:51:50Z</updated>
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Nueve%20futuros%20%283004%29/Nueve%20futuros%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="318 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1958-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Super Ficción" />
+    <summary>Super Ficción [96]: Una de las mejores recopilaciones de relatos de Isaac Asimov, con historias escritas originalmente durante los años cincuenta, década prodigiosa para el autor y durante la cual se ganó a pulso la fama que le ha acompañado desde en...</summary>
+    <link href="../book_3/book_3004.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los leones de Rota [February 12, 2025]</title>
+    <id>calibre:book:3002</id>
+    <updated>2025-02-12T09:08:40Z</updated>
+    <link href="../../Antonio%20Fuentes/Los%20leones%20de%20Rota%20%283002%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Fuentes/Los%20leones%20de%20Rota%20%283002%29/Los%20leones%20de%20Rota%20-%20Antonio%20Fuentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Antonio Fuentes</name>
+      <uri>../authors_1/authors_1906_Page_1.xml</uri>
+    </author>
+    <published>2024-11-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una impactante novela que narra la increíble historia real de una centuria falangista que asoló las sierras de Andalucía durante la Guerra Civil.Andalucía, 1936. Antonio «el Gaseosa» es un hombre de ideales republicanos, casado y con un hijo, que tra...</summary>
+    <link href="../book_3/book_3002.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Rey muerto, Rey puesto [February 12, 2025]</title>
+    <id>calibre:book:3001</id>
+    <updated>2025-02-12T09:08:40Z</updated>
+    <link href="../../Riccardo%20Braccaioli/A%20Rey%20muerto%2C%20Rey%20puesto%20%283001%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/A%20Rey%20muerto%2C%20Rey%20puesto%20%283001%29/A%20Rey%20muerto%2C%20Rey%20puesto%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
+    </author>
+    <published>2025-01-30T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>BRALTON BOOKS</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Álex Cortés" />
+    <summary>Inspector Álex Cortés [10]: Querido Lector, normalmente, en la sinopsis o te describo la trama, o te doy pinceladas de lo que te espera con la próxima investigación.Sin embargo, esta vez, no puedo darte ninguna pista.Como habrás podido averiguar, la ...</summary>
+    <link href="../book_3/book_3001.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Después [February 12, 2025]</title>
+    <id>calibre:book:2999</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Despues%20%282999%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Despues%20%282999%29/Despues%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2021-06-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En ocasiones, para crecer debes vencer a tus demonios.
+
+Jamie Conklin, el único hijo de una madre soltera, solo quiere tener una infancia normal. Sin embargo, nació con una habilidad sobrenatural que su madre le insta a mantener en secreto y que le p...</summary>
+    <link href="../book_2/book_2999.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elevación [February 12, 2025]</title>
+    <id>calibre:book:2998</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Elevacion%20%282998%29/Elevacion%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="888 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2019-11-07T07:32:23Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más su leyenda.»USA Today El cuerpo de Scott Carey sufre un extraño fenómeno: pierde peso sin parar pero no se vuelve más delgado, su báscul...</summary>
+    <link href="../book_2/book_2998.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fin de guardia [February 12, 2025]</title>
+    <id>calibre:book:2997</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Fin%20de%20guardia%20%282997%29/Fin%20de%20guardia%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="667 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
-    <dcterms:publisher>Motus</dcterms:publisher>
-    <summary>Un joven adolescente es brutalmente asesinado en una oscura calle de Londres y el único testigo del crimen huye de la escena. La inspectora Sarah Collins es la encargada de llevar a cabo la investigación. Pero su investigación amenaza el trabajo poli...</summary>
-    <link href="../book_2/book_2799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fin de guardia es el espectacular final de la «Trilogía Bill Hodges» que comenzó con Mr. Mercedes y continuó con Quien pierde paga.Hay asesinos que usan cuchillos,otrospistolas o incluso coches,pero todos ellos tienen un objetivo en mente:volverte lo...</summary>
+    <link href="../book_2/book_2997.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 3)" />
-  <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 3)" />
+  <entry>
+    <title>Bellas durmientes [February 12, 2025]</title>
+    <id>calibre:book:2995</id>
+    <updated>2025-02-12T09:04:14Z</updated>
+    <link href="../../Stephen%20King/Bellas%20durmientes%20%282995%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Bellas%20durmientes%20%282995%29/Bellas%20durmientes%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Owen King</name>
+      <uri>../authors_1/authors_1064_Page_1.xml</uri>
+    </author>
+    <published>2018-01-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>No las despiertes.En esta espectacular colaboración entre padre e hijo, Stephen King y Owen King nos ofrecen la historia más arriesgada de cuantas han contado hasta ahora: ¿qué pasaría si las mujeres abandonaran este mundo?En un futuro tan real y cer...</summary>
+    <link href="../book_2/book_2995.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mr. Mercedes [February 12, 2025]</title>
+    <id>calibre:book:2996</id>
+    <updated>2025-02-12T09:04:15Z</updated>
+    <link href="../../Stephen%20King/Mr.%20Mercedes%20%282996%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Mr.%20Mercedes%20%282996%29/Mr.%20Mercedes%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2014-11-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras publicarse un anuncio con ofertas de «trabajo garantizado», desde la madrugada miles de desempleados aguardan pacientemente haciendo fila frente a un edificio en espera de una entrevista. Justo antes de las cinco, un misterioso Mercedes color gr...</summary>
+    <link href="../book_2/book_2996.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Por los aires [February 12, 2025]</title>
+    <id>calibre:book:2994</id>
+    <updated>2025-02-12T09:04:14Z</updated>
+    <link href="../../Stephen%20King/Por%20los%20aires%20%282994%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Por%20los%20aires%20%282994%29/Por%20los%20aires%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Bev Vincent</name>
+      <uri>../authors_1/authors_1905_Page_1.xml</uri>
+    </author>
+    <published>2019-09-26T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Stephen King odia volar. Para saber por qué, solo tienes que abrir este libro. ¿Qué tienen en común Sir Arthur Conan Doyle, Roald Dahl, Ambrose Bierce, Ray Bradbury y Stephen King? Pues que a ninguno de ellos le hace mucha gracia eso de tomar un avió...</summary>
+    <link href="../book_2/book_2994.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El visitante [February 12, 2025]</title>
+    <id>calibre:book:2993</id>
+    <updated>2025-02-12T09:04:14Z</updated>
+    <link href="../../Stephen%20King/El%20visitante%20%282993%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/El%20visitante%20%282993%29/El%20visitante%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="871 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2018-10-03T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El mal puede tener muchas caras...incluso podría tener la tuya.Tras el espectacular éxito de la Trilogía Bill Hodges (Mr. Mercedes, Quien pierde paga y Fin de guardia) King nos sorprende con un thriller tan escalofriante como original.Un niño de once...</summary>
+    <link href="../book_2/book_2993.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cell [February 12, 2025]</title>
+    <id>calibre:book:2992</id>
+    <updated>2025-02-12T08:49:59Z</updated>
+    <link href="../../Stephen%20King/Cell%20%282992%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Cell%20%282992%29/Cell%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2006-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Día 1 de octubre: Dios está en los cielos, la bolsa está a 10&amp;#8239;140, la mayoría de los vuelos llegan a tiempo y Clayton Riddell, un artista de Maine, casi salta de alegría por Boylston Street, en Boston. Acaba de firmar un contrato para ilustrar ...</summary>
+    <link href="../book_2/book_2992.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La gran desaparición [February 12, 2025]</title>
+    <id>calibre:book:2990</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Leon%20Krauze/La%20gran%20desaparicion%20%282990%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leon%20Krauze/La%20gran%20desaparicion%20%282990%29/La%20gran%20desaparicion%20-%20Leon%20Krauze.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>León Krauze</name>
+      <uri>../authors_1/authors_1904_Page_1.xml</uri>
+    </author>
+    <published>2024-09-18T06:54:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un guardia, una pintura y un misterio que cambiará la historia del arte para siempre.Un extraño suceso paraliza al museo más famoso del mundo cuando los personajes de todos los cuadros comienzan a desvanecerse.La resolución de este misterio recaerá e...</summary>
+    <link href="../book_2/book_2990.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Laurie [February 12, 2025]</title>
+    <id>calibre:book:2991</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Stephen%20King/Laurie%20%282991%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Laurie%20%282991%29/Laurie%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="388 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2018-09-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="suspense" />
+    <category term="Lang:es" />
+    <summary>Stephen King nos regala un precioso relato sobre la vida, la pérdida y la esperanza.Lloyd, un hombre que acaba de perder a su mujer, recibe un «regalo» inesperado por parte de su hermana. Laurie, una adorable cachorrilla mezcla de Border Collie y Mud...</summary>
+    <link href="../book_2/book_2991.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sangre paga sangre [February 12, 2025]</title>
+    <id>calibre:book:2989</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Nacho%20Guirado/Sangre%20paga%20sangre%20%282989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nacho%20Guirado/Sangre%20paga%20sangre%20%282989%29/Sangre%20paga%20sangre%20-%20Nacho%20Guirado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="320 KB" />
+    <author>
+      <name>Nacho Guirado</name>
+      <uri>../authors_1/authors_1903_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alrevés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mercedes Espinera lleva días recibiendo llamadas amenazadoras. Es consciente de que la espían y, también, de que hace un día han entrado en su vivienda. Sabe qué pretenden, y que pronto volverán a por ella. Pero Mercedes, una superviviente, una mujer...</summary>
+    <link href="../book_2/book_2989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rabia [February 12, 2025]</title>
+    <id>calibre:book:2988</id>
+    <updated>2025-02-12T08:49:58Z</updated>
+    <link href="../../Stephen%20King/Rabia%20%282988%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Rabia%20%282988%29/Rabia%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="231 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>1977-09-05T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Charles Decker es un adolescente de 18 años que sufre de esquizofrenia, al que quieren internar en un correccional por agredir a un profesor con una llave inglesa, provocándole un grave traumatismo craneal. Pistola en mano, y para que no lo encierren...</summary>
+    <link href="../book_2/book_2988.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuarteto [February 11, 2025]</title>
+    <id>calibre:book:2985</id>
+    <updated>2025-02-11T11:48:18Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Cuarteto%20%282985%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Cuarteto%20%282985%29/Cuarteto%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="145 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1987-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Manuel Vázquez Montalbán utiliza en Cuarteto un recurso muy característico de su obra narrativa, una investigación de corte policíaco como hilo conductor para profundizar en unas vidas y en unos comportamientos, mediante una gran precisión narrativa ...</summary>
+    <link href="../book_2/book_2985.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hermano pequeño [February 11, 2025]</title>
+    <id>calibre:book:2984</id>
+    <updated>2025-02-11T11:48:18Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/El%20hermano%20pequeno%20%282984%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/El%20hermano%20pequeno%20%282984%29/El%20hermano%20pequeno%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="224 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1993-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Pepe Carvalho" />
+    <summary>Pepe Carvalho [18]: La principal víctima de la corrupción es el propio corrupto, sobre todo si ha traicionado los ideales de honestidad de toda una vida. Es el caso de El hermano pequeño, una historia habitual en la España y la Europa de las corrupci...</summary>
+    <link href="../book_2/book_2984.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Historias de padres e hijos [February 11, 2025]</title>
+    <id>calibre:book:2981</id>
+    <updated>2025-02-11T11:48:18Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Historias%20de%20padres%20e%20hijos%20%282981%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Historias%20de%20padres%20e%20hijos%20%282981%29/Historias%20de%20padres%20e%20hijos%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="189 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1986-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Pepe Carvalho" />
+    <summary>Pepe Carvalho [10]: Las historias aquí novelizadas descansan fundamentalmente en las anormales o subnormales características que a veces tienen las relaciones entre padres e hijos. En Hice de él un hombre, el padre patrón y patriarca trata de conduci...</summary>
+    <link href="../book_2/book_2981.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Historias de política ficción [February 11, 2025]</title>
+    <id>calibre:book:2986</id>
+    <updated>2025-02-11T11:48:18Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Historias%20de%20politica%20ficcion%20%282986%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Historias%20de%20politica%20ficcion%20%282986%29/Historias%20de%20politica%20ficcion%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="194 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1986-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Pepe Carvalho" />
+    <summary>Pepe Carvalho [12]: Las tres historias de política ficción del presente volumen asumen desde el tiempo contemporáneo, con el tema presente y obsesivo del «golpe de estado» a la española, hasta la memoria política como desencadenante de temas actuales...</summary>
+    <link href="../book_2/book_2986.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las recetas de Carvalho [February 11, 2025]</title>
+    <id>calibre:book:2983</id>
+    <updated>2025-02-11T11:48:18Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Las%20recetas%20de%20Carvalho%20%282983%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Las%20recetas%20de%20Carvalho%20%282983%29/Las%20recetas%20de%20Carvalho%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="359 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1988-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Hogar" />
+    <category term="Lang:es" />
+    <category term="Pepe Carvalho" />
+    <summary>Pepe Carvalho [15]: La cocina es una gozosa forma de evasión para espíritus inquietos como el de Pepe Carvalho. Sus novelas ofrecen diversas muestras de la cocina tradicional española. En este libro se recogen las mejores recetas a través de diversas...</summary>
+    <link href="../book_2/book_2983.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
+  <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../recent/recent_MONTH_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
 </feed>

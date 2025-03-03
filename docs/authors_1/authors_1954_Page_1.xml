@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yasunari Kawabata</title>
+  <id>Calibre2opds:authors:1954</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1954_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yasunari Kawabata" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <entry>
+    <title>La pandilla de Asakusa</title>
+    <id>calibre:book:3102</id>
+    <updated>2025-02-27T06:24:55Z</updated>
+    <link href="../../Yasunari%20Kawabata/La%20pandilla%20de%20Asakusa%20%283102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yasunari%20Kawabata/La%20pandilla%20de%20Asakusa%20%283102%29/La%20pandilla%20de%20Asakusa%20-%20Yasunari%20Kawabata.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="337 KB" />
+    <author>
+      <name>Yasunari Kawabata</name>
+      <uri>../authors_1/authors_1954_Page_1.xml</uri>
+    </author>
+    <published>2025-01-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral Argentina</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El vibrante corazón de un Japón en transformación, capturado por Kawabata. En 1920, el barrio de Asakusa era un lugar que permitía el anonimato, la libertad, la deriva; un lugar en el que la vida fluía por todas partes, lleno de placeres sexuales y s...</summary>
+    <link href="../book_3/book_3102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

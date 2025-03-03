@@ -13,7 +13,15 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="./authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
-  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 4)" />
+  <link href="../authorlist/authorlist_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
+  <entry>
+    <title>Paul Pen</title>
+    <id>Calibre2opds:authors:944</id>
+    <content type="text">El brillo de las luciérnagas</content>
+    <link href="../authors_0/authors_944_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
   <entry>
     <title>Sarah Penner</title>
     <id>Calibre2opds:authors:1308</id>
@@ -27,6 +35,14 @@
     <id>Calibre2opds:authors:330</id>
     <content type="text">3 books</content>
     <link href="../authors_0/authors_330_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Pascual Perea</title>
+    <id>Calibre2opds:authors:1952</id>
+    <content type="text">El astronauta</content>
+    <link href="../authors_1/authors_1952_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -198,22 +214,6 @@
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
-  <entry>
-    <title>Iñaki Piñuel</title>
-    <id>Calibre2opds:authors:947</id>
-    <content type="text">Libertad Zero</content>
-    <link href="../authors_0/authors_947_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Inés Plana</title>
-    <id>Calibre2opds:authors:825</id>
-    <content type="text">Lo que no cuentan los muertos</content>
-    <link href="../authors_0/authors_825_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 4)" />
-  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
+  <link href="../authorlist/authorlist_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

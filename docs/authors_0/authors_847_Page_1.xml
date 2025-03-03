@@ -15,6 +15,22 @@
   <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
   <entry>
+    <title>All books by Santiago Vera</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Alphabetical index of the 2 books</content>
+    <link href="../authors_0/authors_847_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Trilogía Americana</title>
+    <id>Calibre2opds:authors:847series:265</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_847_series_265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>La última muerte en Goodrow Hill</title>
     <id>calibre:book:1163</id>
     <updated>2024-01-25T08:39:51Z</updated>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jonathan Santlofer</title>
+  <id>Calibre2opds:authors:1948</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1948_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jonathan Santlofer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>La última Mona Lisa</title>
+    <id>calibre:book:3090</id>
+    <updated>2025-02-23T10:50:04Z</updated>
+    <link href="../../Jonathan%20Santlofer/La%20ultima%20Mona%20Lisa%20%283090%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Santlofer/La%20ultima%20Mona%20Lisa%20%283090%29/La%20ultima%20Mona%20Lisa%20-%20Jonathan%20Santlofer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
+    <author>
+      <name>Jonathan Santlofer</name>
+      <uri>../authors_1/authors_1948_Page_1.xml</uri>
+    </author>
+    <published>2025-02-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Pasado y presente se unen en un vertiginoso thriller histórico sobre el robo de la Mona Lisa en 1911. Una historia irresistible de intriga, secretos familiares y obsesión.París, 21 de agosto de 1911. Un hombre irrumpe de noche en el museo del Louvre ...</summary>
+    <link href="../book_3/book_3090.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

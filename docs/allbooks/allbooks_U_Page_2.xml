@@ -14,6 +14,76 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with U" />
   <entry>
+    <title>La última Mona Lisa</title>
+    <id>calibre:book:3090</id>
+    <updated>2025-02-23T10:50:04Z</updated>
+    <link href="../../Jonathan%20Santlofer/La%20ultima%20Mona%20Lisa%20%283090%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Santlofer/La%20ultima%20Mona%20Lisa%20%283090%29/La%20ultima%20Mona%20Lisa%20-%20Jonathan%20Santlofer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
+    <author>
+      <name>Jonathan Santlofer</name>
+      <uri>../authors_1/authors_1948_Page_1.xml</uri>
+    </author>
+    <published>2025-02-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Pasado y presente se unen en un vertiginoso thriller histórico sobre el robo de la Mona Lisa en 1911. Una historia irresistible de intriga, secretos familiares y obsesión.París, 21 de agosto de 1911. Un hombre irrumpe de noche en el museo del Louvre ...</summary>
+    <link href="../book_3/book_3090.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última bestia</title>
+    <id>calibre:book:3106</id>
+    <updated>2025-02-27T06:24:55Z</updated>
+    <link href="../../Josan%20Mosteiro/La%20ultima%20bestia%20%283106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josan%20Mosteiro/La%20ultima%20bestia%20%283106%29/La%20ultima%20bestia%20-%20Josan%20Mosteiro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
+    <author>
+      <name>Josan Mosteiro</name>
+      <uri>../authors_1/authors_1957_Page_1.xml</uri>
+    </author>
+    <published>2025-02-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una impactante novela ambientada en Galicia con la que Josan Mosteiro se confirma como una de las voces más prometedoras del thriller español. La periodista Asunta Loureiro protagoniza todos los noticiarios del país cuando, durante una rueda de prens...</summary>
+    <link href="../book_3/book_3106.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última deuda</title>
+    <id>calibre:book:1217</id>
+    <updated>2024-02-20T02:14:51Z</updated>
+    <link href="../../Antonio%20Santatere/La%20ultima%20deuda%20%281217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Santatere/La%20ultima%20deuda%20%281217%29/La%20ultima%20deuda%20-%20Antonio%20Santatere.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="753 KB" />
+    <author>
+      <name>Antonio Santatere</name>
+      <uri>../authors_0/authors_883_Page_1.xml</uri>
+    </author>
+    <published>2024-01-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>unoeditorial.com</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Todos acarreamos deudas, algunas escritas en papel y otras grabadas a fuego en el alma. Javier Garrido (Nono) -un implacable cobrador de deudas resentido con el fracaso empresarial de su padre-, es testigo de ello mientras lucha con las sombras de su...</summary>
+    <link href="../book_1/book_1217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última librería de Londres</title>
+    <id>calibre:book:505</id>
+    <updated>2023-04-01T02:02:02Z</updated>
+    <link href="../../Madeline%20Martin/La%20ultima%20libreria%20de%20Londres%20%28505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Madeline%20Martin/La%20ultima%20libreria%20de%20Londres%20%28505%29/La%20ultima%20libreria%20de%20Londres%20-%20Madeline%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
+    <author>
+      <name>Madeline Martin</name>
+      <uri>../authors_0/authors_373_Page_1.xml</uri>
+    </author>
+    <published>2022-03-02T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Londres, 1939. Una ciudad devastada por la guerra se une a través de los libros. Inspirada en la verdadera historia de la Segunda Guerra Mundial de las pocas librerías que sobrevivieron al Blitz, una novela atemporal de pérdida, amor y el poder imper...</summary>
+    <link href="../book_0/book_505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La última migración</title>
     <id>calibre:book:865</id>
     <updated>2023-06-19T05:31:20Z</updated>

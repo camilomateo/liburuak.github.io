@@ -17,7 +17,7 @@
   <entry>
     <title>All books by Irène Némirovsky</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 2 books</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_1/authors_1037_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -29,6 +29,23 @@
     <link href="../authors_1/authors_1037_series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>La enemiga</title>
+    <id>calibre:book:3091</id>
+    <updated>2025-02-23T10:50:04Z</updated>
+    <link href="../../Irene%20Nemirovsky/La%20enemiga%20%283091%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Irene%20Nemirovsky/La%20enemiga%20%283091%29/La%20enemiga%20-%20Irene%20Nemirovsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="320 KB" />
+    <author>
+      <name>Irène Némirovsky</name>
+      <uri>../authors_1/authors_1037_Page_1.xml</uri>
+    </author>
+    <published>2025-02-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En julio de 1928, la revista literaria francesa Les Oeuvres Libres publicó una novela breve de «Pierre Nérey»; se trataba de La enemiga, de una joven y aún desconocida Irène Némirovsky. El pseudónimo era un anagrama de su nombre (Nérey-Yrène), y la o...</summary>
+    <link href="../book_3/book_3091.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>El peón en el tablero</title>

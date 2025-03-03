@@ -19,6 +19,7 @@
   <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="./authors_836_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anders de La Motte" />
   <entry>
     <title>El asesino de la montaña</title>
@@ -37,5 +38,22 @@
     <category term="Unidad de Casos Perdidos" />
     <summary>Unidad de Casos Perdidos [1]: Llega el autor de novela negra que arrasa en Europa, en la estela de Jo Nesbø y Camilla Läckberg.Son los peores policías, los perdedores, los expulsados, los marginados. Son la Unidad de Casos Perdidos.Y sólo ellos puede...</summary>
     <link href="../book_1/book_1147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hombre de cristal</title>
+    <id>calibre:book:3069</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Anders%20de%20La%20Motte/El%20hombre%20de%20cristal%20%283069%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anders%20de%20La%20Motte/El%20hombre%20de%20cristal%20%283069%29/El%20hombre%20de%20cristal%20-%20Anders%20de%20La%20Motte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="640 KB" />
+    <author>
+      <name>Anders de La Motte</name>
+      <uri>../authors_0/authors_836_Page_1.xml</uri>
+    </author>
+    <published>2025-02-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve Anders de la Motte, el autor de novela negra que arrasa en Europa con la serie de la Unidad de Casos Perdidos.La inspectora Leonore Asker, al mando de la peculiar Unidad de Casos Perdidos, recibe una llamada del todo inesperada: su padre, con ...</summary>
+    <link href="../book_3/book_3069.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

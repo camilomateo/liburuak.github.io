@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books by Santiago Vera</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_847_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Santiago Vera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="./authors_847_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Santiago Vera" />
+  <entry>
+    <title>Quién recuerda a Theresa Baker</title>
+    <id>calibre:book:3086</id>
+    <updated>2025-02-23T10:50:03Z</updated>
+    <link href="../../Santiago%20Vera/Quien%20recuerda%20a%20Theresa%20Baker%20%283086%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Santiago%20Vera/Quien%20recuerda%20a%20Theresa%20Baker%20%283086%29/Quien%20recuerda%20a%20Theresa%20Baker%20-%20Santiago%20Vera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="769 KB" />
+    <author>
+      <name>Santiago Vera</name>
+      <uri>../authors_0/authors_847_Page_1.xml</uri>
+    </author>
+    <published>2025-02-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía Americana" />
+    <summary>Trilogía Americana [3]: Ni siquiera la muerte puede esconder algunos secretos...Tras el éxito de La vida secreta de Sarah Brooks y La última muerte en Goodrow Hill, Santiago Vera, la voz más envolvente del thriller actual, cierra su «Trilogía America...</summary>
+    <link href="../book_3/book_3086.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última muerte en Goodrow Hill</title>
+    <id>calibre:book:1163</id>
+    <updated>2024-01-25T08:39:51Z</updated>
+    <link href="../../Santiago%20Vera/La%20ultima%20muerte%20en%20Goodrow%20Hill%20%281163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Santiago%20Vera/La%20ultima%20muerte%20en%20Goodrow%20Hill%20%281163%29/La%20ultima%20muerte%20en%20Goodrow%20Hil%20-%20Santiago%20Vera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="689 KB" />
+    <author>
+      <name>Santiago Vera</name>
+      <uri>../authors_0/authors_847_Page_1.xml</uri>
+    </author>
+    <published>2023-02-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nunca fueron inocentes. Ahora el pasado vuelve para rendir cuentas. El autor de La vida secreta de Sarah Brooks regresa conun thriller aún más adictivo que cautivará a los lectores de Joël Dicker, Mikel Santiago y Javier Castillo. Goodrow Hill podría...</summary>
+    <link href="../book_1/book_1163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

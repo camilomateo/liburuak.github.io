@@ -15,6 +15,23 @@
   <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with D" />
   <link href="../allbooks/allbooks_D_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 6)" />
   <entry>
+    <title>Diario de una mudanza</title>
+    <id>calibre:book:1701</id>
+    <updated>2024-08-06T10:52:10Z</updated>
+    <link href="../../Ines%20Garland/Diario%20de%20una%20mudanza%20%281701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ines%20Garland/Diario%20de%20una%20mudanza%20%281701%29/Diario%20de%20una%20mudanza%20-%20Ines%20Garland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="380 KB" />
+    <author>
+      <name>Inés Garland</name>
+      <uri>../authors_1/authors_1217_Page_1.xml</uri>
+    </author>
+    <published>2024-07-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una mujer atraviesa la menopausia y sobrevive para contarlo. «Empapada. Los muslos, los brazos, el pecho, el cuello, la cara, el nacimiento del pelo, la nuca. Terminaba pateando las sábanas, las frazadas, las medias. Después, aparecía el insomnio, la...</summary>
+    <link href="../book_1/book_1701.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Diario de viaje</title>
     <id>calibre:book:594</id>
     <updated>2023-05-02T01:40:20Z</updated>
@@ -452,24 +469,6 @@
     <category term="Lang:es" />
     <summary>Todos creemos saber cómo reaccionaríamos si nos enteráramos de algo terrible. Hasta que nos ocurre.  Esta novela ofrece una nueva entrega de las peripecias de Socorro, la periodista de sucesos protagonista de La mala víctima, la primera incursión en...</summary>
     <link href="../book_1/book_1581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Donde fuimos invencibles</title>
-    <id>calibre:book:777</id>
-    <updated>2023-05-25T01:32:58Z</updated>
-    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20Oruna/Donde%20fuimos%20invencibles%20%28777%29/Donde%20fuimos%20invencibles%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
-    <author>
-      <name>María Oruña</name>
-      <uri>../authors_0/authors_12_Page_1.xml</uri>
-    </author>
-    <published>2018-04-09T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Destino</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Los libros de puerto escondido" />
-    <summary>Los libros de puerto escondido [1]: El verano está terminando y la teniente Valentina Redondo está contando los días para empezar sus vacaciones. Pero algo insólito sucede en el centro mismo del pueblo costero de Suances: el jardinero del antiguo Pal...</summary>
-    <link href="../book_0/book_777.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_D_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 6)" />
   <link href="../allbooks/allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />

@@ -15,6 +15,43 @@
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
   <link href="../allbooks/allbooks_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 10)" />
   <entry>
+    <title>La aldea perdida</title>
+    <id>calibre:book:2201</id>
+    <updated>2024-09-06T02:21:33Z</updated>
+    <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Armando%20Palacio%20Valdes/La%20aldea%20perdida%20%282201%29/La%20aldea%20perdida%20-%20Armando%20Palacio%20Valdes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="313 KB" />
+    <author>
+      <name>Armando Palacio Valdés</name>
+      <uri>../authors_1/authors_1556_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [9]:</summary>
+    <link href="../book_2/book_2201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los alegres muchachos de Atzavara</title>
+    <id>calibre:book:2969</id>
+    <updated>2025-02-11T11:48:16Z</updated>
+    <link href="../../Manuel%20Vazquez%20Montalban/Los%20alegres%20muchachos%20de%20Atzavara%20%282969%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vazquez%20Montalban/Los%20alegres%20muchachos%20de%20Atzavara%20%282969%29/Los%20alegres%20muchachos%20de%20Atzava%20-%20Manuel%20Vazquez%20Montalban.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="347 KB" />
+    <author>
+      <name>Manuel Vázquez Montalbán</name>
+      <uri>../authors_1/authors_1006_Page_1.xml</uri>
+    </author>
+    <published>1986-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>Atzavara es un pueblecito de montaña cerca de la costa de Tarragona. Paulatinamente abandonado por sus habitantes originales, ha sido tomando por gentes de la ciudad que, transformando las casas semiderruidas en mansiones espléndidas, pretenden conve...</summary>
+    <link href="../book_2/book_2969.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La alegría de vivir</title>
     <id>calibre:book:1932</id>
     <updated>2024-09-05T06:03:57Z</updated>
@@ -429,42 +466,6 @@
     <category term="Lang:es" />
     <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
     <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El archivo de Sherlock Holmes</title>
-    <id>calibre:book:2338</id>
-    <updated>2024-09-09T10:34:10Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/El%20archivo%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-02-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [107]:</summary>
-    <link href="../book_2/book_2338.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las aristas de la muerte</title>
-    <id>calibre:book:1786</id>
-    <updated>2024-08-26T10:56:15Z</updated>
-    <link href="../../Aitor%20Castrillo/Las%20aristas%20de%20la%20muerte%20%281786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Aitor%20Castrillo/Las%20aristas%20de%20la%20muerte%20%281786%29/Las%20aristas%20de%20la%20muerte%20-%20Aitor%20Castrillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="403 KB" />
-    <author>
-      <name>Aitor Castrillo</name>
-      <uri>../authors_1/authors_1284_Page_1.xml</uri>
-    </author>
-    <published>2020-04-10T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Beta III Milenio</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Coincidían cada jueves en la misma cafetería. Eran jóvenes y se gustaban, pero su destino estaba ligado al de otras siete personas: un futbolista, un camarero, una abogada, un ladrón, un pistolero, un piloto de avión y un despiadado asesino. Una his...</summary>
-    <link href="../book_1/book_1786.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

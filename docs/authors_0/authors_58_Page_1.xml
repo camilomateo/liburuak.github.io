@@ -16,7 +16,7 @@
   <entry>
     <title>All books by Raúl Garbantes</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 16 books</content>
+    <content type="text">Alphabetical index of the 17 books</content>
     <link href="../authors_0/authors_58_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -76,5 +76,21 @@
     <link href="../authors_0/authors_58_series_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Misión sin retorno</title>
+    <id>calibre:book:3084</id>
+    <updated>2025-02-23T10:50:03Z</updated>
+    <link href="../../Raul%20Garbantes/Mision%20sin%20retorno%20%283084%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Mision%20sin%20retorno%20%283084%29/Mision%20sin%20retorno%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="791 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2025-02-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Un senador desaparecido. Una ciudad corrupta. Una misión suicida.Ainara Pons y su equipo enfrentan su misión más letal hasta la fecha: encontrar al senador Joseph Mancera, quien ha desaparecido en circunstancias misteriosas en una pequeña ciudad de A...</summary>
+    <link href="../book_3/book_3084.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

@@ -13,6 +13,14 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
   <entry>
+    <title>Los Casos De Juan Urbano</title>
+    <id>Calibre2opds::serieslist:Lseries:198</id>
+    <content type="text">El anillo del general</content>
+    <link href="../series_0/series_198_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Los Humanoides</title>
     <id>Calibre2opds::serieslist:Lseries:250</id>
     <content type="text">2 books</content>
@@ -121,6 +129,14 @@
     <id>Calibre2opds::serieslist:Lseries:2</id>
     <content type="text">2 books</content>
     <link href="../series_0/series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Los misterios de la detective Kay Hunter</title>
+    <id>Calibre2opds::serieslist:Lseries:268</id>
+    <content type="text">Voluntad de vivir</content>
+    <link href="../series_0/series_268_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Moruena Estríngana</title>
+  <id>Calibre2opds:authors:1953</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1953_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Moruena Estríngana" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <link href="../authorlist/authorlist_E_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with E" />
+  <entry>
+    <title>El mordisco de Gineva</title>
+    <id>calibre:book:3098</id>
+    <updated>2025-02-25T08:50:25Z</updated>
+    <link href="../../Moruena%20Estringana/El%20mordisco%20de%20Gineva%20%283098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Moruena%20Estringana/El%20mordisco%20de%20Gineva%20%283098%29/El%20mordisco%20de%20Gineva%20-%20Moruena%20Estringana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="460 KB" />
+    <author>
+      <name>Moruena Estríngana</name>
+      <uri>../authors_1/authors_1953_Page_1.xml</uri>
+    </author>
+    <published>2025-02-03T01:56:40Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_3/book_3098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

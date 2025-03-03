@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Johanna Copeland</title>
+  <id>Calibre2opds:authors:1967</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1967_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Johanna Copeland" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>No juegues con ellas</title>
+    <id>calibre:book:3119</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Johanna%20Copeland/No%20juegues%20con%20ellas%20%283119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johanna%20Copeland/No%20juegues%20con%20ellas%20%283119%29/No%20juegues%20con%20ellas%20-%20Johanna%20Copeland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Johanna Copeland</name>
+      <uri>../authors_1/authors_1967_Page_1.xml</uri>
+    </author>
+    <published>2025-02-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Todos tenemos secretos. Si cuentas la misma historia una y otra vez al final se convertirá en la verdad. «Un thriller deslumbrante sobre los extremos a los que se puede llegar para proteger a los seres queridos». Publishers Weekly 2019. Stella Parker...</summary>
+    <link href="../book_3/book_3119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

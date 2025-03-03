@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with G" />
   <entry>
+    <title>La gran serpiente</title>
+    <id>calibre:book:786</id>
+    <updated>2023-05-25T01:33:08Z</updated>
+    <link href="../../Pierre%20Lemaitre/La%20gran%20serpiente%20%28786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/La%20gran%20serpiente%20%28786%29/La%20gran%20serpiente%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2021-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Divertida, inmoral, jugosa: así es la primera novela negra de Pierre Lemaitre. Siempre hay que desconfiar de las señoras de mediana edad bien vestidas, con aspecto de jubiladas y acompañadas de un dálmata espantadizo, como Mathilde Perrin, una viuda ...</summary>
+    <link href="../book_0/book_786.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Las gratitudes</title>
     <id>calibre:book:1889</id>
     <updated>2024-09-03T09:33:52Z</updated>

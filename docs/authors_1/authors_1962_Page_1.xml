@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Annie Jacobsen</title>
+  <id>Calibre2opds:authors:1962</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1962_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Annie Jacobsen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <entry>
+    <title>Guerra nuclear</title>
+    <id>calibre:book:3112</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Annie%20Jacobsen/Guerra%20nuclear%20%283112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Annie%20Jacobsen/Guerra%20nuclear%20%283112%29/Guerra%20nuclear%20-%20Annie%20Jacobsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
+    <author>
+      <name>Annie Jacobsen</name>
+      <uri>../authors_1/authors_1962_Page_1.xml</uri>
+    </author>
+    <published>2025-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Qué ocurriría si un misil nuclear se dirigiera a Estados Unidos?«Un thriller geopolítico desde muchas perspectivas y con un cronómetro que te cortará la respiración».ForbesSolo hay un escenario, aparte del impacto de un asteroide, capaz de acabar co...</summary>
+    <link href="../book_3/book_3112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

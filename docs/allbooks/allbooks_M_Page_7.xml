@@ -15,6 +15,25 @@
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
   <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 10)" />
   <entry>
+    <title>El maestro y Margarita</title>
+    <id>calibre:book:2435</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/El%20maestro%20y%20Margarita%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
+    <author>
+      <name>Mijaíl Bulgákov</name>
+      <uri>../authors_1/authors_1647_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [11]:</summary>
+    <link href="../book_2/book_2435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El maestro</title>
     <id>calibre:book:338</id>
     <updated>2023-02-20T10:02:18Z</updated>
@@ -371,6 +390,23 @@
     <link href="../book_1/book_1058.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Una melodía de muerte y destrucción</title>
+    <id>calibre:book:3085</id>
+    <updated>2025-02-23T10:50:03Z</updated>
+    <link href="../../Ivy%20Pochoda/Una%20melodia%20de%20muerte%20y%20destruccion%20%283085%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ivy%20Pochoda/Una%20melodia%20de%20muerte%20y%20destruccion%20%283085%29/Una%20melodia%20de%20muerte%20y%20destruc%20-%20Ivy%20Pochoda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="460 KB" />
+    <author>
+      <name>Ivy Pochoda</name>
+      <uri>../authors_0/authors_33_Page_1.xml</uri>
+    </author>
+    <published>2025-01-16T06:43:13Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL NUEVO Y SALVAJE THRILLER DE LA ACLAMADA AUTORA DE ESAS MUJERESFlorence «Florida» Baum no es la desventurada inocente que dice ser cuando llega a la prisión de mujeres de Arizona, o al menos eso insinúa su excompañera de celda Diana Diosmary Sandov...</summary>
+    <link href="../book_3/book_3085.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La memoria de las acuarelas</title>
     <id>calibre:book:1400</id>
     <updated>2024-04-08T02:46:19Z</updated>
@@ -424,40 +460,6 @@
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [119]:</summary>
     <link href="../book_2/book_2332.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El mensaje de Pandora</title>
-    <id>calibre:book:1582</id>
-    <updated>2024-06-02T10:59:53Z</updated>
-    <link href="../../Javier%20Sierra/El%20mensaje%20de%20Pandora%20%281582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Sierra/El%20mensaje%20de%20Pandora%20%281582%29/El%20mensaje%20de%20Pandora%20-%20Javier%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
-    <author>
-      <name>Javier Sierra</name>
-      <uri>../authors_0/authors_741_Page_1.xml</uri>
-    </author>
-    <published>2020-06-15T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El día que Arys cumplió dieciocho años recibió esta extraña carta. Le llegó desde Atenas envuelta en papel de estraza con el apremio de que debía leerla de inmediato. Escrita en circunstancias excepcionales, en ella su tía evoca el último viaje que h...</summary>
-    <link href="../book_1/book_1582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La mensajera de París</title>
-    <id>calibre:book:238</id>
-    <updated>2023-02-02T00:04:18Z</updated>
-    <link href="../../Meg%20Waite%20Clayton/La%20mensajera%20de%20Paris%20%28238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Meg%20Waite%20Clayton/La%20mensajera%20de%20Paris%20%28238%29/La%20mensajera%20de%20Paris%20-%20Meg%20Waite%20Clayton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Meg Waite Clayton</name>
-      <uri>../authors_0/authors_164_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Harlequin, una división de HarperCollins Ibérica, S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La autora de El último tren a la libertad, best seller de The New York Times, visita de nuevo los oscuros primeros días de la ocupación alemana en Francia en esta evocadora novela que gira en torno a una joven heredera norteamericana que ayuda a arti...</summary>
-    <link href="../book_0/book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 10)" />
   <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

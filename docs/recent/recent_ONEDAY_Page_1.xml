@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Feb 14, 2025</title>
+  <title>Mar 3, 2025</title>
   <id>Calibre2opds:recent:ONEDAY</id>
   <author>
     <name>David Pierron</name>
@@ -8,234 +8,266 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Feb 14, 2025" />
+  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mar 3, 2025" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
-    <title>Bóvedas de acero (Traducción de Luis G. Prado) [February 14, 2025]</title>
-    <id>calibre:book:3059</id>
-    <updated>2025-02-14T00:03:59Z</updated>
-    <link href="../../Isaac%20Asimov/Bovedas%20de%20acero%20%28Traduccion%20de%20Lui%20%283059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Bovedas%20de%20acero%20%28Traduccion%20de%20Lui%20%283059%29/Bovedas%20de%20acero%20%28Traduccion%20de%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
+    <title>Las 48 reglas de la disciplina [March 3, 2025]</title>
+    <id>calibre:book:3122</id>
+    <updated>2025-03-03T04:06:06Z</updated>
+    <link href="../../Joan%20Gallardo/Las%2048%20reglas%20de%20la%20disciplina%20%283122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joan%20Gallardo/Las%2048%20reglas%20de%20la%20disciplina%20%283122%29/Las%2048%20reglas%20de%20la%20disciplina%20-%20Joan%20Gallardo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="472 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Joan Gallardo</name>
+      <uri>../authors_1/authors_1970_Page_1.xml</uri>
     </author>
-    <published>1953-12-31T11:00:00Z</published>
+    <published>2025-01-09T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>En el Enclave Espacial, a las afueras de la Ciudad de Nueva York, un científico de los Mundos Exteriores ha aparecido asesinado. El detective Elijah Baley tiene que ocuparse de este caso en la para él inquietante y odiosa compañía de un robot humanoi...</summary>
-    <link href="../book_3/book_3059.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Descubre las 48 reglas de la disciplina y aplícalas en tu día a día para alcanzar tu mejor vida.Del autor de Nunca renuncies a ser feliz. Derriba los 6 obstáculos hacia la felicidad.¿Cómo mejoraría tu vida si fueras más disciplinado? ¿Te lo puedes im...</summary>
+    <link href="../book_3/book_3122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El libro de los sucesos [February 14, 2025]</title>
-    <id>calibre:book:3060</id>
-    <updated>2025-02-14T00:03:59Z</updated>
-    <link href="../../Isaac%20Asimov/El%20libro%20de%20los%20sucesos%20%283060%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20libro%20de%20los%20sucesos%20%283060%29/El%20libro%20de%20los%20sucesos%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
+    <title>Voluntad de vivir [March 3, 2025]</title>
+    <id>calibre:book:3121</id>
+    <updated>2025-03-03T04:06:06Z</updated>
+    <link href="../../Rachel%20Amphlett/Voluntad%20de%20vivir%20%283121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rachel%20Amphlett/Voluntad%20de%20vivir%20%283121%29/Voluntad%20de%20vivir%20-%20Rachel%20Amphlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1978-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Lang:es" />
-    <summary>«Siempre me han embriagado ligeramente los hechos, y casi todos mis más de 200 libros han tratado, cuando menos de modo incidental, sobre ellos. Ahora he recopilado y editado este libro que se refiere únicamente a sucesos: una compilación especial pa...</summary>
-    <link href="../book_3/book_3060.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Luces en el cielo [February 14, 2025]</title>
-    <id>calibre:book:3058</id>
-    <updated>2025-02-14T00:03:59Z</updated>
-    <link href="../../Isaac%20Asimov/Luces%20en%20el%20cielo%20%283058%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Luces%20en%20el%20cielo%20%283058%29/Luces%20en%20el%20cielo%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="378 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1977-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ensayo" />
-    <category term="Ciencias naturales" />
-    <category term="Ciencias sociales" />
-    <category term="Lang:es" />
-    <summary>Diecisiete ensayos en los cuales el sorprendente Isaac Asimov hace una vez más revelaciones insospechadas. Aquí encontramos explicaciones acerca de las Edades del Hielo (y anuncios en cuanto a la proximidad de la que reinará en el mundo); teorías ace...</summary>
-    <link href="../book_3/book_3058.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Guía de la Tierra y el espacio [February 14, 2025]</title>
-    <id>calibre:book:3057</id>
-    <updated>2025-02-14T00:03:59Z</updated>
-    <link href="../../Isaac%20Asimov/Guia%20de%20la%20Tierra%20y%20el%20espacio%20%283057%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Guia%20de%20la%20Tierra%20y%20el%20espacio%20%283057%29/Guia%20de%20la%20Tierra%20y%20el%20espacio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1990-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Lang:es" />
-    <summary>¿Cuál es la edad del Universo? ¿Hay vida más allá del sistema solar? ¿De qué están hechos los planetas? ¿Qué es la luz del sol? ¿Qué es un asteroide? ¿Qué son las nebulosas? ¿Qué es el efecto Doppler? ¿Existe un centro del Universo? ¿Qué es un cometa...</summary>
-    <link href="../book_3/book_3057.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El otro [February 14, 2025]</title>
-    <id>calibre:book:3055</id>
-    <updated>2025-02-14T11:54:42Z</updated>
-    <link href="../../Ali%20Blood/El%20otro%20%283055%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ali%20Blood/El%20otro%20%283055%29/El%20otro%20-%20Ali%20Blood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
-    <author>
-      <name>Ali Blood</name>
-      <uri>../authors_1/authors_1928_Page_1.xml</uri>
-    </author>
-    <published>2025-01-28T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>ELLA HA SEGUIDO ADELANTE. Tres años después del asesinato de su prometido, Gemma Morgan, por fin, está empezando a seguir adelante con su vida. ÉL YA NO ESTÁ. Pero justo cuando cree que todo ha vuelto a la normalidad, se da cuenta de que el nuevo hom...</summary>
-    <link href="../book_3/book_3055.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Asesinato con diamantes [February 14, 2025]</title>
-    <id>calibre:book:3051</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Lauren%20Munoz/Asesinato%20con%20diamantes%20%283051%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lauren%20Munoz/Asesinato%20con%20diamantes%20%283051%29/Asesinato%20con%20diamantes%20-%20Lauren%20Munoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="862 KB" />
-    <author>
-      <name>Lauren Muñoz</name>
-      <uri>../authors_1/authors_1925_Page_1.xml</uri>
-    </author>
-    <published>2024-11-13T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fandom Books</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Todos guardan un secreto. Todos tienen un motivo. Pero sólo uno ha traído un cuchillo a la fiesta... Para celebrar su graduación, Izzy Morales se une a su mejor amiga Kassidy y a cinco amigos en una elegante escapada ambientada en los años veinte en ...</summary>
-    <link href="../book_3/book_3051.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Blanca navidad y café negro [February 14, 2025]</title>
-    <id>calibre:book:3048</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Cleo%20Coyle/Blanca%20navidad%20y%20cafe%20negro%20%283048%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cleo%20Coyle/Blanca%20navidad%20y%20cafe%20negro%20%283048%29/Blanca%20navidad%20y%20cafe%20negro%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Cleo Coyle</name>
-      <uri>../authors_1/authors_1800_Page_1.xml</uri>
-    </author>
-    <published>2024-09-04T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Lang:es" />
-    <summary>Se acercan las fiestas y Clare Cosi explora nuevas maneras de traer alegría y clientes a su cafetería de Greenwich Village. Pero todo su espíritu navideño se esfuma por completo cuando encuentra a Papá Noel muerto en la nieve. Ni en estas fechas seña...</summary>
-    <link href="../book_3/book_3048.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La chica de la limpieza [February 14, 2025]</title>
-    <id>calibre:book:3049</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/La%20chica%20de%20la%20limpieza%20-%20Loreth%20Anne%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
-    <author>
-      <name>Loreth Anne White</name>
-      <uri>../authors_1/authors_1923_Page_1.xml</uri>
+      <name>Rachel Amphlett</name>
+      <uri>../authors_1/authors_1969_Page_1.xml</uri>
     </author>
     <published>0101-01-01T00:00:00Z</published>
-    <link href="../book_3/book_3049.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Saxon Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Los misterios de la detective Kay Hunter" />
+    <summary>Los misterios de la detective Kay Hunter [2]: Tu próximo viaje podría ser el último...Cuando un tren lleno de pasajeros atropella un cuerpo en un tramo de vías conocido por los lugareños como "la milla del suicidio", pronto se revela que el hombre fu...</summary>
+    <link href="../book_3/book_3121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las hijas del volcán [February 14, 2025]</title>
-    <id>calibre:book:3053</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/Las%20hijas%20del%20volcan%20-%20Gina%20Maria%20Balibrera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Ay el amor el amor [March 3, 2025]</title>
+    <id>calibre:book:3114</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Antonio%20Manzini/Ay%20el%20amor%20el%20amor%20%283114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Manzini/Ay%20el%20amor%20el%20amor%20%283114%29/Ay%20el%20amor%20el%20amor%20-%20Antonio%20Manzini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="304 KB" />
     <author>
-      <name>Gina María Balibrera</name>
-      <uri>../authors_1/authors_1927_Page_1.xml</uri>
+      <name>Antonio Manzini</name>
+      <uri>../authors_0/authors_760_Page_1.xml</uri>
     </author>
-    <published>2024-10-02T01:04:11Z</published>
+    <published>2025-02-05T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>CADA MITO, CADA HISTORIA, TIENE AL MENOS DOS VERSIONES... DEPENDIENDO DE QUIÉN CUENTA LA HISTORIA Y DE QUIÉN LA ESCUCHA. Una original y arrolladora novela sobre dos hermanas que escapan de un genocidio, y el viaje que las lleva de Hollywood a París, ...</summary>
-    <link href="../book_3/book_3053.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Subjefe Rocco Schiavone" />
+    <summary>Subjefe Rocco Schiavone [9]: Rocco Schiavone, un subjefe de policía atractivo e irreductible como nunca «Un nuevo caso de Rocco Schiavone, uno de los personajes más simpáticos y canallas del noir italiano.» Il Matino Mientras la lluvia no deja de cae...</summary>
+    <link href="../book_3/book_3114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La lavandería de almas de Marigold [February 14, 2025]</title>
-    <id>calibre:book:3052</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Yoon%20Jeong-Eun/La%20lavanderia%20de%20almas%20de%20Marigold%20%283052%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yoon%20Jeong-Eun/La%20lavanderia%20de%20almas%20de%20Marigold%20%283052%29/La%20lavanderia%20de%20almas%20de%20Marig%20-%20Yoon%20Jeong-Eun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
+    <title>El Ataque De Las Cabras [March 3, 2025]</title>
+    <id>calibre:book:3117</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Laura%20Chivite/El%20Ataque%20De%20Las%20Cabras%20%283117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laura%20Chivite/El%20Ataque%20De%20Las%20Cabras%20%283117%29/El%20Ataque%20De%20Las%20Cabras%20-%20Laura%20Chivite.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
     <author>
-      <name>Yoon Jeong-Eun</name>
-      <uri>../authors_1/authors_1926_Page_1.xml</uri>
+      <name>Laura Chivite</name>
+      <uri>../authors_1/authors_1965_Page_1.xml</uri>
     </author>
-    <published>2025-01-27T11:00:00Z</published>
+    <published>2025-02-19T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
+    <dcterms:publisher>Random House</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Te damos la bienvenida a Marigold Mind Laundry, donde lavamos las manchas de tu corazón. En esta encantadora historia, que ha sido todo un éxito de ventas en Corea, la enigmática dueña de una lavandería mágica que borra los recuerdos dolorosos de las...</summary>
-    <link href="../book_3/book_3052.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>EL REGRESO DE UNA DE LAS AUTORAS DE IMAGINACIÓN MÁS DESBORDANTE PREMIO OJO CRÍTICO DE NARRATIVA 2022 POR *GENTE QUE RÍE * Tras una década sin saber nada de ella, la narradora de esta novela sorprende a Tía Lidia sentada en una cafetería de Madrid. Es...</summary>
+    <link href="../book_3/book_3117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Pregunta por Andrea [February 14, 2025]</title>
-    <id>calibre:book:3050</id>
-    <updated>2025-02-14T11:54:31Z</updated>
-    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/Pregunta%20por%20Andrea%20-%20Noelle%20W.%20Ihli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
+    <title>Los lobos del bosque de la eternidad [March 3, 2025]</title>
+    <id>calibre:book:3118</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Karl%20Ove%20Knausgard/Los%20lobos%20del%20bosque%20de%20la%20eternida%20%283118%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karl%20Ove%20Knausgard/Los%20lobos%20del%20bosque%20de%20la%20eternida%20%283118%29/Los%20lobos%20del%20bosque%20de%20la%20eter%20-%20Karl%20Ove%20Knausgard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="666 KB" />
     <author>
-      <name>Noelle W. Ihli</name>
-      <uri>../authors_1/authors_1924_Page_1.xml</uri>
+      <name>Karl Ove Knausgård</name>
+      <uri>../authors_1/authors_1966_Page_1.xml</uri>
     </author>
-    <published>2025-01-26T11:00:00Z</published>
+    <published>2025-01-16T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Un seductor letal. Tres víctimas. Una venganza que desafiará los límites de la muerte.Brecia, Skye y Meghan no se conocen y no tienen nada en común, hasta que las tres mueren a manos del mismo asesino en serie.El hombre busca a sus víctimas en intern...</summary>
-    <link href="../book_3/book_3050.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una obra vasta y atrevida sobre los secretos de familia y los misterios del universo.Es 1986, ha habido una explosión en la central de Chernóbil, y Syvert Løyning, de diecinueve años, acaba de volver del servicio militar. En casa, en el norte de Noru...</summary>
+    <link href="../book_3/book_3118.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La ganadora [February 14, 2025]</title>
-    <id>calibre:book:3046</id>
-    <updated>2025-02-14T11:54:30Z</updated>
-    <link href="../../C.J.%20Parsons/La%20ganadora%20%283046%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../C.J.%20Parsons/La%20ganadora%20%283046%29/La%20ganadora%20-%20C.J.%20Parsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="501 KB" />
+    <title>No juegues con ellas [March 3, 2025]</title>
+    <id>calibre:book:3119</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Johanna%20Copeland/No%20juegues%20con%20ellas%20%283119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Johanna%20Copeland/No%20juegues%20con%20ellas%20%283119%29/No%20juegues%20con%20ellas%20-%20Johanna%20Copeland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>C.J. Parsons</name>
-      <uri>../authors_1/authors_1921_Page_1.xml</uri>
+      <name>Johanna Copeland</name>
+      <uri>../authors_1/authors_1967_Page_1.xml</uri>
     </author>
-    <published>2024-12-16T04:08:27Z</published>
+    <published>2025-02-19T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Heather pensaba que la vida le había pasado de largo hasta que le tocó participar en la lujosa lotería de la Triple F, donde la fama, la fortuna y los fans aguardan a doce afortunados ganadores.Las normas son sencillas: vive con el estilo de vida de ...</summary>
-    <link href="../book_3/book_3046.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Todos tenemos secretos. Si cuentas la misma historia una y otra vez al final se convertirá en la verdad. «Un thriller deslumbrante sobre los extremos a los que se puede llegar para proteger a los seres queridos». Publishers Weekly 2019. Stella Parker...</summary>
+    <link href="../book_3/book_3119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Golondrinas en agosto [February 14, 2025]</title>
-    <id>calibre:book:3047</id>
-    <updated>2025-02-14T11:54:30Z</updated>
-    <link href="../../Clara%20Fuertes/Golondrinas%20en%20agosto%20%283047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Clara%20Fuertes/Golondrinas%20en%20agosto%20%283047%29/Golondrinas%20en%20agosto%20-%20Clara%20Fuertes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
+    <title>El principio de incertidumbre [March 3, 2025]</title>
+    <id>calibre:book:3120</id>
+    <updated>2025-03-03T04:06:06Z</updated>
+    <link href="../../Sonia%20Guillen/El%20principio%20de%20incertidumbre%20%283120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sonia%20Guillen/El%20principio%20de%20incertidumbre%20%283120%29/El%20principio%20de%20incertidumbre%20-%20Sonia%20Guillen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="513 KB" />
     <author>
-      <name>Clara Fuertes</name>
-      <uri>../authors_1/authors_1922_Page_1.xml</uri>
+      <name>Sònia Guillén</name>
+      <uri>../authors_1/authors_1968_Page_1.xml</uri>
     </author>
-    <published>2024-12-17T00:00:00Z</published>
+    <published>2025-02-12T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>¿Cuánto tiempo hace falta para comenzar a contar una historia?Respiraré hondo, contaré hasta diez. Dejadme un momento cerrar los ojos, que pase el tiempo sin hacer nada, sin mirar de frente a la hoja en blanco. Parece un delito desafiarla. ¡Cuánta pa...</summary>
-    <link href="../book_3/book_3047.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un asesino en serie obsesionado con la física cuántica secuestra y mantiene prisioneras a personas que viven en "superposición", es decir, que llevan dos vidas al mismo tiempo. Tras la desaparición de una pintora desconocida que oculta la identidad d...</summary>
+    <link href="../book_3/book_3120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una mujer educada [March 3, 2025]</title>
+    <id>calibre:book:3115</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Jose%20Carlos%20Ruiz/Una%20mujer%20educada%20%283115%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Carlos%20Ruiz/Una%20mujer%20educada%20%283115%29/Una%20mujer%20educada%20-%20Jose%20Carlos%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
+    <author>
+      <name>José Carlos Ruiz</name>
+      <uri>../authors_0/authors_448_Page_1.xml</uri>
+    </author>
+    <published>2025-02-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <summary>¿Qué sucede cuando una brillante filósofa convierte su biografía en una obra maestra? Por el autor de El arte de pensar, Filosofía ante el desánimo e Incompletos Más de 100.000 lectores Tras una vida de esfuerzo y tenacidad, Eva, a sus cuarenta y tre...</summary>
+    <link href="../book_3/book_3115.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Visiones [March 3, 2025]</title>
+    <id>calibre:book:3116</id>
+    <updated>2025-03-03T04:06:05Z</updated>
+    <link href="../../Nora%20Roberts/Visiones%20%283116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nora%20Roberts/Visiones%20%283116%29/Visiones%20-%20Nora%20Roberts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="501 KB" />
+    <author>
+      <name>Nora Roberts</name>
+      <uri>../authors_1/authors_1964_Page_1.xml</uri>
+    </author>
+    <published>2025-02-27T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El don que hizo posible encerrar al asesino de sus padres es una maldición para Thea. Tragedia, trauma, amor y familia en el nuevo suspense de Nora Roberts.Thea Fox tiene la vida que siempre quiso. Se ha convertido en una reconocida diseñadora de vid...</summary>
+    <link href="../book_3/book_3116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Guerra nuclear [March 3, 2025]</title>
+    <id>calibre:book:3112</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Annie%20Jacobsen/Guerra%20nuclear%20%283112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Annie%20Jacobsen/Guerra%20nuclear%20%283112%29/Guerra%20nuclear%20-%20Annie%20Jacobsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
+    <author>
+      <name>Annie Jacobsen</name>
+      <uri>../authors_1/authors_1962_Page_1.xml</uri>
+    </author>
+    <published>2025-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Qué ocurriría si un misil nuclear se dirigiera a Estados Unidos?«Un thriller geopolítico desde muchas perspectivas y con un cronómetro que te cortará la respiración».ForbesSolo hay un escenario, aparte del impacto de un asteroide, capaz de acabar co...</summary>
+    <link href="../book_3/book_3112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No te comas el coco [March 3, 2025]</title>
+    <id>calibre:book:3108</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Julia%20Pascual/No%20te%20comas%20el%20coco%20%283108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Pascual/No%20te%20comas%20el%20coco%20%283108%29/No%20te%20comas%20el%20coco%20-%20Julia%20Pascual.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Júlia Pascual</name>
+      <uri>../authors_1/authors_1958_Page_1.xml</uri>
+    </author>
+    <published>2024-11-22T11:29:04Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PENSAR ES INEVITABLE, PERO COMERSE EL COCO ES OPCIONAL.«Una guía para recuperar la serenidad mental».20 Minutos«El título del libro lo dice todo. Y actúa a modo de consejo». Mujerhoy¿Te has sentido alguna vez enredado en un bucle de pensamientos que ...</summary>
+    <link href="../book_3/book_3108.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Shanghailanders [March 3, 2025]</title>
+    <id>calibre:book:3111</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Juli%20Min/Shanghailanders%20%283111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juli%20Min/Shanghailanders%20%283111%29/Shanghailanders%20-%20Juli%20Min.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="294 KB" />
+    <author>
+      <name>Juli Min</name>
+      <uri>../authors_1/authors_1961_Page_1.xml</uri>
+    </author>
+    <published>2024-05-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AdN Editorial Grupo Anaya</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una ópera prima deslumbrante y ambiciosa que sigue los pasos de una cosmopolita familia shanghainesa en orden cronológico inverso (desde 2040 hasta el presente) para explorar sus secretos, sus infortunios y las maneras en que las familias se forman y...</summary>
+    <link href="../book_3/book_3111.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tela de sevoya [March 3, 2025]</title>
+    <id>calibre:book:3110</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Myriam%20Moscona/Tela%20de%20sevoya%20%283110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Myriam%20Moscona/Tela%20de%20sevoya%20%283110%29/Tela%20de%20sevoya%20-%20Myriam%20Moscona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Myriam Moscona</name>
+      <uri>../authors_1/authors_1960_Page_1.xml</uri>
+    </author>
+    <published>2025-01-10T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una entrañable celebración de la familia y del papel de la memoria en el desarrollo individual.La protagonista viaja a Bulgaria en busca de los últimos hablantes del ladino, la lengua con ecos de Cervantes que nació a finales del siglo XV tras la exp...</summary>
+    <link href="../book_3/book_3110.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un puente sobre el tiempo [March 3, 2025]</title>
+    <id>calibre:book:3113</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Kaliane%20Bradley/Un%20puente%20sobre%20el%20tiempo%20%283113%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kaliane%20Bradley/Un%20puente%20sobre%20el%20tiempo%20%283113%29/Un%20puente%20sobre%20el%20tiempo%20-%20Kaliane%20Bradley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Kaliane Bradley</name>
+      <uri>../authors_1/authors_1963_Page_1.xml</uri>
+    </author>
+    <published>2024-05-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una comedia romántica combinada con viajes en el tiempo, un thriller de espías y una ingeniosa exploración de la naturaleza del poder y el potencial del amor para cambiarlo todo: ¡Bienvenidos a Un puente sobre el tiempo, la estimulante primera novela...</summary>
+    <link href="../book_3/book_3113.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Yo soy el otoño [March 3, 2025]</title>
+    <id>calibre:book:3109</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Jorge%20Alberto%20Gudino%20Hernandez/Yo%20soy%20el%20otono%20%283109%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Alberto%20Gudino%20Hernandez/Yo%20soy%20el%20otono%20%283109%29/Yo%20soy%20el%20otono%20-%20Jorge%20Alberto%20Gudino%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Jorge Alberto Gudiño Hernández</name>
+      <uri>../authors_1/authors_1959_Page_1.xml</uri>
+    </author>
+    <published>2025-02-18T07:12:52Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«En un momento dado, esa tarde,cuando me madreé a Chris, tú decidisteque yo no valía la pena y me entregastea Tito. Me salvaste de un cabrón yme dejaste conotro.»Cuando llega el momento de enfrentar el destino, la vida puede definirse con una sola pa...</summary>
+    <link href="../book_3/book_3109.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

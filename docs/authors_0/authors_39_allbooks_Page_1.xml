@@ -15,6 +15,7 @@
   <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="./authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Almudena Grandes" />
   <entry>
     <title>Los besos en el pan</title>
@@ -52,6 +53,23 @@
     <category term="La sonrisa vertical" />
     <summary>La sonrisa vertical [61]: Una historia de amor y de sexo que no se resigna a dejar de serlo. Sumida todavía en los temores de una infancia carente de afecto, Lulú, una niña de 15 años, sucumbe a la atracción que ejerce sobre ella un joven, amigo de l...</summary>
     <link href="../book_0/book_990.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Escalera interior</title>
+    <id>calibre:book:3077</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/Escalera%20interior%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2025-01-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro que faltaba de Almudena Grandes. Las historias y las escenas cotidianas que resumen el mundo de una escritora irrepetible.Escalera interior es el murmullo de los patios de luces que recogen olores de guisos, ruidos de cacharros y cucharones,...</summary>
+    <link href="../book_3/book_3077.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Los pacientes del doctor García: Episodios de una Guerra Interminable (Spanish Edition)</title>

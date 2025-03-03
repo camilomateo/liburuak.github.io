@@ -14,6 +14,80 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <entry>
+    <title>Los propios dioses</title>
+    <id>calibre:book:3042</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/Los%20propios%20dioses%20%283042%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Los%20propios%20dioses%20%283042%29/Los%20propios%20dioses%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1971-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Solaris ficción" />
+    <summary>Solaris ficción [65]: El futuro. En un universo paralelo, con leyes físicas ligeramente distintas a las nuestras, sus habitantes descubren la forma de intercambiar materia con nosotros. Materia que, una vez en el universo de destino, y merced a las d...</summary>
+    <link href="../book_3/book_3042.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La prueba del cielo</title>
+    <id>calibre:book:1182</id>
+    <updated>2024-02-01T09:56:45Z</updated>
+    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eben%20Alexander/La%20prueba%20del%20cielo%20%281182%29/La%20prueba%20del%20cielo%20-%20Eben%20Alexander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
+    <author>
+      <name>Eben Alexander</name>
+      <uri>../authors_0/authors_861_Page_1.xml</uri>
+    </author>
+    <published>2013-05-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenith</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La prueba del cielo, escrito por el doctor Eben Alexander, es un libro de autoayuda que ha revolucionado el eterno conflicto entre ciencia y fe, el viaje de un neurocirujano a la vida después de la muerte, una historia real que nos ayudará a comprend...</summary>
+    <link href="../book_1/book_1182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una prueba del destino</title>
+    <id>calibre:book:942</id>
+    <updated>2023-07-14T09:48:36Z</updated>
+    <link href="../../Melanie%20Metzenthin/Una%20prueba%20del%20destino%20%28942%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Melanie%20Metzenthin/Una%20prueba%20del%20destino%20%28942%29/Una%20prueba%20del%20destino%20-%20Melanie%20Metzenthin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="531 KB" />
+    <author>
+      <name>Melanie Metzenthin</name>
+      <uri>../authors_0/authors_706_Page_1.xml</uri>
+    </author>
+    <published>2023-07-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La enfermera del puerto" />
+    <summary>La enfermera del puerto [2]: Hamburgo, 1913. La enfermera Martha tiene tres hijos maravillosos junto a su gran amor, Paul, un bonito apartamento e incluso una invitación a Estados Unidos para visitar a su amiga Milli. Pero el estallido de la Primera ...</summary>
+    <link href="../book_0/book_942.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El príncipe</title>
+    <id>calibre:book:2262</id>
+    <updated>2024-09-09T10:33:55Z</updated>
+    <link href="../../Nicolas%20Maquiavelo/El%20principe%20%282262%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Maquiavelo/El%20principe%20%282262%29/El%20principe%20-%20Nicolas%20Maquiavelo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="134 KB" />
+    <author>
+      <name>Nicolás Maquiavelo</name>
+      <uri>../authors_1/authors_1587_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [22]:</summary>
+    <link href="../book_2/book_2262.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La psicóloga</title>
     <id>calibre:book:1449</id>
     <updated>2024-04-20T05:25:38Z</updated>

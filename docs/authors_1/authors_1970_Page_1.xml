@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joan Gallardo</title>
+  <id>Calibre2opds:authors:1970</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1970_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joan Gallardo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>Las 48 reglas de la disciplina</title>
+    <id>calibre:book:3122</id>
+    <updated>2025-03-03T04:06:06Z</updated>
+    <link href="../../Joan%20Gallardo/Las%2048%20reglas%20de%20la%20disciplina%20%283122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joan%20Gallardo/Las%2048%20reglas%20de%20la%20disciplina%20%283122%29/Las%2048%20reglas%20de%20la%20disciplina%20-%20Joan%20Gallardo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="472 KB" />
+    <author>
+      <name>Joan Gallardo</name>
+      <uri>../authors_1/authors_1970_Page_1.xml</uri>
+    </author>
+    <published>2025-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Descubre las 48 reglas de la disciplina y aplícalas en tu día a día para alcanzar tu mejor vida.Del autor de Nunca renuncies a ser feliz. Derriba los 6 obstáculos hacia la felicidad.¿Cómo mejoraría tu vida si fueras más disciplinado? ¿Te lo puedes im...</summary>
+    <link href="../book_3/book_3122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Júlia Pascual</title>
+  <id>Calibre2opds:authors:1958</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1958_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Júlia Pascual" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <entry>
+    <title>No te comas el coco</title>
+    <id>calibre:book:3108</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Julia%20Pascual/No%20te%20comas%20el%20coco%20%283108%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Pascual/No%20te%20comas%20el%20coco%20%283108%29/No%20te%20comas%20el%20coco%20-%20Julia%20Pascual.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Júlia Pascual</name>
+      <uri>../authors_1/authors_1958_Page_1.xml</uri>
+    </author>
+    <published>2024-11-22T11:29:04Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PENSAR ES INEVITABLE, PERO COMERSE EL COCO ES OPCIONAL.«Una guía para recuperar la serenidad mental».20 Minutos«El título del libro lo dice todo. Y actúa a modo de consejo». Mujerhoy¿Te has sentido alguna vez enredado en un bucle de pensamientos que ...</summary>
+    <link href="../book_3/book_3108.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

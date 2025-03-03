@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sara Codina</title>
+  <id>Calibre2opds:authors:1943</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1943_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sara Codina" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>Lucía y el infinito</title>
+    <id>calibre:book:3079</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Sara%20Codina/Lucia%20y%20el%20infinito%20%283079%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Codina/Lucia%20y%20el%20infinito%20%283079%29/Lucia%20y%20el%20infinito%20-%20Sara%20Codina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
+    <author>
+      <name>Sara Codina</name>
+      <uri>../authors_1/authors_1943_Page_1.xml</uri>
+    </author>
+    <published>2025-01-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lunwerg Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras el éxito de Neurodivina y punto, Sara Codina da el salto a la ficción con una novela lúcida, entrañable y divertida sobre el día a día de una mujer autista con diagnóstico tardío.Lucía está harta de aguantar a su compañero de trabajo trepa. De v...</summary>
+    <link href="../book_3/book_3079.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Myriam Moscona</title>
+  <id>Calibre2opds:authors:1960</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1960_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Myriam Moscona" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../authorlist/authorlist_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Tela de sevoya</title>
+    <id>calibre:book:3110</id>
+    <updated>2025-03-03T04:06:04Z</updated>
+    <link href="../../Myriam%20Moscona/Tela%20de%20sevoya%20%283110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Myriam%20Moscona/Tela%20de%20sevoya%20%283110%29/Tela%20de%20sevoya%20-%20Myriam%20Moscona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Myriam Moscona</name>
+      <uri>../authors_1/authors_1960_Page_1.xml</uri>
+    </author>
+    <published>2025-01-10T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una entrañable celebración de la familia y del papel de la memoria en el desarrollo individual.La protagonista viaja a Bulgaria en busca de los últimos hablantes del ladino, la lengua con ecos de Cervantes que nació a finales del siglo XV tras la exp...</summary>
+    <link href="../book_3/book_3110.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

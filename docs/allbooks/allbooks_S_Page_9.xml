@@ -14,6 +14,39 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
   <entry>
+    <title>El sí de las niñas</title>
+    <id>calibre:book:2217</id>
+    <updated>2024-09-06T02:21:36Z</updated>
+    <link href="../../Leandro%20Fernandez%20de%20Moratin/El%20si%20de%20las%20ninas%20%282217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leandro%20Fernandez%20de%20Moratin/El%20si%20de%20las%20ninas%20%282217%29/El%20si%20de%20las%20ninas%20-%20Leandro%20Fernandez%20de%20Moratin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="143 KB" />
+    <author>
+      <name>Leandro Fernández de Moratín</name>
+      <uri>../authors_1/authors_1565_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El síndrome Woody Allen</title>
+    <id>calibre:book:920</id>
+    <updated>2023-07-04T02:12:08Z</updated>
+    <link href="../../Edu%20Galan/El%20sindrome%20Woody%20Allen%20%28920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edu%20Galan/El%20sindrome%20Woody%20Allen%20%28920%29/El%20sindrome%20Woody%20Allen%20-%20Edu%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="631 KB" />
+    <author>
+      <name>Edu Galán</name>
+      <uri>../authors_0/authors_690_Page_1.xml</uri>
+    </author>
+    <published>2020-09-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Por qué, después de más de veinte años con el caso cerrado, el debate sobre la monstruosidad de Woody Allen se ha recrudecido?En 2017 Woody Allen fue declarado culpable por una parte de la opinión pública. Con el auge del movimiento Me Too, el testi...</summary>
+    <link href="../book_0/book_920.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El síndrome de La Moncloa</title>
     <id>calibre:book:243</id>
     <updated>2023-02-02T08:58:30Z</updated>

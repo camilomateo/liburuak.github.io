@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los misterios de la detective Kay Hunter</title>
+  <id>Calibre2opds::serieslist:Lseries:268</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_268_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Los misterios de la detective Kay Hunter" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with L" />
+  <entry>
+    <title>2 - Voluntad de vivir</title>
+    <id>calibre:book:3121</id>
+    <updated>2025-03-03T04:06:06Z</updated>
+    <link href="../../Rachel%20Amphlett/Voluntad%20de%20vivir%20%283121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rachel%20Amphlett/Voluntad%20de%20vivir%20%283121%29/Voluntad%20de%20vivir%20-%20Rachel%20Amphlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+    <author>
+      <name>Rachel Amphlett</name>
+      <uri>../authors_1/authors_1969_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Saxon Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Los misterios de la detective Kay Hunter" />
+    <summary>Los misterios de la detective Kay Hunter [2]: Tu próximo viaje podría ser el último...Cuando un tren lleno de pasajeros atropella un cuerpo en un tramo de vías conocido por los lugareños como "la milla del suicidio", pronto se revela que el hombre fu...</summary>
+    <link href="../book_3/book_3121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ildefonso Falcones</title>
+  <id>Calibre2opds:authors:1942</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_1942_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ildefonso Falcones" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <entry>
+    <title>En el amor y en la guerra</title>
+    <id>calibre:book:3078</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Ildefonso%20Falcones/En%20el%20amor%20y%20en%20la%20guerra%20%283078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ildefonso%20Falcones/En%20el%20amor%20y%20en%20la%20guerra%20%283078%29/En%20el%20amor%20y%20en%20la%20guerra%20-%20Ildefonso%20Falcones.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
+    <author>
+      <name>Ildefonso Falcones</name>
+      <uri>../authors_1/authors_1942_Page_1.xml</uri>
+    </author>
+    <published>2024-02-18T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vuelve Ildefonso Falcones con su novela más esperada.Vuelve la emoción de la mejor literatura.Vuelve la saga de La catedral del mar.11 millones de ejemplares vendidos.Veinte años después del arrollador éxito de La catedral del mar, Ildefonso Falcones...</summary>
+    <link href="../book_3/book_3078.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

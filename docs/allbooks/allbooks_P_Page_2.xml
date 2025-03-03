@@ -15,6 +15,23 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 9)" />
   <entry>
+    <title>País sin techo</title>
+    <id>calibre:book:1248</id>
+    <updated>2024-02-23T09:41:59Z</updated>
+    <link href="../../Carla%20Escoffie/Pais%20sin%20techo%20%281248%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carla%20Escoffie/Pais%20sin%20techo%20%281248%29/Pais%20sin%20techo%20-%20Carla%20Escoffie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
+    <author>
+      <name>Carla Escoffie</name>
+      <uri>../authors_0/authors_910_Page_1.xml</uri>
+    </author>
+    <published>2023-03-31T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«LA NECESARIA TRANSFORMACIÓN DE LO APARENTEMENTE INDIVIDUAL EN COLECTIVO Y POLÍTICO ES LA BASE DE ESTE LIBRO, LA IMPORTANCIA DE EXPLICAR Y DEMOSTRAR LOS CONTINUOS INCUMPLIMIENTOS DE LEYES Y NORMAS QUE DEFIENDEN EL DERECHO A LA VIVIENDA.» -zaida muxí ...</summary>
+    <link href="../book_1/book_1248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Pecador. Ruega por nosotros pecadores</title>
     <id>calibre:book:2835</id>
     <updated>2025-01-26T11:50:53Z</updated>
@@ -465,22 +482,6 @@ Antoñito, el nieto de don Ma...</summary>
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [250]:</summary>
     <link href="../book_2/book_2420.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Pierre; or The Ambiguities</title>
-    <id>calibre:book:2483</id>
-    <updated>2024-09-09T10:34:40Z</updated>
-    <link href="../../Herman%20Melville/Pierre%3B%20or%20The%20Ambiguities%20%282483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Pierre%3B%20or%20The%20Ambiguities%20%282483%29/Pierre%3B%20or%20The%20Ambiguities%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
-    <author>
-      <name>Herman Melville</name>
-      <uri>../authors_1/authors_1463_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:en" />
-    <link href="../book_2/book_2483.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 9)" />
   <link href="../allbooks/allbooks_P_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Departamento Q</title>
+  <id>Calibre2opds::serieslist:Dseries:266</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Departamento Q" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with D" />
+  <entry>
+    <title>10 - Siete metros cuadrados</title>
+    <id>calibre:book:3099</id>
+    <updated>2025-02-25T08:50:25Z</updated>
+    <link href="../../Jussi%20Adler-Olsen/Siete%20metros%20cuadrados%20%283099%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jussi%20Adler-Olsen/Siete%20metros%20cuadrados%20%283099%29/Siete%20metros%20cuadrados%20-%20Jussi%20Adler-Olsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="581 KB" />
+    <author>
+      <name>Jussi Adler-Olsen</name>
+      <uri>../authors_1/authors_1193_Page_1.xml</uri>
+    </author>
+    <published>2025-02-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones MAEVA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Departamento Q" />
+    <summary>Departamento Q [10]: El desenlace de la serie, el mejor Jussi Adler-OlsenEl inspector Carl Mørck está en la cárcel. Después de quince años, un caso nunca resuelto del pasado lo ha alcanzado de lleno, y los cargos de tráfico de drogas y asesinato amen...</summary>
+    <link href="../book_3/book_3099.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 4)" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
     <title>José Emilio Pacheco</title>
     <id>Calibre2opds:authors:1780</id>
@@ -126,6 +126,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Júlia Pascual</title>
+    <id>Calibre2opds:authors:1958</id>
+    <content type="text">No te comas el coco</content>
+    <link href="../authors_1/authors_1958_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>John Dos Passos</title>
     <id>Calibre2opds:authors:1616</id>
     <content type="text">Manhattan Transfer</content>
@@ -205,13 +213,5 @@
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
-  <entry>
-    <title>Paul Pen</title>
-    <id>Calibre2opds:authors:944</id>
-    <content type="text">El brillo de las luciérnagas</content>
-    <link href="../authors_0/authors_944_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
+  <link href="../authorlist/authorlist_P_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>
